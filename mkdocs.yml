@@ -20,18 +20,9 @@ theme:
     - content.code.copy
     - search.suggest
   palette:
-    - scheme: slate
-      primary: blue grey
-      accent: teal
-      toggle:
-        icon: material/weather-sunny
-        name: Zum hellen Design wechseln
-    - scheme: default
-      primary: blue grey
-      accent: teal
-      toggle:
-        icon: material/weather-night
-        name: Zum dunklen Design wechseln
+    scheme: slate
+    primary: custom
+    accent: custom
   icon:
     repo: fontawesome/brands/github
 plugins:
