@@ -33,6 +33,14 @@ def main():
     for label,page in chapters:
         body=(DOCS/page).read_text(encoding="utf-8")
         body=re.sub(r"\A\s*#\s+[^\n]+\n","",body,count=1)
+        # Nach dem Zusammenführen müssen Bildpfade relativ zu docs/ gelten.
+        def images(m):
+            alt, target, attrs = m.group(1), m.group(2), m.group(3) or ""
+            if target.startswith(("http:", "https:", "data:", "/")):
+                return m.group(0)
+            new_target = posixpath.normpath(posixpath.join(posixpath.dirname(page), target))
+            return "![" + alt + "](" + new_target + ")" + attrs
+        body=re.sub(r'!\[([^\]]*)\]\(([^)\s]+)\)(\{[^}\n]*\})?', images, body)
         def callout(m):
             lines=[line[4:] for line in m.group(2).rstrip("\n").splitlines()]
             return "> **"+m.group(1)+"**\n>\n"+"\n".join("> "+line for line in lines)+"\n\n"
