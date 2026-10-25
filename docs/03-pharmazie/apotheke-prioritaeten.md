@@ -61,7 +61,7 @@ Wo immer erreichbar: Hilfe durch medizinisch qualifizierte Personen vorziehen. E
 - **Erregerbezogene Auswahl:** Wenn Diagnostik und medizinisches Fachwissen verfügbar sind, schmal wirksame und nachgewiesen geeignete Antibiotika bevorzugen, statt pauschal Breitspektrumpräparate einzusetzen.
 - **Verantwortliche Verteilung:** Ein Fundbestand kann für mehrere Menschen wichtig sein; konkrete lebenswichtige Bedarfe sowie Arzneisicherheit vor Horten stellen.
 
-Weiterführend: [Wirkstoffregister mit Risiken und Alternativen](wirkstoffregister.md).
+Weiterführend: [Wirkstoffregister mit Risiken und Alternativen](../12-nachschlagewerk/wirkstoffregister.md).
 
 ## Quellen
 
