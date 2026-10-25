@@ -17,6 +17,8 @@ Wir unterscheiden drei Versorgungsstufen:
 
 Die Werte sind **nicht** drei medizinische Trinkempfehlungen, sondern beschreiben unterschiedliche Versorgungsziele. Alle Mengen beziehen sich auf **eine Person und einen Tag**. Unter Hitze, körperlicher Anstrengung, Krankheit und anderen besonderen Umständen kann der Bedarf deutlich höher sein.
 
+**Zweite Planungsdimension:** Neben der Menge müssen wir die **erforderliche Wasserqualität** unterscheiden: Sicheres Trinkwasser, für den jeweiligen hygienischen Zweck geeignetes Nutzwasser und ausschließlich technisches Nutzwasser. Im deutschen Normalbetrieb kommt das meiste Haushaltswasser in Trinkwasserqualität aus der Leitung; in einer Krise muss diese Qualität nicht für jede Verwendung aufrechterhalten werden.
+
 ## 1. Normalbetrieb: heutiger Lebensstandard
 
 Laut Bundesverband der Energie- und Wasserwirtschaft (BDEW, Mitteilung vom 16. Juli 2026) betrug der durchschnittliche tägliche Pro-Kopf-Trinkwassergebrauch Deutschlands **2025 rund 123 Liter**. Die Stadtwerke Duisburg nennen für die Stadt **ungefähr 120 Liter pro Person und Tag**. Die Zahlen erfassen den normalen Gebrauch von Leitungswasser und dürfen nicht mit tatsächlich getrunkenem Wasser verwechselt werden. [1][2]
@@ -46,11 +48,46 @@ Für die Planung dieses Handbuchs gilt daher:
 - **20 l/Person/Tag oder mehr** anstreben, soweit verfügbar und hygienisch erforderlich.
 - **7,5 l/Person/Tag** allenfalls als zeitlich sehr begrenzte Nothilfe bei extremer Knappheit. WHO und Sphere beschreiben diesen Wert nicht als dauerhaft ausreichendes Versorgungsniveau. [4][5]
 
-**Trink- und Kochwasser muss sicher sein.** Für bestimmte andere Anwendungen kann je nach Nutzung und Kontaminationsrisiko Wasser geringerer Qualität vertretbar sein; es muss vom Trinkwasser getrennt und eindeutig gekennzeichnet werden. Keine unbekannte oder möglicherweise chemisch belastete Wasserquelle ungeprüft als sicher einstufen.
-
 Ein Wegfall normaler Toilettenspülungen erfordert zugleich eine alternative Sanitärlösung. Das Trinkwasser allein zu rationieren, ohne die Entsorgung von Ausscheidungen zu regeln, kann Infektionsrisiken erhöhen.
 
-## 3. Überlebensminimum: nur Aufnahme über Getränke und Nahrung
+## 3. Trinkwasser und Brauchwasser: die benötigte Qualität
+
+**Die Wassermenge allein reicht für eine Versorgungsplanung nicht aus.** Wasser von unterschiedlicher Qualität darf nur für Anwendungen genutzt werden, für die es tatsächlich geeignet ist. *Brauchwasser* (auch *Nutzwasser*) bedeutet lediglich **nicht als Trinkwasser vorgesehen**; es ist **keine automatisch hygienisch sichere Qualitätsstufe**. Auch optisch klares Wasser kann krankmachende Keime oder gesundheitsschädliche Chemikalien enthalten. [5][7][8]
+
+Wir unterscheiden funktional drei Verwendungsgruppen:
+
+| Versorgungskategorie | Typische Zwecke | Anforderung |
+| --- | --- | --- |
+| **Trinkwasser / Lebensmittelwasser** | Trinken, direkte Zubereitung von Speisen und Getränken, Waschen roh verzehrter Lebensmittel, Zähneputzen und Handhygiene vor dem Umgang mit Lebensmitteln | Nachweislich sicheres Wasser mit Trinkwasserqualität; bei unklarer Qualität kein unbekanntes Rohwasser einsetzen |
+| **Hygienewasser** (*Nutzwasser mit Haut-/Textilkontakt*) | Einfache Körperreinigung, Wäsche, Reinigung von Gebrauchsgegenständen | Für den konkreten Kontakt gesundheitlich geeignet; **nicht automatisch** beliebiges Regen-, Fluss- oder Grauwasser. Bei unsicherer Hygiene sichere Wasserqualität bevorzugen |
+| **Technisches Brauchwasser** | Toilettenspülung, bestimmte äußere Reinigungsarbeiten oder andere Anwendungen ohne vorgesehenen Lebensmittelkontakt | Es muss für den Zweck technisch und gesundheitlich vertretbar sein; keine Rückverbindung zum Trinkwassersystem |
+
+**Für Händewaschen vor der Essenszubereitung, Zähneputzen und Lebensmittelkontakt sollte sicheres Wasser in Trinkwasserqualität bereitstehen.** Die CDC empfiehlt nach Katastrophen für Trinken, Kochen, Lebensmittel- und persönliche Hygiene abgefülltes oder anderweitig sicher aufbereitetes Wasser. [8] Eine niedrigere Anforderung bei der Toilettenspülung lässt sich deshalb **nicht pauschal auf Körperhygiene übertragen**. Regenwasser kann nach Prüfung für Toilettenspülungen geeignet sein, erfüllt aber nicht automatisch die Trinkwasseranforderungen; das Umweltbundesamt betont die nötige Trennung, Kennzeichnung und Wartung solcher Systeme. [7]
+
+### Mengenbilanz bei 15 Litern Krisenminimum
+
+Die Sphere-Mengen aus Abschnitt 2 sind **Verwendungszwecke** und **keine verbindliche Aufteilung auf Wasserqualitäten**. Für eine erste konservative Auslegung könnten die **2,5–3 l Aufnahme** und die **3–6 l Kochen und Zubereitung** zusammen als ungefähr **5,5–9 l sicher verfügbares Trink-/Lebensmittelwasser** geplant werden; die verbleibende Menge dient grundlegenden Hygienebedürfnissen. Das ist eine **abgeleitete Planungsspanne**, kein eigenständiger Sphere-Grenzwert. Je nach Wasch- und Lebensmittelhygiene wird mehr Wasser mit Trinkwasserqualität benötigt.
+
+Rechenbeispiel für **15 l nutzbares Wasser je Person und Tag** (nur zur Veranschaulichung, **keine allgemeingültige Rationierung**):
+
+| Verwendung | Beispielmenge | Wasserqualität |
+| --- | ---: | --- |
+| Getränke und Wasseraufnahme über Nahrung | 3 l | Sicheres Trinkwasser |
+| Einfache Lebensmittelzubereitung | 6 l | Sicheres Lebensmittel-/Trinkwasser |
+| Grundlegende Hygiene | 6 l | Je nach Handlung sicheres Trinkwasser oder gesondert geeignetes Hygienewasser |
+| **Gesamt** | **15 l** | Nicht alle 15 l müssen zwingend über dieselbe Aufbereitungsstufe laufen |
+
+**Technisches Brauchwasser**, etwa für eine herkömmliche Toilettenspülung, kommt gegebenenfalls **zusätzlich** hinzu; eine funktionierende Trockentoilette benötigt dagegen kein Spülwasser. Die Wahl der Sanitärlösung verändert also den gesamten täglichen Wasserbedarf.
+
+### Trennung, Aufbereitung und Lagerung
+
+- Sichere Trinkwasserbehälter und Brauchwasserbehälter **getrennt lagern, deutlich kennzeichnen und Verwechslungen ausschließen**.
+- Trinkwasserleitungen niemals ohne geeignete Sicherung mit Nichttrinkwasseranlagen verbinden. [7]
+- Wasserqualitäten anhand der **Ausgangsquelle und konkreter Risiken** beurteilen, nicht allein anhand von Aussehen oder Geruch.
+- Wasseraufbereitung ist **verfahrensabhängig**: Abkochen oder Desinfektion kann bestimmte mikrobiologische Gefahren reduzieren, entfernt aber **nicht zuverlässig chemische Schadstoffe**. Bei Verdacht auf chemische Verunreinigung eine andere sichere Quelle verwenden. [5][8]
+- Den Rohwasserbedarf und mögliche Aufbereitungsverluste **für jede tatsächlich behandelte Menge separat** berechnen (siehe Abschnitt 5).
+
+## 4. Überlebensminimum: nur Aufnahme über Getränke und Nahrung
 
 Die Sphere-Standards nennen **2,5 bis 3 Liter täglich** für die Wasseraufnahme über Getränke und Nahrung als Orientierungsgröße, abhängig von Physiologie und Klima. [4] **Das ist keine universelle biologische Untergrenze** und keine Menge, mit der Hygiene oder das Kochen trockener Lebensmittel automatisch abgedeckt wäre.
 
@@ -62,9 +99,11 @@ Für die extreme, nur kurzfristig gedachte Rationierung können wir **rund 3 Lit
 
 Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) nennt in seinem Ratgeber für den **Notvorrat** 2 Liter pro Person und Tag, davon 0,5 Liter für das Kochen. [6] Dieser Wert beschreibt eine einfache Empfehlung für bevorratete Getränke und Kochwasser. Er ist **kein Nachweis**, dass eine Person unabhängig von Klima und Zustand dauerhaft mit 2 Litern Gesamtwasser ausreichend versorgt wäre, und deckt die gesamte Grundhygiene nicht ab.
 
-## 4. Verfügbarer Wasserbedarf versus Aufbereitungsverluste
+## 5. Verfügbarer Wasserbedarf versus Aufbereitungsverluste
 
 Die Werte oben beschreiben die **an der Verbrauchsstelle tatsächlich nutzbare Wassermenge**. Wenn Rohwasser gefiltert, verworfen oder anderweitig behandelt werden muss, entsteht unter Umständen zusätzlicher Bedarf. Wie groß er ist, hängt vom konkreten Verfahren ab.
+
+**Dabei getrennt bilanzieren:** Rohwasser, zu Trinkwasser aufbereitetes Wasser und für einzelne Zwecke nutzbares Brauchwasser. Ein pauschaler Aufbereitungsverlust für den gesamten Haushaltsverbrauch wäre ebenso irreführend wie die Annahme, jedes Brauchwasser sei ohne Prüfung verwendbar.
 
 **Berechnungsgrundlage:**
 
@@ -74,7 +113,7 @@ Die Werte oben beschreiben die **an der Verbrauchsstelle tatsächlich nutzbare W
 
 Nicht berücksichtigt sind zusätzlicher Bedarf für Tiere, Verluste durch Transport und Lagerung, Reinigungswasser für Aufbereitungsanlagen sowie Versorgung anderer Einrichtungen. Diese Größen getrennt bilanzieren, statt sie in die physiologische Wasseraufnahme einzurechnen.
 
-## 5. Planungstabelle für eine Person
+## 6. Planungstabelle für eine Person
 
 | Stufe | 1 Tag | 3 Tage | 7 Tage | 10 Tage |
 | --- | ---: | ---: | ---: | ---: |
@@ -84,7 +123,7 @@ Nicht berücksichtigt sind zusätzlicher Bedarf für Tiere, Verluste durch Trans
 
 Diese Zahlen sind **Vergleichs- und Rechengrößen**, nicht automatisch Empfehlungen, sämtliche Mengen zu Hause einzulagern. Die Mindestmenge für die Aufnahme darf bei besonderem Bedarf nicht als Obergrenze verwendet werden. Weitere Personen, Haustiere und Verarbeitungsverluste gesondert hinzurechnen.
 
-## 6. Grenzen und offene Folgefragen
+## 7. Grenzen und offene Folgefragen
 
 - Wie unterscheiden sich Bedarf und Wasserqualität bei Trinkwasser, Kochwasser, Waschwasser und Toilettenwasser?
 - Welche zusätzlichen Mengen benötigen Säuglinge, kranke oder pflegebedürftige Menschen?
@@ -100,5 +139,8 @@ Diese Zahlen sind **Vergleichs- und Rechengrößen**, nicht automatisch Empfehlu
 4. **Sphere Association** (2018), *The Sphere Handbook*, 4. Auflage, WASH-Anhang 3, S. 145, sowie Water Supply Standard 2.1: https://spherestandards.org/handbook/ (Volltext: https://www.caritas-germany.org/cms/contents/caritas-germany.org/medien/dokumente/sphere-handbook-2018/sphere-handbook-2018-en.pdf?d=a&f=pdf)
 5. **WHO**, *Humanitarian emergencies – Water, Sanitation and Health*, Abschnitt zum Mindestwasserbedarf: https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/environmental-health-in-emergencies/humanitarian-emergencies
 6. **BBK** (2026), *Vorsorgen für Krisen und Katastrophen*, Kapitel „Essen und Trinken bevorraten“, S. 7: https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/BBK-Vorsorgen-fuer-Krisen-und-Katastrophen.pdf?__blob=publicationFile&v=42
+
+7. **Umweltbundesamt**, *Tipps für eine nachhaltige Regenwassernutzung*, Abschnitt Hygiene und getrennte Leitungsführung: https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/tipps-fuer-eine-nachhaltige-regenwassernutzung
+8. **US CDC** (25.06.2025), *How to Find Clean Water in an Emergency*, Qualität und Verwendungszwecke im Notfall: https://www.cdc.gov/water-emergency/about/how-to-find-clean-water-in-an-emergency.html
 
 **Redaktioneller Status:** Quellenrecherchierter Erstentwurf. Vor Einstufung als fachlich geprüft sind insbesondere die Begriffe „Überlebensminimum“, die Einordnung individueller Flüssigkeitsbedarfe und die konkreten hygienischen Mindestmaßnahmen von entsprechend qualifizierten Fachleuten zu prüfen.
