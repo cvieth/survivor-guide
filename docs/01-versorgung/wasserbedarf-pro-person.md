@@ -19,6 +19,19 @@ Die Werte sind **nicht** drei medizinische Trinkempfehlungen, sondern beschreibe
 
 **Zweite Planungsdimension:** Neben der Menge müssen wir die **erforderliche Wasserqualität** unterscheiden: Sicheres Trinkwasser, für den jeweiligen hygienischen Zweck geeignetes Nutzwasser und ausschließlich technisches Nutzwasser. Im deutschen Normalbetrieb kommt das meiste Haushaltswasser in Trinkwasserqualität aus der Leitung; in einer Krise muss diese Qualität nicht für jede Verwendung aufrechterhalten werden.
 
+## Sofortmaßnahme bei drohendem Versorgungsausfall: Wasser sichern
+
+!!! warning "Zeitkritisch – aber nur bei sicherer Ausgangslage"
+    **Sobald die unmittelbare Sicherheit hergestellt ist, vorhandene Wasservorräte sichern, solange die Versorgung noch funktioniert und keine Hinweise auf eine Verunreinigung vorliegen.** Ein angekündigter oder beginnender Ausfall kann das nutzbare Zeitfenster rasch schließen. Gefahrenabwehr, lebensrettende Erste Hilfe, Evakuierungsanweisungen und behördliche Warnungen haben Vorrang. Das BBK empfiehlt bei drohendem Wasserausfall, noch verfügbares Wasser in Gefäßen aufzufangen. [9]
+
+1. **Wasserqualität und Warnlage prüfen:** Hinweise von Behörden und Wasserversorger beachten. Bei einer Warnung vor kontaminiertem Leitungswasser **kein Trinkwasser daraus bevorraten**; Vorgaben zur Nutzung und Entsorgung einhalten.
+2. **Trinkwasser zuerst sichern:** Bereits vorhandene Flaschen und Vorräte schützen. Danach geeignete, saubere und möglichst desinfizierte, **lebensmittelechte, dicht verschließbare Behälter** mit zum Zeitpunkt des Abfüllens sicherem Leitungswasser füllen. Niemals Behälter verwenden, die zuvor giftige Chemikalien enthielten. [10]
+3. **Zusätzlich Brauchwasser sichern:** Größere Gefäße wie Badewanne, Eimer, Töpfe und Waschbecken können Wasser für Toilettenspülung und andere jeweils geeignete technische Zwecke aufnehmen. Das ist **kein automatisch trinkbares Wasser**. Gefäße und Wasser möglichst gegen Schmutzeintrag schützen. [9]
+4. **Kennzeichnen und trennen:** Trinkwasser mit Abfülldatum beschriften, verschließen, kühl und vor Sonne sowie Chemikalien geschützt lagern; Brauchwasser deutlich separat kennzeichnen. Lagerung und Entnahme dürfen sauberes Wasser nicht erneut verunreinigen. [10]
+5. **Vorräte neu bewerten:** Abgefülltes Leitungswasser bleibt nicht unbegrenzt sicher. Bei zweifelhafter Wasserqualität nicht trinken; weiterverwendetes Wasser muss für seinen **konkreten** Zweck geeignet sein. Bei chemischer oder radioaktiver Kontamination macht Abkochen es nicht sicher, und auch eine technische Verwendung ist nicht pauschal unbedenklich. [8]
+
+**Grundregel:** Die präventive Bevorratung *vor* einem Ereignis und das rasche Auffüllen *bei* drohendem Versorgungsausfall ergänzen einander. Früh gesichertes Wasser ist eine zeitlich begrenzt verfügbare Ressource; spätere mögliche Brauchwassernutzung rechtfertigt nicht, erkennbare Kontaminationen zu ignorieren.
+
 ## 1. Normalbetrieb: heutiger Lebensstandard
 
 Laut Bundesverband der Energie- und Wasserwirtschaft (BDEW, Mitteilung vom 16. Juli 2026) betrug der durchschnittliche tägliche Pro-Kopf-Trinkwassergebrauch Deutschlands **2025 rund 123 Liter**. Die Stadtwerke Duisburg nennen für die Stadt **ungefähr 120 Liter pro Person und Tag**. Die Zahlen erfassen den normalen Gebrauch von Leitungswasser und dürfen nicht mit tatsächlich getrunkenem Wasser verwechselt werden. [1][2]
@@ -142,5 +155,8 @@ Diese Zahlen sind **Vergleichs- und Rechengrößen**, nicht automatisch Empfehlu
 
 7. **Umweltbundesamt**, *Tipps für eine nachhaltige Regenwassernutzung*, Abschnitt Hygiene und getrennte Leitungsführung: https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/tipps-fuer-eine-nachhaltige-regenwassernutzung
 8. **US CDC** (25.06.2025), *How to Find Clean Water in an Emergency*, Qualität und Verwendungszwecke im Notfall: https://www.cdc.gov/water-emergency/about/how-to-find-clean-water-in-an-emergency.html
+
+9. **BBK**, *Hygiene in Notzeiten*, Abschnitt „Das können Sie tun“, Wassersammeln bei beginnendem Ausfall: https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Hygiene/hygiene.html
+10. **US CDC** (27.06.2025), *How to Create an Emergency Water Supply*, Behälterwahl, Reinigung und Lagerung: https://www.cdc.gov/water-emergency/about/how-to-create-and-store-an-emergency-water-supply.html
 
 **Redaktioneller Status:** Quellenrecherchierter Erstentwurf. Vor Einstufung als fachlich geprüft sind insbesondere die Begriffe „Überlebensminimum“, die Einordnung individueller Flüssigkeitsbedarfe und die konkreten hygienischen Mindestmaßnahmen von entsprechend qualifizierten Fachleuten zu prüfen.
