@@ -13,6 +13,9 @@ Dieses gemeinschaftlich gepflegte Wissensprojekt dokumentiert überprüfbare Gru
 - **[Apotheken-Prioritätenliste (Kapitel 03)](03-pharmazie/apotheke-prioritaeten.md)** – Suchstrategie bei langem Versorgungsausfall.
 - **[Wasserbedarf & Wasser sichern (Kapitel 01)](01-versorgung/wasserbedarf-pro-person.md)** – Richtwerte und erste Schritte zur Wassersicherung.
 
+- **[Morsealphabet und SOS (Kapitel 04)](04-kommunikation/morsealphabet.md)** – Zeichen und Zeitregeln für Licht, Ton und Funk.
+- **[Winkeralphabet mit Flaggen (Kapitel 04)](04-kommunikation/flaggenalphabet.md)** – alle 26 Buchstaben mit Flaggengrafiken.
+
 ## Drei Zeithorizonte
 
 | Zeitraum | Fokus |
