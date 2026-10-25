@@ -1,6 +1,7 @@
 PYTHON ?= python3
 .PHONY: check pdf print site build serve clean
 check:
+	$(PYTHON) scripts/generate_medications.py
 	$(PYTHON) scripts/check.py
 pdf:
 	$(PYTHON) scripts/build_book.py --output build/survivor-guide.pdf --format screen
