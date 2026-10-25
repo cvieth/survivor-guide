@@ -7,6 +7,12 @@ Dieses gemeinschaftlich gepflegte Wissensprojekt dokumentiert überprüfbare Gru
 !!! warning "Version 0.1 – Aufbauphase"
     Die meisten Kapitel sind zunächst Themenpläne, keine fachlich geprüften Handlungsanleitungen. Bei akuten Notfällen professionelle Hilfe vorziehen, soweit erreichbar.
 
+## Direkt zum Wissen
+
+- **[Wirkstoffregister (Kapitel 12)](12-nachschlagewerk/wirkstoffregister.md)** – 25 Wirkstoff-Steckbriefe als offline nutzbares Nachschlagewerk.
+- **[Apotheken-Prioritätenliste (Kapitel 03)](03-pharmazie/apotheke-prioritaeten.md)** – Suchstrategie bei langem Versorgungsausfall.
+- **[Wasserbedarf & Wasser sichern (Kapitel 01)](01-versorgung/wasserbedarf-pro-person.md)** – Richtwerte und erste Schritte zur Wassersicherung.
+
 ## Drei Zeithorizonte
 
 | Zeitraum | Fokus |
