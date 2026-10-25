@@ -1,0 +1,100 @@
+name: Publish versioned PDF releases
+
+on:
+  # New versions are published when a SemVer-like tag is pushed.
+  push:
+    tags:
+      - 'v*.*.*'
+    # Bootstrap the first release once this workflow lands on main.
+    # Later workflow edits do not replace the already published v0.1.0.
+    branches:
+      - main
+    paths:
+      - '.github/workflows/release.yml'
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Release tag (for example v0.2.0)'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pdf-release-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Determine release version
+        id: version
+        shell: bash
+        env:
+          REQUESTED_VERSION: ${{ inputs.version }}
+        run: |
+          if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]]; then
+            tag="$REQUESTED_VERSION"
+          elif [[ "$GITHUB_REF_TYPE" == "tag" ]]; then
+            tag="$GITHUB_REF_NAME"
+          else
+            tag="v0.1.0"
+          fi
+          if ! [[ "$tag" =~ ^v(0|[1-9][0-9]*)\.(0|[1-9][0-9]*)\.(0|[1-9][0-9]*)$ ]]; then
+            echo "Invalid release tag: $tag (expected vMAJOR.MINOR.PATCH)" >&2
+            exit 1
+          fi
+          echo "tag=$tag" >> "$GITHUB_OUTPUT"
+
+      - name: Check for an existing release
+        id: existing
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ steps.version.outputs.tag }}
+        run: |
+          if gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+            echo "Release $RELEASE_TAG already exists; no changes will be made."
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.existing.outputs.exists != 'true'
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install Python dependencies
+        if: steps.existing.outputs.exists != 'true'
+        run: pip install -r requirements.txt
+
+      - name: Install PDF toolchain
+        if: steps.existing.outputs.exists != 'true'
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-latex-extra texlive-latex-recommended texlive-fonts-recommended texlive-lang-german lmodern fonts-dejavu-core
+
+      - name: Validate and build both PDFs
+        if: steps.existing.outputs.exists != 'true'
+        run: |
+          make check pdf print
+          test -s build/survivor-guide.pdf
+          test -s build/survivor-guide-print-interior.pdf
+
+      - name: Publish release with versioned PDF assets
+        if: steps.existing.outputs.exists != 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ steps.version.outputs.tag }}
+        run: |
+          gh release create "$RELEASE_TAG" \
+            "build/survivor-guide.pdf#survivor-guide.pdf" \
+            "build/survivor-guide-print-interior.pdf#survivor-guide-print-interior.pdf" \
+            --title "Survivor Guide $RELEASE_TAG" \
+            --generate-notes \
+            --target "$GITHUB_SHA"
