@@ -1,0 +1,36 @@
+name: Themenvorschlag
+description: Einen neuen Beitrag oder eine Erweiterung vorschlagen
+title: "[Thema] "
+labels: ["thema"]
+body:
+  - type: textarea
+    id: ziel
+    attributes:
+      label: Thema und Ziel
+      description: Welche konkrete Frage soll der Artikel beantworten?
+    validations:
+      required: true
+  - type: dropdown
+    id: bereich
+    attributes:
+      label: Grober Bereich
+      options:
+        - Grundlagen
+        - Versorgung
+        - Medizin
+        - Pharmazie und Chemie
+        - Kommunikation
+        - Technologie
+        - Infrastruktur
+        - Handwerk
+        - Sicherheit
+        - Gesellschaft
+        - Ökologie
+        - Wiederaufbau
+        - Nachschlagewerk
+    validations:
+      required: true
+  - type: textarea
+    id: quellen
+    attributes:
+      label: Quellen oder Hinweise

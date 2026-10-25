@@ -1,0 +1,20 @@
+name: Fehler melden
+description: Sachfehler, unklare Aussagen oder defekte Links melden
+title: "[Fehler] "
+body:
+  - type: input
+    id: artikel
+    attributes:
+      label: Betroffener Artikel
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Was ist falsch?
+    validations:
+      required: true
+  - type: textarea
+    id: quelle
+    attributes:
+      label: Korrekturvorschlag und Quelle
