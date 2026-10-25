@@ -77,7 +77,7 @@ jobs:
         if: steps.existing.outputs.exists != 'true'
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-latex-extra texlive-latex-recommended texlive-fonts-recommended texlive-lang-german lmodern fonts-dejavu-core
+          sudo apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-latex-extra texlive-latex-recommended texlive-fonts-recommended texlive-lang-german lmodern fonts-dejavu-core librsvg2-bin
 
       - name: Validate and build both PDFs
         if: steps.existing.outputs.exists != 'true'
