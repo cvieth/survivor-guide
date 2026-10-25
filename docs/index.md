@@ -23,7 +23,13 @@ Dieses gemeinschaftlich gepflegte Wissensprojekt dokumentiert überprüfbare Gru
 
 ## Offline lesen
 
-Das [vollständige Handbuch als PDF](downloads/survivor-guide.pdf) wird aus denselben Artikeln automatisch erzeugt.
+Die folgenden Ausgaben werden aus denselben Artikeln wie die Website erstellt:
+
+- **[Aktuelle PDF-Ausgabe herunterladen (A4)](https://github.com/cvieth/survivor-guide/releases/latest/download/survivor-guide.pdf)** – versionierte Ausgabe zum Lesen und Archivieren.
+- **[Druckvorlage herunterladen (6 × 9 Zoll)](https://github.com/cvieth/survivor-guide/releases/latest/download/survivor-guide-print-interior.pdf)** – vorläufiger Druckentwurf, noch nicht druckfertig.
+- **[Alle Versionen und Änderungen ansehen](https://github.com/cvieth/survivor-guide/releases)** – ältere Ausgaben bleiben dauerhaft auffindbar.
+
+Die [PDF-Vorschau des aktuellen Entwicklungsstands](downloads/survivor-guide.pdf) wird unabhängig von Releases mit jedem Website-Build aktualisiert und kann neuere, noch nicht veröffentlichte Inhalte enthalten.
 
 ## Mitarbeit
 
