@@ -51,7 +51,10 @@ nav:
   - '03 · Pharmazie, Substanzen & Chemie':
       - Überblick: 03-pharmazie/index.md
       - Apotheke bei Versorgungsausfall – Prioritäten: 03-pharmazie/apotheke-prioritaeten.md
-  - '04 · Kommunikation & Information': 04-kommunikation/index.md
+  - '04 · Kommunikation & Information':
+      - Überblick: 04-kommunikation/index.md
+      - Morsealphabet: 04-kommunikation/morsealphabet.md
+      - Flaggensemaphore / Winkeralphabet: 04-kommunikation/flaggenalphabet.md
   - '05 · Technologie, Elektronik & IT': 05-technologie/index.md
   - '06 · Energie, Unterkunft & Infrastruktur': 06-infrastruktur/index.md
   - '07 · Handwerk, Mechanik & Produktion': 07-handwerk/index.md
