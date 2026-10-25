@@ -1,9 +1,17 @@
 # 03 · Pharmazie, Substanzen & Chemie
 
 !!! info "In Arbeit"
-    Dieses Kapitel ist ein redaktioneller Themenplan. Fachlich geprüfte Artikel folgen. Keine der nachstehenden Überschriften ersetzt eine konkrete Anleitung.
+    Das Kapitel wird ausgebaut. Die vorhandenen Artikel sind Entwürfe ohne abgeschlossene medizinische Fachprüfung.
 
-## Themenfelder
+## Verfügbare Artikel
+
+- **[Apotheke bei Versorgungsausfall: Such- und Prioritätenliste](apotheke-prioritaeten.md)** – Was bei knapper Zeit medizinisch besonders nützlich sein kann.
+- **[Wirkstoffregister (Offline-Nachschlagewerk)](wirkstoffregister.md)** – 25 durchsuchbare Steckbriefe mit Wirkungen, Grenzen, Risiken, Alternativen und Quellen.
+
+!!! warning "Medizinische Fachprüfung ausstehend"
+    Die neuen Artikel sind recherchierte Entwürfe und keine Dosierungs-, Diagnose- oder Behandlungsempfehlungen.
+
+## Weitere Themenfelder
 
 - Wirkstoffkunde
 - Arzneimittelgruppen
