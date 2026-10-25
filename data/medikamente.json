@@ -1,0 +1,407 @@
+{
+  "schema_version": "1.0",
+  "stand": "2026-10-25",
+  "status": "ENTWURF: nicht fachlich geprüft",
+  "zweck": "Offline-Wirkstoff-Suchregister, keine Therapie- oder Dosierungsanleitung",
+  "lagerung": "Herstellerangaben, Packungsbeilage, Verfall, Feuchte, Licht, Temperatur, Sterilität und Kühlkette produktbezogen beachten.",
+  "quellen": {
+    "WHO": {
+      "titel": "WHO Essential Medicines (2025)",
+      "url": "https://www.who.int/publications/i/item/B09474"
+    },
+    "BBK": {
+      "titel": "BBK Hausapotheke",
+      "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/So-koennen-Sie-sich-vorbereiten/Hausapotheke/hausapotheke_node.html"
+    },
+    "ORS": {
+      "titel": "WHO Durchfallerkrankungen und Rehydratation",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease"
+    },
+    "BISS": {
+      "titel": "NICE NG184 Tier- und Menschenbisse",
+      "url": "https://www.nice.org.uk/guidance/ng184/chapter/Recommendations"
+    },
+    "HWI": {
+      "titel": "AWMF S3 Harnwegsinfektionen (2024)",
+      "url": "https://www.awmf.org/aktuelles/awmf-aktuell/epidemiologie-diagnostik-therapie-praevention-und-management-unkomplizierter-bakterieller-ambulant-erworbener-harnwegsinfektionen-bei-erwachsenen-hwi-1"
+    },
+    "NIERE": {
+      "titel": "NICE NG111 Nierenbeckenentzündung",
+      "url": "https://www.nice.org.uk/guidance/NG111/chapter/summary-of-the-evidence"
+    },
+    "TETANUS": {
+      "titel": "CDC Tetanus und Wundmanagement (2026)",
+      "url": "https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html"
+    },
+    "DOXY": {
+      "titel": "NHS Doxycycline",
+      "url": "https://www.nhs.uk/medicines/doxycycline/"
+    },
+    "LOP": {
+      "titel": "NHS Loperamide",
+      "url": "https://www.nhs.uk/medicines/loperamide/who-can-and-cannot-take-loperamide/"
+    }
+  },
+  "eintraege": [
+    {
+      "name": "Insulin",
+      "stufe": "1",
+      "aufschrift": "Insulin; Name des verordneten Insulins",
+      "einsatz": "Diabetes mit Insulinbedarf",
+      "wirkung": "Blutzuckersenkung; kein allgemeines Notfallmittel",
+      "nicht_geeignet": "Insulinarten nicht beliebig austauschbar",
+      "risiken": "Schwere Unterzuckerung und Kühlkettenproblem",
+      "alternativen": "Persönlicher Therapie- und Messplan",
+      "voraussetzungen": "Diagnose, Messmöglichkeit und sachgerechte Lagerung",
+      "quellen": [
+        "WHO"
+      ]
+    },
+    {
+      "name": "Salbutamol",
+      "stufe": "1",
+      "aufschrift": "Salbutamol; Dosieraerosol; Inhalator",
+      "einsatz": "Asthma und bestimmte akute Bronchialverengungen",
+      "wirkung": "Erweitert verengte Bronchien, behandelt keine Anaphylaxie",
+      "nicht_geeignet": "Nicht jede Atemnot ist Asthma",
+      "risiken": "Herzrasen und Anwendungsfehler",
+      "alternativen": "Individueller Asthma-Notfallplan",
+      "voraussetzungen": "Inhalationstechnik, passende Darreichungsform",
+      "quellen": [
+        "WHO"
+      ]
+    },
+    {
+      "name": "Adrenalin-Autoinjektor",
+      "stufe": "1",
+      "aufschrift": "Adrenalin; Epinephrin; Autoinjektor",
+      "einsatz": "Verdacht auf Anaphylaxie im Notfall",
+      "wirkung": "Adressiert lebensbedrohliche allergische Systemreaktion",
+      "nicht_geeignet": "Nicht für jede gewöhnliche Allergie vorgesehen",
+      "risiken": "Fehler bei Erkennung, Gerätebedienung und Dosisauswahl",
+      "alternativen": "Rettungsmaßnahmen und Hilfe zusätzlich veranlassen",
+      "voraussetzungen": "Einweisung und zum Patienten passende Produktvariante",
+      "quellen": [
+        "WHO"
+      ]
+    },
+    {
+      "name": "Glukagon",
+      "stufe": "1",
+      "aufschrift": "Glukagon; Notfallkit; Nasenpulver",
+      "einsatz": "Schwere Unterzuckerung bei geeigneter Indikation",
+      "wirkung": "Kann den Blutzucker erhöhen",
+      "nicht_geeignet": "Nicht identisch mit oraler Glukose",
+      "risiken": "Wirkung und Anwendung je nach Zustand und Präparat unterschiedlich",
+      "alternativen": "Orale Glukose nur bei wacher, schluckfähiger Person",
+      "voraussetzungen": "Persönlicher Notfallplan und produktbezogene Anleitung",
+      "quellen": [
+        "WHO"
+      ]
+    },
+    {
+      "name": "Naloxon",
+      "stufe": "1",
+      "aufschrift": "Naloxon; Nasenspray",
+      "einsatz": "Vermutete Opioidüberdosierung mit Atemdepression",
+      "wirkung": "Hebt opioidbedingte Wirkungen vorübergehend auf",
+      "nicht_geeignet": "Nicht für alle Ursachen von Bewusstlosigkeit",
+      "risiken": "Atemdepression kann zurückkehren",
+      "alternativen": "Wiederbelebungsmaßnahmen und Hilfe soweit erreichbar",
+      "voraussetzungen": "Schulung, Atemüberwachung und passende Form",
+      "quellen": [
+        "WHO"
+      ]
+    },
+    {
+      "name": "Orale Rehydratationssalze (ORS)",
+      "stufe": "2",
+      "aufschrift": "ORS; Elektrolyt-Glukose-Pulver; Rehydratationssalze",
+      "einsatz": "Flüssigkeits- und Salzverluste bei Durchfall/Erbrechen",
+      "wirkung": "Ersetzen Wasser und Elektrolyte, keine antibiotische Wirkung",
+      "nicht_geeignet": "Bei schwerer Austrocknung oder fehlender Trinkfähigkeit allein unzureichend",
+      "risiken": "Falsches Mischungsverhältnis und kontaminiertes Wasser",
+      "alternativen": "Sicheres Trinkwasser, Hygiene und weitere Versorgung",
+      "voraussetzungen": "Genau nach Packung mit sicherem Trinkwasser anrühren",
+      "quellen": [
+        "ORS"
+      ]
+    },
+    {
+      "name": "Natriumchlorid 0,9 % (sterile Spüllösung)",
+      "stufe": "2",
+      "aufschrift": "NaCl 0,9 %; Wundspüllösung",
+      "einsatz": "Wunden reinigen und Schmutz entfernen",
+      "wirkung": "Mechanische Reinigung, keine Antibiotikawirkung",
+      "nicht_geeignet": "Nicht jede sterile Lösung ist zur Injektion bestimmt",
+      "risiken": "Verlust der Sterilität nach Öffnung",
+      "alternativen": "Gegebenenfalls sauberes, sicheres Wasser zur Wundreinigung",
+      "voraussetzungen": "Intakte Packung und korrekter Anwendungsweg",
+      "quellen": [
+        "BBK",
+        "TETANUS"
+      ]
+    },
+    {
+      "name": "Octenidin",
+      "stufe": "2",
+      "aufschrift": "Octenidin; Wundantiseptikum",
+      "einsatz": "Geeignete oberflächliche Wundantiseptik",
+      "wirkung": "Lokale Keimreduktion, kein Ersatz für Wundreinigung",
+      "nicht_geeignet": "Nicht unter Druck in tiefe Wundhöhlen einbringen",
+      "risiken": "Gewebeschäden bei ungeeigneter Anwendung",
+      "alternativen": "Spülung und sterile Wundauflage; Povidon-Iod je nach Eignung",
+      "voraussetzungen": "Für Wunden zugelassenes Produkt und Packungsinformation",
+      "quellen": [
+        "BBK"
+      ]
+    },
+    {
+      "name": "Povidon-Iod",
+      "stufe": "2",
+      "aufschrift": "Povidon-Iod; PVP-Iod",
+      "einsatz": "Geeignete Haut- und Wundantiseptik",
+      "wirkung": "Breite lokale antimikrobielle Wirkung",
+      "nicht_geeignet": "Nicht automatisch bei Schilddrüsenerkrankungen, Schwangerschaft und Neugeborenen geeignet",
+      "risiken": "Reizung und mögliche systemische Iodaufnahme",
+      "alternativen": "Octenidin nach Eignung; gründliche Wundreinigung",
+      "voraussetzungen": "Produktbezogene Indikation und Gegenanzeigen",
+      "quellen": [
+        "BBK"
+      ]
+    },
+    {
+      "name": "Paracetamol",
+      "stufe": "2",
+      "aufschrift": "Paracetamol",
+      "einsatz": "Schmerzen und Fieber",
+      "wirkung": "Schmerz- und fiebersenkend, nicht antimikrobiell",
+      "nicht_geeignet": "Lebererkrankungen und Mehrfachpräparate beachten",
+      "risiken": "Schwere Leberschäden bei Überdosierung",
+      "alternativen": "Je nach Situation Ibuprofen oder nichtmedikamentöse Maßnahmen",
+      "voraussetzungen": "Packungsbeilage, Gewicht, Begleitmedikation",
+      "quellen": [
+        "BBK",
+        "WHO"
+      ]
+    },
+    {
+      "name": "Ibuprofen",
+      "stufe": "2",
+      "aufschrift": "Ibuprofen",
+      "einsatz": "Schmerzen, Fieber, entzündliche Beschwerden",
+      "wirkung": "Schmerz-, fieber- und entzündungshemmend",
+      "nicht_geeignet": "Bei Dehydratation, Nierenleiden, Blutungsrisiken oder bestimmter Schwangerschaft ungeeignet",
+      "risiken": "Nierenschäden und Magen-Darm-Blutungen möglich",
+      "alternativen": "Je nach Situation Paracetamol",
+      "voraussetzungen": "Hydrierung, Gegenanzeigen und Beipackzettel prüfen",
+      "quellen": [
+        "BBK",
+        "WHO"
+      ]
+    },
+    {
+      "name": "Amoxicillin + Clavulansäure",
+      "stufe": "3",
+      "aufschrift": "Amoxicillin/Clavulansäure; Co-Amoxiclav",
+      "einsatz": "Ausgewählte Biss- und Mischinfektionen",
+      "wirkung": "Gegen einige aerobe und anaerobe Erreger, nicht universell",
+      "nicht_geeignet": "Bei relevanter Penicillinallergie ungeeignet; nicht alle resistenten Erreger erfasst",
+      "risiken": "Allergie, Durchfall, mögliche Leberreaktionen",
+      "alternativen": "Bei Kenntnis des Erregers schmaler wirksame Behandlung",
+      "voraussetzungen": "Fachkundige Infektionsbeurteilung und Allergieanamnese",
+      "quellen": [
+        "BISS",
+        "WHO"
+      ]
+    },
+    {
+      "name": "Amoxicillin",
+      "stufe": "3",
+      "aufschrift": "Amoxicillin",
+      "einsatz": "Ausgewählte bakterielle Atemwegs- oder Zahninfektionen",
+      "wirkung": "Gegen bestimmte empfindliche Bakterien, nicht gegen Viren",
+      "nicht_geeignet": "Bei Beta-Laktamase-produzierenden Keimen oft unwirksam",
+      "risiken": "Penicillinallergie, Resistenz, Durchfall",
+      "alternativen": "Erregergerechte alternative Antibiotikawahl",
+      "voraussetzungen": "Bakterielle Diagnose und Verordnung",
+      "quellen": [
+        "WHO"
+      ]
+    },
+    {
+      "name": "Doxycyclin",
+      "stufe": "3",
+      "aufschrift": "Doxycyclin; Doxycycline",
+      "einsatz": "Ausgewählte Atemwegs- und zeckenübertragene Infektionen",
+      "wirkung": "Gegen einige atypische und empfindliche Erreger",
+      "nicht_geeignet": "Nicht allein für alle Wund- oder Bissmischinfektionen",
+      "risiken": "In Schwangerschaft meist ungeeignet; Lichtempfindlichkeit und Wechselwirkungen",
+      "alternativen": "Je nach Erreger andere oder zusätzliche Antibiotika",
+      "voraussetzungen": "Medizinische Prüfung von Alter, Schwangerschaft, Interaktionen",
+      "quellen": [
+        "DOXY",
+        "BISS"
+      ]
+    },
+    {
+      "name": "Flucloxacillin",
+      "stufe": "3",
+      "aufschrift": "Flucloxacillin",
+      "einsatz": "Einige Haut- und Weichteilinfektionen",
+      "wirkung": "Wirksam gegen bestimmte empfindliche Staphylokokken",
+      "nicht_geeignet": "Nicht gegen MRSA und viele Biss-Mischinfektionen",
+      "risiken": "Penicillinallergie und mögliche Leberreaktionen",
+      "alternativen": "Gezielte Alternative je nach Erreger",
+      "voraussetzungen": "Fachkundige Indikationsprüfung",
+      "quellen": [
+        "WHO"
+      ]
+    },
+    {
+      "name": "Metronidazol",
+      "stufe": "3",
+      "aufschrift": "Metronidazol",
+      "einsatz": "Ausgewählte anaerobe bakterielle und protozoäre Infektionen",
+      "wirkung": "Anaerobier und bestimmte Protozoen",
+      "nicht_geeignet": "Allein nicht zuverlässig gegen viele aerobe Wund- und Atemwegskeime",
+      "risiken": "Wechselwirkungen, neurologische und gastrointestinale Nebenwirkungen",
+      "alternativen": "Abhängig vom Krankheitsbild weitere/andere Antibiotika",
+      "voraussetzungen": "Indikations- und Interaktionsprüfung",
+      "quellen": [
+        "BISS",
+        "WHO"
+      ]
+    },
+    {
+      "name": "Nitrofurantoin",
+      "stufe": "3",
+      "aufschrift": "Nitrofurantoin",
+      "einsatz": "Bestimmte unkomplizierte Blasenentzündungen",
+      "wirkung": "Wirkung gegen ausgewählte Keime im Urin",
+      "nicht_geeignet": "Nicht für Nierenbeckenentzündung geeignet",
+      "risiken": "Nierenfunktion sowie seltene Lungen- und Leberreaktionen beachten",
+      "alternativen": "Fosfomycin oder andere Therapie nur nach Einordnung",
+      "voraussetzungen": "Blaseninfektion sicher von Niereninfektion unterscheiden",
+      "quellen": [
+        "HWI",
+        "NIERE"
+      ]
+    },
+    {
+      "name": "Fosfomycin (oral)",
+      "stufe": "3",
+      "aufschrift": "Fosfomycin-Trometamol; Granulat",
+      "einsatz": "Bestimmte unkomplizierte Blasenentzündungen",
+      "wirkung": "Gegen manche empfindliche Harnwegskeime",
+      "nicht_geeignet": "Nicht für Nierenbeckenentzündung; oral nicht mit Infusionsform verwechseln",
+      "risiken": "Resistenzen und Fehleinsatz bei komplizierten Infektionen",
+      "alternativen": "Nitrofurantoin oder andere leitliniengerechte Therapie",
+      "voraussetzungen": "Patientengruppe und Darreichungsform prüfen",
+      "quellen": [
+        "HWI",
+        "NIERE"
+      ]
+    },
+    {
+      "name": "Azithromycin",
+      "stufe": "3",
+      "aufschrift": "Azithromycin",
+      "einsatz": "Ausgewählte bakterielle Atemwegs- und andere Infektionen",
+      "wirkung": "Einige atypische und empfindliche Erreger",
+      "nicht_geeignet": "Nicht jedes Fieber oder jede Bronchitis braucht dieses Antibiotikum",
+      "risiken": "QT-Verlängerung, Wechselwirkungen und Resistenzen",
+      "alternativen": "Gezielt ausgewählte Alternative nach Diagnose",
+      "voraussetzungen": "Herzrisiko- und Medikationsprüfung",
+      "quellen": [
+        "WHO"
+      ]
+    },
+    {
+      "name": "Cetirizin",
+      "stufe": "4",
+      "aufschrift": "Cetirizin",
+      "einsatz": "Allergischer Juckreiz, Niesen oder Nesselsucht",
+      "wirkung": "Symptomlinderung über Histaminrezeptoren",
+      "nicht_geeignet": "Kein Ersatz für Adrenalin bei Anaphylaxie",
+      "risiken": "Mögliche Müdigkeit, bei Nierenproblemen Vorsicht",
+      "alternativen": "Loratadin oder Allergenvermeidung je nach Situation",
+      "voraussetzungen": "Nicht als Anaphylaxie-Notfallmittel behandeln",
+      "quellen": [
+        "BBK"
+      ]
+    },
+    {
+      "name": "Loperamid",
+      "stufe": "4",
+      "aufschrift": "Loperamid",
+      "einsatz": "Kurzzeitige Symptomlinderung ausgewählter Durchfälle",
+      "wirkung": "Verlangsamt Darmbewegungen, ersetzt keine Flüssigkeit",
+      "nicht_geeignet": "Nicht bei blutigem Durchfall mit Fieber oder schwerem Durchfall nach Antibiotika",
+      "risiken": "Schwere Herzrhythmusstörungen bei Überdosierung",
+      "alternativen": "Zuerst ORS, sicheres Wasser und Ursachenklärung",
+      "voraussetzungen": "Alter, Dauer und Gegenanzeigen beachten",
+      "quellen": [
+        "LOP",
+        "ORS"
+      ]
+    },
+    {
+      "name": "Dimenhydrinat",
+      "stufe": "4",
+      "aufschrift": "Dimenhydrinat",
+      "einsatz": "Übelkeit und bestimmte Formen des Erbrechens",
+      "wirkung": "Lindert Symptome, behebt nicht die Ursache",
+      "nicht_geeignet": "Keine Behandlung schwerer Dehydratation oder des Auslösers",
+      "risiken": "Müdigkeit und anticholinerge Wirkungen",
+      "alternativen": "ORS bei Flüssigkeitsverlust, Ursache klären",
+      "voraussetzungen": "Besondere Vorsicht bei älteren Menschen und Kindern",
+      "quellen": [
+        "BBK"
+      ]
+    },
+    {
+      "name": "Ondansetron",
+      "stufe": "4",
+      "aufschrift": "Ondansetron",
+      "einsatz": "Bestimmte Formen starker Übelkeit/Erbrechen nach Verordnung",
+      "wirkung": "Antiemetische Wirkung",
+      "nicht_geeignet": "Nicht universell bei Übelkeit indiziert",
+      "risiken": "Herzrhythmusrisiko (QT), Wechselwirkungen",
+      "alternativen": "Ursache behandeln, ORS bei Flüssigkeitsverlust",
+      "voraussetzungen": "Medizinische Beurteilung und Medikationsprüfung",
+      "quellen": [
+        "WHO"
+      ]
+    },
+    {
+      "name": "Glukose (oral)",
+      "stufe": "4",
+      "aufschrift": "Glukose; Traubenzucker; Glukose-Gel",
+      "einsatz": "Unterzuckerung bei wacher und sicher schluckfähiger Person",
+      "wirkung": "Hebt Blutzucker kurzfristig",
+      "nicht_geeignet": "NIEMALS oral bei Bewusstlosigkeit oder unsicherem Schlucken",
+      "risiken": "Aspiration und erneute Hypoglykämie",
+      "alternativen": "Bei schwerer Unterzuckerung verordneten Glukagon-Notfallplan beachten",
+      "voraussetzungen": "Bewusstsein und Schluckfähigkeit sicherstellen",
+      "quellen": [
+        "WHO"
+      ]
+    },
+    {
+      "name": "Ceftriaxon (Injektion)",
+      "stufe": "5",
+      "aufschrift": "Ceftriaxon; Pulver zur Injektion/Infusion",
+      "einsatz": "Bestimmte schwere bakterielle Infektionen",
+      "wirkung": "Breite, aber lückenhafte bakterielle Abdeckung",
+      "nicht_geeignet": "Nicht als Tablette; ohne sterile Infrastruktur und Fachpersonal ungeeignet",
+      "risiken": "Allergie, Zubereitungs-/Applikationsfehler, Resistenz",
+      "alternativen": "Wenn klinisch geeignet, orale und gezieltere Therapie",
+      "voraussetzungen": "Qualifiziertes Personal, Sterilität und Überwachung",
+      "quellen": [
+        "WHO",
+        "BISS"
+      ]
+    }
+  ]
+}
