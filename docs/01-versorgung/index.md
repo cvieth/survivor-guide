@@ -1,22 +1,21 @@
 # 01 · Wasser, Nahrung & Versorgung
 
-!!! info "In Arbeit"
-    Dieses Kapitel ist ein redaktioneller Themenplan. Fachlich geprüfte Artikel folgen. Keine der nachstehenden Überschriften ersetzt eine konkrete Anleitung.
+!!! info "Im Aufbau"
+    Dieses Kapitel wird schrittweise mit belegten und fachlich geprüften Artikeln ausgebaut. Nicht alle Texte sind bereits von Fachleuten begutachtet.
 
-## Themenfelder
+## Erste Fachartikel
 
-- Trinkwassersuche
-- Wasseraufbereitung
-- Lebensmittelhygiene
-- Konservierung
-- Landwirtschaft
-- Tierhaltung
-- Vorratshaltung
+- [Wasserbedarf pro Person und Tag](wasserbedarf-pro-person.md) – Normalbetrieb, Krisenminimum, Überlebensminimum und Aufbereitungsverluste.
 
-## Ziel
+## Geplante Themenfelder
 
-Für jedes Themenfeld entstehen quellenbasierte Artikel mit Voraussetzungen, Verfahren, Gefahren, Alternativen und Hinweisen zur Anwendung bei eingeschränkter Infrastruktur.
+- Trinkwassersuche und Quellenbewertung
+- Wasseraufbereitung und Aufbereitungsverluste
+- Lagerung und Vorratshaltung
+- Hygiene und Sanitärversorgung
+- Lebensmittelhygiene und Konservierung
+- Landwirtschaft und Tierhaltung
 
-## Mitmachen
+## Mitarbeit
 
-Schlage einen Artikel vor oder verbessere bestehende Beiträge über [GitHub](https://github.com/cvieth/survivor-guide/issues).
+Schlage Ergänzungen vor oder melde Fehler über [GitHub](https://github.com/cvieth/survivor-guide/issues).

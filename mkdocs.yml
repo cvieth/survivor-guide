@@ -44,7 +44,9 @@ nav:
   - '00 · Grundlagen & Soforthilfe':
       - Überblick: 00-grundlagen/index.md
       - Die ersten 72 Stunden: 00-grundlagen/erste-72-stunden.md
-  - '01 · Wasser, Nahrung & Versorgung': 01-versorgung/index.md
+  - '01 · Wasser, Nahrung & Versorgung':
+      - Überblick: 01-versorgung/index.md
+      - Wasserbedarf pro Person und Tag: 01-versorgung/wasserbedarf-pro-person.md
   - '02 · Medizin & Gesundheit': 02-medizin/index.md
   - '03 · Pharmazie, Substanzen & Chemie': 03-pharmazie/index.md
   - '04 · Kommunikation & Information': 04-kommunikation/index.md
