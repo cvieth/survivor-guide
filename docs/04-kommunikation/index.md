@@ -1,7 +1,11 @@
 # 04 · Kommunikation & Information
 
-!!! info "In Arbeit"
-    Dieses Kapitel ist ein redaktioneller Themenplan. Fachlich geprüfte Artikel folgen. Keine der nachstehenden Überschriften ersetzt eine konkrete Anleitung.
+Die folgenden beiden Nachschlagewerke sind quellenbasiert dokumentiert und illustriert. Die abschließende redaktionelle Prüfung steht noch aus.
+
+## Verfügbare Anleitungen
+
+- **[Morsealphabet](morsealphabet.md)** – A–Z, Ziffern, Zeitregeln und Notsignale.
+- **[Flaggensemaphore / Winkeralphabet](flaggenalphabet.md)** – A–Z, Winkelstellungen, Ziffern- und Steuerzeichen.
 
 ## Themenfelder
 
@@ -9,7 +13,6 @@
 - Amateurfunk
 - PMR-Funk
 - Antennen
-- Morsecode
 - Mesh-Netze
 - Kryptografie
 - Navigation
