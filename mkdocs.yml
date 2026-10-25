@@ -48,7 +48,10 @@ nav:
       - Überblick: 01-versorgung/index.md
       - Wasserbedarf pro Person und Tag: 01-versorgung/wasserbedarf-pro-person.md
   - '02 · Medizin & Gesundheit': 02-medizin/index.md
-  - '03 · Pharmazie, Substanzen & Chemie': 03-pharmazie/index.md
+  - '03 · Pharmazie, Substanzen & Chemie':
+      - Überblick: 03-pharmazie/index.md
+      - Apotheke bei Versorgungsausfall – Prioritäten: 03-pharmazie/apotheke-prioritaeten.md
+      - Wirkstoffregister (Offline): 03-pharmazie/wirkstoffregister.md
   - '04 · Kommunikation & Information': 04-kommunikation/index.md
   - '05 · Technologie, Elektronik & IT': 05-technologie/index.md
   - '06 · Energie, Unterkunft & Infrastruktur': 06-infrastruktur/index.md
