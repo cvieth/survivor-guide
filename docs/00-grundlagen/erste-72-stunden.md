@@ -23,7 +23,7 @@ Akute Verletzungen versorgen, verfügbare Erste-Hilfe-Ausrüstung überprüfen u
 2. **Dann Brauchwasser:** Geeignete weitere Gefäße (z. B. Badewanne, Eimer) für Toilettenspülung oder andere vertretbare Zwecke auffüllen.
 3. **Qualität schützen:** Trink- und Brauchwasser getrennt lagern. Warnungen von Wasserversorger und Behörden beachten. Besteht bereits der Verdacht einer Kontamination, **kein Leitungswasser als Trinkwasser abfüllen**; auch technische Verwendung nur nach Lagebeurteilung.
 
-Das BBK empfiehlt, bei drohendem Wasserausfall noch verfügbares Wasser in Gefäßen zu sammeln. Details und Grenzen: [Wasserbedarf pro Person und Tag](../01-versorgung/wasserbedarf-pro-person.md#sofortmassnahme-bei-drohendem-versorgungsausfall-wasser-sichern).
+Das BBK empfiehlt, bei drohendem Wasserausfall noch verfügbares Wasser in Gefäßen zu sammeln. Details und Grenzen: [Wasserbedarf pro Person und Tag](../01-versorgung/wasserbedarf-pro-person.md).
 
 Trinkwasser vor Verunreinigung schützen, vorhandene Vorräte und Verbrauch erfassen. Verdächtige oder möglicherweise kontaminierte Lebensmittel nicht unkritisch verwenden.
 
