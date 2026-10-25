@@ -1,21 +1,19 @@
 # 12 · Nachschlagewerke & Anhänge
 
-!!! info "In Arbeit"
-    Dieses Kapitel ist ein redaktioneller Themenplan. Fachlich geprüfte Artikel folgen. Keine der nachstehenden Überschriften ersetzt eine konkrete Anleitung.
+Dieser Bereich enthält strukturierte Nachschlagewerke für die schnelle Suche und zur Offline-Nutzung.
 
-## Themenfelder
+## Verfügbare Nachschlagewerke
 
-- Checklisten
-- Einheiten
-- Formeln
-- Materialtabellen
-- Glossar
-- Quellenregister
+- **[Wirkstoffregister – 25 Medikamente und Wirkstoffe](wirkstoffregister.md)** – Wirkungen, Einsatzgebiete, Grenzen, Risiken, Alternativen und Quellen. Die Inhalte sind **noch nicht medizinisch fachgeprüft**.
 
-## Ziel
+Für die praktische Priorisierung bei einer unterbrochenen Gesundheitsversorgung siehe [Apotheken-Prioritätenliste](../03-pharmazie/apotheke-prioritaeten.md).
 
-Für jedes Themenfeld entstehen quellenbasierte Artikel mit Voraussetzungen, Verfahren, Gefahren, Alternativen und Hinweisen zur Anwendung bei eingeschränkter Infrastruktur.
+## Geplante Themen
+
+- Weitere Wirkstoff- und Materialregister
+- Checklisten, Einheiten und Formeln
+- Glossar und Quellenregister
 
 ## Mitmachen
 
-Schlage einen Artikel vor oder verbessere bestehende Beiträge über [GitHub](https://github.com/cvieth/survivor-guide/issues).
+Schlage Ergänzungen über [GitHub](https://github.com/cvieth/survivor-guide/issues) vor.
