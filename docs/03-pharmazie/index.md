@@ -6,7 +6,7 @@
 ## Verfügbare Artikel
 
 - **[Apotheke bei Versorgungsausfall: Such- und Prioritätenliste](apotheke-prioritaeten.md)** – Was bei knapper Zeit medizinisch besonders nützlich sein kann.
-- **[Wirkstoffregister (Offline-Nachschlagewerk)](wirkstoffregister.md)** – 25 durchsuchbare Steckbriefe mit Wirkungen, Grenzen, Risiken, Alternativen und Quellen.
+- **[Wirkstoffregister (Kapitel 12 · Nachschlagewerke)](../12-nachschlagewerk/wirkstoffregister.md)** – 25 durchsuchbare Steckbriefe mit Wirkungen, Grenzen, Risiken, Alternativen und Quellen.
 
 !!! warning "Medizinische Fachprüfung ausstehend"
     Die neuen Artikel sind recherchierte Entwürfe und keine Dosierungs-, Diagnose- oder Behandlungsempfehlungen.
