@@ -6,11 +6,11 @@
 ## Erste Fachartikel
 
 - [Wasserbedarf pro Person und Tag](wasserbedarf-pro-person.md) – Normalbetrieb, Krisenminimum, Überlebensminimum und Aufbereitungsverluste.
+- [Oberflächenwasser aufbereiten](oberflaechenwasser-aufbereiten.md) – Materialien, Bezugsquellen, Notverfahren und Risiken.
 
 ## Geplante Themenfelder
 
 - Trinkwassersuche und Quellenbewertung
-- Wasseraufbereitung und Aufbereitungsverluste
 - Lagerung und Vorratshaltung
 - Hygiene und Sanitärversorgung
 - Lebensmittelhygiene und Konservierung
