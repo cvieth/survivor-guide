@@ -1,22 +1,28 @@
 # Medizin & Gesundheit
 
-!!! info "In Arbeit"
-    Dieses Kapitel ist ein redaktioneller Themenplan. Fachlich geprüfte Artikel folgen. Keine der nachstehenden Überschriften ersetzt eine konkrete Anleitung.
+!!! warning "Im Aufbau: medizinische Fachprüfung steht aus"
+    Die vorhandenen Anleitungen sind recherchierte Entwürfe. Fachprüfung und praktische Validierung stehen aus. Im akuten Notfall verfügbare professionelle Hilfe nutzen.
 
-## Themenfelder
+## Grundprinzip
 
-- Erste Hilfe
-- Anatomie und Physiologie
-- Wundversorgung
-- Infektionen
-- Zahnmedizin
-- Geburtshilfe
-- Pflege und Prävention
+Eine medizinische Anleitung muss auch dann benutzbar sein, wenn **kein Telefon, Rettungsdienst, Arzt, Labor oder Apotheke erreichbar** ist. Deshalb beschreiben wir Warnzeichen, einfache Beobachtungen, sichere Sofortmaßnahmen, Gegenanzeigen und Grenzen der Selbsthilfe. Ein Notruf ist sinnvoll, wenn er möglich ist, ersetzt aber keine Anleitung.
 
-## Ziel
+## Bereits dokumentiert
 
-Für jedes Themenfeld entstehen quellenbasierte Artikel mit Voraussetzungen, Verfahren, Gefahren, Alternativen und Hinweisen zur Anwendung bei eingeschränkter Infrastruktur.
+- **[Fieber erkennen und versorgen](fieber-erkennen-und-versorgen.md):** Temperatur messen, Warnzeichen erkennen, Fieber von Hitzschlag unterscheiden, ohne Medikamente versorgen, geeignete Fiebermittel und Heilpflanzen kritisch einordnen.
+
+## Prioritäre weitere Anleitungen
+
+1. **Bewusstlosigkeit, Atmung und Wiederbelebung:** Seitenlage, Herz-Lungen-Wiederbelebung und AED.
+2. **Schwere Blutung und Schock:** Blutung stoppen, gefährlichen Blutverlust erkennen, stabilisieren.
+3. **Austrocknung, Durchfall und Erbrechen:** Rehydratation und Alarmzeichen, insbesondere bei Kindern.
+4. **Wunden, Verbrennungen und Infektionen:** Reinigung, Verbände, Entzündungszeichen und Versorgungsausfall.
+5. **Sepsis, Hirnhautentzündung und schwere Atemwegsinfektionen:** Warnzeichen und Grenzen ohne Antibiotika oder Klinik.
+6. **Verletzungen, Knochenbrüche und Schmerzen:** Ruhigstellen, schonender Transport, Risikokriterien.
+7. **Schwangerschaft, Geburt, Säuglinge sowie chronische Erkrankungen:** Risiken und grundlegende Versorgung.
+
+Weitere Felder: Anatomie, Zahnmedizin, Hygiene, Pflege und Prävention.
 
 ## Mitmachen
 
-Schlage einen Artikel vor oder verbessere bestehende Beiträge über [GitHub](https://github.com/cvieth/survivor-guide/issues).
+Fehler oder fehlende Informationen bitte [auf GitHub melden](https://github.com/cvieth/survivor-guide/issues). Fachlich qualifizierte Beiträge, vor allem zur Medikamentensicherheit und Notfallmedizin, sind wichtig.

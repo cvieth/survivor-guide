@@ -21,6 +21,8 @@ Der QR-Code führt zum GitHub-Projekt und ist auch in den Druckausgaben enthalte
 
 ## Direkt zum Wissen
 
+- **[Fieber erkennen und versorgen](02-medizin/fieber-erkennen-und-versorgen.md)**: Auch ohne Rettungsdienst Temperatur, Warnzeichen, Maßnahmen und Grenzen der Selbsthilfe beurteilen.
+
 - **[Sirenensignale erkennen](04-kommunikation/sirenensignale.md)**: Warnung, Entwarnung, Probealarm und Verhalten bei Gefahr.
 - **[Wirkstoffregister (Kapitel 12)](12-nachschlagewerk/wirkstoffregister.md)**: 25 Wirkstoff-Steckbriefe als offline nutzbares Nachschlagewerk.
 - **[Apotheken-Prioritätenliste (Kapitel 03)](03-pharmazie/apotheke-prioritaeten.md)**: Suchstrategie bei langem Versorgungsausfall.

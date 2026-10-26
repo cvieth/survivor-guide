@@ -20,6 +20,18 @@ Ein Review kann keine garantierte Sicherheit herstellen. Aktualität und Rahmenb
 
 Primärquellen, wissenschaftliche Publikationen, amtliche Handbücher, Normen und verlässliche Fachliteratur bevorzugen. Urheber, Titel, Veröffentlichungsdatum, Version und Link festhalten.
 
+
+## Wenn professionelle Hilfe nicht verfügbar ist
+
+Der Survivor Guide muss ohne Internet, Mobilfunk, Rettungsdienst, Arztpraxis und Apotheke sinnvoll bleiben. Bei jeder prozeduralen Anleitung werden **zwei Versorgungslagen** berücksichtigt:
+
+1. **Professionelle Hilfe verfügbar:** Fachkräfte und Notruf nutzen, gleichzeitig unmittelbar notwendige Erste Hilfe leisten.
+2. **Professionelle Hilfe nicht verfügbar:** Konkret beschreiben, was Laien mit verfügbaren Mitteln selbst erkennen, sicher tun, unterlassen und wiederholt kontrollieren können. Zusätzlich erklären, wo die Grenzen der Selbsthilfe liegen und welche Warnzeichen eine sofortige Suche nach anderen Helfern oder einem sicheren Transport erfordern.
+
+**Ein bloßer Hinweis auf 112, Arzt oder Apotheke genügt nicht.** Die Ausfallvariante ist keine Aufforderung zu unkontrollierten Medikamentenexperimenten oder invasiven Eingriffen. Fehlende Diagnostik ist als Unsicherheit kenntlich zu machen. Belastbare Sofortmaßnahmen und die Grenzen nicht behandelbarer Erkrankungen müssen trotzdem dokumentiert werden.
+
+Für medizinische Themen mindestens abdecken: Symptome und Messung auch mit wenig Ausstattung, lebensbedrohliche Warnzeichen, Entscheidung zur Dringlichkeit, konkrete Erstmaßnahmen, verfügbare und fehlende Mittel, geeignete Wirkstoffe mit Voraussetzungen und Gegenanzeigen, Beobachtung des Verlaufs sowie Handlung bei Verschlechterung. Kritische Verzweigungen als textbasierte Entscheidungsblöcke darstellen. Die Darstellung muss offline und im Druck ohne verlinkte externe Anleitungen verständlich sein.
+
 ## Risiko
 
 Bei Medizin, Medikamenten, Chemie, Strom, Bau und Sicherheit müssen Fehlerfolgen, Gegenanzeigen, erforderliche Fachkenntnisse und sichere Alternativen besonders klar dargestellt sein.

@@ -11,6 +11,8 @@
 !!! warning "Medizinische Fachprüfung ausstehend"
     Die neuen Artikel sind recherchierte Entwürfe und keine Dosierungs-, Diagnose- oder Behandlungsempfehlungen.
 
+Bei Fieber: [Symptome einordnen und mögliche Maßnahmen prüfen](../02-medizin/fieber-erkennen-und-versorgen.md), statt ausschließlich nach einem Medikament zu suchen.
+
 ## Weitere Themenfelder
 
 - Wirkstoffkunde
