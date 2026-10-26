@@ -32,14 +32,14 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 
 ## Steckbriefe
 
-### Weidenrinde
+### Weidenrinde {#weidenrinde}
 
 - **Botanisch:** `Salix`-Arten, insbesondere die in der [EMA-Monografie](https://www.ema.europa.eu/en/medicines/herbal/salicis-cortex) erfassten Arten. Verwendet wird die **Rinde**, nicht beliebiges Blattmaterial.
 - **Anwendung und Evidenz:** Für definierte Präparate traditionelle Anwendung bei erkältungsbedingtem Fieber, Kopf- und leichten Gelenkschmerzen; für bestimmte standardisierte Trockenextrakte bestehen zusätzlich klinische Daten bei kurzzeitigen Rückenschmerzen. **Nur für Erwachsene.**
-- **Wesentliches Risiko:** Salicylat-Verbindungen; nicht als harmloser Ersatz für [ASS, Ibuprofen oder Paracetamol](wirkstoffregister.md#ibuprofen) betrachten. Keine Anwendung bei Salicylatallergie, Blutungsneigung bzw. entsprechenden Medikamenten ohne fachliche Prüfung. Bei Schwangerschaft, Jugendlichen, Magen- oder Nierenproblemen besonders ungeeignet. Nicht mit ASS oder anderen schmerzstillenden Entzündungshemmern improvisiert kombinieren.
+- **Wesentliches Risiko:** Salicylat-Verbindungen; nicht als harmlosen Ersatz für [Ibuprofen](wirkstoffregister.md#ibuprofen) oder [Paracetamol](wirkstoffregister.md#paracetamol) betrachten. Keine Anwendung bei Salicylatallergie, Blutungsneigung bzw. entsprechenden Medikamenten ohne fachliche Prüfung. Bei Schwangerschaft, Jugendlichen, Magen- oder Nierenproblemen besonders ungeeignet. Nicht mit ASS oder anderen schmerzstillenden Entzündungshemmern improvisiert kombinieren.
 - **Ohne Versorgung:** Eigenständig gesammelte Rinde hat stark schwankenden Gehalt. **Keine verlässliche Heimdosierung** ableiten. Bei Fieber siehe [Fieberanleitung](../02-medizin/fieber-erkennen-und-versorgen.md).
 
-### Holunderblüten
+### Holunderblüten {#holunderblueten}
 
 - **Botanisch:** `Sambucus nigra`, **Blüten** (nicht rohe Beeren, Blätter oder Rinde).
 - **Anwendung und Evidenz:** Traditionell bei ersten Erkältungsbeschwerden; **kein gesicherter Ersatz für Fiebersenkung oder Infektionsbehandlung**.
@@ -47,7 +47,7 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Verknüpfung:** [Fieber und Erkältung](../02-medizin/fieber-erkennen-und-versorgen.md).
 - **Quelle:** [EMA, Sambuci flos](https://www.ema.europa.eu/en/medicines/herbal/sambuci-flos).
 
-### Lindenblüten
+### Lindenblüten {#lindenblueten}
 
 - **Botanisch:** `Tilia cordata`, `Tilia platyphyllos` und erfasste Hybriden, **Blütenstände**.
 - **Anwendung und Evidenz:** Traditionell zur Linderung von Erkältungsbeschwerden und leichten Stresssymptomen. **Keine klinisch verlässliche Fiebersenkung behaupten.**
@@ -55,7 +55,7 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Verknüpfung:** [Fieber und Flüssigkeit](../02-medizin/fieber-erkennen-und-versorgen.md).
 - **Quelle:** [EMA, Tiliae flos](https://www.ema.europa.eu/en/medicines/herbal/tiliae-flos).
 
-### Thymian
+### Thymian {#thymian}
 
 - **Botanisch:** `Thymus vulgaris` oder `Thymus zygis`, **Blätter und Blüten**.
 - **Anwendung und Evidenz:** Traditionell bei **produktivem Husten** im Rahmen einer Erkältung, nicht bei jeder Art von Atemnot.
@@ -63,7 +63,7 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Verknüpfung:** [Husten und Warnzeichen](../02-medizin/beschwerden-und-mittel.md#husten-und-atemwege).
 - **Quelle:** [EMA, Thymi herba](https://www.ema.europa.eu/en/medicines/herbal/thymi-herba).
 
-### Eibischwurzel
+### Eibischwurzel {#eibischwurzel}
 
 - **Botanisch:** `Althaea officinalis`, getrocknete **Wurzel**.
 - **Anwendung und Evidenz:** Traditionell bei gereiztem Mund- und Rachenraum mit **trockenem Reizhusten** sowie bei leichten Magen-Darm-Beschwerden.
@@ -71,7 +71,7 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Verknüpfung:** [Husten](../02-medizin/beschwerden-und-mittel.md#husten-und-atemwege) und [Magenbeschwerden](../02-medizin/beschwerden-und-mittel.md#magen-und-darm).
 - **Quelle:** [EMA, Althaeae radix](https://www.ema.europa.eu/en/medicines/herbal/althaeae-radix).
 
-### Spitzwegerich
+### Spitzwegerich {#spitzwegerich}
 
 - **Botanisch:** `Plantago lanceolata`, **Blätter**.
 - **Anwendung und Evidenz:** In der EMA-Monografie traditionelle Anwendung bei Schleimhautreizungen im Mund/Rachen und damit verbundenem trockenem Husten. Kein Nachweis einer Behandlung schwerer Atemwegsinfektionen.
@@ -79,7 +79,7 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Verknüpfung:** [Husten](../02-medizin/beschwerden-und-mittel.md#husten-und-atemwege).
 - **Quelle:** [EMA, Plantaginis lanceolatae folium](https://www.ema.europa.eu/en/medicines/herbal/plantaginis-lanceolatae-folium).
 
-### Kamillenblüten
+### Kamillenblüten {#kamillenblueten}
 
 - **Botanisch:** `Matricaria recutita` (auch `Matricaria chamomilla`), **Blütenköpfchen**; nicht mit Römischer Kamille verwechseln.
 - **Anwendung und Evidenz:** Traditionell bei leichten Blähungen und Krämpfen, Mund- und Rachenreizungen, Erkältungssymptomen sowie leichten oberflächlichen Hautreizungen.
@@ -87,7 +87,7 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Verknüpfung:** [Mund/Rachen](../02-medizin/beschwerden-und-mittel.md#mund-und-rachen), [Magen/Darm](../02-medizin/beschwerden-und-mittel.md#magen-und-darm), [Wunden](../02-medizin/beschwerden-und-mittel.md#haut-und-kleine-wunden).
 - **Quelle:** [EMA, Matricariae flos](https://www.ema.europa.eu/en/medicines/herbal/matricariae-flos).
 
-### Salbeiblätter
+### Salbeiblätter {#salbeiblaetter}
 
 - **Botanisch:** `Salvia officinalis`, **Blätter**.
 - **Anwendung und Evidenz:** Traditionell bei leichten Entzündungen im Mund- und Rachenraum und bei bestimmten milden Verdauungsbeschwerden.
@@ -95,7 +95,7 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Verknüpfung:** [Mund und Rachen](../02-medizin/beschwerden-und-mittel.md#mund-und-rachen).
 - **Quelle:** [EMA, Salviae officinalis folium](https://www.ema.europa.eu/en/medicines/herbal/salviae-officinalis-folium).
 
-### Ringelblumenblüten
+### Ringelblumenblüten {#ringelblumenblueten}
 
 - **Botanisch:** `Calendula officinalis`, **Blüten**.
 - **Anwendung und Evidenz:** Traditionelle äußerliche Anwendung zur Unterstützung der Heilung **kleiner oberflächlicher Wunden**, bei leichter Hautentzündung sowie bei leichten Entzündungen im Mund-/Rachenraum.
@@ -103,7 +103,7 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Verknüpfung:** [Kleine Wunden](../02-medizin/beschwerden-und-mittel.md#haut-und-kleine-wunden), [Wirkstoffe zur Wundantiseptik](wirkstoffregister.md#octenidin).
 - **Quelle:** [EMA, Calendulae flos](https://www.ema.europa.eu/en/medicines/herbal/calendulae-flos).
 
-### Pfefferminzblätter
+### Pfefferminzblätter {#pfefferminzblaetter}
 
 - **Botanisch:** `Mentha × piperita`, **Blätter**.
 - **Anwendung und Evidenz:** Traditionell zur Linderung von Blähungen und leichter Verdauungsstörung, **nicht zur Behandlung von Austrocknung oder infektiösem Durchfall**.
@@ -111,7 +111,7 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Verknüpfung:** [Magen und Darm](../02-medizin/beschwerden-und-mittel.md#magen-und-darm), [ORS](wirkstoffregister.md#orale-rehydratationssalze-ors).
 - **Quelle:** [EMA, Menthae piperitae folium](https://www.ema.europa.eu/en/medicines/herbal/menthae-piperitae-folium).
 
-### Ingwer
+### Ingwer {#ingwer}
 
 - **Botanisch:** `Zingiber officinale`, unterirdischer **Wurzelstock (Rhizom)**.
 - **Anwendung und Evidenz:** Für **definiertes Ingwerpulver gegen Reiseübelkeit bei Erwachsenen** gibt es klinische Daten. Weitere Anwendungen bei leichten Magen-Darm-Beschwerden und Erkältung beruhen wesentlich auf Tradition.
@@ -119,7 +119,7 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Verknüpfung:** [Übelkeit und Magenbeschwerden](../02-medizin/beschwerden-und-mittel.md#magen-und-darm).
 - **Quelle:** [EMA, Zingiberis rhizoma, Revision 2025](https://www.ema.europa.eu/en/medicines/herbal/zingiberis-rhizoma).
 
-### Eichenrinde
+### Eichenrinde {#eichenrinde}
 
 - **Botanisch:** `Quercus robur`, `Quercus petraea` und `Quercus pubescens`, **Rinde**.
 - **Anwendung und Evidenz:** Traditionelle Anwendung definierter Präparate unter anderem bei **leichtem Durchfall** und begrenzten äußeren Hautproblemen. Gerbstoffe machen die Rinde nicht zu einem Mittel gegen gefährliche Darminfektionen.
