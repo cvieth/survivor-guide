@@ -22,7 +22,7 @@ Dieser Bereich ist die **zentrale Fundstelle** für wiederverwendbare Steckbrief
 
 ## Technische Nachschlagetabellen
 
-- [Feuer machen: Zunder- und Zündmethodentabelle](../06-infrastruktur/feuer-machen.md#welche-zuendmethode-ist-verfuegbar): Feuerzeug, Streichhölzer, Feuerstahl, Linse und Bogenbohrer mit Anforderungen und Grenzen.
+- [Feuer machen: Zunder- und Zündmethodentabelle](../06-infrastruktur/feuer-machen.md): Feuerzeug, Streichhölzer, Feuerstahl, Linse und Bogenbohrer mit Anforderungen und Grenzen.
 
 - [Morsealphabet und Morsebaum](../04-kommunikation/morsealphabet.md): Texttabellen und Zeiten für Funk, Licht oder Ton.
 - [Winkeralphabet / Flaggensemaphore](../04-kommunikation/flaggenalphabet.md): Zeichen, Stellungen und Regeln.
