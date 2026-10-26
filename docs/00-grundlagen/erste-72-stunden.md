@@ -18,7 +18,7 @@ hint: "Brand, Rauch im Fluchtbereich, Einsturzgefahr, eindringendes Hochwasser o
 ::: answer danger "JA" "Sicherheit vor Besitz"
 **Unverzüglich einen tatsächlich sicheren Flucht- oder Rettungsweg nutzen**, soweit vorhanden und gemäß Anweisungen der Einsatzkräfte. Andere warnen und unterstützen, **ohne sich selbst zu gefährden**. Bei Feuer keine verrauchten Treppenhäuser und keine Aufzüge benutzen; bei Hochwasser weder überflutete Wege befahren noch Keller aufsuchen.
 
-**Ist der Weg nicht sicher passierbar:** nicht blind hinauslaufen, sondern einen vor der konkreten Gefahr geschützten Bereich erreichen, sich bemerkbar machen und **112** verständigen, wenn erreichbar. Vorräte, Haustiergepäck oder Dokumente dürfen lebensrettende Schritte nicht verzögern.
+**Ist der Weg nicht sicher passierbar:** nicht blind hinauslaufen, sondern einen vor der konkreten Gefahr geschützten Bereich erreichen, sich bemerkbar machen und **112** verständigen, wenn erreichbar. Vorräte, Haustiergepäck oder Dokumente dürfen lebensrettende Schritte nicht verzögern. **Nur wenn sicheres Packen überhaupt möglich ist:** [Was bei einer Evakuierung mitnehmen?](evakuierung-notgepaeck.md)
 ::: answer neutral "NEIN / UNKLAR" "Außengefahr als Nächstes prüfen"
 Nicht automatisch loslaufen oder Entwarnung annehmen. **Die nächste Frage** klärt, ob vorläufiger Schutz innerhalb des Gebäudes besser ist. Bei unklarer Lage Warninformationen beschaffen, sofern dies keine Verzögerung bei klarer Lebensgefahr verursacht.
 ::: enddecision
@@ -42,7 +42,7 @@ hint: "Tragwerk, Rauch oder Gasgeruch, eindringendes Wasser, gefährliche elektr
 ::: answer protect "JA" "72-Stunden-Plan am Standort beginnen"
 Vorerst bleiben, Warnkanäle offenhalten und **jetzt** die Maßnahmen der ersten 15 Minuten durchführen. Der Standort bleibt nur so lange eine Option, wie seine Sicherheit vertretbar ist.
 ::: answer danger "NEIN" "Sicheren Ersatzschutz suchen"
-Nicht dort verweilen. Geschützten Bereich oder eine offiziell benannte Unterkunft über **sichere Wege** erreichen. Wenn das Verlassen wegen äußerer Gefahren gerade gefährlicher wäre, in den bestgeschützten erreichbaren Bereich wechseln und Hilfe anfordern.
+Nicht dort verweilen. Geschützten Bereich oder eine offiziell benannte Unterkunft über **sichere Wege** erreichen. Wenn das Verlassen wegen äußerer Gefahren gerade gefährlicher wäre, in den bestgeschützten erreichbaren Bereich wechseln und Hilfe anfordern. **Für den sicheren Aufbruch:** [Evakuierung, Zeitbudget und Notgepäck](evakuierung-notgepaeck.md).
 ::: answer neutral "NICHT BEURTEILBAR" "Nicht blind entscheiden"
 Warnungen, erkennbare Gebäudeschäden und sichere Bereiche prüfen, ohne gefährdete Stellen zu betreten. Im Zweifel aus akut gefährlichen Räumen zurückziehen, andere warnen und fachkundige Hilfe suchen; fehlende Informationen sind keine Entwarnung.
 ::: enddecision
@@ -182,7 +182,7 @@ hint: "Raumtemperatur, Kleidung, Feuchtigkeit, Säuglinge, ältere oder erkrankt
 ::: answer protect "JA" "Wärmeverlust begrenzen"
 Aufenthalt auf einen geeigneten Raum konzentrieren, Türen zu ungenutzten Zimmern schließen, trockene Kleidung, Decken und sichere Beleuchtung bereitstellen. **Richtig lüften, wenn es die Außenlage erlaubt.** Vorhandene fest installierte Heizgeräte nur bestimmungsgemäß betreiben.
 ::: answer danger "NEIN" "Sichere beheizte Alternative suchen"
-Frühzeitig **amtliche Wärmeanlaufstellen oder andere sichere beheizte Unterkünfte** ermitteln. Bei akuter Unterkühlungsgefahr Hilfe rufen. **Keine** Kohlegrills, Generatoren oder improvisierten Verbrennungsheizungen in Wohnräumen, Garagen oder angrenzenden Innenbereichen betreiben: Kohlenmonoxid- und Brandgefahr.
+Frühzeitig **amtliche Wärmeanlaufstellen oder andere sichere beheizte Unterkünfte** ermitteln. Bei akuter Unterkühlungsgefahr Hilfe rufen. Falls ein Ortswechsel nötig und sicher möglich ist: [Evakuierung vorbereiten und Wesentliches mitnehmen](evakuierung-notgepaeck.md). **Keine** Kohlegrills, Generatoren oder improvisierten Verbrennungsheizungen in Wohnräumen, Garagen oder angrenzenden Innenbereichen betreiben: Kohlenmonoxid- und Brandgefahr.
 ::: enddecision
 
 **Beim Kochen:** möglichst kalt verzehrbare Vorräte bevorzugen; Campingkocher nur für die vom Hersteller zugelassenen Einsatzbedingungen benutzen. Offene Grillgeräte gehören nicht in Innenräume. Rauch-/CO-Melder, wenn vorhanden, funktionsfähig halten. [BBK: Vorsorge bei Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html).

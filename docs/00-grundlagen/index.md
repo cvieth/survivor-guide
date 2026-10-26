@@ -8,8 +8,8 @@
 - Krisenarten
 - Risikoanalyse
 - Notfallplanung
-- Evakuierung
-- Die ersten 72 Stunden
+- [Evakuierung und Notgepäck nach Zeitbudget](evakuierung-notgepaeck.md)
+- [Die ersten 72 Stunden](erste-72-stunden.md)
 - Checklisten
 
 ## Ziel
