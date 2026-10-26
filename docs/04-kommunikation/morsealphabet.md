@@ -9,6 +9,56 @@ Der **internationale Morsecode** stellt Buchstaben und Ziffern durch kurze Signa
 
 ![Morsealphabet, alle Buchstaben von A bis Z und Ziffern von 0 bis 9 mit Zeitregeln](../assets/kommunikation/morsealphabet.svg){ width=100% }
 
+## Morsezeichen mit einem Baum entschlüsseln
+
+Wer den Code nicht auswendig kennt, kann jedes empfangene Zeichen **Schritt für Schritt** im Morsebaum suchen. Bei jeder Verzweigung folgt man **·** (kurz, Punkt) oder **—** (lang, Strich). Nach dem letzten Signal liest du den Buchstaben am erreichten Knoten ab. Ein Knoten kann schon einen vollständigen Buchstaben enthalten, auch wenn weitere Zweige abgehen.
+
+Die beiden Diagramme enthalten zusammen **alle 26 Buchstaben A–Z**. Für die Lesbarkeit in der Buchausgabe sind die beiden Hälften des Binärbaums getrennt. Beginne mit dem passenden ersten Signal. Die Ziffern findest du in der Tabelle weiter unten.
+
+### Erstes Signal kurz (·)
+
+```mermaid
+%% alt: Morsebaum für Buchstaben mit kurzem ersten Signal, von E bis zu vier Signalzeichen
+flowchart TB
+    root((Start))
+    root -->|·| E["E"]
+    E -->|·| I["I"]
+    E -->|—| A["A"]
+    I -->|·| S["S"]
+    I -->|—| U["U"]
+    A -->|·| R["R"]
+    A -->|—| W["W"]
+    S -->|·| H["H"]
+    S -->|—| V["V"]
+    U -->|·| F["F"]
+    R -->|·| L["L"]
+    W -->|·| P["P"]
+    W -->|—| J["J"]
+```
+
+### Erstes Signal lang (—)
+
+```mermaid
+%% alt: Morsebaum für Buchstaben mit langem ersten Signal, von T bis zu vier Signalzeichen
+flowchart TB
+    root((Start))
+    root -->|—| T["T"]
+    T -->|·| N["N"]
+    T -->|—| M["M"]
+    N -->|·| D["D"]
+    N -->|—| K["K"]
+    M -->|·| G["G"]
+    M -->|—| O["O"]
+    D -->|·| B["B"]
+    D -->|—| X["X"]
+    K -->|·| C["C"]
+    K -->|—| Y["Y"]
+    G -->|·| Z["Z"]
+    G -->|—| Q["Q"]
+```
+
+**Beispiel:** · — · ergibt **R**: Im kurzen Baum von Start über E (·), A (—) zu R (·). Zunächst einzelne Buchstaben üben, danach kurze Wörter mit klaren Pausen.
+
 ## Buchstaben A–Z
 
 | Buchstabe | Morsecode | Buchstabe | Morsecode |

@@ -28,3 +28,18 @@ Entscheidungsbäume als wiederverwendbaren Markdown-Block formulieren. Beispiel 
 Die Typen sind `danger` (rot), `protect` (blau) und `neutral` (neutral). Erlaubt sind zwei oder drei Antwortkarten. Der Text jeder Karte ist normales Markdown. Inhalte müssen auch ohne Farben verständlich sein. Keine verschachtelten Blöcke; für Folgeschritte einen weiteren Block schreiben.
 
 Das PDF verwendet für zwei Antworten auf A4 zwei nebeneinanderliegende Karten. Im schmalen Buchformat stehen die Karten untereinander und werden für Schwarzweißdruck ausgegeben. Website-Karten sind responsiv.
+
+## Allgemeine Diagramme mit Mermaid
+
+Diagramme in Artikeln als `mermaid`-Codeblock direkt in Markdown pflegen. Die Website rendert sie mit MkDocs Material. Für PDF und Buchausgabe erzeugt `scripts/mermaid_diagrams.py` beim Build automatisch SVG-Vektorgrafiken aus demselben Codeblock. **Keine separat gepflegten Diagrammbilder.**
+
+Beispiel (ohne Einrückung im Artikel):
+
+    ```mermaid
+    %% alt: Start mit zwei beschrifteten Ausgängen
+    flowchart TD
+        A["Start"] -->|Ja| B["Aktion A"]
+        A -->|Nein| C["Aktion B"]
+    ```
+
+Jedes Diagramm erhält nach Möglichkeit eine `%% alt:`-Kommentarzeile als Alternativtext. Entscheidungen müssen auch in Schwarzweiß eindeutig sein. Umfangreiche Diagramme für den Buchsatz auf verständliche Teilgrafiken aufteilen. Für PDF und Buch sind `npm install` und `rsvg-convert` erforderlich. Die speziellen `::: decision`-Blöcke für Handlungsentscheidungen bleiben davon unabhängig.

@@ -52,6 +52,11 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-latex-extra texlive-latex-recommended texlive-fonts-recommended texlive-lang-german lmodern fonts-dejavu-core librsvg2-bin
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install Mermaid diagram renderer
+        run: npm install --no-audit --no-fund
       - name: Build PDF independently of website
         run: make pdf
       - uses: actions/upload-artifact@v4

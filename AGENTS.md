@@ -19,3 +19,5 @@
 
 - Bei jedem **zeitkritischen oder prozeduralen Artikel** vor der Veröffentlichung prüfen: Welche beobachtbaren Kriterien führen zu unterschiedlichen Handlungen? Solche echten Entscheidungspunkte bevorzugt als wiederverwendbaren Markdown-Block (`::: decision`) unmittelbar vor den betroffenen Maßnahmen darstellen. Dies gilt besonders für die ersten 72 Stunden, medizinische Triage, Wasserqualität, Kommunikation, Hygiene und Evakuierung.
 - Keine Entscheidungsdiagramme nur zur Dekoration oder bei identischem Ergebnis beider Zweige. Jede Verzweigung muss eine klare, überprüfbare Frage, unterschiedliche Konsequenzen, sichere Behandlung von Unsicherheit und gegebenenfalls einen Rückweg zur neuen Gefahrenbewertung enthalten. Die Diagramme müssen allein über Text verständlich bleiben und in Web-, A4-PDF- und Buchformat funktionieren.
+
+- Allgemeine Diagramme als Mermaid-Codeblöcke mit `%% alt:`-Alternativtext verwenden. PDF und Buch rendern dieselbe Quelle mit `scripts/mermaid_diagrams.py` als SVG. Handlungsentscheidungskarten bleiben `::: decision`.

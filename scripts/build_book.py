@@ -7,6 +7,7 @@ import re
 import subprocess
 import yaml
 from decision_blocks import render_latex
+from mermaid_diagrams import render_for_pdf as render_mermaid_for_pdf
 
 ROOT=Path(__file__).resolve().parent.parent
 DOCS=ROOT/"docs"
@@ -55,6 +56,7 @@ def main():
             return m.group(0)
         body=re.sub(r"(?<!!)\[([^\]]+)\]\(([^\s)]+)\)",links,body)
         body=render_latex(body, print_layout=(args.format=="print"))
+        body=render_mermaid_for_pdf(body)
         parts.append("# "+label+" {#"+destinations[page]+"}\n\n"+body.strip()+"\n\n\\newpage\n\n")
     build=ROOT/"build"
     build.mkdir(exist_ok=True)

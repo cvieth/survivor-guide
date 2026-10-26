@@ -18,16 +18,18 @@ Wissen öffentlich dokumentieren, offline bewahren und gemeinschaftlich fachlich
 - Eine Markdown-Quelle in `docs/` für Website und PDF
 - MkDocs Material für Website, Suche und Navigation
 - Pandoc und XeLaTeX für A4-PDF und 6×9-Zoll-Druckvorlage
+- Mermaid-Codeblöcke als Diagrammquelle; MkDocs rendert sie auf der Website, Mermaid CLI exportiert SVG-Vektorgrafiken beim PDF-Build
 - GitHub Actions für Qualitätsprüfung, Website-Deployment und versionierte PDF-Releases
 - Community über Issues und Pull Requests
 
 ## Lokal entwickeln
-Voraussetzungen: Python 3.11+, Pandoc, XeLaTeX (z. B. texlive-xetex und texlive-latex-extra), DejaVu-Schrift.
+Voraussetzungen: Python 3.11+, Pandoc, XeLaTeX (z. B. texlive-xetex und texlive-latex-extra), DejaVu-Schrift, `rsvg-convert` sowie Node.js 22+ für Mermaid CLI.
 
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+npm install
 make check
 make build
 make serve
