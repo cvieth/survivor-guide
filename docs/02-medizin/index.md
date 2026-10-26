@@ -20,7 +20,7 @@
 
 - [Fieber erkennen und versorgen](fieber-erkennen-und-versorgen.md): Temperatur, Risikogruppen, Flüssigkeit, Hitzschlag abgrenzen.
 - [Beschwerden und Mittel finden](beschwerden-und-mittel.md): symptombezogener Einstieg für Husten, Magen-Darm, Schmerzen und leichte Beschwerden.
-- [Wundversorgung ohne Infrastruktur: Behelfe und Ausbrennen](wunden-mehrtaegige-versorgung.md#klassische-notbehelfe-pruefen-ausbrennen-naehen-und-haushaltsmittel): improvisierte Verbände, Wundverschluss-Grenzen, Hausmittel und Warnzeichen.
+- [Wundversorgung ohne Infrastruktur: Behelfe und Ausbrennen](wunden-mehrtaegige-versorgung.md#klassische-notbehelfe-ausbrennen): improvisierte Verbände, Wundverschluss-Grenzen, Hausmittel und Warnzeichen.
 
 ## Medizinisches Wissensnetz
 

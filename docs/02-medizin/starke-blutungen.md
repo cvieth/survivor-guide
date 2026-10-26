@@ -29,7 +29,7 @@ Eine Kauterisation kann im medizinischen Umfeld gezielt **kleine Blutgefäße** 
 
 **Stattdessen:** unmittelbaren festen Druck aufrechterhalten; bei lebensbedrohlicher Arm- oder Beinblutung, die so nicht kontrollierbar ist, ein geeignetes Tourniquet verwenden. Eine **Wundtamponade (Wound Packing)** mit geeignetem Verbandsmaterial kann bei manchen tiefen, äußerlich komprimierbaren Blutungen, besonders an Übergängen von Extremitäten zum Rumpf, durch **entsprechend geschulte Helfende** sinnvoll sein. Dabei muss weiter kräftiger Druck ausgeübt werden. **Nicht ungeschult blind in offene Brust- oder Bauchverletzungen hineinstopfen.** Die Blutstillung hat Vorrang vor Sterilität, jedoch ist möglichst sauberes Material zu bevorzugen.
 
-Mehr zur weiteren [Wundreinigung, improvisierten Verbänden und Ausbrenn-Mythen](wunden-mehrtaegige-versorgung.md#klassische-notbehelfe-pruefen-ausbrennen-naehen-und-haushaltsmittel).
+Mehr zur weiteren [Wundreinigung, improvisierten Verbänden und Ausbrenn-Mythen](wunden-mehrtaegige-versorgung.md#klassische-notbehelfe-ausbrennen).
 
 ## Material und Grenzen
 

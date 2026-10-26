@@ -71,7 +71,7 @@ Die Reihenfolge bleibt: **Blutung stillen, Hände und Materialien möglichst sau
 | Befestigen | Pflaster, Mullbinde | Saubere Stoffstreifen, **nicht** einschnüren |
 | Verlauf festhalten | Papier, Uhr, Stift | Protokoll auch ohne Mobiltelefon möglich |
 
-## Klassische Notbehelfe prüfen: Ausbrennen, Nähen und Haushaltsmittel
+## Klassische Notbehelfe prüfen: Ausbrennen, Nähen und Haushaltsmittel {#klassische-notbehelfe-ausbrennen}
 
 ### Wunden ausbrennen: historische Technik, kein sicherer Erste-Hilfe-Ersatz
 
