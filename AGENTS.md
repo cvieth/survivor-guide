@@ -16,3 +16,6 @@
 - Bei jedem dokumentierten oder veröffentlichten Artikel in der Antwort einen direkten Web-Link zur Artikelseite und einen GitHub-Quelllink nennen. Status der Veröffentlichung und eventuell offene Arbeiten transparent angeben.
 
 - Entscheidungsbäume mit `::: decision` und `::: answer` aus Markdown erstellen, nicht als vorgerenderte Bilder. Der gemeinsame Renderer übernimmt Website, PDF und Buch. Details siehe `CONTRIBUTING.md`.
+
+- Bei jedem **zeitkritischen oder prozeduralen Artikel** vor der Veröffentlichung prüfen: Welche beobachtbaren Kriterien führen zu unterschiedlichen Handlungen? Solche echten Entscheidungspunkte bevorzugt als wiederverwendbaren Markdown-Block (`::: decision`) unmittelbar vor den betroffenen Maßnahmen darstellen. Dies gilt besonders für die ersten 72 Stunden, medizinische Triage, Wasserqualität, Kommunikation, Hygiene und Evakuierung.
+- Keine Entscheidungsdiagramme nur zur Dekoration oder bei identischem Ergebnis beider Zweige. Jede Verzweigung muss eine klare, überprüfbare Frage, unterschiedliche Konsequenzen, sichere Behandlung von Unsicherheit und gegebenenfalls einen Rückweg zur neuen Gefahrenbewertung enthalten. Die Diagramme müssen allein über Text verständlich bleiben und in Web-, A4-PDF- und Buchformat funktionieren.
