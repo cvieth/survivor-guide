@@ -1,4 +1,4 @@
-# 12 · Nachschlagewerke & Anhänge
+# Nachschlagewerke & Anhänge
 
 Dieser Bereich enthält strukturierte Nachschlagewerke für die schnelle Suche und zur Offline-Nutzung.
 

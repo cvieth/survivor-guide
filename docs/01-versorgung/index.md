@@ -1,4 +1,4 @@
-# 01 · Wasser, Nahrung & Versorgung
+# Wasser, Nahrung & Versorgung
 
 !!! info "Im Aufbau"
     Dieses Kapitel wird schrittweise mit belegten und fachlich geprüften Artikeln ausgebaut. Nicht alle Texte sind bereits von Fachleuten begutachtet.

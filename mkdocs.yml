@@ -41,28 +41,28 @@ extra_css:
 copyright: 'Inhalte unter CC BY-SA 4.0 · Quellcode unter MIT'
 nav:
   - Einführung: index.md
-  - '00 · Grundlagen & Soforthilfe':
+  - 'Grundlagen & Soforthilfe':
       - Überblick: 00-grundlagen/index.md
       - Die ersten 72 Stunden: 00-grundlagen/erste-72-stunden.md
-  - '01 · Wasser, Nahrung & Versorgung':
+  - 'Wasser, Nahrung & Versorgung':
       - Überblick: 01-versorgung/index.md
       - Wasserbedarf pro Person und Tag: 01-versorgung/wasserbedarf-pro-person.md
-  - '02 · Medizin & Gesundheit': 02-medizin/index.md
-  - '03 · Pharmazie, Substanzen & Chemie':
+  - 'Medizin & Gesundheit': 02-medizin/index.md
+  - 'Pharmazie, Substanzen & Chemie':
       - Überblick: 03-pharmazie/index.md
       - Apotheke bei Versorgungsausfall – Prioritäten: 03-pharmazie/apotheke-prioritaeten.md
-  - '04 · Kommunikation & Information':
+  - 'Kommunikation & Information':
       - Überblick: 04-kommunikation/index.md
       - Morsealphabet: 04-kommunikation/morsealphabet.md
       - Flaggensemaphore / Winkeralphabet: 04-kommunikation/flaggenalphabet.md
-  - '05 · Technologie, Elektronik & IT': 05-technologie/index.md
-  - '06 · Energie, Unterkunft & Infrastruktur': 06-infrastruktur/index.md
-  - '07 · Handwerk, Mechanik & Produktion': 07-handwerk/index.md
-  - '08 · Sicherheit, Orientierung & Selbstschutz': 08-sicherheit/index.md
-  - '09 · Gesellschaft, Psychologie & Soziales': 09-gesellschaft/index.md
-  - '10 · Ökologie, Natur & Umwelt': 10-oekologie/index.md
-  - '11 · Wissenserhalt & Wiederaufbau': 11-wiederaufbau/index.md
-  - '12 · Nachschlagewerke & Anhänge':
+  - 'Technologie, Elektronik & IT': 05-technologie/index.md
+  - 'Energie, Unterkunft & Infrastruktur': 06-infrastruktur/index.md
+  - 'Handwerk, Mechanik & Produktion': 07-handwerk/index.md
+  - 'Sicherheit, Orientierung & Selbstschutz': 08-sicherheit/index.md
+  - 'Gesellschaft, Psychologie & Soziales': 09-gesellschaft/index.md
+  - 'Ökologie, Natur & Umwelt': 10-oekologie/index.md
+  - 'Wissenserhalt & Wiederaufbau': 11-wiederaufbau/index.md
+  - 'Nachschlagewerke & Anhänge':
       - Überblick: 12-nachschlagewerk/index.md
       - Wirkstoffregister: 12-nachschlagewerk/wirkstoffregister.md
   - Mitarbeit:

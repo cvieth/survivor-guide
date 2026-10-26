@@ -1,4 +1,4 @@
-# 09 · Gesellschaft, Psychologie & Soziales
+# Gesellschaft, Psychologie & Soziales
 
 !!! info "In Arbeit"
     Dieses Kapitel ist ein redaktioneller Themenplan. Fachlich geprüfte Artikel folgen. Keine der nachstehenden Überschriften ersetzt eine konkrete Anleitung.

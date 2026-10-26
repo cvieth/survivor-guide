@@ -1,4 +1,4 @@
-# 00 · Grundlagen & Soforthilfe
+# Grundlagen & Soforthilfe
 
 !!! info "In Arbeit"
     Dieses Kapitel ist ein redaktioneller Themenplan. Fachlich geprüfte Artikel folgen. Keine der nachstehenden Überschriften ersetzt eine konkrete Anleitung.

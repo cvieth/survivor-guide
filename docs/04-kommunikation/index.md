@@ -1,4 +1,4 @@
-# 04 · Kommunikation & Information
+# Kommunikation & Information
 
 Die folgenden beiden Nachschlagewerke sind quellenbasiert dokumentiert und illustriert. Die abschließende redaktionelle Prüfung steht noch aus.
 

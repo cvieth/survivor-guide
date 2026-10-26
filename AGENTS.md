@@ -2,6 +2,7 @@
 
 - Dies ist ein frei zugängliches, deutschsprachiges Krisen- und Wissenshandbuch.
 - Ein Thema nach `docs/<kapitel>/<slug>.md` einordnen und `mkdocs.yml` bei neuen Artikeln aktualisieren.
+- Kapitelnummern bleiben ausschließlich in Verzeichnisnamen und der internen Sortierung; in sichtbaren Seitentiteln (`# ...`) und MkDocs-Navigationslabels keine Nummernpräfixe wie `01 ·` verwenden.
 - Artikelvorlage `templates/artikel.md` verwenden, Fakten belegen und Unsicherheiten kenntlich machen.
 - Wissenschaftlich und sachlich schreiben; keine unbelegten Behauptungen als Gewissheiten darstellen.
 - Medizinische, pharmakologische, chemische, elektrische und andere sicherheitskritische Anleitungen bis zur Fachprüfung deutlich als ungeprüft markieren.

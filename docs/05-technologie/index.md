@@ -1,4 +1,4 @@
-# 05 · Technologie, Elektronik & IT
+# Technologie, Elektronik & IT
 
 !!! info "In Arbeit"
     Dieses Kapitel ist ein redaktioneller Themenplan. Fachlich geprüfte Artikel folgen. Keine der nachstehenden Überschriften ersetzt eine konkrete Anleitung.

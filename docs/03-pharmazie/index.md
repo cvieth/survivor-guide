@@ -1,4 +1,4 @@
-# 03 · Pharmazie, Substanzen & Chemie
+# Pharmazie, Substanzen & Chemie
 
 !!! info "In Arbeit"
     Das Kapitel wird ausgebaut. Die vorhandenen Artikel sind Entwürfe ohne abgeschlossene medizinische Fachprüfung.
