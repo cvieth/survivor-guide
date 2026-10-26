@@ -5,6 +5,7 @@ from urllib.parse import unquote, urlparse
 import re
 import sys
 import yaml
+from decision_blocks import parse_blocks
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
@@ -34,6 +35,10 @@ def main():
     regex = re.compile(r'(?<!!)\[[^\]]*\]\(([^\s)]+)(?:\s+"[^"]*")?\)|!\[[^\]]*\]\(([^\s)]+)\)')
     for doc in files:
         content = doc.read_text(encoding="utf-8")
+        try:
+            parse_blocks(content)
+        except ValueError as exc:
+            errors.append(f"Invalid decision block in {doc.relative_to(ROOT)}: {exc}")
         if not re.search(r"(?m)^#\s+\S+", content):
             errors.append(f"Missing H1: {doc.relative_to(ROOT)}")
         for m in regex.finditer(content):
