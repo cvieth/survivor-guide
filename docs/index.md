@@ -46,7 +46,7 @@ Die folgenden Ausgaben werden aus denselben Artikeln wie die Website erstellt:
 - **[Druckvorlage herunterladen (6 × 9 Zoll)](https://github.com/cvieth/survivor-guide/releases/latest/download/survivor-guide-print-interior.pdf)** – vorläufiger Druckentwurf, noch nicht druckfertig.
 - **[Alle Versionen und Änderungen ansehen](https://github.com/cvieth/survivor-guide/releases)** – ältere Ausgaben bleiben dauerhaft auffindbar.
 
-Die [PDF-Vorschau des aktuellen Entwicklungsstands](downloads/survivor-guide.pdf) wird unabhängig von Releases mit jedem Website-Build aktualisiert und kann neuere, noch nicht veröffentlichte Inhalte enthalten.
+Ein **PDF des aktuellen Entwicklungsstands** wird bei jedem Push als [GitHub-Actions-Artefakt](https://github.com/cvieth/survivor-guide/actions/workflows/publish.yml) erzeugt (im jeweiligen erfolgreichen Workflow-Lauf herunterladen). Die dauerhaft verfügbaren Ausgaben findest du in den versionierten Releases.
 
 ## Mitarbeit
 
