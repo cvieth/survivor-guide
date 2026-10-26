@@ -32,7 +32,17 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 
 ## Steckbriefe
 
+**Bildhinweis:** Alle Tafeln werden für Website und Druckfassung lokal eingebunden. Sie sind historische Illustrationen und zeigen nicht jedes wichtige Bestimmungsmerkmal. Für die tatsächliche Pflanzenbestimmung braucht es weitere überprüfte Merkmale, gegebenenfalls frische Fotografien und eine unabhängige Bestätigung. Alle [Bildquellen und Rechtegrundlagen](bildquellen-heilpflanzen.md) sind gesondert nachgewiesen.
+
 ### Weidenrinde {#weidenrinde}
+
+![Historische botanische Tafel: Silber-Weide, Habitus und Details des verwendeten Pflanzenteils](../assets/heilpflanzen/weidenrinde.jpg){ width="330" }
+
+*Historische botanische Tafel: Silber-Weide. Gemeinfrei (Public Domain), [Bildquelle und Zuschreibung](bildquellen-heilpflanzen.md#weidenrinde). Die Darstellung allein reicht nicht zur sicheren Bestimmung.*
+
+- **Erkennungsmerkmale:** Schmale, fein gesägte Blätter, auf der Unterseite oft silbrig behaart. Weidenkätzchen. Die Tafel zeigt *Salix alba* als Beispiel; sie umfasst nicht sämtliche medizinisch genutzten Weidenarten.
+- **Verwendeter Pflanzenteil:** Rinde.
+- **Verwechslung:** Bei unsicherer Bestimmung oder unbekannter Herkunft nicht medizinisch verwenden.
 
 - **Botanisch:** `Salix`-Arten, insbesondere die in der [EMA-Monografie](https://www.ema.europa.eu/en/medicines/herbal/salicis-cortex) erfassten Arten. Verwendet wird die **Rinde**, nicht beliebiges Blattmaterial.
 - **Anwendung und Evidenz:** Für definierte Präparate traditionelle Anwendung bei erkältungsbedingtem Fieber, Kopf- und leichten Gelenkschmerzen; für bestimmte standardisierte Trockenextrakte bestehen zusätzlich klinische Daten bei kurzzeitigen Rückenschmerzen. **Nur für Erwachsene.**
@@ -40,6 +50,14 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Ohne Versorgung:** Eigenständig gesammelte Rinde hat stark schwankenden Gehalt. **Keine verlässliche Heimdosierung** ableiten. Bei Fieber siehe [Fieberanleitung](../02-medizin/fieber-erkennen-und-versorgen.md).
 
 ### Holunderblüten {#holunderblueten}
+
+![Historische botanische Tafel: Schwarzer Holunder, Habitus und Details des verwendeten Pflanzenteils](../assets/heilpflanzen/holunderblueten.jpg){ width="330" }
+
+*Historische botanische Tafel: Schwarzer Holunder. Gemeinfrei (Public Domain), [Bildquelle und Zuschreibung](bildquellen-heilpflanzen.md#holunderblueten). Die Darstellung allein reicht nicht zur sicheren Bestimmung.*
+
+- **Erkennungsmerkmale:** Meist fünf bis sieben gezähnte Fiederblättchen und breite, cremeweiße Blütenstände. Andere Holunderarten sowie ähnlich wirkende Pflanzen müssen ausgeschlossen werden.
+- **Verwendeter Pflanzenteil:** Blüten.
+- **Verwechslung:** Bei unsicherer Bestimmung oder unbekannter Herkunft nicht medizinisch verwenden.
 
 - **Botanisch:** `Sambucus nigra`, **Blüten** (nicht rohe Beeren, Blätter oder Rinde).
 - **Anwendung und Evidenz:** Traditionell bei ersten Erkältungsbeschwerden; **kein gesicherter Ersatz für Fiebersenkung oder Infektionsbehandlung**.
@@ -49,6 +67,14 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 
 ### Lindenblüten {#lindenblueten}
 
+![Historische botanische Tafel: Winter-Linde, Habitus und Details des verwendeten Pflanzenteils](../assets/heilpflanzen/lindenblueten.jpg){ width="330" }
+
+*Historische botanische Tafel: Winter-Linde. Gemeinfrei (Public Domain), [Bildquelle und Zuschreibung](bildquellen-heilpflanzen.md#lindenblueten). Die Darstellung allein reicht nicht zur sicheren Bestimmung.*
+
+- **Erkennungsmerkmale:** Herzförmige gesägte Blätter und mehrere kleine Blüten, deren gemeinsamer Stiel mit einem länglichen, hellgrünen Tragblatt verwachsen ist. Die Tafel zeigt *Tilia cordata* exemplarisch.
+- **Verwendeter Pflanzenteil:** Blütenstände.
+- **Verwechslung:** Bei unsicherer Bestimmung oder unbekannter Herkunft nicht medizinisch verwenden.
+
 - **Botanisch:** `Tilia cordata`, `Tilia platyphyllos` und erfasste Hybriden, **Blütenstände**.
 - **Anwendung und Evidenz:** Traditionell zur Linderung von Erkältungsbeschwerden und leichten Stresssymptomen. **Keine klinisch verlässliche Fiebersenkung behaupten.**
 - **Zubereitung/Grenze:** EMA bewertet bestimmte Blütenzubereitungen. Warme Getränke unterstützen die Flüssigkeitsaufnahme, wenn sicheres Trinkwasser vorhanden ist. Bei Allergien und besonderen Risikogruppen individuelle Eignung prüfen.
@@ -56,6 +82,14 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Quelle:** [EMA, Tiliae flos](https://www.ema.europa.eu/en/medicines/herbal/tiliae-flos).
 
 ### Thymian {#thymian}
+
+![Historische botanische Tafel: Echter Thymian, Habitus und Details des verwendeten Pflanzenteils](../assets/heilpflanzen/thymian.jpg){ width="330" }
+
+*Historische botanische Tafel: Echter Thymian. Gemeinfrei (Public Domain), [Bildquelle und Zuschreibung](bildquellen-heilpflanzen.md#thymian). Die Darstellung allein reicht nicht zur sicheren Bestimmung.*
+
+- **Erkennungsmerkmale:** Niedriger, an der Basis verholzender Halbstrauch mit kleinen, gegenständigen Blättern und rosa bis violetten Lippenblüten. Auch andere Lippenblütler können ähnlich aussehen.
+- **Verwendeter Pflanzenteil:** Blühendes Kraut.
+- **Verwechslung:** Bei unsicherer Bestimmung oder unbekannter Herkunft nicht medizinisch verwenden.
 
 - **Botanisch:** `Thymus vulgaris` oder `Thymus zygis`, **Blätter und Blüten**.
 - **Anwendung und Evidenz:** Traditionell bei **produktivem Husten** im Rahmen einer Erkältung, nicht bei jeder Art von Atemnot.
@@ -65,6 +99,14 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 
 ### Eibischwurzel {#eibischwurzel}
 
+![Historische botanische Tafel: Echter Eibisch, Habitus und Details des verwendeten Pflanzenteils](../assets/heilpflanzen/eibischwurzel.jpg){ width="330" }
+
+*Historische botanische Tafel: Echter Eibisch. Gemeinfrei (Public Domain), [Bildquelle und Zuschreibung](bildquellen-heilpflanzen.md#eibischwurzel). Die Darstellung allein reicht nicht zur sicheren Bestimmung.*
+
+- **Erkennungsmerkmale:** Aufrechter Wuchs, weich behaarte, graugrüne Blätter und blassrosa, fünfzählige Blüten. Die heilkundlich verwendete Wurzel lässt sich anhand der oberirdischen Pflanze allein nicht sicher bestimmen.
+- **Verwendeter Pflanzenteil:** Wurzel.
+- **Verwechslung:** Bei unsicherer Bestimmung oder unbekannter Herkunft nicht medizinisch verwenden.
+
 - **Botanisch:** `Althaea officinalis`, getrocknete **Wurzel**.
 - **Anwendung und Evidenz:** Traditionell bei gereiztem Mund- und Rachenraum mit **trockenem Reizhusten** sowie bei leichten Magen-Darm-Beschwerden.
 - **Zubereitung/Grenze:** Die EMA erfasst zerkleinerte Wurzel und ausgewählte Auszüge. Für Reizhusten gelten bei definierten Präparaten teils Altersgrenzen ab 3 Jahren, für Magenbeschwerden meist ab 12 Jahren. Schleimstoffe können die Aufnahme gleichzeitig eingenommener Medikamente beeinflussen; zeitlichen Abstand gemäß Präparatinformation beachten.
@@ -72,6 +114,14 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Quelle:** [EMA, Althaeae radix](https://www.ema.europa.eu/en/medicines/herbal/althaeae-radix).
 
 ### Spitzwegerich {#spitzwegerich}
+
+![Historische botanische Tafel: Spitzwegerich, Habitus und Details des verwendeten Pflanzenteils](../assets/heilpflanzen/spitzwegerich.jpg){ width="330" }
+
+*Historische botanische Tafel: Spitzwegerich. Gemeinfrei (Public Domain), [Bildquelle und Zuschreibung](bildquellen-heilpflanzen.md#spitzwegerich). Die Darstellung allein reicht nicht zur sicheren Bestimmung.*
+
+- **Erkennungsmerkmale:** Schmale, lanzettliche Blätter als bodennahe Rosette mit deutlich parallelen Längsnerven und blattlose Stiele mit kompakten Blütenähren.
+- **Verwendeter Pflanzenteil:** Blätter.
+- **Verwechslung:** Bei unsicherer Bestimmung oder unbekannter Herkunft nicht medizinisch verwenden.
 
 - **Botanisch:** `Plantago lanceolata`, **Blätter**.
 - **Anwendung und Evidenz:** In der EMA-Monografie traditionelle Anwendung bei Schleimhautreizungen im Mund/Rachen und damit verbundenem trockenem Husten. Kein Nachweis einer Behandlung schwerer Atemwegsinfektionen.
@@ -81,6 +131,14 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 
 ### Kamillenblüten {#kamillenblueten}
 
+![Historische botanische Tafel: Echte Kamille, Habitus und Details des verwendeten Pflanzenteils](../assets/heilpflanzen/kamillenblueten.jpg){ width="330" }
+
+*Historische botanische Tafel: Echte Kamille. Gemeinfrei (Public Domain), [Bildquelle und Zuschreibung](bildquellen-heilpflanzen.md#kamillenblueten). Die Darstellung allein reicht nicht zur sicheren Bestimmung.*
+
+- **Erkennungsmerkmale:** Fein zerteilte Blätter, weiße Zungenblüten und gelbe Mitte. Das entscheidende Merkmal ist der längs aufgeschnittene, **hohle** Blütenboden; ähnliche Korbblütler können leicht verwechselt werden.
+- **Verwendeter Pflanzenteil:** Blütenköpfchen.
+- **Verwechslung:** Bei unsicherer Bestimmung oder unbekannter Herkunft nicht medizinisch verwenden.
+
 - **Botanisch:** `Matricaria recutita` (auch `Matricaria chamomilla`), **Blütenköpfchen**; nicht mit Römischer Kamille verwechseln.
 - **Anwendung und Evidenz:** Traditionell bei leichten Blähungen und Krämpfen, Mund- und Rachenreizungen, Erkältungssymptomen sowie leichten oberflächlichen Hautreizungen.
 - **Zubereitung/Grenze:** Abhängig von Anwendung und Präparat als Tee, Spülung oder äußerliche Zubereitung. **Allergien gegen Korbblütler können schwer verlaufen.** Selbst zubereiteten Tee nicht in Augen geben; keine Behandlung tiefer oder stark infizierter Wunden.
@@ -88,6 +146,14 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Quelle:** [EMA, Matricariae flos](https://www.ema.europa.eu/en/medicines/herbal/matricariae-flos).
 
 ### Salbeiblätter {#salbeiblaetter}
+
+![Historische botanische Tafel: Echter Salbei, Habitus und Details des verwendeten Pflanzenteils](../assets/heilpflanzen/salbeiblaetter.jpg){ width="330" }
+
+*Historische botanische Tafel: Echter Salbei. Gemeinfrei (Public Domain), [Bildquelle und Zuschreibung](bildquellen-heilpflanzen.md#salbeiblaetter). Die Darstellung allein reicht nicht zur sicheren Bestimmung.*
+
+- **Erkennungsmerkmale:** Graugrüne, runzelige, leicht filzige, gegenständige Blätter und violette Lippenblüten. Beim Sammeln andere Salbei- und Lippenblütlerarten ausschließen.
+- **Verwendeter Pflanzenteil:** Blätter.
+- **Verwechslung:** Bei unsicherer Bestimmung oder unbekannter Herkunft nicht medizinisch verwenden.
 
 - **Botanisch:** `Salvia officinalis`, **Blätter**.
 - **Anwendung und Evidenz:** Traditionell bei leichten Entzündungen im Mund- und Rachenraum und bei bestimmten milden Verdauungsbeschwerden.
@@ -97,6 +163,14 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 
 ### Ringelblumenblüten {#ringelblumenblueten}
 
+![Historische botanische Tafel: Ringelblume, Habitus und Details des verwendeten Pflanzenteils](../assets/heilpflanzen/ringelblumenblueten.jpg){ width="330" }
+
+*Historische botanische Tafel: Ringelblume. Gemeinfrei (Public Domain), [Bildquelle und Zuschreibung](bildquellen-heilpflanzen.md#ringelblumenblueten). Die Darstellung allein reicht nicht zur sicheren Bestimmung.*
+
+- **Erkennungsmerkmale:** Gelb bis orangefarbene Korbblüten und längliche, etwas klebrige Blätter. Andere Korbblütler können ähnlich aussehen.
+- **Verwendeter Pflanzenteil:** Blüten.
+- **Verwechslung:** Bei unsicherer Bestimmung oder unbekannter Herkunft nicht medizinisch verwenden.
+
 - **Botanisch:** `Calendula officinalis`, **Blüten**.
 - **Anwendung und Evidenz:** Traditionelle äußerliche Anwendung zur Unterstützung der Heilung **kleiner oberflächlicher Wunden**, bei leichter Hautentzündung sowie bei leichten Entzündungen im Mund-/Rachenraum.
 - **Zubereitung/Grenze:** EMA bewertet bestimmte Extrakte, Aufgüsse und Salben, nicht beliebiges Rohmaterial. In den EMA-Zusammenfassungen Haut-/Wundanwendung ab über 6 Jahren und Mund-/Rachenanwendung ab über 12 Jahren. Korbblütler-Allergie beachten. **Kein Ersatz für Wundreinigung, sterile Abdeckung oder nötige Antibiotikatherapie.**
@@ -104,6 +178,14 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Quelle:** [EMA, Calendulae flos](https://www.ema.europa.eu/en/medicines/herbal/calendulae-flos).
 
 ### Pfefferminzblätter {#pfefferminzblaetter}
+
+![Historische botanische Tafel: Pfefferminze, Habitus und Details des verwendeten Pflanzenteils](../assets/heilpflanzen/pfefferminzblaetter.jpg){ width="330" }
+
+*Historische botanische Tafel: Pfefferminze. Gemeinfrei (Public Domain), [Bildquelle und Zuschreibung](bildquellen-heilpflanzen.md#pfefferminzblaetter). Die Darstellung allein reicht nicht zur sicheren Bestimmung.*
+
+- **Erkennungsmerkmale:** Gegenständige, gezähnte Blätter, kantiger Stängel und kleine, rosaviolette Lippenblüten. Andere Minzearten sind leicht zu verwechseln; Geruch allein genügt nicht.
+- **Verwendeter Pflanzenteil:** Blätter.
+- **Verwechslung:** Bei unsicherer Bestimmung oder unbekannter Herkunft nicht medizinisch verwenden.
 
 - **Botanisch:** `Mentha × piperita`, **Blätter**.
 - **Anwendung und Evidenz:** Traditionell zur Linderung von Blähungen und leichter Verdauungsstörung, **nicht zur Behandlung von Austrocknung oder infektiösem Durchfall**.
@@ -113,6 +195,14 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 
 ### Ingwer {#ingwer}
 
+![Historische botanische Tafel: Echter Ingwer, Habitus und Details des verwendeten Pflanzenteils](../assets/heilpflanzen/ingwer.jpg){ width="330" }
+
+*Historische botanische Tafel: Echter Ingwer. Gemeinfrei (Public Domain), [Bildquelle und Zuschreibung](bildquellen-heilpflanzen.md#ingwer). Die Darstellung allein reicht nicht zur sicheren Bestimmung.*
+
+- **Erkennungsmerkmale:** Schmale Blätter am aufrechten Spross; unterirdische, knollig verzweigte Rhizome. Die Tafel zeigt die Kulturpflanze, keine sichere Anleitung zum Erkennen wild wachsender Rhizome.
+- **Verwendeter Pflanzenteil:** Rhizom.
+- **Verwechslung:** Bei unsicherer Bestimmung oder unbekannter Herkunft nicht medizinisch verwenden.
+
 - **Botanisch:** `Zingiber officinale`, unterirdischer **Wurzelstock (Rhizom)**.
 - **Anwendung und Evidenz:** Für **definiertes Ingwerpulver gegen Reiseübelkeit bei Erwachsenen** gibt es klinische Daten. Weitere Anwendungen bei leichten Magen-Darm-Beschwerden und Erkältung beruhen wesentlich auf Tradition.
 - **Zubereitung/Grenze:** Frische Küchenwurzel, Tee, Tinktur und standardisiertes Pulver sind nicht gleich dosiert. Nach der EMA-Monografie nicht bei Schwangerschaft oder Stillzeit als selbst gewähltes Heilmittel einsetzen; je nach Indikation unterschiedliche Altersgrenzen. Magenprobleme und Allergien möglich.
@@ -120,6 +210,14 @@ Die folgenden Steckbriefe geben bewusst **keine vermeintlich präzisen Rezepte f
 - **Quelle:** [EMA, Zingiberis rhizoma, Revision 2025](https://www.ema.europa.eu/en/medicines/herbal/zingiberis-rhizoma).
 
 ### Eichenrinde {#eichenrinde}
+
+![Historische botanische Tafel: Stiel-Eiche, Habitus und Details des verwendeten Pflanzenteils](../assets/heilpflanzen/eichenrinde.jpg){ width="330" }
+
+*Historische botanische Tafel: Stiel-Eiche. Gemeinfrei (Public Domain), [Bildquelle und Zuschreibung](bildquellen-heilpflanzen.md#eichenrinde). Die Darstellung allein reicht nicht zur sicheren Bestimmung.*
+
+- **Erkennungsmerkmale:** Gelappte Blätter und Eicheln an längeren Fruchtstielen. Die Tafel zeigt *Quercus robur* als Beispiel einer von mehreren verwendeten Eichenarten. Bloße Rindenmerkmale reichen nicht zur Bestimmung.
+- **Verwendeter Pflanzenteil:** Rinde.
+- **Verwechslung:** Bei unsicherer Bestimmung oder unbekannter Herkunft nicht medizinisch verwenden.
 
 - **Botanisch:** `Quercus robur`, `Quercus petraea` und `Quercus pubescens`, **Rinde**.
 - **Anwendung und Evidenz:** Traditionelle Anwendung definierter Präparate unter anderem bei **leichtem Durchfall** und begrenzten äußeren Hautproblemen. Gerbstoffe machen die Rinde nicht zu einem Mittel gegen gefährliche Darminfektionen.
