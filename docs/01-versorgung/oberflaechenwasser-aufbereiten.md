@@ -3,6 +3,8 @@
 !!! warning "Entwurf – noch nicht fachlich geprüft"
     Wasseraufbereitung ist sicherheitskritisch. Dieser Artikel ist eine Beschaffungs- und Entscheidungsanleitung, **keine Zusicherung von Trinkwasserqualität**. Bei einer chemisch, radioaktiv oder durch Cyanotoxine belasteten Quelle reichen Abkochen, übliche Outdoorfilter und einfache Desinfektion nicht aus. Wenn verfügbar, auf kontrolliert bereitgestelltes Trinkwasser zurückgreifen. [1][2][5]
 
+Zur improvisierten Trennung vieler nichtflüchtiger Stoffe siehe auch [Wasser destillieren](wasser-destillieren.md). Destillation ist kein zuverlässiger Schutz vor flüchtigen Chemikalien.
+
 ## Kurzüberblick
 
 **Szenario:** Das Leitungswasser fällt für Tage oder Wochen aus. Ein Teich, See oder Fluss ist erreichbar. Strom, Fachhandel und Laboranalysen stehen möglicherweise nicht mehr zur Verfügung.
