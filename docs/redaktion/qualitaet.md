@@ -50,6 +50,8 @@ Informationen nach Möglichkeit durch didaktisch hilfreiche, barrierearm beschri
 
 Externe Medien nur dann im Repository spiegeln, wenn deren Weiterverbreitung erlaubt ist. Quelle, Urheber beziehungsweise Rechteinhaber, Originallink, Abrufdatum und Lizenz/Nutzungsbedingungen dokumentieren; fremde Medien nicht pauschal unter die Projektlizenz stellen.
 
+**Heilpflanzenbilder:** Pro Pflanze möglichst die Gesamtansicht sowie erkennbar dargestellte Details von Blatt, Blüte und verwendetem Pflanzenteil vorhalten. Gemeinfreie historische botanische Tafeln sind eine gute Ergänzung, **aber kein eindeutiger Bestimmungsnachweis**. Bildunterschriften müssen Art, Herkunft und Grenzen nennen. Bildrechte und Projektdokumentationslizenz getrennt halten. Die Medienquelle wird zentral in [Bildquellen: Heilpflanzen](../12-nachschlagewerk/bildquellen-heilpflanzen.md) gepflegt und für Website und PDF lokal gecacht. Nach Änderungen Bildanzeige im Druck und in der Webansicht kontrollieren. Keine reinen Hotlinks verwenden. Giftige Doppelgänger und sichere Merkmale gehören in eine fachgeprüfte Bestimmungsanleitung, nicht in eine improvisierte Sammelanweisung.
+
 ## Nachprüfbarkeit von Veröffentlichungen
 
 Nach Änderungen den vollständigen direkten Web-Link zur jeweiligen Artikelseite sowie einen Quelllink übergeben. Erfolgreichen Build und öffentliches Deployment prüfen; bei ausstehender Prüfung den Status offen benennen.
