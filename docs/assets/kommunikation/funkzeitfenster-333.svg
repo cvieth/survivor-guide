@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 785" width="1120" height="785" role="img" aria-labelledby="title desc">
+<title id="title">3-3-3-Regel: Funk-Zeitfenster auf einer 24-Stunden-Uhr</title>
+<desc id="desc">Alle drei Stunden für drei Minuten auf Kanal drei: null, drei, sechs, neun, zwölf, fünfzehn, achtzehn und einundzwanzig Uhr, jeweils bis Minute drei. Die farbigen Markierungen sind schematisch und nicht maßstabsgerecht.</desc>
+<style>
+.title {font-family:"DejaVu Sans",Arial,sans-serif;font-weight:700;font-size:32px;fill:#142741}
+.hour {font-family:"DejaVu Sans",Arial,sans-serif;font-weight:700;font-size:20px;fill:#223a56}
+.heading {font-family:"DejaVu Sans",Arial,sans-serif;font-weight:700;font-size:24px;fill:#142741}
+.large {font-family:"DejaVu Sans",Arial,sans-serif;font-weight:700;font-size:43px;fill:#142741}
+.body {font-family:"DejaVu Sans",Arial,sans-serif;font-size:21px;fill:#213957}
+.time {font-family:"DejaVu Sans",Arial,sans-serif;font-size:23px;font-weight:700;fill:#152a45}
+.note {font-family:"DejaVu Sans",Arial,sans-serif;font-size:17px;fill:#4c637e}
+</style>
+<rect width="1120" height="785" fill="#ffffff"/>
+<text x="560" y="60" text-anchor="middle" class="title">Kommunikationsfenster nach der 3-3-3-Regel</text>
+<circle cx="338" cy="433" r="281" fill="#f9fbff" stroke="#b4c5d8" stroke-width="7"/>
+<circle cx="338" cy="433" r="221" fill="#edf4fc"/>
+<line x1="338.00" y1="182.00" x2="338.00" y2="156.00" stroke="#8296ad" stroke-width="2.6"/><line x1="371.81" y1="176.22" x2="374.16" y2="158.37" stroke="#bbc9d8" stroke-width="1.4"/><line x1="402.96" y1="190.55" x2="409.69" y2="165.44" stroke="#8296ad" stroke-width="2.6"/><line x1="437.12" y1="193.72" x2="444.00" y2="177.09" stroke="#bbc9d8" stroke-width="1.4"/><line x1="463.50" y1="215.63" x2="476.50" y2="193.11" stroke="#8296ad" stroke-width="2.6"/><line x1="495.67" y1="227.52" x2="506.63" y2="213.24" stroke="#bbc9d8" stroke-width="1.4"/><line x1="515.48" y1="255.52" x2="533.87" y2="237.13" stroke="#8296ad" stroke-width="2.6"/><line x1="543.48" y1="275.33" x2="557.76" y2="264.37" stroke="#bbc9d8" stroke-width="1.4"/><line x1="555.37" y1="307.50" x2="577.89" y2="294.50" stroke="#8296ad" stroke-width="2.6"/><line x1="577.28" y1="333.88" x2="593.91" y2="327.00" stroke="#bbc9d8" stroke-width="1.4"/><line x1="580.45" y1="368.04" x2="605.56" y2="361.31" stroke="#8296ad" stroke-width="2.6"/><line x1="594.78" y1="399.19" x2="612.63" y2="396.84" stroke="#bbc9d8" stroke-width="1.4"/><line x1="589.00" y1="433.00" x2="615.00" y2="433.00" stroke="#8296ad" stroke-width="2.6"/><line x1="594.78" y1="466.81" x2="612.63" y2="469.16" stroke="#bbc9d8" stroke-width="1.4"/><line x1="580.45" y1="497.96" x2="605.56" y2="504.69" stroke="#8296ad" stroke-width="2.6"/><line x1="577.28" y1="532.12" x2="593.91" y2="539.00" stroke="#bbc9d8" stroke-width="1.4"/><line x1="555.37" y1="558.50" x2="577.89" y2="571.50" stroke="#8296ad" stroke-width="2.6"/><line x1="543.48" y1="590.67" x2="557.76" y2="601.63" stroke="#bbc9d8" stroke-width="1.4"/><line x1="515.48" y1="610.48" x2="533.87" y2="628.87" stroke="#8296ad" stroke-width="2.6"/><line x1="495.67" y1="638.48" x2="506.63" y2="652.76" stroke="#bbc9d8" stroke-width="1.4"/><line x1="463.50" y1="650.37" x2="476.50" y2="672.89" stroke="#8296ad" stroke-width="2.6"/><line x1="437.12" y1="672.28" x2="444.00" y2="688.91" stroke="#bbc9d8" stroke-width="1.4"/><line x1="402.96" y1="675.45" x2="409.69" y2="700.56" stroke="#8296ad" stroke-width="2.6"/><line x1="371.81" y1="689.78" x2="374.16" y2="707.63" stroke="#bbc9d8" stroke-width="1.4"/><line x1="338.00" y1="684.00" x2="338.00" y2="710.00" stroke="#8296ad" stroke-width="2.6"/><line x1="304.19" y1="689.78" x2="301.84" y2="707.63" stroke="#bbc9d8" stroke-width="1.4"/><line x1="273.04" y1="675.45" x2="266.31" y2="700.56" stroke="#8296ad" stroke-width="2.6"/><line x1="238.88" y1="672.28" x2="232.00" y2="688.91" stroke="#bbc9d8" stroke-width="1.4"/><line x1="212.50" y1="650.37" x2="199.50" y2="672.89" stroke="#8296ad" stroke-width="2.6"/><line x1="180.33" y1="638.48" x2="169.37" y2="652.76" stroke="#bbc9d8" stroke-width="1.4"/><line x1="160.52" y1="610.48" x2="142.13" y2="628.87" stroke="#8296ad" stroke-width="2.6"/><line x1="132.52" y1="590.67" x2="118.24" y2="601.63" stroke="#bbc9d8" stroke-width="1.4"/><line x1="120.63" y1="558.50" x2="98.11" y2="571.50" stroke="#8296ad" stroke-width="2.6"/><line x1="98.72" y1="532.12" x2="82.09" y2="539.00" stroke="#bbc9d8" stroke-width="1.4"/><line x1="95.55" y1="497.96" x2="70.44" y2="504.69" stroke="#8296ad" stroke-width="2.6"/><line x1="81.22" y1="466.81" x2="63.37" y2="469.16" stroke="#bbc9d8" stroke-width="1.4"/><line x1="87.00" y1="433.00" x2="61.00" y2="433.00" stroke="#8296ad" stroke-width="2.6"/><line x1="81.22" y1="399.19" x2="63.37" y2="396.84" stroke="#bbc9d8" stroke-width="1.4"/><line x1="95.55" y1="368.04" x2="70.44" y2="361.31" stroke="#8296ad" stroke-width="2.6"/><line x1="98.72" y1="333.88" x2="82.09" y2="327.00" stroke="#bbc9d8" stroke-width="1.4"/><line x1="120.63" y1="307.50" x2="98.11" y2="294.50" stroke="#8296ad" stroke-width="2.6"/><line x1="132.52" y1="275.33" x2="118.24" y2="264.37" stroke="#bbc9d8" stroke-width="1.4"/><line x1="160.52" y1="255.52" x2="142.13" y2="237.13" stroke="#8296ad" stroke-width="2.6"/><line x1="180.33" y1="227.52" x2="169.37" y2="213.24" stroke="#bbc9d8" stroke-width="1.4"/><line x1="212.50" y1="215.63" x2="199.50" y2="193.11" stroke="#8296ad" stroke-width="2.6"/><line x1="238.88" y1="193.72" x2="232.00" y2="177.09" stroke="#bbc9d8" stroke-width="1.4"/><line x1="273.04" y1="190.55" x2="266.31" y2="165.44" stroke="#8296ad" stroke-width="2.6"/><line x1="304.19" y1="176.22" x2="301.84" y2="158.37" stroke="#bbc9d8" stroke-width="1.4"/>
+<line x1="338.00" y1="199.00" x2="338.00" y2="153.00" stroke="#ef5556" stroke-width="12" stroke-linecap="round"/><line x1="503.46" y1="267.54" x2="535.99" y2="235.01" stroke="#eb913c" stroke-width="12" stroke-linecap="round"/><line x1="572.00" y1="433.00" x2="618.00" y2="433.00" stroke="#d5a323" stroke-width="12" stroke-linecap="round"/><line x1="503.46" y1="598.46" x2="535.99" y2="630.99" stroke="#42ad8b" stroke-width="12" stroke-linecap="round"/><line x1="338.00" y1="667.00" x2="338.00" y2="713.00" stroke="#31acc5" stroke-width="12" stroke-linecap="round"/><line x1="172.54" y1="598.46" x2="140.01" y2="630.99" stroke="#577bd6" stroke-width="12" stroke-linecap="round"/><line x1="104.00" y1="433.00" x2="58.00" y2="433.00" stroke="#855bd3" stroke-width="12" stroke-linecap="round"/><line x1="172.54" y1="267.54" x2="140.01" y2="235.01" stroke="#cb5d95" stroke-width="12" stroke-linecap="round"/>
+<text x="338.00" y="129.00" text-anchor="middle" class="hour">00</text><text x="418.23" y="139.56" text-anchor="middle" class="hour">01</text><text x="493.00" y="170.53" text-anchor="middle" class="hour">02</text><text x="557.20" y="219.80" text-anchor="middle" class="hour">03</text><text x="606.47" y="284.00" text-anchor="middle" class="hour">04</text><text x="637.44" y="358.77" text-anchor="middle" class="hour">05</text><text x="648.00" y="439.00" text-anchor="middle" class="hour">06</text><text x="637.44" y="519.23" text-anchor="middle" class="hour">07</text><text x="606.47" y="594.00" text-anchor="middle" class="hour">08</text><text x="557.20" y="658.20" text-anchor="middle" class="hour">09</text><text x="493.00" y="707.47" text-anchor="middle" class="hour">10</text><text x="418.23" y="738.44" text-anchor="middle" class="hour">11</text><text x="338.00" y="749.00" text-anchor="middle" class="hour">12</text><text x="257.77" y="738.44" text-anchor="middle" class="hour">13</text><text x="183.00" y="707.47" text-anchor="middle" class="hour">14</text><text x="118.80" y="658.20" text-anchor="middle" class="hour">15</text><text x="69.53" y="594.00" text-anchor="middle" class="hour">16</text><text x="38.56" y="519.23" text-anchor="middle" class="hour">17</text><text x="28.00" y="439.00" text-anchor="middle" class="hour">18</text><text x="38.56" y="358.77" text-anchor="middle" class="hour">19</text><text x="69.53" y="284.00" text-anchor="middle" class="hour">20</text><text x="118.80" y="219.80" text-anchor="middle" class="hour">21</text><text x="183.00" y="170.53" text-anchor="middle" class="hour">22</text><text x="257.77" y="139.56" text-anchor="middle" class="hour">23</text>
+<!-- hand-held radio icon -->
+<line x1="338" y1="281" x2="338" y2="314" stroke="#152a45" stroke-width="5" stroke-linecap="round"/>
+<rect x="312" y="311" width="52" height="83" rx="10" fill="#183251"/>
+<rect x="323" y="327" width="30" height="14" rx="2" fill="#e5f5ff"/>
+<path d="M325 353h26 M325 362h26 M325 371h17" stroke="#d7e8f8" stroke-width="4" stroke-linecap="round"/>
+<path d="M297 320Q281 343 297 366 M281 307Q256 342 281 379 M379 320Q395 343 379 366 M395 307Q420 342 395 379" stroke="#486f9e" stroke-width="5" stroke-linecap="round" fill="none"/>
+<text x="338" y="457" text-anchor="middle" class="large">3-3-3-Regel</text>
+<path d="M253 478h170" stroke="#b4c7d9" stroke-width="2"/>
+<text x="338" y="517" text-anchor="middle" class="body">Alle 3 Stunden</text>
+<text x="338" y="549" text-anchor="middle" class="body">3 Minuten hören / senden</text>
+<text x="338" y="581" text-anchor="middle" class="body">Kanal 3</text>
+<rect x="705" y="145" width="397" height="622" rx="18" fill="#f8fbff" stroke="#d2deeb" stroke-width="2"/>
+<text x="729" y="182" class="heading">Die 8 Empfangsfenster</text>
+<text x="729" y="205" class="note">Jeweils drei Minuten auf Kanal 3</text>
+<rect x="729" y="215" width="356" height="55" rx="11" fill="#fff0ef"/>
+<rect x="729" y="215" width="7" height="55" rx="3.5" fill="#ef5556"/>
+<circle cx="758" cy="242" r="11" fill="none" stroke="#ef5556" stroke-width="2.5"/>
+<path d="M 758 234 V 242 L 763 245" stroke="#ef5556" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<text x="785" y="250" class="time">00:00–00:03 Uhr</text><rect x="729" y="280" width="356" height="55" rx="11" fill="#fff4e8"/>
+<rect x="729" y="280" width="7" height="55" rx="3.5" fill="#eb913c"/>
+<circle cx="758" cy="307" r="11" fill="none" stroke="#eb913c" stroke-width="2.5"/>
+<path d="M 758 299 V 307 L 763 310" stroke="#eb913c" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<text x="785" y="315" class="time">03:00–03:03 Uhr</text><rect x="729" y="345" width="356" height="55" rx="11" fill="#fff8e4"/>
+<rect x="729" y="345" width="7" height="55" rx="3.5" fill="#d5a323"/>
+<circle cx="758" cy="372" r="11" fill="none" stroke="#d5a323" stroke-width="2.5"/>
+<path d="M 758 364 V 372 L 763 375" stroke="#d5a323" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<text x="785" y="380" class="time">06:00–06:03 Uhr</text><rect x="729" y="410" width="356" height="55" rx="11" fill="#eaf9f2"/>
+<rect x="729" y="410" width="7" height="55" rx="3.5" fill="#42ad8b"/>
+<circle cx="758" cy="437" r="11" fill="none" stroke="#42ad8b" stroke-width="2.5"/>
+<path d="M 758 429 V 437 L 763 440" stroke="#42ad8b" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<text x="785" y="445" class="time">09:00–09:03 Uhr</text><rect x="729" y="475" width="356" height="55" rx="11" fill="#eaf8fb"/>
+<rect x="729" y="475" width="7" height="55" rx="3.5" fill="#31acc5"/>
+<circle cx="758" cy="502" r="11" fill="none" stroke="#31acc5" stroke-width="2.5"/>
+<path d="M 758 494 V 502 L 763 505" stroke="#31acc5" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<text x="785" y="510" class="time">12:00–12:03 Uhr</text><rect x="729" y="540" width="356" height="55" rx="11" fill="#edf2ff"/>
+<rect x="729" y="540" width="7" height="55" rx="3.5" fill="#577bd6"/>
+<circle cx="758" cy="567" r="11" fill="none" stroke="#577bd6" stroke-width="2.5"/>
+<path d="M 758 559 V 567 L 763 570" stroke="#577bd6" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<text x="785" y="575" class="time">15:00–15:03 Uhr</text><rect x="729" y="605" width="356" height="55" rx="11" fill="#f3edff"/>
+<rect x="729" y="605" width="7" height="55" rx="3.5" fill="#855bd3"/>
+<circle cx="758" cy="632" r="11" fill="none" stroke="#855bd3" stroke-width="2.5"/>
+<path d="M 758 624 V 632 L 763 635" stroke="#855bd3" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<text x="785" y="640" class="time">18:00–18:03 Uhr</text><rect x="729" y="670" width="356" height="55" rx="11" fill="#fff0f6"/>
+<rect x="729" y="670" width="7" height="55" rx="3.5" fill="#cb5d95"/>
+<circle cx="758" cy="697" r="11" fill="none" stroke="#cb5d95" stroke-width="2.5"/>
+<path d="M 758 689 V 697 L 763 700" stroke="#cb5d95" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+<text x="785" y="705" class="time">21:00–21:03 Uhr</text>
+<text x="560" y="777" text-anchor="middle" class="note">Uhrzeiten in Ortszeit · Farbstreifen schematisch, Dauer nicht maßstabsgetreu</text>
+</svg>
