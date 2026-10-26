@@ -6,6 +6,7 @@ import posixpath
 import re
 import subprocess
 import yaml
+from mkdocs_config import load_mkdocs_config
 from decision_blocks import render_latex
 from mermaid_diagrams import render_for_pdf as render_mermaid_for_pdf
 
@@ -28,7 +29,7 @@ def main():
     parser.add_argument("--output",required=True)
     parser.add_argument("--format",choices=["screen","print"],default="screen")
     args=parser.parse_args()
-    conf=yaml.safe_load((ROOT/"mkdocs.yml").read_text(encoding="utf-8"))
+    conf=load_mkdocs_config(ROOT/"mkdocs.yml")
     chapters=list(flatten(conf["nav"]))
     destinations={path:chapter_id(path) for _,path in chapters}
     parts=["---\ntitle: 'SURVIVOR GUIDE'\nsubtitle: 'Das offene Handbuch für Krisenbewältigung, Überleben und Wiederaufbau'\nlang: de-DE\n---\n\n"]

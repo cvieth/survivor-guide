@@ -5,11 +5,12 @@ from urllib.parse import unquote, urlparse
 import re
 import sys
 import yaml
+from mkdocs_config import load_mkdocs_config
 from decision_blocks import parse_blocks
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
-NAV = yaml.safe_load((ROOT / "mkdocs.yml").read_text(encoding="utf-8"))["nav"]
+NAV = load_mkdocs_config(ROOT / "mkdocs.yml")["nav"]
 
 def flatten(node):
     if isinstance(node, list):
