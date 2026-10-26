@@ -47,6 +47,7 @@ nav:
   - 'Wasser, Nahrung & Versorgung':
       - Überblick: 01-versorgung/index.md
       - Wasserbedarf pro Person und Tag: 01-versorgung/wasserbedarf-pro-person.md
+      - Oberflächenwasser aufbereiten: 01-versorgung/oberflaechenwasser-aufbereiten.md
   - 'Medizin & Gesundheit': 02-medizin/index.md
   - 'Pharmazie, Substanzen & Chemie':
       - Überblick: 03-pharmazie/index.md
