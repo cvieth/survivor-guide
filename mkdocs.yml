@@ -75,7 +75,9 @@ nav:
   - 'Energie, Unterkunft & Infrastruktur': 06-infrastruktur/index.md
   - 'Handwerk, Mechanik & Produktion': 07-handwerk/index.md
   - 'Sicherheit, Orientierung & Selbstschutz': 08-sicherheit/index.md
-  - 'Gesellschaft, Psychologie & Soziales': 09-gesellschaft/index.md
+  - 'Gesellschaft, Psychologie & Soziales':
+      - Überblick: 09-gesellschaft/index.md
+      - Selbstschutz, Solidarität und Grenzen der Hilfe: 09-gesellschaft/grenzen-der-hilfe.md
   - 'Ökologie, Natur & Umwelt': 10-oekologie/index.md
   - 'Wissenserhalt & Wiederaufbau': 11-wiederaufbau/index.md
   - 'Nachschlagewerke & Anhänge':
