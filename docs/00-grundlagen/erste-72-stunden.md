@@ -9,7 +9,7 @@ Verletzungen, Feuer, Einsturz- und Stromgefahren erkennen. Gefährdete Bereiche 
 
 ## 2. Lage und Kommunikation
 
-Warnmeldungen über verfügbare offizielle Kanäle prüfen. Nachrichten hinterfragen und Batterielaufzeit schonen. Kontaktmöglichkeiten innerhalb der Gruppe abstimmen.
+Warnmeldungen über verfügbare offizielle Kanäle prüfen. [Sirenensignale richtig erkennen](../04-kommunikation/sirenensignale.md): eine Minute auf- und abschwellend bedeutet Warnung, eine Minute Dauerton Entwarnung. Den Anlass über amtliche Warnmeldungen klären. Nachrichten hinterfragen und Batterielaufzeit schonen. Kontaktmöglichkeiten innerhalb der Gruppe abstimmen.
 
 ## 3. Medizinische Versorgung
 

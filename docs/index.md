@@ -9,6 +9,7 @@ Dieses gemeinschaftlich gepflegte Wissensprojekt dokumentiert überprüfbare Gru
 
 ## Direkt zum Wissen
 
+- **[Sirenensignale erkennen](04-kommunikation/sirenensignale.md)** – Warnung, Entwarnung, Probealarm und Verhalten bei Gefahr.
 - **[Wirkstoffregister (Kapitel 12)](12-nachschlagewerk/wirkstoffregister.md)** – 25 Wirkstoff-Steckbriefe als offline nutzbares Nachschlagewerk.
 - **[Apotheken-Prioritätenliste (Kapitel 03)](03-pharmazie/apotheke-prioritaeten.md)** – Suchstrategie bei langem Versorgungsausfall.
 - **[Wasserbedarf & Wasser sichern (Kapitel 01)](01-versorgung/wasserbedarf-pro-person.md)** – Richtwerte und erste Schritte zur Wassersicherung.

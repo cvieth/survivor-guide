@@ -1,9 +1,10 @@
 # Kommunikation & Information
 
-Die folgenden beiden Nachschlagewerke sind quellenbasiert dokumentiert und illustriert. Die abschließende redaktionelle Prüfung steht noch aus.
+Die folgenden Nachschlagewerke sind quellenbasiert dokumentiert. Die abschließende redaktionelle Prüfung steht noch aus.
 
 ## Verfügbare Anleitungen
 
+- **[Sirenensignale](sirenensignale.md)** – Tonmuster, Probealarm und richtige Reaktion bei Warnungen.
 - **[Morsealphabet](morsealphabet.md)** – A–Z, Ziffern, Zeitregeln und Notsignale.
 - **[Flaggensemaphore / Winkeralphabet](flaggenalphabet.md)** – A–Z, Winkelstellungen, Ziffern- und Steuerzeichen.
 
