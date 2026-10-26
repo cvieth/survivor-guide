@@ -25,7 +25,7 @@ output = header
 for step in ("1", "2", "3", "4", "5", "X"):
     output += "## " + sections[step] + "\n\n"
     for d in [item for item in entries if item["stufe"] == step]:
-        output += "### " + d["name"] + "\n\n"
+        output += "### " + d["name"] + (" {#" + d["anchor"] + "}" if d.get("anchor") else "") + "\n\n"
         for key, label in labels:
             output += "- **" + label + ":** " + d[key] + "\n"
         output += "- **Quellen:** " + ", ".join(

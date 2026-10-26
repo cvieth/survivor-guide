@@ -95,7 +95,7 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
 - **Weiterführend:** [Durchfall und Erbrechen](../02-medizin/beschwerden-und-mittel.md#magen-und-darm); [Trinkwassersicherheit](../01-versorgung/oberflaechenwasser-aufbereiten.md); Heilpflanzen ersetzen ORS nicht.
 
-### Natriumchlorid 0,9 % (sterile Spüllösung)
+### Natriumchlorid 0,9 % (sterile Spüllösung) {#natriumchlorid-09-sterile-spuelloesung}
 
 - **Auf der Packung suchen:** NaCl 0,9 %; Wundspüllösung
 - **Typischer Einsatz:** Wunden reinigen und Schmutz entfernen
