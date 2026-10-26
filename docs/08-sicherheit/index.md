@@ -4,6 +4,7 @@
 
 ## Gefahr beurteilen und Schutz wählen
 
+- [Versorgungsausfall, Gedränge und Sicherheitslage](../01-versorgung/versorgungsausfall-frueh-handeln.md): Vorräte früh sichern, riskante Besorgungen und Konflikte vermeiden.
 - [Die ersten 72 Stunden](../00-grundlagen/erste-72-stunden.md): Phase 0 unterscheidet akute Gefahr am Ort, Gefahren draußen und vorläufig geeignete Unterkunft.
 - [Evakuierung, Notgepäck und Fluchtwege](../00-grundlagen/evakuierung-notgepaeck.md): vor einer Flucht Zeitbudget, sichere Route und wirklich notwendige Dinge beurteilen.
 - [Sirenensignale und Warninformationen](../04-kommunikation/sirenensignale.md): eine Warnung erkennen, den Anlass klären und Anweisungen beachten.

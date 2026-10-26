@@ -10,9 +10,10 @@ Wir hoffen, dass dieses Handbuch aus Interesse gelesen wird und im Ernstfall nic
 ## Bei einer akuten Krise beginnen
 
 1. **[Die ersten 72 Stunden](00-grundlagen/erste-72-stunden.md):** Standort und Gefahr beurteilen, lebensbedrohliche Notfälle versorgen, danach Wasser, Kommunikation, Wärme und weitere Versorgung organisieren.
-2. **[Evakuierung und Notgepäck](00-grundlagen/evakuierung-notgepaeck.md):** Wenn du fortmusst, entscheidet der sichere Weg über das verfügbare Packzeitfenster.
-3. **[Wasserbedarf und Wasserqualität](01-versorgung/wasserbedarf-pro-person.md):** Wieviel sicheres Trinkwasser und geeignetes Brauchwasser brauchst du?
-4. **[Sirenensignale und Warnungen](04-kommunikation/sirenensignale.md):** Was Warnungen bedeuten und wie man weitere Informationen bekommt.
+2. **[Versorgungsausfall früh erkennen](01-versorgung/versorgungsausfall-frueh-handeln.md):** Wenn Kassensysteme, Zahlungen oder Nachlieferung ausfallen, Vorratslücken und sichere Beschaffung sofort prüfen.
+3. **[Evakuierung und Notgepäck](00-grundlagen/evakuierung-notgepaeck.md):** Wenn du fortmusst, entscheidet der sichere Weg über das verfügbare Packzeitfenster.
+4. **[Wasserbedarf und Wasserqualität](01-versorgung/wasserbedarf-pro-person.md):** Wieviel sicheres Trinkwasser und geeignetes Brauchwasser brauchst du?
+5. **[Sirenensignale und Warnungen](04-kommunikation/sirenensignale.md):** Was Warnungen bedeuten und wie man weitere Informationen bekommt.
 
 **Die Reihenfolge richtet sich nach der Gefahr, nicht nach dem Zeitplan.** Bei unmittelbarer Bedrohung nicht erst die übrigen Themen durcharbeiten.
 
@@ -23,6 +24,7 @@ Wir hoffen, dass dieses Handbuch aus Interesse gelesen wird und im Ernstfall nic
 | Fieber oder andere Beschwerden | [Fieber versorgen](02-medizin/fieber-erkennen-und-versorgen.md) · [Beschwerden und Mittel](02-medizin/beschwerden-und-mittel.md) |
 | Medikamente oder Pflanzen nachschlagen | [Wirkstoffregister](12-nachschlagewerk/wirkstoffregister.md) · [Heilpflanzenregister](12-nachschlagewerk/heilpflanzenregister.md) |
 | Wasser aus unbekannter Quelle | [Quellen und Vorfilter beurteilen](01-versorgung/regenwasser-pfuetzen-improvisierte-filter.md) · [Oberflächenwasser aufbereiten](01-versorgung/oberflaechenwasser-aufbereiten.md) |
+| Einkauf und Kartenzahlung fallen aus | [Vorratsreichweite und sichere Beschaffung](01-versorgung/versorgungsausfall-frueh-handeln.md) |
 | Nahrung für den Aufbruch auswählen | [Notverpflegung für unterwegs](01-versorgung/notverpflegung-fuer-unterwegs.md) |
 | Radio oder Kommunikation ausgefallen | [Empfänger improvisieren](05-technologie/radio-ohne-geraet.md) · [Funk-Zeitfenster](04-kommunikation/funkzeitfenster-333-regel.md) |
 | Hilfe leisten und eigene Grenzen erkennen | [Selbstschutz, Solidarität und Grenzen der Hilfe](09-gesellschaft/grenzen-der-hilfe.md) |

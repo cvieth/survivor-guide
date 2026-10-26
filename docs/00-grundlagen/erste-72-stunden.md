@@ -63,6 +63,8 @@ hint: "Warnzeichen: bewusstlos, keine normale Atmung, starke unstillbare Blutung
 Kleinere Verletzungen versorgen. Betroffene beruhigen und vor Kälte schützen. Nach hilfsbedürftigen Personen schauen, soweit sicher. **Verschlechtert sich der Zustand, sofort zum JA-Zweig wechseln.**
 ::: enddecision
 
+**Wenn keine akute Lebensgefahr vorliegt:** Hinweise auf Störungen von Kassen, Zahlungen und Nachlieferungen schon jetzt notieren. Nach der medizinischen Erstprüfung [früh die Versorgung bewerten](../01-versorgung/versorgungsausfall-frueh-handeln.md), aber nicht wegen bloßer Gerüchte aufbrechen.
+
 **Bei einer bewusstlosen Person:** laut um Hilfe rufen, auf Reaktion prüfen, Atemwege freimachen und die Atmung **höchstens zehn Sekunden** kontrollieren.
 
 ::: decision
@@ -79,7 +81,21 @@ Grundlagen: [DRK: Wiederbelebung](https://www.drk.de/hilfe-in-deutschland/erste-
 
 ## 15–60 Minuten: Zeitkritische Chancen nutzen
 
-**Prioritäten, sobald die Umgebung sicher ist:** Trinkwasserversorgung beurteilen, ggf. Wasser auffangen; medizinische Stromabhängigkeit erkennen; vorhandene Akkus laden; Kühlgeräte geschlossen halten; Taschenlampe und netzunabhängiges Radio bereitlegen. **Nichts davon rechtfertigt die Verzögerung eines Notrufs oder einer angeordneten Evakuierung.**
+**Prioritäten, sobald die Umgebung sicher ist:** Trinkwasserversorgung beurteilen, ggf. Wasser auffangen; medizinische Stromabhängigkeit erkennen; vorhandene Akkus laden; Kühlgeräte geschlossen halten; Taschenlampe und netzunabhängiges Radio bereitlegen. **Zugleich** verfügbare Medikamente, Wasser und Nahrung grob prüfen und bei Zahlungs-, Kassen- oder Logistikausfall die [frühe Versorgungsentscheidung](../01-versorgung/versorgungsausfall-frueh-handeln.md) treffen. **Nichts davon rechtfertigt die Verzögerung eines Notrufs oder einer angeordneten Evakuierung.**
+
+### Ausfall von Handel und Nachlieferung erkennen
+
+::: decision
+label: "15–60 MINUTEN · VERSORGUNGSZUGANG"
+question: "Gibt es belastbare Hinweise, dass lebenswichtige Güter nicht mehr zuverlässig verkauft oder nachgeliefert werden können?"
+hint: "Offizielle Warnungen, mehrere unabhängige Verkaufsstellen oder tatsächliche Lieferausfälle. Einzelne Terminals und Gerüchte sind kein Beweis."
+::: answer danger "JA" "Sofort Reichweite prüfen"
+Trinkwasser, benötigte Medikamente, Nahrung und Sonderbedarf **jetzt** erfassen. Fehlende Mengen notieren, dann [Bedarf und sichere legale Beschaffung](../01-versorgung/versorgungsausfall-frueh-handeln.md) prüfen. Nicht reflexhaft zum Supermarkt fahren.
+::: answer protect "NEIN" "Vorsorge prüfen und beobachten"
+Bestände überblicken, Warnungen verfolgen. Ohne Lücke keine hektische Beschaffung, bei veränderten Informationen neu entscheiden.
+::: answer neutral "UNKLAR" "Gefahrlose Schritte vorziehen"
+Vorräte zählen, Akkus laden, geeignetes Wasser bei sicherer Warnlage sichern. Gerüchte prüfen, Menschenansammlungen meiden. [Weiter zur Versorgungsentscheidung](../01-versorgung/versorgungsausfall-frueh-handeln.md).
+::: enddecision
 
 ### Leitungswasser beurteilen – nicht jede Wasserwarnung bedeutet dasselbe
 
@@ -135,7 +151,7 @@ hint: "Warn-App, Cell Broadcast, Behördenwebseiten und örtliche Anweisungen; E
 **Batterie-/Kurbel-/Autoradio** für regionale Meldungen nutzen. Wenn erreichbar und gefahrlos möglich, örtliche offizielle Notfalltreffpunkte oder Aushänge berücksichtigen. **Keine Netzverbindung ≠ Entwarnung**. Bei akuter Notlage auch ohne funktionierende 112 sichere Hilfeanlaufstellen nutzen.
 ::: enddecision
 
-**Bestandsaufnahme auf Papier:** Anwesende und Angehörige, Medikamente, medizinische Besonderheiten, Tiere, Trinkwasser, Lebensmittel, Kühlstatus, Batterien/Akkus, Licht, Hygiene, Bargeld und notwendige Dokumente. Anzahl der Menschen und Tiere für die Bilanz notieren, keine starre Universalrationierung. Kurze Absprachen über Kontaktzeit und Treffpunkt treffen. Bei Bitten um längerfristige Hilfe Umfang und Tragfähigkeit prüfen, ohne akute Erste Hilfe aufzuschieben. Siehe [Selbstschutz, Solidarität und Grenzen der Hilfe](../09-gesellschaft/grenzen-der-hilfe.md) (**ethisch und moralisch ungeprüfter Entwurf**). Die [3-3-3-Funkregel](../04-kommunikation/funkzeitfenster-333-regel.md) ist **keine amtliche Funkfrequenz oder Warnroutine**; offizielle Warnungen gehen immer vor.
+**Bestandsaufnahme auf Papier (bei bestätigter Versorgungsstörung schon in der ersten Stunde beginnen):** Anwesende und Angehörige, Medikamente, medizinische Besonderheiten, Tiere, Trinkwasser, Lebensmittel, Kühlstatus, Batterien/Akkus, Licht, Hygiene, Bargeld und notwendige Dokumente. Anzahl der Menschen und Tiere für die Bilanz notieren, keine starre Universalrationierung. Kurze Absprachen über Kontaktzeit und Treffpunkt treffen. Bei Bitten um längerfristige Hilfe Umfang und Tragfähigkeit prüfen, ohne akute Erste Hilfe aufzuschieben. Siehe [Selbstschutz, Solidarität und Grenzen der Hilfe](../09-gesellschaft/grenzen-der-hilfe.md) (**ethisch und moralisch ungeprüfter Entwurf**). Bei konkreter Lücke die [72-Stunden-Reichweite und sichere Beschaffung](../01-versorgung/versorgungsausfall-frueh-handeln.md) jetzt prüfen. Auch Bargeld garantiert keinen Verkauf, wenn Geschäfte geschlossen sind. Die [3-3-3-Funkregel](../04-kommunikation/funkzeitfenster-333-regel.md) ist **keine amtliche Funkfrequenz oder Warnroutine**; offizielle Warnungen gehen immer vor.
 
 [BBK: In der Krise informiert sein](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/In-der-Krise-informiert-sein/in-der-krise-informiert-sein_node.html).
 
@@ -193,7 +209,7 @@ Frühzeitig **amtliche Wärmeanlaufstellen oder andere sichere beheizte Unterkü
 
 - **Sicherheitsrunde:** neue amtliche Warnungen, Rauch, steigendes Wasser, Wetter, Gasgeruch, Schäden und Temperatur prüfen. Bei Gefahr sofort zu **Phase 0**.
 - **Medizinische Runde:** Zustand von Verletzten, Arzneimittelvorräte, Kühlanforderungen, Batteriestand nötiger Medizinprodukte und Erreichbarkeit von Hilfe prüfen.
-- **Versorgungsrunde:** Wasser- und Essensbedarf von Personen **und Haustieren** überschlagen; Verbrauch notieren; Kühlware bei erneutem Überschreiten sicherer Bedingungen aussortieren.
+- **Versorgungsrunde:** Reichweite von Wasser, Nahrung, notwendigen Medikamenten für Menschen und Haustiere neu erfassen; bei Engpässen die [frühe Beschaffungsentscheidung](../01-versorgung/versorgungsausfall-frueh-handeln.md) erneut stellen. Wasser- und Essensbedarf überschlagen; Verbrauch notieren; Kühlware bei erneutem Überschreiten sicherer Bedingungen aussortieren.
 - **Nachtroutine:** Leuchte, Schuhe, Schlüssel und notwendige Medikamente griffbereit; sichere Wege im Dunkeln; Schlaf und Ruhe abwechseln. Bei Schutz-im-Gebäude-Anweisung **nicht eigenmächtig** ins Freie gehen.
 - **Informationsrunde:** Warnkanäle bevorzugen; Treff- oder Funkzeiten nur zusätzlich. Schlaf nicht durch unnötige Dauerkontrolle sämtlicher Geräte verhindern. Bei ausgefallenen Netzen und direktem Sichtkontakt können vorher geübte [Semaphore-Flaggenzeichen](../04-kommunikation/flaggenalphabet.md) oder [Morsezeichen mit Licht](../04-kommunikation/morsealphabet.md) für kurze Nachrichten helfen. Beides setzt einen sichtbaren oder hörenden, eingeweihten Empfänger voraus.
 
@@ -236,6 +252,7 @@ Die Zeitfenster sind **Prioritäten und Beispiele, keine Wartefristen**. Diese A
 - **Akute Gefahr oder neue Schutzanweisung:** zurück zu **Phase 0**.
 - **Bewusstlosigkeit, fehlende normale Atmung, schwere Blutung, drohender Ausfall lebenserhaltender Geräte:** medizinische Sofortmaßnahme.
 - **Kontaminationswarnung oder Verlust des Trinkwassers:** Wasser neu bewerten; nicht bis zum nächsten Tagespunkt warten.
+- **Ausfall von Kassen, Zahlungsmitteln oder Nachlieferung; dringende Versorgungslücke:** [Ressourcen und sichere Beschaffung](../01-versorgung/versorgungsausfall-frueh-handeln.md) sofort neu prüfen, nicht auf eine vermutete Plünderungsfrist warten.
 - **Abwasserrückstau, gefährliche Kälte, Rauch oder CO-Warnung, unterbrochene Kühlkette:** betroffenen Abschnitt sofort anwenden.
 
 **Rot/Blau/Grau tragen keine alleinige Bedeutung.** Jede Karte enthält ihre Handlung im Text. „Unbekannt“ ist im Zweifel eine eigene Lage – nicht automatisch „Nein“.
