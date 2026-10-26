@@ -272,3 +272,34 @@ body {
     color: #142b46 !important;
   }
 }
+
+
+/* Reusable Markdown decisions: pure CSS, no prerendered images. */
+.md-typeset .sg-decision {margin:1.6rem 0 2rem;font-size:.92em;}
+.md-typeset .sg-decision__question {background:#1d2a42;border:1px solid #566680;border-radius:.65rem;padding:1.2rem 1.35rem;text-align:center;}
+.md-typeset .sg-decision__label {color:#b8cee9;font-size:.82em;font-weight:800;letter-spacing:.085em;margin-bottom:.35em;}
+.md-typeset .sg-decision__prompt {color:#fff;font-size:1.14em;font-weight:800;line-height:1.42;}
+.md-typeset .sg-decision__question p {color:#bfcee3;font-size:.9em;line-height:1.5;margin:.45rem auto 0;max-width:44rem;}
+.md-typeset .sg-decision__arrow {color:#96a9c4;line-height:1.6;font-size:1.8rem;text-align:center;}
+.md-typeset .sg-decision__answers {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.8rem;}
+.md-typeset .sg-decision__answer {min-width:0;padding:1rem 1.1rem;background:#222d42;border:1px solid #8392a9;border-radius:.65rem;break-inside:avoid;}
+.md-typeset .sg-decision__answer--danger {background:#352330;border-color:#d66b78;}
+.md-typeset .sg-decision__answer--protect {background:#1a2d46;border-color:#529bd6;}
+.md-typeset .sg-decision__answer--neutral {background:#232d40;border-color:#8392a9;}
+.md-typeset .sg-decision__choice {font-size:.81em;font-weight:800;letter-spacing:.08em;color:#ffc0c5;margin-bottom:.5em;}
+.md-typeset .sg-decision__answer--protect .sg-decision__choice {color:#a3d9ff;}
+.md-typeset .sg-decision__answer--neutral .sg-decision__choice {color:#d9e0ea;}
+.md-typeset .sg-decision__answer h3 {font-size:1.09em;line-height:1.35;color:#fff;margin:0 0 .45em;}
+.md-typeset .sg-decision__answer p {margin:.35em 0 0;line-height:1.55;}
+.md-typeset .sg-decision__answer strong {color:#fff;}
+.md-typeset .sg-decision__answer ul {margin:.45em 0 0;padding-left:1.2em;}
+@media screen and (max-width:45rem) {
+  .md-typeset .sg-decision__answers {grid-template-columns:1fr;}
+  .md-typeset .sg-decision__question {padding:.95rem 1rem;}
+}
+@media print {
+  .md-typeset .sg-decision__question,.md-typeset .sg-decision__answer {background:#fff!important;border-color:#444!important;color:#111!important;}
+  .md-typeset .sg-decision__prompt,.md-typeset .sg-decision__label,.md-typeset .sg-decision__question p,
+  .md-typeset .sg-decision__choice,.md-typeset .sg-decision__answer h3,
+  .md-typeset .sg-decision__answer strong {color:#111!important;}
+}
