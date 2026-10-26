@@ -78,6 +78,8 @@ Keine geschlossenen Läden betreten, keine Plünderung und keine Konfrontation m
 
 ### Was konkret beschaffen?
 
+**Sonderfall Proteinpulver:** Wenn Wasser oder Kalorien fehlen, zuerst beides sichern; reines Proteinpulver ist **kein vollwertiger Ersatz für energiereiche Lebensmittel**. [Proteinpulver beim Zusammenstellen einer Krisenration bewerten](haltbare-lebensmittel-proteinpulver.md#proteinpulver-mitnehmen-oder-stehen-lassen).
+
 Die **Mengen pro Person für zehn Tage** und die Unterscheidung zwischen verzehrfertiger Basis und trockenem Kochvorrat stehen im zentralen [Vorrats- und Einkaufsartikel](vorratsstrategie-zwei-stufen.md). Diese Seite konzentriert sich auf die **Lage- und Sicherheitsentscheidung**; die vollständige Liste wird nicht doppelt gepflegt.
 
 1. **Sicheres Trinkwasser**, falls vorhandene sichere Quellen nicht ausreichen. Geeignete verschließbare Gefäße sind nützlich.

@@ -25,6 +25,7 @@ Wir hoffen, dass dieses Handbuch aus Interesse gelesen wird und im Ernstfall nic
 | Medikamente oder Pflanzen nachschlagen | [Wirkstoffregister](12-nachschlagewerk/wirkstoffregister.md) · [Heilpflanzenregister](12-nachschlagewerk/heilpflanzenregister.md) |
 | Wasser aus unbekannter Quelle | [Quellen und Vorfilter beurteilen](01-versorgung/regenwasser-pfuetzen-improvisierte-filter.md) · [Oberflächenwasser aufbereiten](01-versorgung/oberflaechenwasser-aufbereiten.md) |
 | Einkauf und Kartenzahlung fallen aus | [Vorratsreichweite und sichere Beschaffung](01-versorgung/versorgungsausfall-frueh-handeln.md) |
+| Haltbare Lebensmittel und Proteinpulver bewerten | [Lagerorientierungen, Eiweiß und Energie](01-versorgung/haltbare-lebensmittel-proteinpulver.md) |
 | Einkaufsliste und Vorratsstrategie für 10 Tage ohne Strom | [Stufe A ohne Kochen und Stufe B als Erweiterung](01-versorgung/vorratsstrategie-zwei-stufen.md) |
 | Nahrung für den Aufbruch auswählen | [Notverpflegung für unterwegs](01-versorgung/notverpflegung-fuer-unterwegs.md) |
 | Radio oder Kommunikation ausgefallen | [Empfänger improvisieren](05-technologie/radio-ohne-geraet.md) · [Funk-Zeitfenster](04-kommunikation/funkzeitfenster-333-regel.md) |

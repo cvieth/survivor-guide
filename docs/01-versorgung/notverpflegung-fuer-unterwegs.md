@@ -11,6 +11,8 @@
 
 **Nicht verwechseln:** Für die stationäre Versorgung und den Einkauf bei IT-, Logistik- oder Stromausfall gelten die [zweistufigen Vorratslisten für zehn Tage](vorratsstrategie-zwei-stufen.md). Beim Fußmarsch zählen zusätzlich Transportgewicht und Beweglichkeit; zehn Tage Konserven sind kein geeignetes Notgepäck.
 
+**Proteinpulver im Gepäck:** Als Eiweißergänzung möglich, aber ohne sicheres Mischwasser und ausreichende andere Kalorien nicht vorrangig. [Nährwertvergleich und Lagerhinweise](haltbare-lebensmittel-proteinpulver.md#proteinpulver-mitnehmen-oder-stehen-lassen).
+
 ## Das Auswahlverfahren
 
 ::: decision

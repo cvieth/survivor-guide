@@ -23,6 +23,8 @@ Verzehrfertige Konserven, Nüsse, geeignete Aufstriche, Brot und Riegel bevorzug
 Ungeprüfte Kochtechnik und ungewissen Brennstoff nicht voraussetzen. Eine sichere Lösung später gesondert testen; erst dann Stufe B in die Reichweite einrechnen.
 ::: enddecision
 
+**Haltbarkeit, Produkte mit Mehrjahreslagerung und Proteinpulver** werden in [Lagerfähige Lebensmittel und Proteinpulver im Krisenvorrat](haltbare-lebensmittel-proteinpulver.md) zentral behandelt. Reines Proteinpulver ist eher eine Eiweißergänzung als eine kalorienreiche Hauptversorgung.
+
 ## Einkaufsliste Stufe A: 10 Tage ohne Kochen
 
 Diese Mengen sind ein **Beispiel für den Aufbau**. Bereits vorhandene, sichere Vorräte abziehen. Im Ereignisfall nur dann beschaffen, wenn [Verkauf und Weg tatsächlich sicher sind](versorgungsausfall-frueh-handeln.md). Produkte müssen laut Verpackung **haltbar ohne Kühlung und verzehrfertig** sein; offene Konserven bei fehlender Kühlung unverzüglich verbrauchen.
@@ -93,6 +95,8 @@ Diese Mengen sind ein **Beispiel für den Aufbau**. Bereits vorhandene, sichere 
 | **Zu Fuß evakuieren** | Keine schweren Zehn-Tage-Vorräte tragen; [Notverpflegung für unterwegs](notverpflegung-fuer-unterwegs.md) und [Evakuierungsentscheidung](../00-grundlagen/evakuierung-notgepaeck.md) gelten |
 
 ## Vorräte im Alltag erhalten
+
+Für die konkrete Haltbarkeit von Konserven, trockenen Grundnahrungsmitteln, Nüssen, Öl und Proteinpulver siehe die [produktspezifische Lagerübersicht](haltbare-lebensmittel-proteinpulver.md). Nicht alle trockenen Lebensmittel bleiben gleich lange gut.
 
 **„Lebender Vorrat“:** Nur bekannte und verträgliche Lebensmittel einlagern. Ältere Packungen zuerst im normalen Alltag verwenden, zeitnah ersetzen, vor Feuchtigkeit, Schädlingen, Wärme und Frost schützen. Konserven mit gewölbtem Deckel, undichten oder stark beschädigten Behältnissen nicht probieren. Die vorgestellte Liste ist eine **Einkaufs- und Prüfhilfe**, keine Aufforderung zu Panikkäufen während eines Ereignisses.
 
