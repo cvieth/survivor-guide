@@ -15,6 +15,7 @@
 | Sturz, mögliche Fraktur, Rückenverletzung | [Knochenbrüche und schwere Verletzungen](brueche-schwere-verletzungen.md) |
 | Verbrennung, Unterkühlung oder Hitze | [Verbrennungen und Temperaturnotfälle](verbrennungen-temperaturnotfaelle.md) |
 | Kleinere Wunden, längerer Versorgungsausfall | [Wunden reinigen, Antiseptik gezielt auswählen und über Tage kontrollieren](wunden-mehrtaegige-versorgung.md) |
+| Entzündete/eitrige Wunde, Biss, Infektion | [Wundinfektionen: Antibiotika und Referenzdosierungen](wundinfektionen-antibiotika.md) |
 
 ## Infektionsschutz bei Versorgungsausfall
 

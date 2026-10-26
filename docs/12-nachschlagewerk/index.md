@@ -5,6 +5,8 @@ Dieser Bereich ist die **zentrale Fundstelle** für wiederverwendbare Steckbrief
 ## Arzneimittel, Beschwerden und Pflanzen
 
 - [Wirkstoffregister](wirkstoffregister.md): Arzneimittelsteckbriefe mit Risiken, Gegenanzeigen und Einsatzbereichen.
+- [Antibiotikagruppen](antibiotikagruppen.md): Klassen und Wirkmechanismen, Anwendungsgrenzen und Einzelwirkstoffe.
+- [Wundinfektionen und Referenzdosierungen](../02-medizin/wundinfektionen-antibiotika.md): klinische Einordnung und Versorgungsausfall.
 - [Heilpflanzenregister](heilpflanzenregister.md): zwölf illustrierte botanische Steckbriefe mit Bestimmungsmerkmalen, Anwendungen und Verwechslungsrisiken.
 - [Bildquellen der Heilpflanzen](bildquellen-heilpflanzen.md): historische Tafeln, Gemeinfreiheit, Herkunft und Urheberangaben.
 - [Beschwerden und Mittel finden](../02-medizin/beschwerden-und-mittel.md): **vom Symptom zum passenden Artikel** und weiter zu den Registern.

@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "stand": "2026-10-26",
   "status": "ENTWURF: nicht fachlich geprüft",
-  "zweck": "Offline-Wirkstoff-Suchregister, keine Therapie- oder Dosierungsanleitung",
+  "zweck": "Offline-Wirkstoffregister mit indikationsbezogenen Leitlinien-Referenzdosen für Erwachsene; keine individuelle Verschreibung",
   "lagerung": "Herstellerangaben, Packungsbeilage, Verfall, Feuchte, Licht, Temperatur, Sterilität und Kühlkette produktbezogen beachten.",
   "quellen": {
     "WHO": {
@@ -56,6 +56,30 @@
     "NHS_WUND": {
       "titel": "NHS: Cuts and grazes",
       "url": "https://www.nhs.uk/conditions/cuts-and-grazes/"
+    },
+    "ZELL": {
+      "titel": "NICE NG141 Zellulitis/Erysipel",
+      "url": "https://www.nice.org.uk/guidance/ng141/chapter/Recommendations"
+    },
+    "BITE": {
+      "titel": "NICE NG184 Tier- und Menschenbisse",
+      "url": "https://www.nice.org.uk/guidance/ng184/chapter/Recommendations"
+    },
+    "ULCER": {
+      "titel": "NICE NG152 infiziertes Ulcus cruris",
+      "url": "https://www.nice.org.uk/guidance/ng152/chapter/Recommendations"
+    },
+    "FOOT": {
+      "titel": "NICE NG19 diabetischer Fuß",
+      "url": "https://www.nice.org.uk/guidance/ng19/chapter/Recommendations"
+    },
+    "IMP": {
+      "titel": "NICE NG153 Impetigo",
+      "url": "https://www.nice.org.uk/guidance/ng153/chapter/Recommendations"
+    },
+    "IDSA": {
+      "titel": "IDSA Haut- und Weichteilinfektionen 2014",
+      "url": "https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/"
     }
   },
   "eintraege": [
@@ -242,9 +266,14 @@
       "alternativen": "Bei Kenntnis des Erregers schmaler wirksame Behandlung",
       "voraussetzungen": "Fachkundige Infektionsbeurteilung und Allergieanamnese",
       "quellen": [
+        "WHO",
         "BISS",
-        "WHO"
-      ]
+        "BITE"
+      ],
+      "gruppe": "penicilline",
+      "anchor": "amoxicillin-clavulansaure",
+      "wunddosis": "Infizierter Hunde-/Katzen-/Menschenbiss: 500/125 mg oral 3-mal täglich, meist 5 Tage (NG184). Bei nach Risiko angezeigter Biss-Prophylaxe: 250/125 mg oder 500/125 mg 3-mal täglich für 3 Tage.",
+      "wundgrenzen": "Jede Komponente der Tablettenstärke separat prüfen; Penicillinallergie, Leber- und Nierenprobleme. Ersetzt Tetanus-/Tollwutschutz nicht."
     },
     {
       "name": "Amoxicillin",
@@ -258,7 +287,9 @@
       "voraussetzungen": "Bakterielle Diagnose und Verordnung",
       "quellen": [
         "WHO"
-      ]
+      ],
+      "gruppe": "penicilline",
+      "wundgrenzen": "Nicht allein als Standard gegen typische Staphylokokken- oder Biss-Mischinfektionen."
     },
     {
       "name": "Doxycyclin",
@@ -272,8 +303,13 @@
       "voraussetzungen": "Medizinische Prüfung von Alter, Schwangerschaft, Interaktionen",
       "quellen": [
         "DOXY",
-        "BISS"
-      ]
+        "BISS",
+        "ZELL",
+        "BITE"
+      ],
+      "gruppe": "tetracycline",
+      "wunddosis": "Zellulitis als Alternative: 200 mg oral an Tag 1, anschließend 100 mg/Tag; gesamt 5–7 Tage (NG141). Biss bei Penicillinallergie: 200 mg Tag 1, danach 100–200 mg/Tag PLUS Metronidazol 400 mg 3-mal/Tag, 3 Tage Prophylaxe oder meist 5 Tage Therapie (NG184).",
+      "wundgrenzen": "Streptokokkenabdeckung unzuverlässig; Schwangerschaft, Eisen/Zink/Antazida, Photosensibilität und Speiseröhrenreizung."
     },
     {
       "name": "Flucloxacillin",
@@ -286,8 +322,13 @@
       "alternativen": "Gezielte Alternative je nach Erreger",
       "voraussetzungen": "Fachkundige Indikationsprüfung",
       "quellen": [
-        "WHO"
-      ]
+        "WHO",
+        "ZELL",
+        "FOOT"
+      ],
+      "gruppe": "penicilline",
+      "wunddosis": "Zellulitis/Erysipel: 500 mg–1 g oral 4-mal täglich, 5–7 Tage (NG141). Mild infizierter diabetischer Fuß: 500 mg–1 g 4-mal täglich, zunächst 7 Tage (NG19). Obere orale Dosis war in NICE off-label.",
+      "wundgrenzen": "Nicht alle Bisskeime/MRSA; Penicillinallergie und Leberprobleme beachten."
     },
     {
       "name": "Metronidazol",
@@ -301,8 +342,12 @@
       "voraussetzungen": "Indikations- und Interaktionsprüfung",
       "quellen": [
         "BISS",
-        "WHO"
-      ]
+        "WHO",
+        "BITE"
+      ],
+      "gruppe": "nitroimidazole",
+      "wunddosis": "Bei ausgewählten Bissen und Penicillinallergie als Zusatz zu Doxycyclin: 400 mg oral 3-mal täglich; 3 Tage Prophylaxe beziehungsweise meist 5 Tage Therapie (NG184).",
+      "wundgrenzen": "Alleine unzureichend für viele aerobe Wundkeime; Wechselwirkungen und Alkohol vermeiden."
     },
     {
       "name": "Nitrofurantoin",
@@ -346,6 +391,97 @@
       "voraussetzungen": "Herzrisiko- und Medikationsprüfung",
       "quellen": [
         "WHO"
+      ],
+      "gruppe": "makrolide",
+      "wundgrenzen": "Nicht als allgemeiner Ersatz für Wundantibiotika wählen; Resistenz und QT-Risiko."
+    },
+    {
+      "name": "Clarithromycin",
+      "gruppe": "makrolide",
+      "stufe": "3",
+      "aufschrift": "Clarithromycin; Tabletten",
+      "einsatz": "Ausgewählte Zellulitis/Erysipel-Alternativen",
+      "wirkung": "Makrolid hemmt bakterielle Proteinsynthese",
+      "nicht_geeignet": "Nicht pauschal bei Abszess oder Biss-Mischflora",
+      "risiken": "QT-Verlängerung, Interaktionen (u. a. Statine), Leberrisiko",
+      "alternativen": "Nach Indikation Flucloxacillin oder gezieltes Antibiotikum",
+      "voraussetzungen": "EKG-/Herzrisiken, Wechselwirkungen, Organfunktion",
+      "wunddosis": "NG141: 500 mg oral 2-mal täglich für 5–7 Tage bei geeigneter Zellulitis-Indikation.",
+      "wundgrenzen": "QT- und Interaktionsrisiko.",
+      "quellen": [
+        "ZELL"
+      ]
+    },
+    {
+      "name": "Clindamycin",
+      "gruppe": "lincosamide",
+      "stufe": "3",
+      "aufschrift": "Clindamycin; Kapseln",
+      "einsatz": "Ausgewählte schwerere Haut-/Weichteilinfektionen",
+      "wirkung": "Lincosamid hemmt Proteinbiosynthese",
+      "nicht_geeignet": "Nicht pauschal für Bisse oder schwere Infektionen ohne Überwachung",
+      "risiken": "Clostridioides-difficile-Kolitis; lokale Resistenz",
+      "alternativen": "Gezielte schmalere Therapie",
+      "voraussetzungen": "Diagnose, Resistenz, Durchfallvorgeschichte",
+      "wunddosis": "NG141 als fachkundige Alternative: oral 150–300 mg 4-mal täglich (ggf. bis 450 mg 4-mal täglich) für 7 Tage; schwere Fälle brauchen Klinikkontrolle.",
+      "wundgrenzen": "Kein Tabletten-Ersatz für chirurgische Versorgung; schwere Durchfälle kritisch.",
+      "quellen": [
+        "ZELL",
+        "IDSA"
+      ]
+    },
+    {
+      "name": "Co-trimoxazol",
+      "gruppe": "folatantagonisten",
+      "stufe": "3",
+      "aufschrift": "Co-trimoxazol; Trimethoprim/Sulfamethoxazol 160/800 mg",
+      "einsatz": "Ausgewählte Keime/teilweise MRSA, Zweitwahl bei infiziertem Ulkus",
+      "wirkung": "Blockiert zwei Schritte der bakteriellen Folsäuresynthese",
+      "nicht_geeignet": "Nicht pauschal bei Streptokokken-Zellulitis oder ohne Abszessdrainage",
+      "risiken": "Schwere Hautreaktionen, Hyperkaliämie, Blutbild-/Nierenprobleme, Warfarin-/Methotrexatinteraktionen",
+      "alternativen": "Erregerorientierte gezielte Therapie",
+      "voraussetzungen": "Nierenfunktion, Sulfonamidallergie, Kalium, Schwangerschaft",
+      "wunddosis": "NG152: bei klinisch infiziertem Unterschenkelulkus in ausgewählten Fällen als Zweitwahl 960 mg oral 2-mal täglich für 7 Tage; dort off-label.",
+      "wundgrenzen": "960 mg insgesamt = 160 mg Trimethoprim + 800 mg Sulfamethoxazol.",
+      "quellen": [
+        "ULCER",
+        "IDSA"
+      ]
+    },
+    {
+      "name": "Fusidinsäure 2 % (äußerlich)",
+      "anchor": "fusidinsaeure-aeusserlich",
+      "gruppe": "topische-antibiotika",
+      "stufe": "3",
+      "aufschrift": "Fusidinsäure 2%; Hautcreme/-salbe",
+      "einsatz": "Begrenzte nichtbullöse Impetigo",
+      "wirkung": "Lokales Antibiotikum",
+      "nicht_geeignet": "Nicht für beliebige offene/tiefe Wunden",
+      "risiken": "Resistenzentwicklung, Reizung",
+      "alternativen": "Passende antiseptische oder gezielte lokale Therapie",
+      "voraussetzungen": "Zugelassenes Präparat, passende Hautdiagnose",
+      "wunddosis": "NG153: bei geeigneter Impetigo 2%iges Fertigpräparat 3-mal täglich für 5 Tage.",
+      "wundgrenzen": "Nicht als offene Wunddesinfektion benutzen.",
+      "quellen": [
+        "IMP"
+      ]
+    },
+    {
+      "name": "Mupirocin 2 % (äußerlich)",
+      "anchor": "mupirocin-aeusserlich",
+      "gruppe": "topische-antibiotika",
+      "stufe": "3",
+      "aufschrift": "Mupirocin 2%; Hautsalbe",
+      "einsatz": "Ausgewählte Impetigo bei Resistenz gegen Fusidinsäure",
+      "wirkung": "Lokale Hemmung bakterieller Proteinsynthese",
+      "nicht_geeignet": "Keine Routineanwendung an gewöhnlichen offenen Wunden",
+      "risiken": "Resistenz, lokale Reizung, Verwechslung mit Nasenpräparat",
+      "alternativen": "Gezielt gewählte lokale Behandlung",
+      "voraussetzungen": "Klare Indikation, Hautzubereitung",
+      "wunddosis": "NG153: bei passender Impetigo 2%iges Hautpräparat 3-mal täglich für 5 Tage.",
+      "wundgrenzen": "Nicht für tiefere Infektionen.",
+      "quellen": [
+        "IMP"
       ]
     },
     {
@@ -431,8 +567,12 @@
       "voraussetzungen": "Qualifiziertes Personal, Sterilität und Überwachung",
       "quellen": [
         "WHO",
-        "BISS"
-      ]
+        "BISS",
+        "FOOT"
+      ],
+      "gruppe": "cephalosporine",
+      "anchor": "ceftriaxon-injektion",
+      "wundgrenzen": "Nur fachliche parenterale Anwendung bei richtiger Indikation und ggf. weiterer Abdeckung."
     },
     {
       "name": "Wasserstoffperoxid",
@@ -448,6 +588,120 @@
         "MAYO_WUND",
         "MHRA_H2O2",
         "NHS_WUND"
+      ]
+    }
+  ],
+  "antibiotikagruppen": [
+    {
+      "id": "penicilline",
+      "name": "Penicilline und Beta-Laktamase-Hemmer",
+      "wirkprinzip": "Blockieren den Zellwandaufbau. Clavulansäure hemmt bestimmte bakterielle Beta-Laktamasen.",
+      "eignung": "Flucloxacillin bei passender Zellulitis; Amoxicillin/Clavulansäure bei vielen Biss-Mischinfektionen.",
+      "grenzen": "Allergie, Nieren-/Leberfunktion, Resistenz. Amoxicillin alleine ist keine pauschale Wahl bei typischen Staphylokokkenwunden/Bissen.",
+      "wirkstoffe": [
+        "Flucloxacillin",
+        "Amoxicillin + Clavulansäure",
+        "Amoxicillin"
+      ],
+      "quellen": [
+        "ZELL",
+        "BITE"
+      ]
+    },
+    {
+      "id": "cephalosporine",
+      "name": "Cephalosporine",
+      "wirkprinzip": "Beta-Laktame mit wirkstoffabhängigem Spektrum.",
+      "eignung": "Ausgewählte schwere Haut-/Weichteilinfektionen durch Fachpersonal.",
+      "grenzen": "Ceftriaxon benötigt sterile Injektion und ggf. Kombination; keine pauschale MRSA-/Anaerobierabdeckung.",
+      "wirkstoffe": [
+        "Ceftriaxon (Injektion)"
+      ],
+      "quellen": [
+        "FOOT"
+      ]
+    },
+    {
+      "id": "tetracycline",
+      "name": "Tetracycline",
+      "wirkprinzip": "Hemmen bakterielle Proteinsynthese am 30S-Ribosom.",
+      "eignung": "Doxycyclin bei geeigneter Hautinfektion oder als Biss-Kombinationspartner.",
+      "grenzen": "Schwangerschaft, Mineralstoffe, Speiseröhrenreizung; Streptokokken nicht überall zuverlässig erfasst.",
+      "wirkstoffe": [
+        "Doxycyclin"
+      ],
+      "quellen": [
+        "ZELL",
+        "BITE"
+      ]
+    },
+    {
+      "id": "nitroimidazole",
+      "name": "Nitroimidazole",
+      "wirkprinzip": "Antimikrobielle Wirkung gegen bestimmte anaerobe Keime.",
+      "eignung": "Metronidazol bei ausgewählten Mischinfektionen als zusätzlicher Wirkstoff.",
+      "grenzen": "Keine alleinige Standardbehandlung aerober Wundkeime; Interaktionen und Alkoholhinweise beachten.",
+      "wirkstoffe": [
+        "Metronidazol"
+      ],
+      "quellen": [
+        "BITE"
+      ]
+    },
+    {
+      "id": "makrolide",
+      "name": "Makrolide",
+      "wirkprinzip": "Hemmen die bakterielle Proteinsynthese.",
+      "eignung": "Clarithromycin als Alternative für bestimmte Zellulitisfälle.",
+      "grenzen": "QT-Verlängerung, Interaktionen, Makrolidresistenzen. Azithromycin kein universeller Ersatz.",
+      "wirkstoffe": [
+        "Clarithromycin",
+        "Azithromycin"
+      ],
+      "quellen": [
+        "ZELL"
+      ]
+    },
+    {
+      "id": "lincosamide",
+      "name": "Lincosamide",
+      "wirkprinzip": "Hemmen bakterielle Proteinsynthese.",
+      "eignung": "Clindamycin nur bei ausgewählter fachlich beurteilten Weichteilinfektion.",
+      "grenzen": "C.-difficile-Kolitis, Resistenzen und unzureichende Abdeckung bestimmter Mischinfektionen.",
+      "wirkstoffe": [
+        "Clindamycin"
+      ],
+      "quellen": [
+        "ZELL",
+        "IDSA"
+      ]
+    },
+    {
+      "id": "folatantagonisten",
+      "name": "Folatantagonisten",
+      "wirkprinzip": "Trimethoprim plus Sulfamethoxazol blockieren die bakterielle Folatsynthese zweifach.",
+      "eignung": "Co-trimoxazol für ausgewählte empfindliche Erreger, teilweise MRSA oder als Reserve beim infizierten Ulkus.",
+      "grenzen": "Nicht für alle Streptokokken, Risiken für Haut, Blutbild, Niere und Kalium; viele Wechselwirkungen.",
+      "wirkstoffe": [
+        "Co-trimoxazol"
+      ],
+      "quellen": [
+        "ULCER",
+        "IDSA"
+      ]
+    },
+    {
+      "id": "topische-antibiotika",
+      "name": "Topische Antibiotika",
+      "wirkprinzip": "Antibiotische Fertigpräparate für spezielle oberflächliche Hautinfektionen.",
+      "eignung": "Fusidinsäure/Mupirocin bei bestimmten Formen der Impetigo.",
+      "grenzen": "Nicht routinemäßig für offene Schnitt-/Bisswunden; Resistenzbildung beachten.",
+      "wirkstoffe": [
+        "Fusidinsäure 2 % (äußerlich)",
+        "Mupirocin 2 % (äußerlich)"
+      ],
+      "quellen": [
+        "IMP"
       ]
     }
   ]

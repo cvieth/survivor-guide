@@ -40,6 +40,9 @@ Diese **Stufen sind keine Empfehlung für eine universelle Bevorratungsmenge ode
 
 ## Warum die Antibiotika nicht austauschbar sind
 
+[Wundinfektionen und Erwachsenendosierungen](../02-medizin/wundinfektionen-antibiotika.md) sowie die [Antibiotikagruppen](../12-nachschlagewerk/antibiotikagruppen.md) dokumentieren die passenden Indikationen und Wirkstofflücken. Kleine saubere Wunden brauchen normalerweise kein Antibiotikum.
+
+
 | Wirkstoff | Möglicher klinischer Bereich (Beispiele) | Entscheidende Grenze |
 | --- | --- | --- |
 | **Amoxicillin/Clavulansäure** | Unter anderem bestimmte infizierte Hunde-/Katzen-/Menschenbisse, Atemwegsinfektionen | Nicht gegen alle resistenten Erreger; Penicillinallergie und Leberprobleme berücksichtigen; tiefe Bissverletzungen benötigen Wundbeurteilung. |

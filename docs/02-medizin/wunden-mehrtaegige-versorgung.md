@@ -124,6 +124,10 @@ Bei tiefen, stark verschmutzten, infizierten, biss- oder stichbedingten Wunden *
 
 **Grenzen der Selbsthilfe:** Fieber, schnell fortschreitende Rötung oder Schwellung, rote Streifen, Verwirrtheit, auffallend schnelle Atmung, schwarz verfärbtes Gewebe, ungewöhnlich starke Schmerzen oder übler Geruch können auf eine schwere Infektion hinweisen. Dabei reichen Spülung, Verband und Hausmittel nicht aus. Mit vorhandener Infrastruktur **112 beziehungsweise medizinische Versorgung veranlassen**; ohne Infrastruktur sichere Reinigung und Abdeckung fortführen, unnötige Manipulation vermeiden und so schnell wie möglich qualifizierte Hilfe oder sicheren Transport organisieren.
 
+## Antibiotika bei Wundinfektionen
+
+Nicht das Alter der Wunde, sondern **klinische Infektionszeichen** und die Verletzungsart entscheiden über eine Antibiotikatherapie. Bei Biss, ausbreitender Rötung, Eiter, hohem Risiko oder Diabetes: **[Wundinfektionen, Antibiotikawahl, Referenzdosierungen und Grenzen](wundinfektionen-antibiotika.md)**. Zur Einordnung der Stoffklassen dienen die [Antibiotikagruppen](../12-nachschlagewerk/antibiotikagruppen.md), zu Einzelstoffen das [Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md).
+
 ## Tetanus und besondere Infektionsrisiken
 
 Bei verschmutzten oder tiefen Wunden und Bissen **Impfschutz klären**. Nach vollständiger Grundimmunisierung kann bei schmutzigen Wunden ab **fünf Jahren**, bei sauberen kleinen Wunden ab **zehn Jahren** seit der letzten Impfung eine Auffrischung angezeigt sein; unklarer oder unvollständiger Schutz kann weitere Maßnahmen erfordern. **Das ist eine ärztliche Impfentscheidung, keine Aufforderung zur Eigeninjektion.** Antibiotika verhindern Tetanus nicht zuverlässig.

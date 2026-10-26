@@ -7,7 +7,7 @@
 
 1. **Beschwerde einordnen:** [Symptome, Warnzeichen und Erstmaßnahmen](../02-medizin/beschwerden-und-mittel.md); bei Fieber die [ausführliche Anleitung](../02-medizin/fieber-erkennen-und-versorgen.md).
 2. **Vorräte erfassen und priorisieren:** [Apotheke bei Versorgungsausfall](apotheke-prioritaeten.md).
-3. **Einzelheiten nachschlagen:** [Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md) beziehungsweise [Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md).
+3. **Einzelheiten nachschlagen:** [Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md), [Antibiotikagruppen](../12-nachschlagewerk/antibiotikagruppen.md) beziehungsweise [Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md). [Wundinfektionen und Dosierungen](../02-medizin/wundinfektionen-antibiotika.md).
 
 Für **Seife, Chlorbleiche, Poolchlor, Alkoholmittel und Flächendesinfektion** das eigene [Hygiene- und Reinigungsmittelregister](../12-nachschlagewerk/hygienemittel-register.md) verwenden. Diese Stoffe sind **keine Arzneimittel**. Siehe [Anleitung zu Reinigung und Desinfektion](../01-versorgung/reinigung-desinfektion-im-notfall.md).
 

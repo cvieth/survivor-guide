@@ -1,7 +1,7 @@
 # Wirkstoffregister – Offline-Nachschlagewerk
 
 !!! warning "Entwurf – fachliche Prüfung ausstehend"
-    Die Wirkstoffsteckbriefe sind eine Orientierung zur **Identifizierung von Arzneimitteln**, keine Therapie-, Dosierungs- oder Verschreibungsanleitung. Stand: 26. Oktober 2026.
+    Die Wirkstoffsteckbriefe sind eine Orientierung zur **Identifizierung von Arzneimitteln**, keine individuelle Therapie- oder Verschreibungsanleitung. Angegebene **Leitlinien-Referenzdosierungen** sind nur für die passende Indikation bei Erwachsenen gedacht. Stand: 26. Oktober 2026.
 
 Dieses Register wird aus einer [maschinenlesbaren JSON-Datei](https://github.com/cvieth/survivor-guide/blob/main/data/medikamente.json) erzeugt und ist auch im Gesamt-PDF enthalten. Die Stufen beschreiben **Szenario-Prioritäten, keine allgemeingültige medizinische Rangliste**.
 
@@ -14,7 +14,7 @@ Dieses Register wird aus einer [maschinenlesbaren JSON-Datei](https://github.com
 
 **Für alle Mittel:** Originalverpackung, Wirkstärke, Darreichungsform, Beipackzettel, Allergien, Schwangerschaft, Alter, Nieren-/Leberfunktion, Wechselwirkungen und Lagerbedingungen prüfen. Unbekannte oder zweifelhaft gelagerte Medikamente nicht als sicher betrachten. Antibiotika wirken nicht gegen Viren; die Liste ersetzt weder Diagnostik noch Prüfung von Resistenzen oder Behandlungsdauer.
 
-Siehe [Apotheke – Schnellpriorisierung](../03-pharmazie/apotheke-prioritaeten.md).
+Siehe [Apotheke – Schnellpriorisierung](../03-pharmazie/apotheke-prioritaeten.md), [Antibiotikagruppen](antibiotikagruppen.md) und [Wundinfektionen](../02-medizin/wundinfektionen-antibiotika.md).
 
 Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.md) einordnen. **Haushaltsreiniger, Natriumhypochlorit und andere Hygienestoffe** sind im gesonderten [Hygienemittelregister](hygienemittel-register.md) dokumentiert, **nicht** als Arzneimittel. Zu ausgewählten Anwendungsgebieten gibt es ein eigenes [Heilpflanzenregister](heilpflanzenregister.md); dessen Einträge sind keine pauschal gleichwertigen Ersatzmittel.
 
@@ -175,7 +175,7 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 
 ## 3 · Antibiotika – indikationsgebunden
 
-### Amoxicillin + Clavulansäure
+### Amoxicillin + Clavulansäure {#amoxicillin-clavulansaure}
 
 - **Auf der Packung suchen:** Amoxicillin/Clavulansäure; Co-Amoxiclav
 - **Typischer Einsatz:** Ausgewählte Biss- und Mischinfektionen
@@ -184,8 +184,12 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 - **Risiken/Gegenanzeigen:** Allergie, Durchfall, mögliche Leberreaktionen
 - **Alternativen:** Bei Kenntnis des Erregers schmaler wirksame Behandlung
 - **Voraussetzungen:** Fachkundige Infektionsbeurteilung und Allergieanamnese
-- **Quellen:** [BISS](https://www.nice.org.uk/guidance/ng184/chapter/Recommendations), [WHO](https://www.who.int/publications/i/item/B09474)
+- **Antibiotikagruppe:** [Penicilline und Beta-Laktamase-Hemmer](antibiotikagruppen.md#penicilline)
+- **Leitlinien-Referenzdosierung (Erwachsene, indikationsgebunden):** Infizierter Hunde-/Katzen-/Menschenbiss: 500/125 mg oral 3-mal täglich, meist 5 Tage (NG184). Bei nach Risiko angezeigter Biss-Prophylaxe: 250/125 mg oder 500/125 mg 3-mal täglich für 3 Tage.
+- **Wundspezifische Grenzen:** Jede Komponente der Tablettenstärke separat prüfen; Penicillinallergie, Leber- und Nierenprobleme. Ersetzt Tetanus-/Tollwutschutz nicht.
+- **Quellen:** [WHO](https://www.who.int/publications/i/item/B09474), [BISS](https://www.nice.org.uk/guidance/ng184/chapter/Recommendations), [BITE](https://www.nice.org.uk/guidance/ng184/chapter/Recommendations)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Wundinfektionen:** [Klinische Einordnung](../02-medizin/wundinfektionen-antibiotika.md).
 
 ### Amoxicillin
 
@@ -196,8 +200,11 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 - **Risiken/Gegenanzeigen:** Penicillinallergie, Resistenz, Durchfall
 - **Alternativen:** Erregergerechte alternative Antibiotikawahl
 - **Voraussetzungen:** Bakterielle Diagnose und Verordnung
+- **Antibiotikagruppe:** [Penicilline und Beta-Laktamase-Hemmer](antibiotikagruppen.md#penicilline)
+- **Wundspezifische Grenzen:** Nicht allein als Standard gegen typische Staphylokokken- oder Biss-Mischinfektionen.
 - **Quellen:** [WHO](https://www.who.int/publications/i/item/B09474)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Wundinfektionen:** [Klinische Einordnung](../02-medizin/wundinfektionen-antibiotika.md).
 
 ### Doxycyclin
 
@@ -208,8 +215,12 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 - **Risiken/Gegenanzeigen:** In Schwangerschaft meist ungeeignet; Lichtempfindlichkeit und Wechselwirkungen
 - **Alternativen:** Je nach Erreger andere oder zusätzliche Antibiotika
 - **Voraussetzungen:** Medizinische Prüfung von Alter, Schwangerschaft, Interaktionen
-- **Quellen:** [DOXY](https://www.nhs.uk/medicines/doxycycline/), [BISS](https://www.nice.org.uk/guidance/ng184/chapter/Recommendations)
+- **Antibiotikagruppe:** [Tetracycline](antibiotikagruppen.md#tetracycline)
+- **Leitlinien-Referenzdosierung (Erwachsene, indikationsgebunden):** Zellulitis als Alternative: 200 mg oral an Tag 1, anschließend 100 mg/Tag; gesamt 5–7 Tage (NG141). Biss bei Penicillinallergie: 200 mg Tag 1, danach 100–200 mg/Tag PLUS Metronidazol 400 mg 3-mal/Tag, 3 Tage Prophylaxe oder meist 5 Tage Therapie (NG184).
+- **Wundspezifische Grenzen:** Streptokokkenabdeckung unzuverlässig; Schwangerschaft, Eisen/Zink/Antazida, Photosensibilität und Speiseröhrenreizung.
+- **Quellen:** [DOXY](https://www.nhs.uk/medicines/doxycycline/), [BISS](https://www.nice.org.uk/guidance/ng184/chapter/Recommendations), [ZELL](https://www.nice.org.uk/guidance/ng141/chapter/Recommendations), [BITE](https://www.nice.org.uk/guidance/ng184/chapter/Recommendations)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Wundinfektionen:** [Klinische Einordnung](../02-medizin/wundinfektionen-antibiotika.md).
 
 ### Flucloxacillin
 
@@ -220,8 +231,12 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 - **Risiken/Gegenanzeigen:** Penicillinallergie und mögliche Leberreaktionen
 - **Alternativen:** Gezielte Alternative je nach Erreger
 - **Voraussetzungen:** Fachkundige Indikationsprüfung
-- **Quellen:** [WHO](https://www.who.int/publications/i/item/B09474)
+- **Antibiotikagruppe:** [Penicilline und Beta-Laktamase-Hemmer](antibiotikagruppen.md#penicilline)
+- **Leitlinien-Referenzdosierung (Erwachsene, indikationsgebunden):** Zellulitis/Erysipel: 500 mg–1 g oral 4-mal täglich, 5–7 Tage (NG141). Mild infizierter diabetischer Fuß: 500 mg–1 g 4-mal täglich, zunächst 7 Tage (NG19). Obere orale Dosis war in NICE off-label.
+- **Wundspezifische Grenzen:** Nicht alle Bisskeime/MRSA; Penicillinallergie und Leberprobleme beachten.
+- **Quellen:** [WHO](https://www.who.int/publications/i/item/B09474), [ZELL](https://www.nice.org.uk/guidance/ng141/chapter/Recommendations), [FOOT](https://www.nice.org.uk/guidance/ng19/chapter/Recommendations)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Wundinfektionen:** [Klinische Einordnung](../02-medizin/wundinfektionen-antibiotika.md).
 
 ### Metronidazol
 
@@ -232,8 +247,12 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 - **Risiken/Gegenanzeigen:** Wechselwirkungen, neurologische und gastrointestinale Nebenwirkungen
 - **Alternativen:** Abhängig vom Krankheitsbild weitere/andere Antibiotika
 - **Voraussetzungen:** Indikations- und Interaktionsprüfung
-- **Quellen:** [BISS](https://www.nice.org.uk/guidance/ng184/chapter/Recommendations), [WHO](https://www.who.int/publications/i/item/B09474)
+- **Antibiotikagruppe:** [Nitroimidazole](antibiotikagruppen.md#nitroimidazole)
+- **Leitlinien-Referenzdosierung (Erwachsene, indikationsgebunden):** Bei ausgewählten Bissen und Penicillinallergie als Zusatz zu Doxycyclin: 400 mg oral 3-mal täglich; 3 Tage Prophylaxe beziehungsweise meist 5 Tage Therapie (NG184).
+- **Wundspezifische Grenzen:** Alleine unzureichend für viele aerobe Wundkeime; Wechselwirkungen und Alkohol vermeiden.
+- **Quellen:** [BISS](https://www.nice.org.uk/guidance/ng184/chapter/Recommendations), [WHO](https://www.who.int/publications/i/item/B09474), [BITE](https://www.nice.org.uk/guidance/ng184/chapter/Recommendations)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Wundinfektionen:** [Klinische Einordnung](../02-medizin/wundinfektionen-antibiotika.md).
 
 ### Nitrofurantoin
 
@@ -268,8 +287,91 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 - **Risiken/Gegenanzeigen:** QT-Verlängerung, Wechselwirkungen und Resistenzen
 - **Alternativen:** Gezielt ausgewählte Alternative nach Diagnose
 - **Voraussetzungen:** Herzrisiko- und Medikationsprüfung
+- **Antibiotikagruppe:** [Makrolide](antibiotikagruppen.md#makrolide)
+- **Wundspezifische Grenzen:** Nicht als allgemeiner Ersatz für Wundantibiotika wählen; Resistenz und QT-Risiko.
 - **Quellen:** [WHO](https://www.who.int/publications/i/item/B09474)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Wundinfektionen:** [Klinische Einordnung](../02-medizin/wundinfektionen-antibiotika.md).
+
+### Clarithromycin
+
+- **Auf der Packung suchen:** Clarithromycin; Tabletten
+- **Typischer Einsatz:** Ausgewählte Zellulitis/Erysipel-Alternativen
+- **Wirkung/Abdeckung:** Makrolid hemmt bakterielle Proteinsynthese
+- **Grenzen:** Nicht pauschal bei Abszess oder Biss-Mischflora
+- **Risiken/Gegenanzeigen:** QT-Verlängerung, Interaktionen (u. a. Statine), Leberrisiko
+- **Alternativen:** Nach Indikation Flucloxacillin oder gezieltes Antibiotikum
+- **Voraussetzungen:** EKG-/Herzrisiken, Wechselwirkungen, Organfunktion
+- **Antibiotikagruppe:** [Makrolide](antibiotikagruppen.md#makrolide)
+- **Leitlinien-Referenzdosierung (Erwachsene, indikationsgebunden):** NG141: 500 mg oral 2-mal täglich für 5–7 Tage bei geeigneter Zellulitis-Indikation.
+- **Wundspezifische Grenzen:** QT- und Interaktionsrisiko.
+- **Quellen:** [ZELL](https://www.nice.org.uk/guidance/ng141/chapter/Recommendations)
+- **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Wundinfektionen:** [Klinische Einordnung](../02-medizin/wundinfektionen-antibiotika.md).
+
+### Clindamycin
+
+- **Auf der Packung suchen:** Clindamycin; Kapseln
+- **Typischer Einsatz:** Ausgewählte schwerere Haut-/Weichteilinfektionen
+- **Wirkung/Abdeckung:** Lincosamid hemmt Proteinbiosynthese
+- **Grenzen:** Nicht pauschal für Bisse oder schwere Infektionen ohne Überwachung
+- **Risiken/Gegenanzeigen:** Clostridioides-difficile-Kolitis; lokale Resistenz
+- **Alternativen:** Gezielte schmalere Therapie
+- **Voraussetzungen:** Diagnose, Resistenz, Durchfallvorgeschichte
+- **Antibiotikagruppe:** [Lincosamide](antibiotikagruppen.md#lincosamide)
+- **Leitlinien-Referenzdosierung (Erwachsene, indikationsgebunden):** NG141 als fachkundige Alternative: oral 150–300 mg 4-mal täglich (ggf. bis 450 mg 4-mal täglich) für 7 Tage; schwere Fälle brauchen Klinikkontrolle.
+- **Wundspezifische Grenzen:** Kein Tabletten-Ersatz für chirurgische Versorgung; schwere Durchfälle kritisch.
+- **Quellen:** [ZELL](https://www.nice.org.uk/guidance/ng141/chapter/Recommendations), [IDSA](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/)
+- **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Wundinfektionen:** [Klinische Einordnung](../02-medizin/wundinfektionen-antibiotika.md).
+
+### Co-trimoxazol
+
+- **Auf der Packung suchen:** Co-trimoxazol; Trimethoprim/Sulfamethoxazol 160/800 mg
+- **Typischer Einsatz:** Ausgewählte Keime/teilweise MRSA, Zweitwahl bei infiziertem Ulkus
+- **Wirkung/Abdeckung:** Blockiert zwei Schritte der bakteriellen Folsäuresynthese
+- **Grenzen:** Nicht pauschal bei Streptokokken-Zellulitis oder ohne Abszessdrainage
+- **Risiken/Gegenanzeigen:** Schwere Hautreaktionen, Hyperkaliämie, Blutbild-/Nierenprobleme, Warfarin-/Methotrexatinteraktionen
+- **Alternativen:** Erregerorientierte gezielte Therapie
+- **Voraussetzungen:** Nierenfunktion, Sulfonamidallergie, Kalium, Schwangerschaft
+- **Antibiotikagruppe:** [Folatantagonisten](antibiotikagruppen.md#folatantagonisten)
+- **Leitlinien-Referenzdosierung (Erwachsene, indikationsgebunden):** NG152: bei klinisch infiziertem Unterschenkelulkus in ausgewählten Fällen als Zweitwahl 960 mg oral 2-mal täglich für 7 Tage; dort off-label.
+- **Wundspezifische Grenzen:** 960 mg insgesamt = 160 mg Trimethoprim + 800 mg Sulfamethoxazol.
+- **Quellen:** [ULCER](https://www.nice.org.uk/guidance/ng152/chapter/Recommendations), [IDSA](https://www.idsociety.org/practice-guideline/skin-and-soft-tissue-infections/)
+- **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Wundinfektionen:** [Klinische Einordnung](../02-medizin/wundinfektionen-antibiotika.md).
+
+### Fusidinsäure 2 % (äußerlich) {#fusidinsaeure-aeusserlich}
+
+- **Auf der Packung suchen:** Fusidinsäure 2%; Hautcreme/-salbe
+- **Typischer Einsatz:** Begrenzte nichtbullöse Impetigo
+- **Wirkung/Abdeckung:** Lokales Antibiotikum
+- **Grenzen:** Nicht für beliebige offene/tiefe Wunden
+- **Risiken/Gegenanzeigen:** Resistenzentwicklung, Reizung
+- **Alternativen:** Passende antiseptische oder gezielte lokale Therapie
+- **Voraussetzungen:** Zugelassenes Präparat, passende Hautdiagnose
+- **Antibiotikagruppe:** [Topische Antibiotika](antibiotikagruppen.md#topische-antibiotika)
+- **Leitlinien-Referenzdosierung (Erwachsene, indikationsgebunden):** NG153: bei geeigneter Impetigo 2%iges Fertigpräparat 3-mal täglich für 5 Tage.
+- **Wundspezifische Grenzen:** Nicht als offene Wunddesinfektion benutzen.
+- **Quellen:** [IMP](https://www.nice.org.uk/guidance/ng153/chapter/Recommendations)
+- **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Wundinfektionen:** [Klinische Einordnung](../02-medizin/wundinfektionen-antibiotika.md).
+
+### Mupirocin 2 % (äußerlich) {#mupirocin-aeusserlich}
+
+- **Auf der Packung suchen:** Mupirocin 2%; Hautsalbe
+- **Typischer Einsatz:** Ausgewählte Impetigo bei Resistenz gegen Fusidinsäure
+- **Wirkung/Abdeckung:** Lokale Hemmung bakterieller Proteinsynthese
+- **Grenzen:** Keine Routineanwendung an gewöhnlichen offenen Wunden
+- **Risiken/Gegenanzeigen:** Resistenz, lokale Reizung, Verwechslung mit Nasenpräparat
+- **Alternativen:** Gezielt gewählte lokale Behandlung
+- **Voraussetzungen:** Klare Indikation, Hautzubereitung
+- **Antibiotikagruppe:** [Topische Antibiotika](antibiotikagruppen.md#topische-antibiotika)
+- **Leitlinien-Referenzdosierung (Erwachsene, indikationsgebunden):** NG153: bei passender Impetigo 2%iges Hautpräparat 3-mal täglich für 5 Tage.
+- **Wundspezifische Grenzen:** Nicht für tiefere Infektionen.
+- **Quellen:** [IMP](https://www.nice.org.uk/guidance/ng153/chapter/Recommendations)
+- **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Wundinfektionen:** [Klinische Einordnung](../02-medizin/wundinfektionen-antibiotika.md).
 
 ## 4 · Ergänzende Mittel
 
@@ -336,7 +438,7 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 
 ## 5 · Fachpersonal und Infrastruktur
 
-### Ceftriaxon (Injektion)
+### Ceftriaxon (Injektion) {#ceftriaxon-injektion}
 
 - **Auf der Packung suchen:** Ceftriaxon; Pulver zur Injektion/Infusion
 - **Typischer Einsatz:** Bestimmte schwere bakterielle Infektionen
@@ -345,8 +447,11 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 - **Risiken/Gegenanzeigen:** Allergie, Zubereitungs-/Applikationsfehler, Resistenz
 - **Alternativen:** Wenn klinisch geeignet, orale und gezieltere Therapie
 - **Voraussetzungen:** Qualifiziertes Personal, Sterilität und Überwachung
-- **Quellen:** [WHO](https://www.who.int/publications/i/item/B09474), [BISS](https://www.nice.org.uk/guidance/ng184/chapter/Recommendations)
+- **Antibiotikagruppe:** [Cephalosporine](antibiotikagruppen.md#cephalosporine)
+- **Wundspezifische Grenzen:** Nur fachliche parenterale Anwendung bei richtiger Indikation und ggf. weiterer Abdeckung.
+- **Quellen:** [WHO](https://www.who.int/publications/i/item/B09474), [BISS](https://www.nice.org.uk/guidance/ng184/chapter/Recommendations), [FOOT](https://www.nice.org.uk/guidance/ng19/chapter/Recommendations)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Wundinfektionen:** [Klinische Einordnung](../02-medizin/wundinfektionen-antibiotika.md).
 
 ## X · Warnhinweise und nicht empfohlene Anwendungen
 
