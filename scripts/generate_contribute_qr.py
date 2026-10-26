@@ -26,7 +26,7 @@ def main() -> None:
     # Solid white background ensures contrast in the dark web theme.
     svg = svg.replace(
         "<path ",
-        '<rect width="100%" height="100%" fill="#ffffff"/><path fill="#111111" ',
+        '<rect width="100%" height="100%" fill="#ffffff"/><path ',
         1,
     )
 
