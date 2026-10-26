@@ -17,6 +17,8 @@
 
 ## Zunder, Anzündholz und Brennholz unterscheiden
 
+Die folgenden **selbst erstellten Vektorgrafiken sind schematisch**, nicht maßstabsgetreu. Entscheidend bleiben die konkreten Handgriffe im Text. Alle Beschriftungen und Bilddateien sind auch ohne externe Bildserver zugänglich.
+
 | Stufe | Beispiele | Aufgabe |
 | --- | --- | --- |
 | **Zunder** | Aufgefaserte trockene Birkenrinde, sehr feine trockene Holzspäne, trockenes Gras, Baumwollwatte, trockenes Toilettenpapier | Nimmt Flamme oder geeignete Funken auf. Für Feuerstahl besonders fein und trocken vorbereiten. |
@@ -25,6 +27,10 @@
 | **Brennholz** | Größere trockene, möglichst unbehandelte Holzstücke | Hält Feuer und Glut aufrecht. |
 
 **Bei Regen:** Im Inneren eines dickeren, trockenen Holzstücks findet sich manchmal noch trockenes Material. Wenn gefahrlos möglich, Holz spalten und von innen feine Späne abschaben. Nasses Außenholz brennt schlecht. Material vor Bodennässe schützen. **Keine Kunststoffe, lackierten, imprägnierten oder unbekannt behandelten Hölzer verbrennen**, insbesondere nicht beim Kochen.
+
+![Schematische Darstellung: links Zunder, dünne Zweige und Brennholz nach Dicke; rechts locker aufgestellte Zweige um den Zunder mit Luftspalt.](../assets/illustrationen/feueraufbau.svg){ width="100%" }
+
+*Abbildung: Zunder ist das kleinste Material. Dünne trockene Zweige fangen zuerst Feuer; dicke Scheite folgen erst danach.*
 
 ## Feuernest aufbauen
 
@@ -44,11 +50,37 @@
 | **Sammellinse** | Kräftige direkte Sonne, konvexe Lupe/Linse, gut geeigneter Zunder | Ohne Verbrauchsmaterial, aber wetter- und tageszeitabhängig. |
 | **Bogenbohrer** | Sehr trockenes geeignetes Holz, Schnur, Schnitzwerkzeug und Übung | **Letzte Reserve**: hohe körperliche Anstrengung, keine verlässliche Sofortlösung für Ungeübte. |
 
+### Orientierung: Welche Methode zuerst?
+
+```mermaid
+%% alt: Entscheidungsdiagramm zur Wahl der einfachsten verfügbaren Feuerzündmethode
+flowchart TD
+    A[Zunder und trockenes Anzündholz vorbereiten] --> B{Feuerzeug oder Streichhölzer vorhanden?}
+    B -->|Ja| C[Damit Zunder entzünden]
+    B -->|Nein| D{Feuerstahl vorhanden?}
+    D -->|Ja| E[Funken auf feinsten Zunder schaben]
+    D -->|Nein| F{Starke direkte Sonne und Sammellinse?}
+    F -->|Ja| G[Lichtpunkt auf Zunder bündeln]
+    F -->|Nein| H{Material, Zeit und Übung für Bogenbohrer?}
+    H -->|Ja| I[Reibungsglut erzeugen und in Zunder übertragen]
+    H -->|Nein| J[Kein verlässlicher Zündweg: alternative Kochmöglichkeit oder kalte Nahrung]
+    C --> K[Von Zunder zu dünnem und dann stärkerem Holz]
+    E --> K
+    G --> K
+    I --> K
+```
+
+*Entscheidungsdiagramm: Bevorzugt die zuverlässigste vorhandene Technik; eine improvisierte Reibungsmethode ist nur die letzte Option.*
+
 ### 1. Feuerzeug oder Streichhölzer
 
 Zunder und Anzündholz vollständig aufbauen. Das Feuerzeug oder ein Streichholz dicht an den Zunder halten und ihn an mehreren feinen Fasern entzünden. Eine kleine Flamme vor Wind abschirmen, ohne Hände oder Gesicht darüberzuhalten. Brennt nur das Zündmittel, Zunder trocknen oder feiner auflockern. Streichhölzer trocken und getrennt von ihrer Reibfläche aufbewahren. [1][2]
 
 ### 2. Feuerstahl: Funken erzeugen
+
+![Schematische Darstellung: Ferroceriumstab schräg dicht über einem trockenen Zundernest, Metallschaber entlang des Stabs, Funken landen direkt im Zunder.](../assets/illustrationen/feuerstahl.svg){ width="100%" }
+
+*Abbildung: Den Funken nicht hinterherjagen, sondern den Feuerstahl dicht am feinen Zunder platzieren.*
 
 1. Trockene Rindenfasern, sehr feine Holzspäne oder Baumwolle zu einem **lockeren Zundernest** formen. Größeres Anzündholz bereitlegen.
 2. Ferroceriumstab unmittelbar über den Zunder halten. Mit der scharfen Kante des mitgelieferten Schabers kräftig über den Stab streichen, sodass Funken **im Zunder** landen. Zunder dabei nicht auseinanderreißen.
@@ -58,6 +90,10 @@ Zunder und Anzündholz vollständig aufbauen. Das Feuerzeug oder ein Streichholz
 
 ### 3. Mit einer Lupe Sonnenlicht bündeln
 
+![Schematische Darstellung: Sonnenstrahlen werden durch eine konvexe Linse auf einen winzigen hellen Punkt auf trockenem Zunder konzentriert.](../assets/illustrationen/sonnenlinse.svg){ width="100%" }
+
+*Abbildung: Die Linse konzentriert Sonnenenergie in einem kleinen Punkt. Die gezeichneten Strahlen sind ein vereinfachtes optisches Schema.*
+
 1. Nur bei **direkter, kräftiger Sonne** versuchen.
 2. Eine konvexe Lupe oder geeignete Sammellinse auf feinsten, trockenen Zunder ausrichten, bis ein möglichst kleiner, heller Lichtpunkt entsteht.
 3. Lichtpunkt ruhig halten, bis eine Glut entsteht. Glut mit behutsamem Luftzug in einem lockeren Zundernest zur Flamme entwickeln.
@@ -66,6 +102,10 @@ Zunder und Anzündholz vollständig aufbauen. Das Feuerzeug oder ein Streichholz
 Ein heller, trockener Vormittag kann funktionieren; Dunkelheit, Wolken und starker Schatten nicht. Normale Brillen mit Zerstreuungslinsen eignen sich nicht. [3][5]
 
 ### 4. Ohne Feuerzeug, Streichholz oder Feuerstahl: Bogenbohrer
+
+![Bogenbohrer als beschriftete Schemazeichnung: Druckstück, aufrecht stehende Spindel, Bogen und Schnur, Feuerbohrplatte; rechts Draufsicht auf Bohrloch mit V-förmiger Kerbe, in der heißer Holzstaub Glut bildet.](../assets/illustrationen/bogenbohrer.svg){ width="100%" }
+
+*Abbildung: Der Bogen dreht die Spindel; an der Holzplatte sammelt sich heißer Abrieb in der V-Kerbe. Die Kerbe ist entscheidend, um einen Glutkern zu bilden.*
 
 **Voraussetzung:** trockene Feuerbohrplatte aus geeignetem, eher weichem Holz, passender gerader Holzspindel, gebogener Ast als Bogen, stabile Schnur (z. B. Schnürsenkel), Druckstück und ausreichend sehr trockener Zunder. Erfordert praktisch immer vorheriges Training. [4][6]
 
@@ -104,6 +144,10 @@ Ein heller, trockener Vormittag kann funktionieren; Dunkelheit, Wolken und stark
 - [Verbrennungen, Rauchgefahr und Unterkühlung](../02-medizin/verbrennungen-temperaturnotfaelle.md)
 - [Standort, Sicherheit und Selbstschutz](../08-sicherheit/index.md)
 
+## Bildnachweis und Quellen
+
+**Abbildungen:** Vier eigene, schematische SVG-Vektorzeichnungen für dieses Handbuch. Quellgrafiken liegen unter `docs/assets/illustrationen/`. Grafiken ersetzen weder Übung noch die Warnhinweise im Text.
+
 ## Quellen
 
 1. [Utah Emergency Management, *Safely Build a Fire*](https://dem.utah.gov/safely-build-a-fire/) (Zugriff: 2026-10-26).
@@ -114,5 +158,8 @@ Ein heller, trockener Vormittag kann funktionieren; Dunkelheit, Wolken und stark
 6. [University of Colorado Boulder, Museum of Natural History, *Fire Starting*](https://www.colorado.edu/cumuseum/programs/schools-and-groups/colorado-archaeology-classroom/fire-starting) (Zugriff: 2026-10-26).
 7. [Bundesinstitut für Risikobewertung, *Bedenkenlos Grillen*](https://www.bfr.bund.de/fragen-und-antworten/thema/ausgewaehlte-fragen-und-antworten-zum-grillen/) (Zugriff: 2026-10-26).
 8. [Landesforstgesetz NRW, § 47 *Waldgefährdung durch Feuer*](https://recht.nrw.de/lrgv/gesetz/01042025-landesforstgesetz-fuer-das-land-nordrhein-westfalen-landesforstgesetz-lfog/) (Zugriff: 2026-10-26).
+
+9. [National Park Service, *Campfire Safety*, 2025](https://www.nps.gov/bith/planyourvisit/campfire-safety.htm) (Zugriff: 2026-10-26).
+10. [Scouting America, *Wilderness Survival Merit Badge*](https://www.scouting.org/merit-badges/wilderness-survival/) (Zugriff: 2026-10-26).
 
 **Status:** Redaktioneller Entwurf, praktische Feldprüfung und Brandschutz-Fachreview offen.
