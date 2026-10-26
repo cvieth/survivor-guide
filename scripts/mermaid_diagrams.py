@@ -31,7 +31,7 @@ def render_for_pdf(markdown: str) -> str:
                 raise RuntimeError("Mermaid CLI missing: run 'npm install' before building PDF or print")
             subprocess.run(
                 [executable, "-i", str(source), "-o", str(target),
-                 "-t", "neutral", "-b", "white", "-w", "1100"],
+                 "-t", "neutral", "-b", "white"],
                 cwd=ROOT,
                 check=True,
             )
