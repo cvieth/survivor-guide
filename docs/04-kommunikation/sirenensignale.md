@@ -5,6 +5,10 @@
 
 ## Sirenensignale auf einen Blick
 
+![Schematische Klangverläufe: Warnung, Entwarnung, Feuerwehralarm und NRW-Probealarm](../assets/kommunikation/sirenensignale.svg){ width=100% }
+
+*Die Linien illustrieren die Signalabfolge; sie sind keine exakten Audiospektren oder Frequenzverläufe.*
+
 | Signal | Hörbares Muster | Dauer | Was bedeutet das? |
 | --- | --- | --- | --- |
 | **Warnung der Bevölkerung** | Auf- und abschwellender Heulton: **↗ ↘ ↗ ↘** | **1 Minute** | **Gefahr!** Über Radio oder amtliche Warnkanäle Informationen und Verhaltensempfehlungen einholen. |

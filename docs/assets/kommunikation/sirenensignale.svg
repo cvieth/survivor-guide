@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 692" width="1200" height="692" role="img" aria-labelledby="title desc">
+<title id="title">Sirenensignale: Warnung, Entwarnung, Feuerwehralarm und Probealarm NRW</title>
+<desc id="desc">Schematische Darstellung: Eine Minute auf- und abschwellender Heulton warnt vor Gefahr. Ein gleichbleibender Ton von einer Minute bedeutet Entwarnung. Feuerwehralarm ist ein zweimal unterbrochener Dauerton. Der NRW-Probealarm besteht aus Entwarnung, Warnung und Entwarnung.</desc>
+<rect width="1200" height="692" rx="22" fill="#f7f9fc"/>
+<text x="46" y="55" font-size="31" font-weight="700" font-family="DejaVu Sans,Arial,sans-serif" fill="#142438">Sirenensignale erkennen</text>
+<text x="46" y="83" font-size="18" font-family="DejaVu Sans,Arial,sans-serif" fill="#526171">Schematischer Verlauf – die Grafik zeigt keine echte Audio-Wellenform</text>
+<rect x="38" y="105" width="1124" height="121" rx="14" fill="#fff" stroke="#dee4ed" stroke-width="2"/>
+<rect x="52" y="119" width="8" height="94" rx="4" fill="#c3303a"/>
+<text x="79" y="147" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="700" fill="#142438">Warnung</text>
+<text x="79" y="182" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#526171">1 Minute · auf- und abschwellend</text>
+<path d="M465 166 Q478 122 491 166 Q504 210 516 166 M516 166 Q529 122 542 166 Q555 210 567 166 M567 166 Q580 122 593 166 Q606 210 618 166 M618 166 Q631 122 644 166 Q657 210 669 166 M669 166 Q682 122 695 166 Q708 210 720 166 M720 166 Q733 122 746 166 Q759 210 771 166 M771 166 Q784 122 797 166 Q810 210 822 166 M822 166 Q835 122 848 166 Q861 210 873 166 M873 166 Q886 122 899 166 Q912 210 924 166 M924 166 Q937 122 950 166 Q963 210 975 166 M975 166 Q988 122 1001 166 Q1014 210 1026 166 M1026 166 Q1039 122 1052 166 Q1065 210 1077 166 M1077 166 Q1090 122 1103 166 Q1116 210 1128 166" stroke="#c3303a" stroke-width="4" stroke-linecap="round" fill="none"/>
+<rect x="38" y="239" width="1124" height="121" rx="14" fill="#fff" stroke="#dee4ed" stroke-width="2"/>
+<rect x="52" y="253" width="8" height="94" rx="4" fill="#16865a"/>
+<text x="79" y="281" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="700" fill="#142438">Entwarnung</text>
+<text x="79" y="316" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#526171">1 Minute · gleichbleibender Dauerton</text>
+<path d="M465 301 H1133" stroke="#16865a" stroke-width="5" stroke-linecap="round"/>
+<rect x="38" y="373" width="1124" height="121" rx="14" fill="#fff" stroke="#dee4ed" stroke-width="2"/>
+<rect x="52" y="387" width="8" height="94" rx="4" fill="#386cb0"/>
+<text x="79" y="416" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="700" fill="#142438">Feuerwehralarm</text>
+<text x="79" y="451" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#526171">1 Minute · Dauerton, zweimal unterbrochen</text>
+<path d="M465 434 H675 M695 434 H905 M925 434 H1133" stroke="#386cb0" stroke-width="5" stroke-linecap="round"/>
+<rect x="38" y="507" width="1124" height="133" rx="14" fill="#eaf0f8" stroke="#dee4ed" stroke-width="2"/>
+<text x="60" y="545" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="700" fill="#142438">NRW-Probealarm</text>
+<text x="60" y="574" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#526171">Drei Signale nacheinander – örtlich angekündigt</text>
+<rect x="492" y="529" width="202" height="67" rx="10" fill="#d0eadd"/>
+<text x="593" y="568" font-size="19" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" text-anchor="middle" fill="#14603f">Entwarnung</text>
+<text x="716" y="568" font-size="25" font-family="DejaVu Sans,Arial,sans-serif" fill="#526171">→</text>
+<rect x="759" y="529" width="166" height="67" rx="10" fill="#f6d7da"/>
+<text x="842" y="568" font-size="19" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" text-anchor="middle" fill="#86272e">Warnung</text>
+<text x="947" y="568" font-size="25" font-family="DejaVu Sans,Arial,sans-serif" fill="#526171">→</text>
+<rect x="980" y="529" width="165" height="67" rx="10" fill="#d0eadd"/>
+<text x="1062" y="568" font-size="17" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" text-anchor="middle" fill="#14603f">Entwarnung</text>
+<text x="46" y="674" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#607082">Eigene schematische Illustration · Grundlage: BBK / NRW Warnerlass · nicht maßstabsgetreu</text>
+</svg>

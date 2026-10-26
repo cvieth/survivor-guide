@@ -19,3 +19,13 @@ Primärquellen, wissenschaftliche Publikationen, amtliche Handbücher, Normen un
 ## Risiko
 
 Bei Medizin, Medikamenten, Chemie, Strom, Bau und Sicherheit müssen Fehlerfolgen, Gegenanzeigen, erforderliche Fachkenntnisse und sichere Alternativen besonders klar dargestellt sein.
+
+## Visualisierung und Medien
+
+Informationen nach Möglichkeit durch didaktisch hilfreiche, barrierearm beschriftete Grafiken und anschauliche Beispiele ergänzen. Bilder nicht rein dekorativ einsetzen. Für Diagramme bevorzugt eigene, versionierte SVG-Dateien verwenden und die korrekte Darstellung in Webversion **und PDF** prüfen. Grafische Abstraktionen ausdrücklich als schematisch kennzeichnen.
+
+Externe Medien nur dann im Repository spiegeln, wenn deren Weiterverbreitung erlaubt ist. Quelle, Urheber beziehungsweise Rechteinhaber, Originallink, Abrufdatum und Lizenz/Nutzungsbedingungen dokumentieren; fremde Medien nicht pauschal unter die Projektlizenz stellen.
+
+## Nachprüfbarkeit von Veröffentlichungen
+
+Nach Änderungen den vollständigen direkten Web-Link zur jeweiligen Artikelseite sowie einen Quelllink übergeben. Erfolgreichen Build und öffentliches Deployment prüfen; bei ausstehender Prüfung den Status offen benennen.
