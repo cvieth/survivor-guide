@@ -5,6 +5,7 @@ Die folgenden Nachschlagewerke sind quellenbasiert dokumentiert. Die abschließe
 ## Verfügbare Anleitungen
 
 - **[Sirenensignale](sirenensignale.md)** – Tonmuster, Probealarm und richtige Reaktion bei Warnungen.
+- **[Funk-Zeitfenster und 3-3-3-Regel](funkzeitfenster-333-regel.md)** – Gemeinsame Empfangszeiten, Kanalwahl und energiesparender Sprechfunk im Krisenfall.
 - **[Morsealphabet](morsealphabet.md)** – A–Z, Ziffern, Zeitregeln und Notsignale.
 - **[Flaggensemaphore / Winkeralphabet](flaggenalphabet.md)** – A–Z, Winkelstellungen, Ziffern- und Steuerzeichen.
 
