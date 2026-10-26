@@ -56,7 +56,7 @@ Warnungen, erkennbare Gebäudeschäden und sichere Bereiche prüfen, ohne gefäh
 ::: decision
 label: 0–15 MINUTEN · NOTFALL
 question: Hat jemand offenbar eine lebensbedrohliche Verletzung oder Erkrankung?
-hint: Warnzeichen: bewusstlos, keine normale Atmung, starke unstillbare Blutung, schwere Atemnot oder akute deutliche Verschlechterung.
+hint: "Warnzeichen: bewusstlos, keine normale Atmung, starke unstillbare Blutung, schwere Atemnot oder akute deutliche Verschlechterung."
 ::: answer danger "JA" "Hilfe holen und sofort Erste Hilfe leisten"
 **112 wählen**, andere gezielt zur Mithilfe auffordern und lebensrettende Maßnahmen nicht bis zur Verbindung mit der Leitstelle aufschieben. Bei äußerer starker Blutung **direkten Druck auf die Blutungsstelle** ausüben. Bei Bewusstlosigkeit **sofort die nächste Atemfrage beantworten**.
 ::: answer neutral "NEIN" "Versorgen und weiter beobachten"
