@@ -2,7 +2,13 @@
 
 **Das offene Handbuch für Krisenbewältigung, Überleben und Wiederaufbau.**
 
-Dieses gemeinschaftlich gepflegte Wissensprojekt dokumentiert überprüfbare Grundlagen und praktische Verfahren, die auch bei längerfristigem Ausfall kritischer Infrastruktur helfen können.
+Wir hoffen, dass du dieses Handbuch aus reiner Neugier liest – und nicht, weil draußen gerade alles den Bach runtergeht. ;-)
+
+Falls doch, möchten wir, dass es dir wirklich hilft. Wir – alle Autorinnen, Autoren und Mitwirkenden dieses Projekts – tragen nach bestem Wissen praktische Erfahrungen, überprüfbare Grundlagen und hilfreiche Verfahren für Krisen, Katastrophen und selbst extreme Ausnahmesituationen zusammen. Wir versuchen, dieses Wissen so sorgfältig wie möglich zu prüfen, zu ordnen und auf das Wesentliche zu verdichten: verständlich, schnell auffindbar und auch ohne Internet nutzbar.
+
+Wir wissen, dass kein Handbuch auf jede Situation vorbereiten kann. Trotzdem geben wir unser Möglichstes – **in der Hoffnung, dass niemand dieses Wissen jemals aus der Not heraus brauchen wird.**
+
+**Hilf mit, dieses Handbuch besser zu machen.** Findest du einen Fehler, eine unklare Erklärung oder eine wichtige Lücke? Dann [melde sie auf GitHub](https://github.com/cvieth/survivor-guide/issues) oder [trage selbst eine Verbesserung bei](redaktion/mitmachen.md). Jede Korrektur, gute Quelle und praktische Ergänzung macht dieses Gemeinschaftsprojekt wertvoller – für alle, die es eines Tages vielleicht doch brauchen.
 
 !!! warning "Version 0.1 – Aufbauphase"
     Die meisten Kapitel sind zunächst Themenpläne, keine fachlich geprüften Handlungsanleitungen. Bei akuten Notfällen professionelle Hilfe vorziehen, soweit erreichbar.
