@@ -6,6 +6,7 @@ import posixpath
 import re
 import subprocess
 import yaml
+from decision_blocks import render_latex
 
 ROOT=Path(__file__).resolve().parent.parent
 DOCS=ROOT/"docs"
@@ -53,6 +54,7 @@ def main():
             if target=="downloads/survivor-guide.pdf":return title
             return m.group(0)
         body=re.sub(r"(?<!!)\[([^\]]+)\]\(([^\s)]+)\)",links,body)
+        body=render_latex(body, print_layout=(args.format=="print"))
         parts.append("# "+label+" {#"+destinations[page]+"}\n\n"+body.strip()+"\n\n\\newpage\n\n")
     build=ROOT/"build"
     build.mkdir(exist_ok=True)
@@ -60,9 +62,9 @@ def main():
     assembled.write_text("".join(parts),encoding="utf-8")
     out=ROOT/args.output
     out.parent.mkdir(parents=True,exist_ok=True)
-    cmd=["pandoc",str(assembled),"-f","markdown+yaml_metadata_block","--resource-path",str(DOCS),"--pdf-engine=xelatex","--toc","--toc-depth=1","-V","mainfont=DejaVu Sans","-V","fontsize=10pt","-V","colorlinks=true","-V","linkcolor=teal","-V","urlcolor=teal","-o",str(out)]
+    cmd=["pandoc",str(assembled),"-f","markdown+yaml_metadata_block","--resource-path",str(DOCS),"--pdf-engine=xelatex","-H",str(ROOT/"templates/decision-boxes.tex"),"--toc","--toc-depth=1","-V","mainfont=DejaVu Sans","-V","fontsize=10pt","-V","colorlinks=true","-V","linkcolor=teal","-V","urlcolor=teal","-o",str(out)]
     if args.format=="screen":cmd+=["-V","papersize=a4","-V","geometry:margin=20mm"]
-    else:cmd+=["-V","classoption=twoside","-V","geometry:paperwidth=6in","-V","geometry:paperheight=9in","-V","geometry:inner=0.85in","-V","geometry:outer=0.65in","-V","geometry:top=0.7in","-V","geometry:bottom=0.7in"]
+    else:cmd+=["-H",str(ROOT/"templates/decision-boxes-print.tex"),"-V","classoption=twoside","-V","geometry:paperwidth=6in","-V","geometry:paperheight=9in","-V","geometry:inner=0.85in","-V","geometry:outer=0.65in","-V","geometry:top=0.7in","-V","geometry:bottom=0.7in"]
     subprocess.run(cmd,cwd=ROOT,check=True)
     print("Created:",out)
 
