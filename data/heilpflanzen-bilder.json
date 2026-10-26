@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.0",
+  "review_date": "2026-10-26",
+  "purpose": "Gemeinfreie botanische Tafeln. Nur historische Bestimmungshilfe, kein sicherer Verzehrnachweis.",
+  "media": [
+    {
+      "slug": "weidenrinde",
+      "name": "Silber-Weide (Beispiel für Weidenrinde)",
+      "taxon": "Salix alba",
+      "commons_filename": "Salix_alba_Sturm04023.jpg",
+      "year": "1796",
+      "author": "Johann Georg Sturm; Zeichnung: Jacob Sturm",
+      "work": "Sturm, Deutschlands Flora in Abbildungen",
+      "license": "Public Domain Mark 1.0",
+      "source": "Wikimedia Commons",
+      "local_path": "docs/assets/heilpflanzen/weidenrinde.jpg"
+    },
+    {
+      "slug": "holunderblueten",
+      "name": "Schwarzer Holunder",
+      "taxon": "Sambucus nigra",
+      "commons_filename": "Sambucus_nigra_-_Köhler–s_Medizinal-Pflanzen-127.jpg",
+      "year": "1897",
+      "author": "Historische Tafel aus Köhlers Medizinal-Pflanzen",
+      "work": "Köhlers Medizinal-Pflanzen",
+      "license": "Public Domain Mark 1.0",
+      "source": "Wikimedia Commons",
+      "local_path": "docs/assets/heilpflanzen/holunderblueten.jpg"
+    },
+    {
+      "slug": "lindenblueten",
+      "name": "Winter-Linde (Beispiel für Lindenblüten)",
+      "taxon": "Tilia cordata",
+      "commons_filename": "Tilia_cordata_-_Köhler–s_Medizinal-Pflanzen-139.jpg",
+      "year": "1897",
+      "author": "Historische Tafel aus Köhlers Medizinal-Pflanzen",
+      "work": "Köhlers Medizinal-Pflanzen",
+      "license": "Public Domain Mark 1.0",
+      "source": "Wikimedia Commons",
+      "local_path": "docs/assets/heilpflanzen/lindenblueten.jpg"
+    },
+    {
+      "slug": "thymian",
+      "name": "Echter Thymian",
+      "taxon": "Thymus vulgaris",
+      "commons_filename": "Thymus_vulgaris_-_Köhler–s_Medizinal-Pflanzen-271.jpg",
+      "year": "1897",
+      "author": "Walther Otto Müller; Köhlers Medizinal-Pflanzen",
+      "work": "Köhlers Medizinal-Pflanzen",
+      "license": "Public Domain Mark 1.0",
+      "source": "Wikimedia Commons",
+      "local_path": "docs/assets/heilpflanzen/thymian.jpg"
+    },
+    {
+      "slug": "eibischwurzel",
+      "name": "Echter Eibisch",
+      "taxon": "Althaea officinalis",
+      "commons_filename": "Althaea_officinalis_(Köhler).jpg",
+      "year": "1887",
+      "author": "Hermann Adolf Köhler; Köhlers Medizinal-Pflanzen",
+      "work": "Köhlers Medizinal-Pflanzen",
+      "license": "Public Domain Mark 1.0",
+      "source": "Wikimedia Commons",
+      "local_path": "docs/assets/heilpflanzen/eibischwurzel.jpg"
+    },
+    {
+      "slug": "spitzwegerich",
+      "name": "Spitzwegerich",
+      "taxon": "Plantago lanceolata",
+      "commons_filename": "Plantago_lanceolata_Sturm61.jpg",
+      "year": "1796",
+      "author": "Johann Georg Sturm; Zeichnung: Jacob Sturm",
+      "work": "Sturm, Deutschlands Flora in Abbildungen",
+      "license": "Public Domain Mark 1.0",
+      "source": "Wikimedia Commons",
+      "local_path": "docs/assets/heilpflanzen/spitzwegerich.jpg"
+    },
+    {
+      "slug": "kamillenblueten",
+      "name": "Echte Kamille",
+      "taxon": "Matricaria recutita",
+      "commons_filename": "Matricaria_recutita_-_Köhler–s_Medizinal-Pflanzen-091.jpg",
+      "year": "1897",
+      "author": "Historische Tafel aus Köhlers Medizinal-Pflanzen",
+      "work": "Köhlers Medizinal-Pflanzen",
+      "license": "Public Domain Mark 1.0",
+      "source": "Wikimedia Commons",
+      "local_path": "docs/assets/heilpflanzen/kamillenblueten.jpg"
+    },
+    {
+      "slug": "salbeiblaetter",
+      "name": "Echter Salbei",
+      "taxon": "Salvia officinalis",
+      "commons_filename": "Salvia_officinalis_-_Köhler–s_Medizinal-Pflanzen-126.jpg",
+      "year": "1897",
+      "author": "Walther Otto Müller; Köhlers Medizinal-Pflanzen",
+      "work": "Köhlers Medizinal-Pflanzen",
+      "license": "Public Domain Mark 1.0",
+      "source": "Wikimedia Commons",
+      "local_path": "docs/assets/heilpflanzen/salbeiblaetter.jpg"
+    },
+    {
+      "slug": "ringelblumenblueten",
+      "name": "Ringelblume",
+      "taxon": "Calendula officinalis",
+      "commons_filename": "Calendula_officinalis_-_Köhler–s_Medizinal-Pflanzen-024.jpg",
+      "year": "1897",
+      "author": "Historische Tafel aus Köhlers Medizinal-Pflanzen",
+      "work": "Köhlers Medizinal-Pflanzen",
+      "license": "Public Domain Mark 1.0",
+      "source": "Wikimedia Commons",
+      "local_path": "docs/assets/heilpflanzen/ringelblumenblueten.jpg"
+    },
+    {
+      "slug": "pfefferminzblaetter",
+      "name": "Pfefferminze",
+      "taxon": "Mentha × piperita",
+      "commons_filename": "Mentha_×_piperita_-_Köhler–s_Medizinal-Pflanzen-095.jpg",
+      "year": "1897",
+      "author": "Historische Tafel aus Köhlers Medizinal-Pflanzen",
+      "work": "Köhlers Medizinal-Pflanzen",
+      "license": "Public Domain Mark 1.0",
+      "source": "Wikimedia Commons",
+      "local_path": "docs/assets/heilpflanzen/pfefferminzblaetter.jpg"
+    },
+    {
+      "slug": "ingwer",
+      "name": "Echter Ingwer",
+      "taxon": "Zingiber officinale",
+      "commons_filename": "Zingiber_officinale_-_Köhler–s_Medizinal-Pflanzen-146.jpg",
+      "year": "1883–1914",
+      "author": "Historische Tafel aus Köhlers Medizinal-Pflanzen; Digitalbearbeitung: RaboKarbakian",
+      "work": "Köhlers Medizinal-Pflanzen",
+      "license": "Public Domain Mark 1.0",
+      "source": "Wikimedia Commons",
+      "local_path": "docs/assets/heilpflanzen/ingwer.jpg"
+    },
+    {
+      "slug": "eichenrinde",
+      "name": "Stiel-Eiche (Beispiel für Eichenrinde)",
+      "taxon": "Quercus robur",
+      "commons_filename": "Quercus_robur_Sturm31.jpg",
+      "year": "1796",
+      "author": "Johann Georg Sturm; Zeichnung: Jacob Sturm",
+      "work": "Sturm, Deutschlands Flora in Abbildungen",
+      "license": "Public Domain Mark 1.0",
+      "source": "Wikimedia Commons",
+      "local_path": "docs/assets/heilpflanzen/eichenrinde.jpg"
+    }
+  ]
+}
