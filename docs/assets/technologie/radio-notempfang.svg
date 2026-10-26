@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 730" width="1120" height="730" role="img" aria-labelledby="title desc">
+<title id="title">Zeitzeichen empfangen ohne vorhandenes Radio</title><desc id="desc">Entscheidungsbaum: zuerst fertige Empfangstechnik aus dem Haushalt finden (Autoradio mit RDS, FM-Lautsprecher, altes Android-Handy), daneben GPS-Satellitenzeit. Wenn keine passende Technik verfügbar ist, vollständiges UKW-Empfangsmodul mit Steuerung verwenden. Als aufwendige Alternativen SDR oder selbst gebautes AM-Detektorradio. Das Detektorradio empfängt kein UKW.</desc>
+<rect width="1120" height="730" fill="#fff"/><style>text{font-family:"DejaVu Sans",Arial,sans-serif;fill:#17324e}.h{font-size:32px;font-weight:700}.big{font-size:23px;font-weight:700}.small{font-size:18px}.cap{font-size:16px;fill:#536980}</style>
+<text x="560" y="54" class="h" text-anchor="middle">Empfangswege ohne separates Radio</text>
+<rect x="305" y="86" width="510" height="82" rx="16" fill="#e9f5fa" stroke="#8dc0d5" stroke-width="3"/>
+<text x="560" y="122" text-anchor="middle" class="big">Noch ein Gerät mit Empfänger?</text><text x="560" y="149" text-anchor="middle" class="small">Zuerst komplette Technik wiederverwenden</text>
+<line x1="560" y1="168" x2="560" y2="211" stroke="#6b91ac" stroke-width="3"/>
+<line x1="220" y1="211" x2="900" y2="211" stroke="#6b91ac" stroke-width="3"/>
+<path d="M220 211 V238 M560 211 V238 M900 211 V238" stroke="#6b91ac" stroke-width="3" fill="none"/>
+<rect x="42" y="238" width="357" height="132" rx="15" fill="#edf8ee" stroke="#9bc8a3" stroke-width="2"/>
+<rect x="410" y="238" width="301" height="132" rx="15" fill="#edf8ee" stroke="#9bc8a3" stroke-width="2"/>
+<rect x="721" y="238" width="357" height="132" rx="15" fill="#edf8ee" stroke="#9bc8a3" stroke-width="2"/>
+<text x="220" y="270" text-anchor="middle" class="big">Autoradio</text><text x="220" y="302" text-anchor="middle" class="small">UKW / RDS-CT</text><text x="220" y="333" text-anchor="middle" class="cap">12-V-Batterie, eingebaute Antenne</text>
+<text x="560" y="270" text-anchor="middle" class="big">FM-Lautsprecher</text><text x="560" y="302" text-anchor="middle" class="small">UKW-Modus?</text><text x="560" y="333" text-anchor="middle" class="cap">Bluetooth allein genügt nicht</text>
+<text x="900" y="270" text-anchor="middle" class="big">Altes Android-Handy</text><text x="900" y="302" text-anchor="middle" class="small">FM-Chip + Kopfhörer?</text><text x="900" y="333" text-anchor="middle" class="cap">Offline-App erforderlich</text>
+<path d="M560 370 V408" stroke="#6b91ac" stroke-width="3" fill="none"/>
+<text x="560" y="432" text-anchor="middle" class="big">Kein geeigneter UKW-Empfänger vorhanden?</text>
+<rect x="45" y="461" width="498" height="120" rx="14" fill="#eaf0ff" stroke="#b7c8e5" stroke-width="2"/>
+<rect x="577" y="461" width="498" height="120" rx="14" fill="#fff4e5" stroke="#e7c79d" stroke-width="2"/>
+<text x="294" y="497" text-anchor="middle" class="big">UKW-Modul mit Steuerung</text><text x="294" y="530" text-anchor="middle" class="small">FM-Tuner + 3,3 V + I²C + Audio</text><text x="294" y="557" text-anchor="middle" class="cap">Am besten Komplettmodul mit Tasten</text>
+<text x="826" y="497" text-anchor="middle" class="big">SDR aus altem USB-TV-Stick</text><text x="826" y="530" text-anchor="middle" class="small">RTL2832U + Rechner / OTG + App</text><text x="826" y="557" text-anchor="middle" class="cap">Ohne Software keine einfache Lösung</text>
+<rect x="134" y="609" width="852" height="70" rx="13" fill="#f5f6f8" stroke="#c8ced5" stroke-width="2"/>
+<text x="560" y="639" text-anchor="middle" class="big">Detektorradio aus Spule, Kondensator und Diode</text><text x="560" y="665" text-anchor="middle" class="small">Nur AM, kein UKW – in Deutschland eine unsichere Reserve</text>
+<text x="560" y="713" text-anchor="middle" class="cap">Zusätzlicher Weg: noch funktionierendes GPS-/GNSS-Navigationsgerät kann Satellitenzeit liefern.</text>
+</svg>

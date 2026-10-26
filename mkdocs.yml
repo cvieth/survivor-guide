@@ -63,6 +63,7 @@ nav:
   - 'Technologie, Elektronik & IT':
       - Überblick: 05-technologie/index.md
       - DCF77-Zeitsignal empfangen und dekodieren: 05-technologie/dcf77-zeitfunk.md
+      - Funkempfang ohne Radio improvisieren: 05-technologie/radio-ohne-geraet.md
   - 'Energie, Unterkunft & Infrastruktur': 06-infrastruktur/index.md
   - 'Handwerk, Mechanik & Produktion': 07-handwerk/index.md
   - 'Sicherheit, Orientierung & Selbstschutz': 08-sicherheit/index.md

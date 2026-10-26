@@ -3,7 +3,7 @@
 !!! info "Quellenbasierter Entwurf – Praxistest offen"
     Stand: 26.10.2026. Ob ein Sender im Krisenfall noch läuft, ist nicht vorhersehbar. Die hier beschriebenen Empfangswege sind noch nicht im Rahmen dieses Leitfadens erprobt.
 
-**Vor dem DCF77-Selbstbau prüfen, ob ein einfaches batteriebetriebenes Radio funktioniert.** Beim sogenannten *akustischen Zeitzeichen* markieren hörbare Pieptöne den Beginn einer Minute oder Stunde. Manche Sender sagen die Uhrzeit sogar laut an – man muss keine Bits dekodieren.
+**Vor dem DCF77-Selbstbau prüfen, ob ein Empfangsgerät vorhanden ist oder [aus Altgeräten gewonnen werden kann](../05-technologie/radio-ohne-geraet.md).** Beim sogenannten *akustischen Zeitzeichen* markieren hörbare Pieptöne den Beginn einer Minute oder Stunde. Manche Sender sagen die Uhrzeit sogar laut an – man muss keine Bits dekodieren.
 
 ![Schematischer Vergleich eines klassischen Stunden-Zeitzeichens im Rundfunk mit den Sekundenticks und der Minutenmarke des Senders WWV](../assets/kommunikation/rundfunk-zeitzeichen.svg){ width=100% }
 
@@ -14,7 +14,7 @@
 
 | Sender | Geeigneter Empfänger | Was man hören kann | Realistische Bedeutung |
 | --- | --- | --- | --- |
-| **Deutschlandfunk** | Normales **analoges UKW-Radio**; Duisburg: **102,8 MHz** (Wesel) | Klassisches Stundenzeitzeichen vor Nachrichten, dazu Programm-/Zeitansage | **Zuerst versuchen**, falls die Rundfunkversorgung noch funktioniert |
+| **Deutschlandfunk** | Normales **analoges UKW-Radio**; Duisburg: **102,8 MHz** (Wesel) | Stündliche Nachrichten als grober Zeitanker; **aktuelle genaue Pieptöne nicht verifiziert** | **Zuerst versuchen**, falls die Rundfunkversorgung noch funktioniert |
 | **WWV (USA)** | **Kurzwelle mit AM**, u. a. 5, 10, 15 MHz | **Jede Minute gesprochene UTC-Uhrzeit**, Sekundenticks und langer Minutenton | Kein Decoder erforderlich, aber **kein garantierter Empfang in Deutschland** |
 | **RWM (Russland)** | **Kurzwelle mit CW/SSB und BFO**, 4,996 / 9,996 / 14,996 MHz | Sekundenimpulse und verlängerte Minutenmarken (je nach Sendeabschnitt) | Liefert einen **Takt**, aber **keine gesprochene absolute Zeit** |
 | **CHU (Kanada)** | Früher Kurzwelle 3,330 / 7,850 / 14,670 MHz | Früher Zeitansagen und Impulse | **Nicht mehr als Option einplanen:** laut NRC seit **22.06.2026 eingestellt** |
@@ -24,8 +24,8 @@
 ## Anleitung: Uhr am UKW-Zeitzeichen stellen
 
 1. Ein Batterie- oder Kurbelradio einschalten. In Duisburg zuerst **Deutschlandfunk auf 102,8 MHz** versuchen; alternativ einen anderen Sender mit hörbarer Zeitsignalisierung.
-2. Auf die Nachrichten zur vollen Stunde warten und die **kurzen Pieptöne** verfolgen. Bei einem klassischen Stundenzeitzeichen markiert **der Beginn des abschließenden längeren Tones** den Stundenwechsel.
-3. Den **Stundenwert anhand einer Ansage** oder des eindeutig bekannten Programms ermitteln, nicht allein aus einem beliebigen Nachrichtengong.
+2. Auf **Nachrichten zur vollen Stunde** achten. **Ob Deutschlandfunk aktuell eine klassische kurze/lange Pieptonfolge sendet, ist nicht unabhängig bestätigt**; die allgemeine Grafik stellt kein verifiziertes DLF-Signal dar. Nur **wenn tatsächlich ein klar identifizierbares Zeitzeichen** hörbar ist, kann der Beginn des abschließenden langen Tons als Stundenmarke dienen.
+3. Den **Stundenwert anhand einer Ansage** oder des eindeutig bekannten Programms ermitteln, nicht allein aus einem beliebigen Nachrichtengong. **Beginn der Nachrichten ist keine garantierte Sekundengrenze.**
 4. Falls noch eine funktionierende mechanische oder elektronische Uhr existiert, **genau auf die Zeitmarke stellen**. Die Zeit gegebenenfalls durch das nächste Signal kontrollieren.
 5. Ist keine Uhr mehr lauffähig, **Zeitanker auf Papier notieren**. Für die laufende Zeitmessung benötigt man weiterhin ein Verfahren, das Minuten und Stunden überbrückt.
 
@@ -56,7 +56,7 @@ Wenn kein zuverlässiger Zeitmesser mehr vorhanden ist, **nicht einfach annehmen
 
 ## Praxistest (offen)
 
-- Eine tatsächliche **DLF-Stundenkennung** analog auf UKW hören und gegen eine zuverlässig synchronisierte Uhr prüfen.
+- Ob DLF überhaupt eine **hörbare klassische Stundenkennung** sendet, zuerst **real abhören**; allenfalls dann ihren Versatz gegen eine zuverlässig synchronisierte Uhr prüfen.
 - Bei einem geeigneten KW-Radio **WWV empfangen** und eine angekündigte UTC-Minutenmarke identifizieren; tatsächliche Empfangbarkeit in Deutschland protokollieren.
 - Uhrzeit und Datum, Empfangsart, Frequenz, Empfangsort und beobachtete Verzögerungen aufschreiben. Erst danach die jeweilige Methode als praktisch bestätigt markieren.
 
@@ -69,4 +69,4 @@ Wenn kein zuverlässiger Zeitmesser mehr vorhanden ist, **nicht einfach annehmen
 - [Standard Frequency and Time Signal Stations, RWM-Zeitplan](https://time.ewha.or.kr/download/std_time_stations.pdf) – RWM-Frequenzen und Impulsfolgen.
 - [Zeitzeichen (Tonfolge)](https://de.wikipedia.org/wiki/Zeitzeichen_%28Tonfolge%29) – typische akustische Zeichen und Einschränkungen digitaler Ausspielwege.
 
-**Status:** Quellenbasierter Entwurf, weder Rundfunkempfang noch Zeitzeichen lokal erprobt.
+**Status:** Quellenbasierter Entwurf, weder Rundfunkempfang noch Zeitzeichen lokal erprobt. Insbesondere **DLF-Pieptöne sind unbestätigt**; Uhrzeit aus RDS-CT oder gesprochener Ansage prüfen.

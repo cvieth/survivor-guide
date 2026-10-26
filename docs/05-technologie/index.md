@@ -5,6 +5,7 @@
 
 ## Verfügbare Anleitungen
 
+- **[Funkempfang ohne Radio](radio-ohne-geraet.md)** – Autoradios, UKW-Boxen, SDR, RDA5807M, AM-Detektorradio und GPS-Zeit.
 - **[DCF77-Zeitsignal empfangen und dekodieren](dcf77-zeitfunk.md)** – Empfang aus wiederverwendeten Funkuhrmodulen, einfache LED-Anzeige, Zeittelegramm und BCD-Dekodierung.
 - **[Uhrzeit am Sonnenstand bestimmen](../04-kommunikation/zeitbestimmung-sonne.md)** – Alternative ohne jegliche Elektronik.
 
