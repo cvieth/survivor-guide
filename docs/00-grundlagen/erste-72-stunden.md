@@ -3,19 +3,47 @@
 !!! warning "Entwurf: keine vollständig überprüfte Notfallanleitung"
     Die folgenden Empfehlungen sind eine erste Orientierung. Lokale Behörden, Rettungsdienste und konkrete Gefahrenlagen gehen vor.
 
-## 1. Eigene Sicherheit prüfen
+## Phase 0: Zuerst entscheiden – flüchten oder Schutz suchen?
 
-Verletzungen, Feuer, Einsturz- und Stromgefahren erkennen. Gefährdete Bereiche verlassen. Keine unnötigen Risiken eingehen; andere Personen warnen, soweit dies gefahrlos möglich ist.
+**Vor allen Vorrats- und Versorgungsmaßnahmen** muss geklärt werden, ob der aktuelle Aufenthaltsort sicher ist. Die konkrete Gefahr und amtliche Anweisungen gehen immer vor. **Unklar ist nicht gleich Entwarnung:** Bei fehlenden Informationen zunächst den sichersten erreichbaren Schutz suchen und Warnkanäle prüfen.
 
-## 2. Lage und Kommunikation
+::: decision
+label: PHASE 0 · STANDORT
+question: Ist dein derzeitiger Aufenthaltsort akut gefährlich oder wurde eine Evakuierung angeordnet?
+hint: Beispiele sind Feuer oder Einsturzgefahr im Gebäude sowie eine angeordnete Evakuierung. Bei unmittelbarer Gefahr nicht auf weitere Meldungen warten.
+::: answer danger "JA" "A. Gefahrenbereich verlassen"
+**Sofort einen sicheren Fluchtweg wählen.** Andere nur unterstützen, wenn du dich nicht selbst gefährdest. Bei Feuer niemals durch verrauchte Flure flüchten.
+
+Ist der Fluchtweg versperrt oder gefährlich, einen anderen geschützten Bereich suchen und über **112** Hilfe rufen.
+::: answer neutral "NEIN" "B. Gefahr außerhalb prüfen"
+Nicht vorschnell loslaufen. Es könnte außerhalb des Gebäudes gefährlicher sein. **Beantworte die nächste Schutzfrage**, bevor du mit der Versorgung beginnst.
+::: enddecision
+
+::: decision
+label: PHASE 0 · SCHUTZART
+question: Ist die Außenumgebung gefährlich und das vorhandene Gebäude als Schutz geeignet?
+hint: Bei fehlender Information nicht automatisch „Nein“ annehmen, sondern erst Warnmeldungen prüfen.
+::: answer protect "JA" "B. Geeigneten Schutzraum aufsuchen"
+Bei einer Gefahrstoffwolke **im Gebäude bleiben**, Fenster und Türen schließen und die Lüftung abschalten. Bei radioaktivem Fallout ist meist ein innenliegender Kellerraum vorzuziehen.
+
+**Achtung:** Bei Hochwasser niemals in den Keller gehen.
+::: answer neutral "NEIN" "C. Vorläufig sicher – Versorgung starten"
+Wenn keine akute Gefährdung erkennbar ist, **vor Ort bleiben**, Warnkanäle verfolgen und den folgenden 72-Stunden-Plan abarbeiten.
+
+Jede neue Warnung oder erkennbare Gefahr löst eine **erneute Standortentscheidung** aus.
+::: enddecision
+
+Der Entscheidungsbaum ersetzt keine orts- und ereignisbezogenen Anweisungen. Grundlagen: [BBK – Schutz suchen](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/schutz-suchen_node.html), [BBK – Verhalten bei Gefahrstofffreisetzung](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Schutz-suchen/Gefahrstoff-Freisetzung/_documents/gefahrstoff-im-haus_dossier2.html) und [BBK – Hochwasser](https://www.bbk.bund.de/DE/Themen/Risikomanagement/Baulicher-Bevoelkerungsschutz/Schutz-vor-Naturgefahren/Hochwasser/hochwasser_node.html).
+
+## Lage und Kommunikation
 
 Warnmeldungen über verfügbare offizielle Kanäle prüfen. [Sirenensignale richtig erkennen](../04-kommunikation/sirenensignale.md): eine Minute auf- und abschwellend bedeutet Warnung, eine Minute Dauerton Entwarnung. Den Anlass über amtliche Warnmeldungen klären. Nachrichten hinterfragen und Batterielaufzeit schonen. Kontaktmöglichkeiten innerhalb der Gruppe abstimmen.
 
-## 3. Medizinische Versorgung
+## Medizinische Versorgung
 
 Akute Verletzungen versorgen, verfügbare Erste-Hilfe-Ausrüstung überprüfen und bei lebensbedrohlichen Situationen professionelle Hilfe alarmieren, solange das möglich ist.
 
-## 4. Trinkwasser und Brauchwasser: frühzeitig sichern
+## Trinkwasser und Brauchwasser: frühzeitig sichern
 
 **Zeitkritische Sofortmaßnahme:** Sobald die unmittelbare Sicherheit hergestellt ist, prüfen, ob noch **unbedenkliches Leitungswasser** zur Verfügung steht. Wenn ein Ausfall droht, Wasser sichern, bevor Druck oder Versorgung zusammenbrechen. Diese Maßnahme nicht unnötig bis zum Ende anderer Vorbereitungen aufschieben.
 
@@ -27,11 +55,11 @@ Das BBK empfiehlt, bei drohendem Wasserausfall noch verfügbares Wasser in Gefä
 
 Trinkwasser vor Verunreinigung schützen, vorhandene Vorräte und Verbrauch erfassen. Verdächtige oder möglicherweise kontaminierte Lebensmittel nicht unkritisch verwenden.
 
-## 5. Unterkunft, Temperatur und Energie
+## Unterkunft, Temperatur und Energie
 
 Sichere, wettergeschützte Unterkunft organisieren. Wärme, Beleuchtung und Batterien priorisieren. Bei Verbrennung und Generatoren auf Kohlenmonoxid und Brandgefahr achten.
 
-## 6. Dokumentieren und gemeinsam planen
+## Dokumentieren und gemeinsam planen
 
 Bedarf, Ressourcen, gesundheitliche Besonderheiten und verfügbare Kontakte notieren. Entscheidungen regelmäßig anhand neuer Lageinformationen überprüfen.
 
