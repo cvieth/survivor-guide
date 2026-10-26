@@ -96,6 +96,10 @@ Diese Mengen sind ein **Beispiel für den Aufbau**. Bereits vorhandene, sichere 
 
 **„Lebender Vorrat“:** Nur bekannte und verträgliche Lebensmittel einlagern. Ältere Packungen zuerst im normalen Alltag verwenden, zeitnah ersetzen, vor Feuchtigkeit, Schädlingen, Wärme und Frost schützen. Konserven mit gewölbtem Deckel, undichten oder stark beschädigten Behältnissen nicht probieren. Die vorgestellte Liste ist eine **Einkaufs- und Prüfhilfe**, keine Aufforderung zu Panikkäufen während eines Ereignisses.
 
+
+
+**Wärmequelle fehlt?** [Feuer machen: Zunder, Feuerstahl, Sonnenlinse und Bogenbohrer](../06-infrastruktur/feuer-machen.md) zeigt praktikable Zündwege und Grenzen. Kochen über offener Flamme ist nur an einer geeigneten, erlaubten Feuerstelle im Freien sicher.
+
 ## Quellen und Prüfpunkte
 
 - Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK): [Essen und Trinken bevorraten](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/So-koennen-Sie-sich-vorbereiten/Bevorraten/bevorraten_node.html); [Stromausfall](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html). Vorsorgezeitraum und Abhängigkeit von Strom, Kochmöglichkeit, Bargeld.
