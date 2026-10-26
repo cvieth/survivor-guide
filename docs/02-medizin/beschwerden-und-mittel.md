@@ -5,6 +5,10 @@
 
 **Reihenfolge:** Erst Gefahrenzeichen prüfen, dann [medizinische Anleitung](index.md) lesen, danach verfügbare Mittel im [Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md) und [Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md) vergleichen. Pflanzliche Mittel sind **nicht automatisch risikoärmer** und ersetzen keine lebenswichtige Behandlung.
 
+## Akute Gefahren zuerst
+
+Bei **fehlender normaler Atmung, Bewusstlosigkeit, großer Blutung, Kollaps oder schwerer Verletzung** direkt zum [medizinischen Notfallwegweiser](akuter-medizinischer-notfall.md) und zu den [praktischen Erste-Hilfe-Anleitungen](index.md) wechseln. Keine Zeit mit der Suche nach Mitteln verlieren.
+
 ## Schnelle Orientierung
 
 | Beschwerde | Erste sichere Maßnahme | Passende Verweise und Grenzen |
@@ -15,7 +19,7 @@
 | Gereizter Mund/Rachen | Schluck- und Atemfähigkeit prüfen, verträgliche Flüssigkeit | [Kamille](../12-nachschlagewerk/heilpflanzenregister.md#kamillenblueten), [Salbei](../12-nachschlagewerk/heilpflanzenregister.md#salbeiblaetter), [Ringelblume](../12-nachschlagewerk/heilpflanzenregister.md#ringelblumenblueten). |
 | Durchfall / Erbrechen | Trinken und Urinausscheidung prüfen, [ORS](../12-nachschlagewerk/wirkstoffregister.md#orale-rehydratationssalze-ors) mit sicherem Wasser | [Eichenrinde](../12-nachschlagewerk/heilpflanzenregister.md#eichenrinde) ist **kein Ersatz für ORS**. [Trinkwasser sichern](../01-versorgung/oberflaechenwasser-aufbereiten.md). |
 | Leichte Blähungen / Verdauungsbeschwerden | Auf schwere Schmerzen, Blut, Austrocknung und Verschlechterung achten | [Pfefferminze](../12-nachschlagewerk/heilpflanzenregister.md#pfefferminzblaetter), [Kamille](../12-nachschlagewerk/heilpflanzenregister.md#kamillenblueten), [Ingwer](../12-nachschlagewerk/heilpflanzenregister.md#ingwer). |
-| Kleine oberflächliche Wunden | Blutung stillen, mit geeignetem sauberem Wasser spülen, abdecken | [Ringelblume](../12-nachschlagewerk/heilpflanzenregister.md#ringelblumenblueten), [Octenidin](../12-nachschlagewerk/wirkstoffregister.md#octenidin), [Povidon-Iod](../12-nachschlagewerk/wirkstoffregister.md#povidon-iod). |
+| Kleine oberflächliche Wunden | Blutung stillen, mit geeignetem sauberem Wasser spülen, abdecken; [Anleitung](wunden-mehrtaegige-versorgung.md) | [Ringelblume](../12-nachschlagewerk/heilpflanzenregister.md#ringelblumenblueten), [Octenidin](../12-nachschlagewerk/wirkstoffregister.md#octenidin), [Povidon-Iod](../12-nachschlagewerk/wirkstoffregister.md#povidon-iod). |
 | Schmerzen | Ursache, Schweregrad, Verletzung und Begleitsymptome prüfen | [Paracetamol](../12-nachschlagewerk/wirkstoffregister.md#paracetamol), [Ibuprofen](../12-nachschlagewerk/wirkstoffregister.md#ibuprofen), [Weidenrinde](../12-nachschlagewerk/heilpflanzenregister.md#weidenrinde) mit besonderen Risiken. |
 
 ## Husten und Atemwege
@@ -36,7 +40,7 @@ Kleine Wunden zuerst reinigen und sauber abdecken. Kräuterzubereitungen auf off
 
 ## Offene medizinische Anleitungen
 
-Ausführliche Artikel zu Husten, Atemnot, Wundversorgung, Durchfall und Austrocknung, Schmerzbeurteilung sowie Mund- und Rachenbeschwerden fehlen noch. Dieses Verzeichnis ist bis dahin ein **Navigations- und Priorisierungswerkzeug**, keine gleichwertige Behandlungsanleitung. [Medizinische Arbeitsliste](index.md).
+Ausführliche Artikel zu Husten, Atemnot, Durchfall und Austrocknung, Schmerzbeurteilung sowie Mund- und Rachenbeschwerden fehlen noch. [Kleine Wunden und Verlaufskontrolle](wunden-mehrtaegige-versorgung.md), [starke Blutungen](starke-blutungen.md) und [Bewusstlosigkeit](bewusstlosigkeit-wiederbelebung.md) sind nun als Entwürfe beschrieben. Dieses Verzeichnis ist bis dahin ein **Navigations- und Priorisierungswerkzeug**, keine gleichwertige Behandlungsanleitung. [Medizinische Arbeitsliste](index.md).
 
 ## Akute Situationen zuerst
 

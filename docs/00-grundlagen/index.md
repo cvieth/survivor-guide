@@ -11,7 +11,7 @@ Hier beginnt die Orientierung bei einer akuten Krise: **Zuerst Gefahr und Schutz
 ## Wenn eine Entscheidung weitere Details braucht
 
 - **Wasser sichern:** [Bedarf und Qualitätsstufen](../01-versorgung/wasserbedarf-pro-person.md); bei unsicherer Quelle [Aufbereitung und Grenzen](../01-versorgung/oberflaechenwasser-aufbereiten.md).
-- **Verletzungen und Beschwerden:** [Medizinischer Einstieg](../02-medizin/index.md) und [Beschwerdenübersicht](../02-medizin/beschwerden-und-mittel.md). Ausführliche Erste-Hilfe-Seiten fehlen teilweise noch.
+- **Verletzungen und Beschwerden:** [Medizinischer Einstieg](../02-medizin/index.md) und [medizinischer Notfallwegweiser mit konkreten Erste-Hilfe-Schritten](../02-medizin/akuter-medizinischer-notfall.md). [Beschwerdenübersicht](../02-medizin/beschwerden-und-mittel.md) für weniger akute Fälle.
 - **Warnungen und Kommunikation:** [Sirenensignale](../04-kommunikation/sirenensignale.md), [Funk-Zeitfenster](../04-kommunikation/funkzeitfenster-333-regel.md).
 - **Hilfe für andere:** [Selbstschutz und Grenzen der Unterstützung](../09-gesellschaft/grenzen-der-hilfe.md) (ethisch zu prüfender Entwurf).
 

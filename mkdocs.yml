@@ -60,6 +60,13 @@ nav:
       - Oberflächenwasser aufbereiten: 01-versorgung/oberflaechenwasser-aufbereiten.md
   - 'Medizin & Gesundheit':
       - Überblick: 02-medizin/index.md
+      - Medizinischer Notfall: 02-medizin/akuter-medizinischer-notfall.md
+      - Bewusstlosigkeit und Wiederbelebung: 02-medizin/bewusstlosigkeit-wiederbelebung.md
+      - Starke Blutungen stoppen: 02-medizin/starke-blutungen.md
+      - Schock und Kreislaufversagen: 02-medizin/schock-kreislaufversagen.md
+      - Knochenbrüche und Verletzungen: 02-medizin/brueche-schwere-verletzungen.md
+      - Verbrennungen und Temperaturnotfälle: 02-medizin/verbrennungen-temperaturnotfaelle.md
+      - Wundversorgung über mehrere Tage: 02-medizin/wunden-mehrtaegige-versorgung.md
       - Fieber erkennen und versorgen: 02-medizin/fieber-erkennen-und-versorgen.md
       - Beschwerden und Mittel finden: 02-medizin/beschwerden-und-mittel.md
   - 'Pharmazie, Substanzen & Chemie':

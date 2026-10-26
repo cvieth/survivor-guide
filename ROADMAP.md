@@ -8,8 +8,12 @@
 
 ## 0.2 – Orientierung & Notfall
 - [ ] Die ersten 72 Stunden fachlich prüfen und ausbauen
-- [ ] Wasserhygiene und Notfallmedizin mit verlässlichen Quellen
+- [ ] Wasserhygiene und Notfallmedizin fachlich überprüfen (Erste-Hilfe-Praxisentwürfe mit Quellen erstellt, medizinische Fachfreigabe offen)
 - [ ] Offline-Verfügbarkeit und Drucklayout testen
+
+- [x] Praktische Notfallartikel zu Wiederbelebung, Blutstillung, Schock, Verletzungen, Temperatur und Wunden als zu prüfende Entwürfe
+- [ ] Laienprotokolle praktisch und fachlich mit qualifizierten Ausbildern validieren
+- [ ] Grundversorgung bei Ausfall von Sanitäranlagen und Abwasser ausarbeiten
 
 ## Später
 - [ ] Systematische fachliche Reviews

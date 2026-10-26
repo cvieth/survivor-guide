@@ -51,7 +51,7 @@ Warnungen, erkennbare Gebäudeschäden und sichere Bereiche prüfen, ohne gefäh
 
 ## 0–15 Minuten: Leben retten, bevor Ressourcen gesichert werden
 
-**Prüfen:** Eigenschutz; Überblick über Personen in unmittelbarer Nähe; Notrufmöglichkeiten. Nicht in gefährlichen Bereichen nach Vermissten suchen. Schwere medizinische Notfälle sofort behandeln, unabhängig davon, welche Uhrzeit oder Phase es gerade ist.
+**Prüfen:** Eigenschutz; Überblick über Personen in unmittelbarer Nähe; Notrufmöglichkeiten. Nicht in gefährlichen Bereichen nach Vermissten suchen. Schwere medizinische Notfälle sofort behandeln, unabhängig davon, welche Uhrzeit oder Phase es gerade ist. Der [medizinische Notfallwegweiser](../02-medizin/akuter-medizinischer-notfall.md) führt von beobachtbaren Zeichen zu konkreten Anleitungen für [Wiederbelebung](../02-medizin/bewusstlosigkeit-wiederbelebung.md), [Blutstillung](../02-medizin/starke-blutungen.md) und [Schock](../02-medizin/schock-kreislaufversagen.md). **Akute Maßnahmen sofort ausführen, nicht erst die verlinkte Seite lesen.**
 
 ::: decision
 label: "0–15 MINUTEN · NOTFALL"

@@ -1,24 +1,30 @@
 # Medizin & Gesundheit
 
 !!! warning "Medizinische Fachprüfung ausstehend"
-    Die vorhandenen Anleitungen sind recherchierte Entwürfe. Bei erreichbarer professioneller Hilfe diese nutzen. Bei vollständigem Ausfall müssen sichere Laienmaßnahmen, Beobachtungen und Grenzen ausdrücklich berücksichtigt werden.
+    Dies sind recherchierte, praktisch ausgerichtete Entwürfe, keine fachlich freigegebene Erste-Hilfe-Ausbildung. Bei erreichbarer professioneller Hilfe diese umgehend einbeziehen. **Die Maßnahmen selbst beginnen sofort**, auch bei vollständigem Ausfall von Rettungsdienst, Telefon, Ärzten und Apotheken.
 
-## Welches Symptom oder welcher Notfall liegt vor?
+## Akuter Notfall: Hier beginnen
 
-- **Unmittelbar lebensbedrohlich:** Der [72-Stunden-Leitfaden](../00-grundlagen/erste-72-stunden.md) behandelt in den ersten Minuten Bewusstlosigkeit, normale beziehungsweise fehlende Atmung, schwere Blutungen und den Notruf als **Kurzorientierung**. Umfassende Einzelanleitungen fehlen noch.
-- **Fieber:** [Fieber erkennen und versorgen](fieber-erkennen-und-versorgen.md) mit Warnzeichen, Messung, Sofortmaßnahmen und Grenzen.
-- **Husten, Rachen, Magen-Darm, kleinere Wunden und weitere Beschwerden:** [Beschwerden und Mittel finden](beschwerden-und-mittel.md) verbindet passende Maßnahmen mit den verfügbaren Registern.
+**[Medizinischer Notfall: Sofort entscheiden und handeln](akuter-medizinischer-notfall.md)** verknüpft beobachtbare Zeichen mit den unmittelbar nötigen Maßnahmen und weiteren Artikeln.
 
-## Mittel nur nach den Maßnahmen prüfen
+| Was ist passiert? | Praktische Anleitung |
+| --- | --- |
+| Bewusstlos, keine normale Atmung, Verschlucken | [Bewusstlosigkeit, Wiederbelebung und Atemwegsverlegung](bewusstlosigkeit-wiederbelebung.md) |
+| Große Blutung oder Blutverlust | [Starke Blutungen stoppen](starke-blutungen.md) |
+| Kollaps, kaltschweißig, starke Schwäche | [Schock und Kreislaufversagen](schock-kreislaufversagen.md) |
+| Sturz, mögliche Fraktur, Rückenverletzung | [Knochenbrüche und schwere Verletzungen](brueche-schwere-verletzungen.md) |
+| Verbrennung, Unterkühlung oder Hitze | [Verbrennungen und Temperaturnotfälle](verbrennungen-temperaturnotfaelle.md) |
+| Kleinere Wunden, längerer Versorgungsausfall | [Wunden reinigen und über Tage kontrollieren](wunden-mehrtaegige-versorgung.md) |
 
-- [Zentrales Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md): Wirkungen, Gegenanzeigen, Risiken, Evidenz und Rückverweise.
-- [Zentrales Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md): botanische Steckbriefe, Einsatzgebiete, Risiken und Grenzen. Pflanzen ohne sichere Bestimmung **nicht** anwenden.
-- [Apotheke bei Versorgungsausfall](../03-pharmazie/apotheke-prioritaeten.md): verfügbare medizinische Mittel priorisieren, **keine** Freigabe zur Selbstmedikation.
+## Weitere Beschwerden
 
-## Wichtige Querverbindungen
+- [Fieber erkennen und versorgen](fieber-erkennen-und-versorgen.md): Temperatur, Risikogruppen, Flüssigkeit, Hitzschlag abgrenzen.
+- [Beschwerden und Mittel finden](beschwerden-und-mittel.md): symptombezogener Einstieg für Husten, Magen-Darm, Schmerzen und leichte Beschwerden.
 
-Sichere [Trinkwasserversorgung](../01-versorgung/wasserbedarf-pro-person.md) und [Wasseraufbereitung](../01-versorgung/oberflaechenwasser-aufbereiten.md) sind bei Fieber, Durchfall oder fehlender Hygiene besonders relevant. Bei notwendiger Evakuierung [Medikamente und Kühlkette](../00-grundlagen/evakuierung-notgepaeck.md) beachten.
+## Medizinisches Wissensnetz
 
-## Noch nicht ausgearbeitet
+[Die ersten 72 Stunden](../00-grundlagen/erste-72-stunden.md) ordnen Notfälle in die gesamte Krisenlage ein. Die einzelnen Handlungsartikel verweisen auf [Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md), [Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md), [Apothekenprioritäten](../03-pharmazie/apotheke-prioritaeten.md) und [sichere Wasserversorgung](../01-versorgung/wasserbedarf-pro-person.md), soweit das sinnvoll ist. Medikamente und Kräuter ersetzen weder Blutstillung noch Wiederbelebung.
 
-Vollständige Seiten zu Wiederbelebung, Schock, größeren Wunden, Knochenbrüchen, Dehydrierung, schwerer Infektion, Geburt und chronischen Erkrankungen fehlen weiterhin. **Die Kurzabschnitte im 72-Stunden-Plan ersetzen diese Fachartikel nicht.** [Fehlendes Thema melden](https://github.com/cvieth/survivor-guide/issues).
+## Noch offen und ausdrücklich nicht abgedeckt
+
+Fachliche Prüfung aller Notfallartikel, spezielle Kinder- und Säuglingsnotfälle über Basismaßnahmen hinaus, Geburt, chronische Erkrankungen, schwerer Durchfall/Dehydrierung, Schlaganfall, diabetische Notfälle und weiterführende Infektionsversorgung. Die vorhandenen Artikel enthalten nur **Laienmaßnahmen**, keine invasiven Therapien.
