@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 535" width="1100" height="535" role="img" aria-labelledby="title desc">
+<title id="title">Hörbare Rundfunk-Zeitzeichen</title>
+<desc id="desc">Oben klassisches Stundenzeitzeichen, mehrere kurze Töne und ein langer Ton zum Stundenwechsel. Unten das WWV-Minutenzeitzeichen mit gesprochenem Zeitwert vor der Minute, Sekunden-Ticks, ausgelassenem Tick in Sekunde 59 und langem Startton zum Minutenbeginn.</desc>
+<rect width="1100" height="535" fill="#fff"/>
+<style>text{font-family:"DejaVu Sans",Arial,sans-serif;fill:#183450}.title{font-size:32px;font-weight:700}.h{font-size:24px;font-weight:700}.small{font-size:19px}.muted{font-size:17px;fill:#566e84}</style>
+<text x="550" y="55" class="title" text-anchor="middle">Zeitzeichen, die man direkt hören kann</text>
+<rect x="35" y="80" width="1030" height="188" rx="16" fill="#f6faff" stroke="#d5e2ef"/>
+<text x="58" y="115" class="h">UKW · typisches Stunden-Zeitzeichen</text>
+<line x1="110" y1="211" x2="1010" y2="211" stroke="#97aec3" stroke-width="3"/>
+<rect x="245" y="175" width="12" height="36" rx="3" fill="#2678a8"/><rect x="405" y="175" width="12" height="36" rx="3" fill="#2678a8"/><rect x="565" y="175" width="12" height="36" rx="3" fill="#2678a8"/><rect x="725" y="175" width="12" height="36" rx="3" fill="#2678a8"/><rect x="885" y="139" width="38" height="72" rx="4" fill="#df9941"/>
+<text x="251" y="239" class="small" text-anchor="middle">−4</text><text x="411" y="239" class="small" text-anchor="middle">−3</text><text x="571" y="239" class="small" text-anchor="middle">−2</text><text x="731" y="239" class="small" text-anchor="middle">−1</text><text x="904" y="239" class="small" text-anchor="middle">00 s</text>
+<text x="937" y="163" class="muted">volle Stunde</text>
+<rect x="35" y="291" width="1030" height="194" rx="16" fill="#f6faff" stroke="#d5e2ef"/>
+<text x="58" y="324" class="h">WWV · Minutensignal mit Zeitansage (UTC)</text>
+<text x="64" y="357" class="muted">Ansage ca. 7,5 s vor Minute</text><line x1="64" y1="371" x2="230" y2="371" stroke="#7193aa" stroke-width="3" stroke-dasharray="8 6"/>
+<line x1="250" y1="435" x2="1030" y2="435" stroke="#97aec3" stroke-width="3"/>
+<rect x="305" y="411" width="9" height="24" rx="2" fill="#2678a8"/><rect x="433" y="411" width="9" height="24" rx="2" fill="#2678a8"/><rect x="561" y="411" width="9" height="24" rx="2" fill="#2678a8"/><rect x="689" y="411" width="9" height="24" rx="2" fill="#2678a8"/>
+<line x1="821" y1="403" x2="821" y2="435" stroke="#97aec3" stroke-width="3" stroke-dasharray="6 4"/>
+<rect x="930" y="363" width="34" height="72" rx="4" fill="#df9941"/>
+<text x="309" y="465" class="small" text-anchor="middle">−5</text><text x="437" y="465" class="small" text-anchor="middle">−4</text><text x="565" y="465" class="small" text-anchor="middle">−3</text><text x="693" y="465" class="small" text-anchor="middle">−2</text><text x="821" y="465" class="small" text-anchor="middle">−1 (Pause)</text><text x="947" y="465" class="small" text-anchor="middle">00 s</text>
+<text x="550" y="516" text-anchor="middle" class="muted">Schematisch, nicht maßstabsgetreu · der lange Ton markiert die neue Stunde/Minute</text>
+</svg>

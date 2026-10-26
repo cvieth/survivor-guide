@@ -34,7 +34,7 @@ Die deutschsprachige 3er-Regel verwendet **Ortszeit**. Bei vorab vereinbarten Gr
 
 ## Und wenn keine Uhr mehr funktioniert?
 
-Ein verlässliches 3-Minuten-Funkfenster erfordert ungefähr synchronisierte Uhren. Zur Wiedergewinnung der Uhrzeit dienen eine **[Sonnenuhr mit geografischer und saisonaler Korrektur](zeitbestimmung-sonne.md)** sowie – wenn Sender und Empfänger funktionieren – das **[DCF77-Langwellensignal](../05-technologie/dcf77-zeitfunk.md)**. Die Sonnenzeit ist nicht automatisch MEZ/MESZ; ein unkalibrierter Sonnenmittag synchronisiert **keine** drei Minuten kurzen Funkfenster. Ohne verlässliche Uhr nur nach **vorheriger Gruppenabsprache** breitere, relative Zeitfenster nutzen und Zeitabweichung notieren.
+Ein verlässliches 3-Minuten-Funkfenster erfordert ungefähr synchronisierte Uhren. Zum Wiederfinden der Uhrzeit zunächst ein **[hörbares Zeitzeichen im UKW- oder Kurzwellenradio](zeitzeichen-rundfunk.md)** versuchen (in Duisburg z. B. Deutschlandfunk 102,8 MHz), sofern der Rundfunksender noch läuft. Andere Möglichkeiten sind eine **[Sonnenuhr mit geografischer und saisonaler Korrektur](zeitbestimmung-sonne.md)** sowie – mit geeigneter Elektronik – das **[DCF77-Langwellensignal](../05-technologie/dcf77-zeitfunk.md)**. Die Sonnenzeit ist nicht automatisch MEZ/MESZ; ein unkalibrierter Sonnenmittag synchronisiert **keine** drei Minuten kurzen Funkfenster. Ohne verlässliche Uhr nur nach **vorheriger Gruppenabsprache** breitere, relative Zeitfenster nutzen und Zeitabweichung notieren.
 
 ## Welcher Kanal ist gemeint?
 
