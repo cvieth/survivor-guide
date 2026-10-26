@@ -85,6 +85,22 @@ Grundlagen: [DRK: Wiederbelebung](https://www.drk.de/hilfe-in-deutschland/erste-
 
 **Wer am sicheren Standort bleibt:** [Vorratsstrategie ohne Kochen und mit zusätzlichem Kochvorrat](../01-versorgung/vorratsstrategie-zwei-stufen.md) trennt unmittelbar essbare Reserven von Lebensmitteln, die Wasser und Brennstoff erfordern. In den ersten 15–60 Minuten vorrangig Stufe A bilanzieren.
 
+### Frühzeitig Helfende und Zuständigkeiten organisieren
+
+::: decision
+label: "15–60 MINUTEN · HELFERKOORDINATION"
+question: "Sind vertrauenswürdige Helfende freiwillig und ohne zusätzliche Gefahr erreichbar?"
+hint: "Nur nach akuter Gefahrenprüfung. Notruf, lebensrettende Hilfe, Evakuierung und zeitkritisches Wasserauffangen nicht verzögern."
+::: answer protect "JA" "Kurz besprechen, parallel handeln"
+Personen und Vorräte erfassen, Wasser, Medizin, Nahrung, Energie und Information aufteilen, Verantwortliche und feste Rückmeldezeiten auf Papier notieren. [Gruppenorganisation mit Einsatzblatt](../09-gesellschaft/krisengruppe-organisieren.md).
+::: answer neutral "NEIN" "Eigenversorgung weiter sichern"
+Ohne Gruppe die dringlichen Maßnahmen durchführen; nur gefahrlose freiwillige Nachbarschaftshilfe anbieten.
+::: answer danger "UNSICHER / UNKLAR" "Keine gefährliche Versammlung"
+Erst [Standort und Gefahr](#phase-0-sofort-standort-und-schutzstrategie-wahlen) prüfen und gegebenenfalls Schutz suchen. Später neu entscheiden.
+::: enddecision
+
+**Treibstoff nur zweckbezogen planen:** Gewöhnliche Zapfsäulen sind bei Stromausfall nicht nutzbar. [Treibstoffbedarf und Sicherheitsgrenzen](../06-infrastruktur/kraftstoff-bei-stromausfall.md) vor jeder Fahrt prüfen.
+
 ### Ausfall von Handel und Nachlieferung erkennen
 
 ::: decision

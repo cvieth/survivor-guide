@@ -2,6 +2,10 @@
 
 Wenn Hilfe begrenzt ist, entstehen nicht nur logistische, sondern auch moralische Fragen. **Es gibt hierfür keine einfache allgemeingültige Rangfolge von Menschen oder Bedürfnissen.**
 
+## Gruppenorganisation und Krisenkoordination
+
+[Früh eine Krisengruppe bilden und Rollen verteilen](krisengruppe-organisieren.md): freiwillige Zusammenarbeit, Lagebesprechung, Prioritäten, Auftragsvergabe und ein ausdruckbares Einsatzblatt.
+
 ## Vorhandener Fachartikel
 
 [Selbstschutz, Solidarität und Grenzen der Hilfe](grenzen-der-hilfe.md) beschreibt Kriterien für verantwortbare Unterstützung, Schutz der eigenen Handlungsfähigkeit und Grenzen bei knappen Ressourcen. **Explizit zu prüfender ethischer und moralischer Entwurf**, keine allgemeingültige Auswahlregel.
@@ -16,4 +20,4 @@ Wenn Hilfe begrenzt ist, entstehen nicht nur logistische, sondern auch moralisch
 
 ## Noch auszuarbeiten
 
-Psychische Erste Hilfe, Deeskalation, Gruppenorganisation, Vertrauen, Konfliktlösung und Rechtsfragen. [Mitdiskutieren oder Fehler melden](https://github.com/cvieth/survivor-guide/issues).
+Psychische Erste Hilfe, Deeskalation, Vertrauen, Konfliktlösung und Rechtsfragen. [Mitdiskutieren oder Fehler melden](https://github.com/cvieth/survivor-guide/issues).

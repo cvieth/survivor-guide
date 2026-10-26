@@ -50,6 +50,7 @@ nav:
   - 'Grundlagen & Soforthilfe':
       - Überblick: 00-grundlagen/index.md
       - Die ersten 72 Stunden: 00-grundlagen/erste-72-stunden.md
+      - Krisengruppe organisieren: 09-gesellschaft/krisengruppe-organisieren.md
       - Evakuierung und Notgepäck: 00-grundlagen/evakuierung-notgepaeck.md
   - 'Wasser, Nahrung & Versorgung':
       - Überblick: 01-versorgung/index.md
@@ -94,11 +95,13 @@ nav:
       - Sanitärversorgung bei Ausfall: 06-infrastruktur/sanitaerversorgung-bei-ausfall.md
       - Nottoilette aus Eimern: 06-infrastruktur/nottoilette-eimer.md
       - Abwasserrückstau: 06-infrastruktur/abwasser-rueckstau.md
+      - Kraftstoff bei Stromausfall: 06-infrastruktur/kraftstoff-bei-stromausfall.md
   - 'Handwerk, Mechanik & Produktion': 07-handwerk/index.md
   - 'Sicherheit, Orientierung & Selbstschutz': 08-sicherheit/index.md
   - 'Gesellschaft, Psychologie & Soziales':
       - Überblick: 09-gesellschaft/index.md
       - Selbstschutz, Solidarität und Grenzen der Hilfe: 09-gesellschaft/grenzen-der-hilfe.md
+      - Krisengruppe bilden und Rollen verteilen: 09-gesellschaft/krisengruppe-organisieren.md
   - 'Ökologie, Natur & Umwelt': 10-oekologie/index.md
   - 'Wissenserhalt & Wiederaufbau': 11-wiederaufbau/index.md
   - 'Nachschlagewerke & Anhänge':

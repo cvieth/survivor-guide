@@ -11,6 +11,8 @@ Der praktische Vorteil liegt in der **frühen Prüfung**, nicht in der größten
 
 **Für die konkrete Einkaufsliste:** [Vorratsstrategie in zwei Stufen: ohne Kochen und mit sicherer Kochmöglichkeit](vorratsstrategie-zwei-stufen.md). Im Ereignisfall vorrangig die ohne Strom essbare **Stufe A** ergänzen; eine langfristige **Stufe B** nur bei gesichertem Kochwasser, Brennstoff und gefahrloser Zubereitung als nutzbaren Vorrat bewerten.
 
+Bei mehreren freiwillig Beteiligten zuerst [Aufgaben und Rückmeldezeiten koordinieren](../09-gesellschaft/krisengruppe-organisieren.md). Wasser, Medikamente, Nahrung und Informationslage lassen sich parallel prüfen. Eine Tankstellenfahrt ist **kein** Standardauftrag: [Kraftstoffbedarf, sichere Beschaffung und Lagerung](../06-infrastruktur/kraftstoff-bei-stromausfall.md) erst prüfen; normale Zapfsäulen funktionieren bei Stromausfall gewöhnlich nicht.
+
 ## Ab den ersten Minuten: Was ist wirklich ausgefallen?
 
 | Beobachtung | Bedeutung | Handlung |

@@ -4,6 +4,7 @@ Hier beginnt die Orientierung bei einer akuten Krise: **Zuerst Gefahr und Schutz
 
 ## Sofort einsteigen
 
+- **[Krisengruppe früh organisieren](../09-gesellschaft/krisengruppe-organisieren.md):** Helfende freiwillig zusammenbringen, Zuständigkeiten, Vorräte und Rückmeldezeiten dokumentieren.
 - **[Die ersten 72 Stunden](erste-72-stunden.md):** Wiederkehrende Gefahrenprüfung und Entscheidungsdiagramme für die ersten Minuten, Stunden und Tage.
 - **[Evakuierung und Notgepäck](evakuierung-notgepaeck.md):** Wann sofort aufbrechen, wann packen und was je nach verbleibender Zeit mitnehmen?
 - **[Versorgungsausfall früh erkennen](../01-versorgung/versorgungsausfall-frueh-handeln.md):** Bestand, Engpässe und sichere Beschaffung bei gestörten Kassen und Lieferketten.
@@ -13,6 +14,7 @@ Hier beginnt die Orientierung bei einer akuten Krise: **Zuerst Gefahr und Schutz
 ## Wenn eine Entscheidung weitere Details braucht
 
 - **Sanitär- und Hygienenotfall:** [Abwasserlage entscheiden](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md), [Nottoilette bauen](../06-infrastruktur/nottoilette-eimer.md), [Hände waschen](../01-versorgung/handhygiene-ohne-leitungswasser.md).
+- **Tankstellen oder Treibstoffversorgung gestört:** [Kraftstoff bei Stromausfall](../06-infrastruktur/kraftstoff-bei-stromausfall.md) mit sicheren Alternativen und Lagergrenzen.
 - **Zahlungen oder Warenverkauf gestört:** [Versorgungsstörung und kritische Ressourcen](../01-versorgung/versorgungsausfall-frueh-handeln.md) früh und gefahrlos prüfen.
 - **Wasser sichern:** [Bedarf und Qualitätsstufen](../01-versorgung/wasserbedarf-pro-person.md); bei unsicherer Quelle [Aufbereitung und Grenzen](../01-versorgung/oberflaechenwasser-aufbereiten.md).
 - **Verletzungen und Beschwerden:** [Medizinischer Einstieg](../02-medizin/index.md) und [medizinischer Notfallwegweiser mit konkreten Erste-Hilfe-Schritten](../02-medizin/akuter-medizinischer-notfall.md). [Beschwerdenübersicht](../02-medizin/beschwerden-und-mittel.md) für weniger akute Fälle.
