@@ -15,6 +15,8 @@ Dieses Register wird aus einer [maschinenlesbaren JSON-Datei](https://github.com
 
 Siehe [Apotheke – Schnellpriorisierung](../03-pharmazie/apotheke-prioritaeten.md).
 
+Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.md) einordnen. Zu ausgewählten Anwendungsgebieten gibt es ein eigenes [Heilpflanzenregister](heilpflanzenregister.md); dessen Einträge sind keine pauschal gleichwertigen Ersatzmittel.
+
 ## 1 · Persönlicher Bedarf und Notfall
 
 ### Insulin
@@ -90,6 +92,7 @@ Siehe [Apotheke – Schnellpriorisierung](../03-pharmazie/apotheke-prioritaeten.
 - **Voraussetzungen:** Genau nach Packung mit sicherem Trinkwasser anrühren
 - **Quellen:** [ORS](https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Weiterführend:** [Durchfall und Erbrechen](../02-medizin/beschwerden-und-mittel.md#magen-und-darm); [Trinkwassersicherheit](../01-versorgung/oberflaechenwasser-aufbereiten.md); Heilpflanzen ersetzen ORS nicht.
 
 ### Natriumchlorid 0,9 % (sterile Spüllösung)
 
@@ -114,6 +117,7 @@ Siehe [Apotheke – Schnellpriorisierung](../03-pharmazie/apotheke-prioritaeten.
 - **Voraussetzungen:** Für Wunden zugelassenes Produkt und Packungsinformation
 - **Quellen:** [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/So-koennen-Sie-sich-vorbereiten/Hausapotheke/hausapotheke_node.html)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Weiterführend:** [Kleine Wunden](../02-medizin/beschwerden-und-mittel.md#haut-und-kleine-wunden); [Ringelblume](heilpflanzenregister.md#ringelblumenblueten) ersetzt keine Antiseptik.
 
 ### Povidon-Iod
 
@@ -126,6 +130,7 @@ Siehe [Apotheke – Schnellpriorisierung](../03-pharmazie/apotheke-prioritaeten.
 - **Voraussetzungen:** Produktbezogene Indikation und Gegenanzeigen
 - **Quellen:** [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/So-koennen-Sie-sich-vorbereiten/Hausapotheke/hausapotheke_node.html)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Weiterführend:** [Kleine Wunden](../02-medizin/beschwerden-und-mittel.md#haut-und-kleine-wunden); [Ringelblume](heilpflanzenregister.md#ringelblumenblueten) ersetzt keine Antiseptik.
 
 ### Paracetamol
 
@@ -138,6 +143,7 @@ Siehe [Apotheke – Schnellpriorisierung](../03-pharmazie/apotheke-prioritaeten.
 - **Voraussetzungen:** Packungsbeilage, Gewicht, Begleitmedikation
 - **Quellen:** [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/So-koennen-Sie-sich-vorbereiten/Hausapotheke/hausapotheke_node.html), [WHO](https://www.who.int/publications/i/item/B09474)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Weiterführend:** [Fieberanleitung](../02-medizin/fieber-erkennen-und-versorgen.md); [Weidenrinde](heilpflanzenregister.md#weidenrinde) hat andere Risiken und ist kein dosierbarer Ersatz.
 
 ### Ibuprofen
 
@@ -150,6 +156,7 @@ Siehe [Apotheke – Schnellpriorisierung](../03-pharmazie/apotheke-prioritaeten.
 - **Voraussetzungen:** Hydrierung, Gegenanzeigen und Beipackzettel prüfen
 - **Quellen:** [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/So-koennen-Sie-sich-vorbereiten/Hausapotheke/hausapotheke_node.html), [WHO](https://www.who.int/publications/i/item/B09474)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Weiterführend:** [Fieberanleitung](../02-medizin/fieber-erkennen-und-versorgen.md); [Weidenrinde](heilpflanzenregister.md#weidenrinde) kann zusätzliche salicylatbezogene Risiken bergen.
 
 ## 3 · Antibiotika – indikationsgebunden
 
@@ -274,6 +281,7 @@ Siehe [Apotheke – Schnellpriorisierung](../03-pharmazie/apotheke-prioritaeten.
 - **Voraussetzungen:** Alter, Dauer und Gegenanzeigen beachten
 - **Quellen:** [LOP](https://www.nhs.uk/medicines/loperamide/who-can-and-cannot-take-loperamide/), [ORS](https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Weiterführend:** [Durchfall und Austrocknung](../02-medizin/beschwerden-und-mittel.md#magen-und-darm); [Eichenrinde](heilpflanzenregister.md#eichenrinde) ersetzt keine Rehydratation.
 
 ### Dimenhydrinat
 

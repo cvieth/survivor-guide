@@ -22,9 +22,11 @@ Der QR-Code führt zum GitHub-Projekt und ist auch in den Druckausgaben enthalte
 ## Direkt zum Wissen
 
 - **[Fieber erkennen und versorgen](02-medizin/fieber-erkennen-und-versorgen.md)**: Auch ohne Rettungsdienst Temperatur, Warnzeichen, Maßnahmen und Grenzen der Selbsthilfe beurteilen.
+- **[Beschwerden und Mittel finden](02-medizin/beschwerden-und-mittel.md)**: Vom Symptom zu Sofortmaßnahmen, Wirkstoffen und Heilpflanzen.
 
 - **[Sirenensignale erkennen](04-kommunikation/sirenensignale.md)**: Warnung, Entwarnung, Probealarm und Verhalten bei Gefahr.
-- **[Wirkstoffregister (Kapitel 12)](12-nachschlagewerk/wirkstoffregister.md)**: 25 Wirkstoff-Steckbriefe als offline nutzbares Nachschlagewerk.
+- **[Wirkstoffregister](12-nachschlagewerk/wirkstoffregister.md)**: 25 Arzneimittelsteckbriefe für die Offline-Nutzung.
+- **[Heilpflanzenregister](12-nachschlagewerk/heilpflanzenregister.md)**: 12 vernetzte Steckbriefe mit Risiken und Einordnung der Evidenz.
 - **[Apotheken-Prioritätenliste (Kapitel 03)](03-pharmazie/apotheke-prioritaeten.md)**: Suchstrategie bei langem Versorgungsausfall.
 - **[Wasserbedarf & Wasser sichern (Kapitel 01)](01-versorgung/wasserbedarf-pro-person.md)**: Richtwerte und erste Schritte zur Wassersicherung.
 - **[Oberflächenwasser aufbereiten (Kapitel 01)](01-versorgung/oberflaechenwasser-aufbereiten.md)**: Wasserfilter, Beschaffung, Ersatzteile und sichere Grenzen.

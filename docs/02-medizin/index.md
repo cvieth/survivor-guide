@@ -9,7 +9,8 @@ Eine medizinische Anleitung muss auch dann benutzbar sein, wenn **kein Telefon, 
 
 ## Bereits dokumentiert
 
-- **[Fieber erkennen und versorgen](fieber-erkennen-und-versorgen.md):** Temperatur messen, Warnzeichen erkennen, Fieber von Hitzschlag unterscheiden, ohne Medikamente versorgen, geeignete Fiebermittel und Heilpflanzen kritisch einordnen.
+- **[Fieber erkennen und versorgen](fieber-erkennen-und-versorgen.md):** Temperatur messen, Warnzeichen erkennen, Fieber von Hitzschlag unterscheiden und sicher versorgen.
+- **[Beschwerden und Mittel finden](beschwerden-und-mittel.md):** Direktverbindungen zwischen Symptomen, Sofortmaßnahmen, dem [Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md) und dem [Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md).
 
 ## Prioritäre weitere Anleitungen
 
@@ -22,6 +23,8 @@ Eine medizinische Anleitung muss auch dann benutzbar sein, wenn **kein Telefon, 
 7. **Schwangerschaft, Geburt, Säuglinge sowie chronische Erkrankungen:** Risiken und grundlegende Versorgung.
 
 Weitere Felder: Anatomie, Zahnmedizin, Hygiene, Pflege und Prävention.
+
+**Redaktionsprinzip:** Bei jedem neuen Krankheitsbild zuerst konkrete Erste Hilfe und Warnzeichen angeben, danach passende [Arzneimittel](../12-nachschlagewerk/wirkstoffregister.md) und [Heilpflanzen](../12-nachschlagewerk/heilpflanzenregister.md) verlinken, sofern ein nutzbares Anwendungsgebiet existiert. Verweise müssen auch rückwärts zum entsprechenden Symptom führen. Heilpflanzen nie als alleinige Behandlung schwerer Erkrankungen darstellen.
 
 ## Mitmachen
 

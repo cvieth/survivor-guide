@@ -101,13 +101,17 @@ Die Kinderwerte sind vereinfachte, konservative Orientierungen nach Médecins Sa
 - **Behandlungsdauer:** Ohne fachliche Beurteilung nicht länger als etwa 3 Tage symptomatisch mit Fiebermitteln behandeln. Wenn Beschwerden anhalten, schlimmer werden oder wiederkehren, die Ursache erneut bewerten.
 - **Antibiotika:** Fieber allein begründet keinen Antibiotikaeinsatz. Virusinfektionen sprechen nicht darauf an.
 
-Für Einordnung und Inventur siehe [Apotheke bei Versorgungsausfall](../03-pharmazie/apotheke-prioritaeten.md) und [Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md).
+Für Einordnung und Inventur siehe [Apotheke bei Versorgungsausfall](../03-pharmazie/apotheke-prioritaeten.md), [Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md) und das [Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md).
 
 ## Heilpflanzen: mögliche Wirkung und Grenzen
 
-**Weidenrinde** enthält Salicylat-Vorstufen. Die Europäische Arzneimittel-Agentur erkennt eine traditionelle Anwendung bestimmter Zubereitungen bei Erkältungsfieber **bei Erwachsenen** an. Daraus lässt sich **keine sichere Dosierung für selbst gesammelte oder selbst angesetzte Rinde** ableiten. Die Wirkstoffmenge schwankt; Allergien, Blutungsrisiken, Magenprobleme und Wechselwirkungen sind möglich. Für Kinder, Jugendliche, Schwangere im letzten Drittel und Personen mit Salicylat-Unverträglichkeit oder bestimmten Vorerkrankungen ist sie ungeeignet. **Keine improvisierte Pflanzenzubereitung als gleichwertigen Ersatz für ein definiertes Arzneimittel ansehen.**
+Das [Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md) trennt traditionelle Anwendungen von klinisch untersuchten Präparaten und dokumentiert Pflanzenteile, Risiken und Gegenanzeigen. **Für Fieber gibt es keinen gleichwertig dosierbaren Ersatz für definierte Medikamente aus selbst gesammelten Pflanzen.**
 
-Warmer, verträglicher Kräutertee kann vor allem zur Flüssigkeitsaufnahme beitragen. Für eine verlässlich dosierbare Fiebersenkung durch selbst gesammelte Pflanzen fehlen ausreichend belastbare Angaben. Pflanzenkenntnis ersetzt keine Abklärung von Warnzeichen.
+- **[Weidenrinde](../12-nachschlagewerk/heilpflanzenregister.md#weidenrinde):** EMA/HMPC erkennt für bestimmte Zubereitungen bei Erwachsenen eine **traditionelle Anwendung gegen erkältungsbedingtes Fieber** an. Der Salicylatgehalt wild gesammelter Rinde schwankt. Allergien, Blutungen, Magen- und Nierenprobleme und Wechselwirkungen sind möglich; keine improvisierte Dosierung.
+- **[Holunderblüten](../12-nachschlagewerk/heilpflanzenregister.md#holunderblueten)** und **[Lindenblüten](../12-nachschlagewerk/heilpflanzenregister.md#lindenblueten):** Traditionell bei leichter Erkältung verwendet. **Keine nachgewiesene, verlässlich dosierbare Fiebersenkung.** Ein verträglicher Tee kann Flüssigkeit liefern, sofern Trinkwasser sicher ist und die Pflanze sicher bestimmt wurde.
+- **[Kamillenblüten](../12-nachschlagewerk/heilpflanzenregister.md#kamillenblueten):** Traditionelle symptomatische Anwendung unter anderem bei Erkältungsbeschwerden, aber **nicht zur Behandlung der Fieberursache**. Korbblütlerallergie beachten.
+
+**Zuerst die Warnzeichen und die mögliche Ursache beurteilen.** Bei Hitzschlag zählt sofortiges aktives Kühlen; Heilpflanzen und Fiebertabletten sind dafür ungeeignet. Ergänzende Verweise nach Beschwerden: [Beschwerden und Mittel finden](beschwerden-und-mittel.md). Arzneimittel: [Paracetamol](../12-nachschlagewerk/wirkstoffregister.md#paracetamol) und [Ibuprofen](../12-nachschlagewerk/wirkstoffregister.md#ibuprofen).
 
 ## Was tun, wenn niemand erreichbar ist?
 

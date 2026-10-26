@@ -59,6 +59,7 @@ nav:
   - 'Medizin & Gesundheit':
       - Überblick: 02-medizin/index.md
       - Fieber erkennen und versorgen: 02-medizin/fieber-erkennen-und-versorgen.md
+      - Beschwerden und Mittel finden: 02-medizin/beschwerden-und-mittel.md
   - 'Pharmazie, Substanzen & Chemie':
       - Überblick: 03-pharmazie/index.md
       - Apotheke bei Versorgungsausfall – Prioritäten: 03-pharmazie/apotheke-prioritaeten.md
@@ -85,6 +86,7 @@ nav:
   - 'Nachschlagewerke & Anhänge':
       - Überblick: 12-nachschlagewerk/index.md
       - Wirkstoffregister: 12-nachschlagewerk/wirkstoffregister.md
+      - Heilpflanzenregister: 12-nachschlagewerk/heilpflanzenregister.md
   - Mitarbeit:
       - Mitmachen: redaktion/mitmachen.md
       - Quellen und Qualität: redaktion/qualitaet.md
