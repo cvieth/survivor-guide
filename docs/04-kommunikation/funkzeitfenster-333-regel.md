@@ -15,6 +15,10 @@ Bei einem langanhaltenden Strom- und Netzausfall müssen Funkgeräte nicht rund 
 
 ## Zeitplan auf einen Blick
 
+![24-Stunden-Uhr mit acht farbig markierten Kommunikationsfenstern der 3-3-3-Regel, jeweils von Minute 00 bis 03 bei 00, 03, 06, 09, 12, 15, 18 und 21 Uhr](../assets/kommunikation/funkzeitfenster-333.svg){ width=100% }
+
+*Die farbigen Markierungen zeigen die Empfangsfenster schematisch; ihre Breite entspricht nicht der tatsächlichen Dauer von drei Minuten. Die exakten Zeiten stehen in der folgenden Tabelle.*
+
 | Lokalzeit | Hörfenster |
 | --- | --- |
 | 00:00 | 00:00–00:03 |
