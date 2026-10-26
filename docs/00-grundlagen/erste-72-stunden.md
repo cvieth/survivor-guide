@@ -12,9 +12,9 @@ Dieser Ablauf setzt **keine bestimmte Katastrophe** voraus. Seine Zeitangaben si
 ## Phase 0: Sofort – Standort und Schutzstrategie wählen
 
 ::: decision
-label: PHASE 0 · AKUTE GEFAHR
-question: Ist dein Aufenthaltsort unmittelbar gefährlich oder gibt es eine verbindliche Evakuierungsanweisung?
-hint: Brand, Rauch im Fluchtbereich, Einsturzgefahr, eindringendes Hochwasser oder eine örtlich gültige Evakuierung sind Beispiele.
+label: "PHASE 0 · AKUTE GEFAHR"
+question: "Ist dein Aufenthaltsort unmittelbar gefährlich oder gibt es eine verbindliche Evakuierungsanweisung?"
+hint: "Brand, Rauch im Fluchtbereich, Einsturzgefahr, eindringendes Hochwasser oder eine örtlich gültige Evakuierung sind Beispiele."
 ::: answer danger "JA" "Sicherheit vor Besitz"
 **Unverzüglich einen tatsächlich sicheren Flucht- oder Rettungsweg nutzen**, soweit vorhanden und gemäß Anweisungen der Einsatzkräfte. Andere warnen und unterstützen, **ohne sich selbst zu gefährden**. Bei Feuer keine verrauchten Treppenhäuser und keine Aufzüge benutzen; bei Hochwasser weder überflutete Wege befahren noch Keller aufsuchen.
 
@@ -24,9 +24,9 @@ Nicht automatisch loslaufen oder Entwarnung annehmen. **Die nächste Frage** kl�
 ::: enddecision
 
 ::: decision
-label: PHASE 0 · AUSSENGEFÄHRDUNG
-question: Gibt es eine Warnung, dass die Außenumgebung gefährlich ist oder ein Gebäude als Schutz aufgesucht werden soll?
-hint: Etwa eine Gefahrstoffwolke, großflächige Rauchbelastung oder radioaktiver Fallout; konkrete amtliche Hinweise haben Vorrang.
+label: "PHASE 0 · AUSSENGEFÄHRDUNG"
+question: "Gibt es eine Warnung, dass die Außenumgebung gefährlich ist oder ein Gebäude als Schutz aufgesucht werden soll?"
+hint: "Etwa eine Gefahrstoffwolke, großflächige Rauchbelastung oder radioaktiver Fallout; konkrete amtliche Hinweise haben Vorrang."
 ::: answer protect "JA" "Innenraum als Schutz nutzen – sofern geeignet"
 In ein **baulich sicheres** Gebäude gehen, Türen und Fenster schließen, Lüftung und Klimaanlage mit Außenluftzufuhr abschalten und einen geeigneten Innenraum aufsuchen. Bei radioaktivem Fallout kann ein innenliegender Kellerraum schützen, **nicht aber bei Hochwasser**.
 
@@ -36,9 +36,9 @@ Ohne entsprechende Warnung ist draußen **nicht nachweislich sicher**. Noch kein
 ::: enddecision
 
 ::: decision
-label: PHASE 0 · UNTERKUNFT
-question: Ist das Gebäude nach dem erkennbaren Schaden- und Gefahrenbild vorläufig als Aufenthaltsort geeignet?
-hint: Tragwerk, Rauch oder Gasgeruch, eindringendes Wasser, gefährliche elektrische Anlagen und behördliche Sperrungen berücksichtigen.
+label: "PHASE 0 · UNTERKUNFT"
+question: "Ist das Gebäude nach dem erkennbaren Schaden- und Gefahrenbild vorläufig als Aufenthaltsort geeignet?"
+hint: "Tragwerk, Rauch oder Gasgeruch, eindringendes Wasser, gefährliche elektrische Anlagen und behördliche Sperrungen berücksichtigen."
 ::: answer protect "JA" "72-Stunden-Plan am Standort beginnen"
 Vorerst bleiben, Warnkanäle offenhalten und **jetzt** die Maßnahmen der ersten 15 Minuten durchführen. Der Standort bleibt nur so lange eine Option, wie seine Sicherheit vertretbar ist.
 ::: answer danger "NEIN" "Sicheren Ersatzschutz suchen"
@@ -54,8 +54,8 @@ Warnungen, erkennbare Gebäudeschäden und sichere Bereiche prüfen, ohne gefäh
 **Prüfen:** Eigenschutz; Überblick über Personen in unmittelbarer Nähe; Notrufmöglichkeiten. Nicht in gefährlichen Bereichen nach Vermissten suchen. Schwere medizinische Notfälle sofort behandeln, unabhängig davon, welche Uhrzeit oder Phase es gerade ist.
 
 ::: decision
-label: 0–15 MINUTEN · NOTFALL
-question: Hat jemand offenbar eine lebensbedrohliche Verletzung oder Erkrankung?
+label: "0–15 MINUTEN · NOTFALL"
+question: "Hat jemand offenbar eine lebensbedrohliche Verletzung oder Erkrankung?"
 hint: "Warnzeichen: bewusstlos, keine normale Atmung, starke unstillbare Blutung, schwere Atemnot oder akute deutliche Verschlechterung."
 ::: answer danger "JA" "Hilfe holen und sofort Erste Hilfe leisten"
 **112 wählen**, andere gezielt zur Mithilfe auffordern und lebensrettende Maßnahmen nicht bis zur Verbindung mit der Leitstelle aufschieben. Bei äußerer starker Blutung **direkten Druck auf die Blutungsstelle** ausüben. Bei Bewusstlosigkeit **sofort die nächste Atemfrage beantworten**.
@@ -66,9 +66,9 @@ Kleinere Verletzungen versorgen. Betroffene beruhigen und vor Kälte schützen. 
 **Bei einer bewusstlosen Person:** laut um Hilfe rufen, auf Reaktion prüfen, Atemwege freimachen und die Atmung **höchstens zehn Sekunden** kontrollieren.
 
 ::: decision
-label: 0–15 MINUTEN · BEWUSSTLOSIGKEIT
-question: Atmet die bewusstlose Person normal?
-hint: Vereinzeltes Schnappen oder Röcheln ist keine normale Atmung. Bei Zweifel wie bei fehlender normaler Atmung handeln.
+label: "0–15 MINUTEN · BEWUSSTLOSIGKEIT"
+question: "Atmet die bewusstlose Person normal?"
+hint: "Vereinzeltes Schnappen oder Röcheln ist keine normale Atmung. Bei Zweifel wie bei fehlender normaler Atmung handeln."
 ::: answer danger "NEIN / ZWEIFEL" "Sofort wiederbeleben"
 **112**, Lautsprecher einschalten, AED herbeiholen lassen. Unverzüglich **kräftig und schnell in der Mitte des Brustkorbs drücken** (bei Erwachsenen etwa **100–120-mal pro Minute**, ca. **5–6 cm tief**). Wenn in Wiederbelebung geschult und dazu bereit, **30 Kompressionen, 2 Beatmungen**; andernfalls ununterbrochene Herzdruckmassage. Leitstellenanweisungen und AED folgen. Für Säuglinge und Kinder gelten Besonderheiten.
 ::: answer protect "JA" "Stabile Seitenlage und 112"
@@ -84,9 +84,9 @@ Grundlagen: [DRK: Wiederbelebung](https://www.drk.de/hilfe-in-deutschland/erste-
 ### Leitungswasser beurteilen – nicht jede Wasserwarnung bedeutet dasselbe
 
 ::: decision
-label: 15–60 MINUTEN · WASSERQUALITÄT
-question: Gibt es eine Wasserwarnung oder konkrete Hinweise auf eine Verunreinigung?
-hint: Maßgeblich sind Art und räumlicher Geltungsbereich der Anweisung des Wasserversorgers oder der Behörden.
+label: "15–60 MINUTEN · WASSERQUALITÄT"
+question: "Gibt es eine Wasserwarnung oder konkrete Hinweise auf eine Verunreinigung?"
+hint: "Maßgeblich sind Art und räumlicher Geltungsbereich der Anweisung des Wasserversorgers oder der Behörden."
 ::: answer danger "JA / KONKRETER VERDACHT" "Art des Verbots beachten"
 **Abkochgebot:** Wasser nur gemäß Anweisung aufbereitet zum Trinken verwenden. **Trinkverbot:** eine andere sichere Trinkwasserquelle verwenden; **Abkochen beseitigt Chemikalien nicht zuverlässig**. **Nutzungsverbot:** Wasser überhaupt nicht verwenden, bis es freigegeben ist. Betroffene Leitungen, Eisbereiter und angeschlossene Spender beachten.
 ::: answer neutral "NEIN / KEINE MELDUNG" "Wasserverfügbarkeit prüfen"
@@ -94,9 +94,9 @@ Kein bekanntes Verbot ist **kein Beweis** für Unbedenklichkeit. Wenn Wasser nor
 ::: enddecision
 
 ::: decision
-label: 15–60 MINUTEN · VERFÜGBARKEIT
-question: Fließt noch Leitungswasser, das nach der derzeitigen Lagebeurteilung als Trinkwasser nutzbar ist?
-hint: Nur bei sicherem Aufenthaltsort und ohne einschlägige Kontaminationswarnung.
+label: "15–60 MINUTEN · VERFÜGBARKEIT"
+question: "Fließt noch Leitungswasser, das nach der derzeitigen Lagebeurteilung als Trinkwasser nutzbar ist?"
+hint: "Nur bei sicherem Aufenthaltsort und ohne einschlägige Kontaminationswarnung."
 ::: answer protect "JA" "Sofort sauberes Trinkwasser sichern"
 1. **Trinkwasser zuerst:** saubere lebensmittelechte Behälter füllen, dicht verschließen, beschriften.
 2. **Danach Brauchwasser:** Eimer oder Badewanne für vertretbare technische Zwecke auffüllen; deutlich von Trinkwasser trennen.
@@ -110,9 +110,9 @@ Bei angekündigtem oder beginnendem Ausfall kann aus der Leitung noch kurz Wasse
 ### Stromabhängige medizinische Versorgung sofort prüfen
 
 ::: decision
-label: 15–60 MINUTEN · MEDIZINTECHNIK
-question: Ist jemand auf ein lebenswichtiges elektrisches Gerät oder zeitkritische Therapie angewiesen, die auszufallen droht?
-hint: Zum Beispiel Beatmung, Sauerstoffkonzentrator, wichtige Infusionsversorgung oder Dialyse; auch kritisch gekühlte Medikamente berücksichtigen.
+label: "15–60 MINUTEN · MEDIZINTECHNIK"
+question: "Ist jemand auf ein lebenswichtiges elektrisches Gerät oder zeitkritische Therapie angewiesen, die auszufallen droht?"
+hint: "Zum Beispiel Beatmung, Sauerstoffkonzentrator, wichtige Infusionsversorgung oder Dialyse; auch kritisch gekühlte Medikamente berücksichtigen."
 ::: answer danger "JA" "Versorgungsausfall vorwegnehmen"
 **Geräte-Laufzeit und zulässige Notstromlösung sofort prüfen**, vorhandene Ersatzversorgung nach Geräteanleitung nutzen. Behandelnde Stelle oder zuständige Notfallanlaufstelle kontaktieren. Bei drohendem akutem lebensgefährlichem Ausfall **112**. Keine ungeprüften Stromquellen an Medizinprodukte anschließen und keine Dosierungen eigenmächtig ändern.
 ::: answer protect "NEIN" "Energie gezielt reservieren"
@@ -126,9 +126,9 @@ Powerbanks laden, sofern Netzstrom noch verfügbar ist; Mobiltelefon für Warnun
 **Zuerst:** Sirenensignal nicht als vollständige Handlungsanweisung lesen. [Sirenentöne](../04-kommunikation/sirenensignale.md) informieren über Warnung bzw. Entwarnung; **was konkret zu tun ist, steht in der amtlichen Meldung**.
 
 ::: decision
-label: 1–3 STUNDEN · WARNUNGEN
-question: Lassen sich aktuelle amtliche Warnungen über Handy oder Internet abrufen?
-hint: Warn-App, Cell Broadcast, Behördenwebseiten und örtliche Anweisungen; Empfang kann später wegbrechen.
+label: "1–3 STUNDEN · WARNUNGEN"
+question: "Lassen sich aktuelle amtliche Warnungen über Handy oder Internet abrufen?"
+hint: "Warn-App, Cell Broadcast, Behördenwebseiten und örtliche Anweisungen; Empfang kann später wegbrechen."
 ::: answer protect "JA" "Warntext sichern und erreichbar bleiben"
 **Gefahr, Gebiet, Uhrzeit und Anweisungen** lesen, wenn möglich auf Papier notieren; wichtige Kontakte kurz informieren. Handy möglichst **empfangsbereit** halten, Bildschirm und andere stromhungrige Funktionen sparsam verwenden. Bei laufender Gefahr amtliche Warnkanäle fortlaufend beobachten.
 ::: answer neutral "NEIN" "Unabhängige Informationswege nutzen"
@@ -146,9 +146,9 @@ hint: Warn-App, Cell Broadcast, Behördenwebseiten und örtliche Anweisungen; Em
 ### Lebensmittel nach tatsächlicher Kühlzeit beurteilen
 
 ::: decision
-label: 3–6 STUNDEN · KÜHLUNG
-question: Sind leicht verderbliche Lebensmittel seit mindestens rund vier Stunden ohne nachweislich wirksame Kühlung?
-hint: Die Frist beginnt mit dem Ausfall der Kühlung, nicht mit dem Beginn dieses Zeitabschnitts. Messbar ≤ 4 °C durchgehend kalt gehaltene Lebensmittel gesondert beurteilen.
+label: "3–6 STUNDEN · KÜHLUNG"
+question: "Sind leicht verderbliche Lebensmittel seit mindestens rund vier Stunden ohne nachweislich wirksame Kühlung?"
+hint: "Die Frist beginnt mit dem Ausfall der Kühlung, nicht mit dem Beginn dieses Zeitabschnitts. Messbar ≤ 4 °C durchgehend kalt gehaltene Lebensmittel gesondert beurteilen."
 ::: answer danger "JA / UNBEKANNT" "Verdächtige Kühlware nicht verzehren"
 **Leicht verderbliche gekühlte Ware** wie Fleisch, Fisch, Milch, Eier oder Speisereste nach rund vier Stunden ohne Kältequelle verwerfen, **wenn keine sichere Kühltemperatur belegt ist**. Nicht durch Geruch oder Kostenprobe entscheiden. Gekühlte Medikamente **nicht** nach Lebensmittelregeln entsorgen, sondern Packungsangaben und Apotheke/Behandlungsstelle beachten.
 ::: answer protect "NEIN" "Kälte erhalten und später neu prüfen"
@@ -160,9 +160,9 @@ Kühlschrank und Tiefkühler geschlossen halten; nur kurz öffnen, wenn notwendi
 ### Toilette: Spülwasser und Abwasser getrennt beurteilen
 
 ::: decision
-label: 3–6 STUNDEN · ABWASSER
-question: Kann das Abwasser noch sicher ablaufen – ohne Rückstau, Überflutung oder behördliches Nutzungsverbot?
-hint: Kein Wasser aus dem Hahn bedeutet nicht automatisch, dass die Kanalisation ausgefallen ist.
+label: "3–6 STUNDEN · ABWASSER"
+question: "Kann das Abwasser noch sicher ablaufen – ohne Rückstau, Überflutung oder behördliches Nutzungsverbot?"
+hint: "Kein Wasser aus dem Hahn bedeutet nicht automatisch, dass die Kanalisation ausgefallen ist."
 ::: answer protect "JA" "Toilette bedarfsgerecht nutzen"
 Wenn die Anlage grundsätzlich funktioniert, aber der Spülkasten nicht mehr füllt, kann **geeignetes Brauchwasser zur manuellen Spülung** verwendet werden, sofern dies örtlich und technisch vertretbar ist. Dabei Trinkwasser sparen; Hygiene und Rückstau weiterhin beobachten.
 ::: answer danger "NEIN / UNKLAR" "Nicht mehr spülen"
@@ -176,9 +176,9 @@ Bei Rückstau, überflutetem Abfluss oder unklarem Zustand **keine weiteren Spü
 **Bei gefährlicher Kälte oder Überhitzung sofort handeln – nicht bis zu Stunde sechs warten.** Eine geschlossene, warme Unterkunft ist nur dann sinnvoll, wenn sie zur Gefahr passt. Bei Gefahrstoffwolken gelten Schutzanweisungen für Lüftung und Fenster.
 
 ::: decision
-label: 6–12 STUNDEN · WÄRME
-question: Können alle Anwesenden ohne riskante Heizimprovisation geschützt bleiben?
-hint: Raumtemperatur, Kleidung, Feuchtigkeit, Säuglinge, ältere oder erkrankte Personen und erwartete Witterung berücksichtigen.
+label: "6–12 STUNDEN · WÄRME"
+question: "Können alle Anwesenden ohne riskante Heizimprovisation geschützt bleiben?"
+hint: "Raumtemperatur, Kleidung, Feuchtigkeit, Säuglinge, ältere oder erkrankte Personen und erwartete Witterung berücksichtigen."
 ::: answer protect "JA" "Wärmeverlust begrenzen"
 Aufenthalt auf einen geeigneten Raum konzentrieren, Türen zu ungenutzten Zimmern schließen, trockene Kleidung, Decken und sichere Beleuchtung bereitstellen. **Richtig lüften, wenn es die Außenlage erlaubt.** Vorhandene fest installierte Heizgeräte nur bestimmungsgemäß betreiben.
 ::: answer danger "NEIN" "Sichere beheizte Alternative suchen"
@@ -200,9 +200,9 @@ Frühzeitig **amtliche Wärmeanlaufstellen oder andere sichere beheizte Unterkü
 **Frühwarnregel:** Der Beginn dieser Phase darf nicht der erste Zeitpunkt sein, an dem die Wasserreserve berechnet wird. **Schon in den ersten Stunden** die Vorräte erfassen und täglich überprüfen.
 
 ::: decision
-label: 24–48 STUNDEN · WASSER
-question: Reicht die nachweislich sichere Trink- und Kochwassermenge einschließlich individueller Zusatzbedarfe voraussichtlich für mindestens die nächsten 24 Stunden?
-hint: Für alle Menschen und Tiere kalkulieren; Säuglinge, Fieber, Hitze, Zubereitung und Hygiene können mehr Wasser erfordern. Rohwasser ist keine Trinkwasserreserve.
+label: "24–48 STUNDEN · WASSER"
+question: "Reicht die nachweislich sichere Trink- und Kochwassermenge einschließlich individueller Zusatzbedarfe voraussichtlich für mindestens die nächsten 24 Stunden?"
+hint: "Für alle Menschen und Tiere kalkulieren; Säuglinge, Fieber, Hitze, Zubereitung und Hygiene können mehr Wasser erfordern. Rohwasser ist keine Trinkwasserreserve."
 ::: answer protect "JA" "Reserve schützen – Nachschub trotzdem planen"
 Trinkwasserbehälter sauber, verschlossen und beschriftet halten. Tagesverbrauch notieren, Wasser für Lebensmittel und notwendige Hygiene mitrechnen; Sicherheitsreserve nicht ausschließlich auf die reine Trinkmenge beschränken. Nachschubmöglichkeiten frühzeitig prüfen.
 ::: answer danger "NEIN / NICHT BEURTEILBAR" "Sichere Quelle organisieren"
@@ -216,9 +216,9 @@ Den Unterschied zwischen **Trink-/Lebensmittelwasser, geeignetem Hygienewasser u
 **Nicht abwarten, bis die letzten Vorräte verbraucht sind.** Wenn Medikamente, Wärme, Wasser oder medizinische Geräte früher kritisch werden, diese Frage sofort stellen.
 
 ::: decision
-label: 48–72 STUNDEN · BLEIBEN ODER WECHSELN
-question: Sind Standort und lebenswichtige Versorgung absehbar auch für die nächsten 24–48 Stunden tragfähig?
-hint: Gebäude und äußere Gefahren, Wasserqualität und -menge, Medizin, Hygiene, Temperatur, Tiere sowie erreichbare Hilfe gemeinsam betrachten.
+label: "48–72 STUNDEN · BLEIBEN ODER WECHSELN"
+question: "Sind Standort und lebenswichtige Versorgung absehbar auch für die nächsten 24–48 Stunden tragfähig?"
+hint: "Gebäude und äußere Gefahren, Wasserqualität und -menge, Medizin, Hygiene, Temperatur, Tiere sowie erreichbare Hilfe gemeinsam betrachten."
 ::: answer protect "JA" "Vor Ort weiter stabilisieren"
 Versorgungs-, Informations-, Schlaf- und Hygienerhythmus festlegen. Vorräte schriftlich bilanzieren und mindestens täglich neu beurteilen. Offizielle Hinweise, Krankheitszeichen und örtliche Hilfsangebote weiter verfolgen; Nachbarschaftshilfe koordinieren.
 ::: answer danger "NEIN" "Rechtzeitig sichere Alternativen organisieren"
