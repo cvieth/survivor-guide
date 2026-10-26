@@ -19,7 +19,7 @@ MANIFEST = ROOT / "data/heilpflanzen-bilder.json"
 CREDITS = ROOT / "docs/12-nachschlagewerk/bildquellen-heilpflanzen.md"
 MIN_JPEG_SIZE = 12_000
 MAX_JPEG_SIZE = 7_000_000
-USER_AGENT = "SurvivorGuide/1.0 (offline-education; github.com/cvieth/survivor-guide)"
+USER_AGENT = "SurvivorGuide/1.0 (https://github.com/cvieth/survivor-guide; noncommercial educational downloader)"
 
 
 def commons_page(name: str) -> str:
@@ -88,7 +88,12 @@ def download(d: dict) -> None:
         print("Cached:", target.relative_to(ROOT))
         return
     url = original_file(d["commons_filename"])
-    request = Request(url, headers={"User-Agent": USER_AGENT, "Accept": "image/jpeg"})
+    request = Request(url, headers={
+        "User-Agent": USER_AGENT,
+        "Accept": "image/jpeg",
+        "Referer": "https://commons.wikimedia.org/",
+        "Accept-Language": "de,en;q=0.9",
+    })
     error = None
     for attempt in range(3):
         try:
@@ -104,6 +109,7 @@ def download(d: dict) -> None:
             tmp.write_bytes(body)
             tmp.replace(target)
             print("Fetched:", target.relative_to(ROOT), len(body), "bytes")
+            time.sleep(1.0)  # avoid request bursts to Wikimedia Commons
             return
         except (OSError, ValueError) as exc:
             error = exc
