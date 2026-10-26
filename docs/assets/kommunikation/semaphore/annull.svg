@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="166" height="158" viewBox="0 0 166 158" role="img" aria-label="Annullierungszeichen: linker Arm 4:30 Uhr, rechter Arm 10:30 Uhr, Blick von vorn" data-sender-left="4:30" data-sender-right="10:30">
+<title>Annullierungszeichen: linker Arm 4:30 Uhr, rechter Arm 10:30 Uhr, Blick von vorn</title>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M83 111 L70 146 M83 111 L96 146" stroke="#243342" stroke-width="6"/>
+  <path d="M83 70 L83 111" stroke="#243342" stroke-width="11"/>
+  <circle cx="83" cy="49" r="10" fill="#243342" stroke="none"/>
+  <path d="M83 58 L83 66" stroke="#243342" stroke-width="6"/>
+  <!-- Armbezeichnungen beziehen sich auf die sendende Person (vorn gesehen). -->
+  <g data-arm="sender-right"><line x1="70" y1="70" x2="39.59" y2="39.59" stroke="#223241" stroke-width="5" stroke-linecap="round"/>
+    <line x1="70" y1="70" x2="39.59" y2="39.59" stroke="#0e1d30" stroke-width="2" stroke-linecap="round"/>
+    <polygon points="41.01,38.18 29.69,26.87 41.01,15.55" fill="#d13936" stroke="#5e1525" stroke-width=".7"/>
+    <polygon points="41.01,38.18 41.01,15.55 52.32,26.87" fill="#f9d845" stroke="#75601a" stroke-width=".7"/></g>
+  <g data-arm="sender-left"><line x1="96" y1="70" x2="126.41" y2="100.41" stroke="#223241" stroke-width="5" stroke-linecap="round"/>
+    <line x1="96" y1="70" x2="126.41" y2="100.41" stroke="#0e1d30" stroke-width="2" stroke-linecap="round"/>
+    <polygon points="124.99,101.82 136.31,113.13 124.99,124.45" fill="#d13936" stroke="#5e1525" stroke-width=".7"/>
+    <polygon points="124.99,101.82 124.99,124.45 113.68,113.13" fill="#f9d845" stroke="#75601a" stroke-width=".7"/></g>
+</g>
+</svg>

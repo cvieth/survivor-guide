@@ -8,6 +8,7 @@ import yaml
 from mkdocs_config import load_mkdocs_config
 from decision_blocks import parse_blocks
 from check_morse import validate as validate_morse
+from check_semaphore import validate as validate_semaphore
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
@@ -57,6 +58,7 @@ def main():
             elif not resolved.is_file():
                 errors.append(f"Broken link: {doc.relative_to(ROOT)} -> {raw}")
     errors.extend(validate_morse())
+    errors.extend(validate_semaphore())
     if errors:
         for e in errors: print("ERROR:",e,file=sys.stderr)
         return 1

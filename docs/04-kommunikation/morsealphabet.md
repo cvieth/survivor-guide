@@ -114,6 +114,10 @@ flowchart TB
 3. Buchstaben der Nachricht nacheinander übermitteln. Wichtige Angaben und Notmeldungen bei vorhandenem Rückkanal bestätigen lassen.
 4. Mit einfachen kurzen Nachrichten üben; für Adressen, Zahlen und Koordinaten auf Eindeutigkeit achten.
 
+## Alternative: Winkeralphabet mit zwei Flaggen
+
+Mit dem [Flaggensemaphore (Winkeralphabet)](flaggenalphabet.md) können Buchstaben durch **gleichzeitig sichtbare Armstellungen** übermittelt werden. Dafür sind zwei Flaggen und freie Sicht erforderlich. Im Gegensatz zu diesem Morseverfahren braucht der Empfänger keine Folge von kurzen und langen Signalen zu unterscheiden.
+
 ## Grenzen und Vorsicht
 
 - Lichtzeichen und Töne benötigen freie Sicht- beziehungsweise Hörreichweite; Funk benötigt geeignete Geräte und verfügbare Frequenzen.

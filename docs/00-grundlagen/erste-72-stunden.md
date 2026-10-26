@@ -193,7 +193,7 @@ Frühzeitig **amtliche Wärmeanlaufstellen oder andere sichere beheizte Unterkü
 - **Medizinische Runde:** Zustand von Verletzten, Arzneimittelvorräte, Kühlanforderungen, Batteriestand nötiger Medizinprodukte und Erreichbarkeit von Hilfe prüfen.
 - **Versorgungsrunde:** Wasser- und Essensbedarf von Personen **und Haustieren** überschlagen; Verbrauch notieren; Kühlware bei erneutem Überschreiten sicherer Bedingungen aussortieren.
 - **Nachtroutine:** Leuchte, Schuhe, Schlüssel und notwendige Medikamente griffbereit; sichere Wege im Dunkeln; Schlaf und Ruhe abwechseln. Bei Schutz-im-Gebäude-Anweisung **nicht eigenmächtig** ins Freie gehen.
-- **Informationsrunde:** Warnkanäle bevorzugen; Treff- oder Funkzeiten nur zusätzlich. Schlaf nicht durch unnötige Dauerkontrolle sämtlicher Geräte verhindern.
+- **Informationsrunde:** Warnkanäle bevorzugen; Treff- oder Funkzeiten nur zusätzlich. Schlaf nicht durch unnötige Dauerkontrolle sämtlicher Geräte verhindern. Bei ausgefallenen Netzen und direktem Sichtkontakt können vorher geübte [Semaphore-Flaggenzeichen](../04-kommunikation/flaggenalphabet.md) oder [Morsezeichen mit Licht](../04-kommunikation/morsealphabet.md) für kurze Nachrichten helfen. Beides setzt einen sichtbaren oder hörenden, eingeweihten Empfänger voraus.
 
 ## 24–48 Stunden: Wasser- und Versorgungsreserve stabilisieren
 

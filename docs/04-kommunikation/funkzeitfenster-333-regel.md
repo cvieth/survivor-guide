@@ -71,6 +71,8 @@ Für eine verständliche Meldung: **Wer meldet? Wo genau? Was ist passiert? Wie 
 - **Behördliche Rundfunkmeldungen** über Batterie-/Kurbelradio unabhängig vom 3-3-3-Funkplan verfolgen, besonders bei akuter Lage. Behörden können jederzeit senden.
 - Eine Gruppe kann zusätzliche **lokale, längere** Empfangsfenster vereinbaren, z. B. 10 Minuten um 12 und 18 Uhr. Diese sind **keine überregional anerkannten Termine** und funktionieren nur, wenn alle Beteiligten sie kennen.
 
+**Bei Sichtkontakt ohne Funkgerät:** Zwei weitere Kommunikationswege sind das [Winkeralphabet mit Flaggen](flaggenalphabet.md) und [Morsezeichen mit Licht oder Ton](morsealphabet.md). Beide erfordern einen erreichbaren, eingeweihten Empfänger und ersetzen keine amtlichen Warnmeldungen.
+
 ## Quellen
 
 - NOTFUNK-WIKI, [Die 3er-Regel](https://notfunkwiki.de/doku.php?id=betrieb:3er-regel), Zugriff 26.10.2026 (Community-Konvention, inklusive Einwänden und lokalem Zeitplan).
