@@ -9,6 +9,8 @@
 2. **Vorräte erfassen und priorisieren:** [Apotheke bei Versorgungsausfall](apotheke-prioritaeten.md).
 3. **Einzelheiten nachschlagen:** [Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md) beziehungsweise [Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md).
 
+Für **Seife, Chlorbleiche, Poolchlor, Alkoholmittel und Flächendesinfektion** das eigene [Hygiene- und Reinigungsmittelregister](../12-nachschlagewerk/hygienemittel-register.md) verwenden. Diese Stoffe sind **keine Arzneimittel**. Siehe [Anleitung zu Reinigung und Desinfektion](../01-versorgung/reinigung-desinfektion-im-notfall.md).
+
 Die Register befinden sich **zentral in Kapitel Nachschlagewerke**. Hier werden keine konkurrierenden Kurzsteckbriefe gepflegt; die [Nachschlagewerk-Übersicht](../12-nachschlagewerk/index.md) erläutert die Einträge.
 
 ## Zeitkritische Situationen
@@ -17,4 +19,4 @@ Beim Aufbruch [medizinische Notgepäck-Prioritäten](../00-grundlagen/evakuierun
 
 ## Noch auszuarbeiten
 
-Arzneimittelhaltbarkeit, Dosierungsfehler, Hände- und Flächendesinfektion, sichere Pflanzenbestimmung und chemische Grundverfahren. Die [Wundantiseptik](../02-medizin/wunden-mehrtaegige-versorgung.md#reinigung-oder-antiseptik-was-ist-sinnvoll) ist bereits beim medizinischen Handlungsartikel eingeordnet. [Korrektur einreichen](https://github.com/cvieth/survivor-guide/issues).
+Arzneimittelhaltbarkeit, Dosierungsfehler, sichere Pflanzenbestimmung und chemische Grundverfahren. Die [Wundantiseptik](../02-medizin/wunden-mehrtaegige-versorgung.md#reinigung-oder-antiseptik-was-ist-sinnvoll) ist bereits beim medizinischen Handlungsartikel eingeordnet. [Korrektur einreichen](https://github.com/cvieth/survivor-guide/issues).

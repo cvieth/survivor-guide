@@ -58,6 +58,8 @@ nav:
       - Regenwasser, Pfützen und improvisierte Filter: 01-versorgung/regenwasser-pfuetzen-improvisierte-filter.md
       - Wasser destillieren: 01-versorgung/wasser-destillieren.md
       - Oberflächenwasser aufbereiten: 01-versorgung/oberflaechenwasser-aufbereiten.md
+      - Handhygiene ohne Wasserhahn: 01-versorgung/handhygiene-ohne-leitungswasser.md
+      - Reinigung und Desinfektion im Notfall: 01-versorgung/reinigung-desinfektion-im-notfall.md
   - 'Medizin & Gesundheit':
       - Überblick: 02-medizin/index.md
       - Medizinischer Notfall: 02-medizin/akuter-medizinischer-notfall.md
@@ -69,6 +71,7 @@ nav:
       - Wundversorgung über mehrere Tage: 02-medizin/wunden-mehrtaegige-versorgung.md
       - Fieber erkennen und versorgen: 02-medizin/fieber-erkennen-und-versorgen.md
       - Beschwerden und Mittel finden: 02-medizin/beschwerden-und-mittel.md
+      - Durchfall und Austrocknung: 02-medizin/durchfall-austrocknung.md
   - 'Pharmazie, Substanzen & Chemie':
       - Überblick: 03-pharmazie/index.md
       - Apotheke bei Versorgungsausfall – Prioritäten: 03-pharmazie/apotheke-prioritaeten.md
@@ -84,7 +87,11 @@ nav:
       - Überblick: 05-technologie/index.md
       - DCF77-Zeitsignal empfangen und dekodieren: 05-technologie/dcf77-zeitfunk.md
       - Funkempfang ohne Radio improvisieren: 05-technologie/radio-ohne-geraet.md
-  - 'Energie, Unterkunft & Infrastruktur': 06-infrastruktur/index.md
+  - 'Energie, Unterkunft & Infrastruktur':
+      - Überblick: 06-infrastruktur/index.md
+      - Sanitärversorgung bei Ausfall: 06-infrastruktur/sanitaerversorgung-bei-ausfall.md
+      - Nottoilette aus Eimern: 06-infrastruktur/nottoilette-eimer.md
+      - Abwasserrückstau: 06-infrastruktur/abwasser-rueckstau.md
   - 'Handwerk, Mechanik & Produktion': 07-handwerk/index.md
   - 'Sicherheit, Orientierung & Selbstschutz': 08-sicherheit/index.md
   - 'Gesellschaft, Psychologie & Soziales':
@@ -96,6 +103,7 @@ nav:
       - Überblick: 12-nachschlagewerk/index.md
       - Wirkstoffregister: 12-nachschlagewerk/wirkstoffregister.md
       - Heilpflanzenregister: 12-nachschlagewerk/heilpflanzenregister.md
+      - Hygiene- und Reinigungsmittelregister: 12-nachschlagewerk/hygienemittel-register.md
       - "Bildquellen: Heilpflanzen": 12-nachschlagewerk/bildquellen-heilpflanzen.md
   - Mitarbeit:
       - Mitmachen: redaktion/mitmachen.md

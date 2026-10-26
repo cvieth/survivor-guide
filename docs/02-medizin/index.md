@@ -16,6 +16,12 @@
 | Verbrennung, Unterkühlung oder Hitze | [Verbrennungen und Temperaturnotfälle](verbrennungen-temperaturnotfaelle.md) |
 | Kleinere Wunden, längerer Versorgungsausfall | [Wunden reinigen, Antiseptik gezielt auswählen und über Tage kontrollieren](wunden-mehrtaegige-versorgung.md) |
 
+## Infektionsschutz bei Versorgungsausfall
+
+- [Durchfall und Austrocknung](durchfall-austrocknung.md): ORS, Warnzeichen, Ansteckungswege und der Versorgungspfad ohne Rettungsdienst.
+- [Handhygiene](../01-versorgung/handhygiene-ohne-leitungswasser.md), [Sanitärversorgung](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md) und [Flächenreinigung](../01-versorgung/reinigung-desinfektion-im-notfall.md).
+- [Hygienemittelregister](../12-nachschlagewerk/hygienemittel-register.md) getrennt vom medizinischen [Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md).
+
 ## Weitere Beschwerden
 
 - [Fieber erkennen und versorgen](fieber-erkennen-und-versorgen.md): Temperatur, Risikogruppen, Flüssigkeit, Hitzschlag abgrenzen.
@@ -28,4 +34,4 @@
 
 ## Noch offen und ausdrücklich nicht abgedeckt
 
-Fachliche Prüfung aller Notfallartikel, spezielle Kinder- und Säuglingsnotfälle über Basismaßnahmen hinaus, Geburt, chronische Erkrankungen, schwerer Durchfall/Dehydrierung, Schlaganfall, diabetische Notfälle und weiterführende Infektionsversorgung. Die vorhandenen Artikel enthalten nur **Laienmaßnahmen**, keine invasiven Therapien.
+Fachliche Prüfung aller Notfallartikel, spezielle Kinder- und Säuglingsnotfälle über Basismaßnahmen hinaus, Geburt, chronische Erkrankungen, Schlaganfall, diabetische Notfälle und weiterführende Infektionsversorgung. Die vorhandenen Artikel enthalten nur **Laienmaßnahmen**, keine invasiven Therapien.

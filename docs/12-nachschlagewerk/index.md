@@ -14,6 +14,12 @@ Dieser Bereich ist die **zentrale Fundstelle** für wiederverwendbare Steckbrief
 !!! warning "Fachprüfung ausstehend"
     Die Steckbriefe sind keine Diagnose oder Freigabe zur Selbstmedikation. Für Pflanzen ist eine sichere Bestimmung notwendig; Bilder allein genügen nicht.
 
+## Hygiene, Sanitärtechnik und chemische Mittel
+
+- [Hygiene- und Reinigungsmittelregister](hygienemittel-register.md): **zentraler Stoffsteckbrief** zu Seife, Handalkohol, Chlorbleiche, Poolchlor, Wasserstoffperoxid sowie Beuteln und Bindematerial. Jeder Eintrag führt zur konkreten Anwendung zurück.
+- [Sanitär-Entscheidung](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md) · [Eimertoilette](../06-infrastruktur/nottoilette-eimer.md) · [Abwasserrückstau](../06-infrastruktur/abwasser-rueckstau.md).
+- [Handwaschstation](../01-versorgung/handhygiene-ohne-leitungswasser.md) · [Oberflächen reinigen](../01-versorgung/reinigung-desinfektion-im-notfall.md) · [Durchfall und Austrocknung](../02-medizin/durchfall-austrocknung.md).
+
 ## Technische Nachschlagetabellen
 
 - [Morsealphabet und Morsebaum](../04-kommunikation/morsealphabet.md): Texttabellen und Zeiten für Funk, Licht oder Ton.

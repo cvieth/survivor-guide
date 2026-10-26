@@ -10,6 +10,9 @@
 | Woher kann Wasser kommen und was leistet ein einfacher Vorfilter? | [Regenwasser, Pfützen und improvisierte Vorfilter](regenwasser-pfuetzen-improvisierte-filter.md) |
 | Wie kann ich vorhandenes Rohwasser technisch behandeln? | [Oberflächenwasser aufbereiten](oberflaechenwasser-aufbereiten.md) |
 | Wann ist Destillation geeignet und wo sind ihre Grenzen? | [Wasser destillieren](wasser-destillieren.md) |
+| Wie wasche ich Hände ohne Wasserhahn? | [Handhygiene und sparsame Waschstation](handhygiene-ohne-leitungswasser.md) |
+| Wie reinige oder desinfiziere ich kontaminierte Flächen? | [Reinigung und Desinfektion im Notfall](reinigung-desinfektion-im-notfall.md) |
+| Toilette und Abwasser fallen aus: Was ist noch nutzbar? | [Sanitär-Entscheidung](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md) und [Eimertoilette](../06-infrastruktur/nottoilette-eimer.md) |
 | Welche Nahrung soll ich bei einer Evakuierung mitnehmen? | [Notverpflegung für unterwegs](notverpflegung-fuer-unterwegs.md) |
 
 !!! warning "Sicherheit der Wasserquelle"
@@ -23,4 +26,4 @@
 
 ## Noch auszuarbeiten
 
-Langfristige Lagerung, Lebensmittelkonservierung, reguläre Sanitärversorgung, Landwirtschaft und Tierhaltung. Die vorhandenen Wasserverfahren sind **nicht** durchgängig feldgeprüft. [Verbesserung melden](https://github.com/cvieth/survivor-guide/issues).
+Langfristige Lagerung, Lebensmittelkonservierung, Landwirtschaft und Tierhaltung. Die vorhandenen Wasserverfahren sind **nicht** durchgängig feldgeprüft. [Verbesserung melden](https://github.com/cvieth/survivor-guide/issues).
