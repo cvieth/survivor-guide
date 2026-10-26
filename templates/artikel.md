@@ -37,6 +37,10 @@ Konkrete sichere Laienmaßnahmen, fehlende Mittel und Alternativen, weitere Beob
 
 Nur belegte Indikationen, Wirkstoffe, Voraussetzungen, überprüfbare Dosierungen, Gegenanzeigen, Wechselwirkungen und Grenzen angeben. Ohne verlässliche Dosis lieber die konkrete Unsicherheit erklären als schätzen.
 
+## Weiterführende Mittel und Querverweise
+
+Bei medizinischen Themen das [Symptomverzeichnis](../docs/02-medizin/beschwerden-und-mittel.md), das [Wirkstoffregister](../docs/12-nachschlagewerk/wirkstoffregister.md) und das [Heilpflanzenregister](../docs/12-nachschlagewerk/heilpflanzenregister.md) auf Relevanz prüfen. In fertigen Artikeln nur passende, **für den tatsächlichen Pfad relative Links** übernehmen. Eignung, Evidenz und Gegenanzeigen kurz zusammenfassen, Details zentral im Register pflegen. Auch Rückverweise prüfen. Heilpflanzen ohne nachgewiesen sichere Bestimmung nicht als DIY-Mittel darstellen.
+
 ## Risiken, Gegenanzeigen und Grenzen
 
 Was darf keinesfalls versucht werden? Wann ist Selbsthilfe nicht ausreichend?
