@@ -92,7 +92,7 @@ label: "15–60 MINUTEN · HELFERKOORDINATION"
 question: "Sind vertrauenswürdige Helfende freiwillig und ohne zusätzliche Gefahr erreichbar?"
 hint: "Nur nach akuter Gefahrenprüfung. Notruf, lebensrettende Hilfe, Evakuierung und zeitkritisches Wasserauffangen nicht verzögern."
 ::: answer protect "JA" "Kurz besprechen, parallel handeln"
-Personen und Vorräte erfassen, Wasser, Medizin, Nahrung, Energie und Information aufteilen, Verantwortliche und feste Rückmeldezeiten auf Papier notieren. [Gruppenorganisation mit Einsatzblatt](../09-gesellschaft/krisengruppe-organisieren.md).
+Personen und Vorräte erfassen, Wasser, Medizin, Nahrung, Energie und Information aufteilen. **Feste Treffen morgens bei Tageslicht und abends vor Dämmerung** samt Haupt- und Ersatzort vereinbaren; für zusätzliche Lagebesprechungen ein gruppeninternes Signal und einen Ausfallweg festlegen. Aufträge mit *Was, Wer, bis zu welchem Ereignis* auf Papier notieren. [Gruppenorganisation mit Einsatzblatt](../09-gesellschaft/krisengruppe-organisieren.md) und [Offline-Treff- und Signalverfahren](../04-kommunikation/offline-gruppentreffen-signale.md).
 ::: answer neutral "NEIN" "Eigenversorgung weiter sichern"
 Ohne Gruppe die dringlichen Maßnahmen durchführen; nur gefahrlose freiwillige Nachbarschaftshilfe anbieten.
 ::: answer danger "UNSICHER / UNKLAR" "Keine gefährliche Versammlung"
@@ -173,6 +173,8 @@ hint: "Warn-App, Cell Broadcast, Behördenwebseiten und örtliche Anweisungen; E
 
 [BBK: In der Krise informiert sein](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/In-der-Krise-informiert-sein/in-der-krise-informiert-sein_node.html).
 
+**Erste Rückmeldung über übernommene Gruppenaufträge:** Wenn gefahrlos möglich, Ergebnisse nach der ersten Arbeitsrunde durch persönlichen Kontakt oder den vereinbarten Sammelruf abfragen. Bei nicht erreichbaren Mitgliedern keine neuen Aufgaben auf ungeprüfte Annahmen stützen. [Regeltermine ohne Uhr und Auftragsmeldungen](../04-kommunikation/offline-gruppentreffen-signale.md).
+
 ## 3–6 Stunden: Kühlkette und Sanitärlage klären
 
 **Diese Fragen bei Bedarf früher stellen.** Ein schon vor Stunden ausgefallener Kühlschrank kann bereits in der ersten Viertelstunde relevant sein.
@@ -225,6 +227,9 @@ Frühzeitig **amtliche Wärmeanlaufstellen oder andere sichere beheizte Unterkü
 
 ## 12–24 Stunden: Erste Nacht und Wiederholung der Kontrollen
 
+**Vor Einbruch der Dämmerung:** Nach Möglichkeit eine sichere **Abendbesprechung** der Krisengruppe abhalten: Aufträge und neue Gefahren abgleichen, Wasser-/Medikamentenreichweite notieren und Nachtaufgaben zuteilen. **Am nächsten Morgen bei Tageslicht** erneut zusammentreffen. Diese Regel gilt auch ohne Uhr, Pfeifsignal und Mobilfunk; bei akuter Gefahr oder angeordneter Schutzmaßnahme nicht zum Treffpunkt aufbrechen. [Gruppen-Meldeplan](../04-kommunikation/offline-gruppentreffen-signale.md).
+
+
 - **Sicherheitsrunde:** neue amtliche Warnungen, Rauch, steigendes Wasser, Wetter, Gasgeruch, Schäden und Temperatur prüfen. Bei Gefahr sofort zu **Phase 0**.
 - **Medizinische Runde:** Zustand von Verletzten, Arzneimittelvorräte, Kühlanforderungen, Batteriestand nötiger Medizinprodukte und Erreichbarkeit von Hilfe prüfen.
 - **Versorgungsrunde:** Reichweite von Wasser, Nahrung, notwendigen Medikamenten für Menschen und Haustiere neu erfassen; bei Engpässen die [frühe Beschaffungsentscheidung](../01-versorgung/versorgungsausfall-frueh-handeln.md) erneut stellen. Wasser- und Essensbedarf überschlagen; Verbrauch notieren; Kühlware bei erneutem Überschreiten sicherer Bedingungen aussortieren.
@@ -265,7 +270,7 @@ Kritische offene Punkte notieren, verlässliche Warn- und Hilfsinformationen suc
 
 ## Wiederkehrende Prüfungen – wichtiger als die Uhr
 
-Die Zeitfenster sind **Prioritäten und Beispiele, keine Wartefristen**. Diese Auslöser setzen den Ablauf **sofort** zurück:
+Die Zeitfenster sind **Prioritäten und Beispiele, keine Wartefristen**. Für freiwillige Helfergruppen sind **morgendliche und abendliche Lagebesprechungen anhand des Tageslichts** ein wiederkehrender Kontrollpunkt, unabhängig von Uhr und Mobilfunk. Bei Bedarf und nur unter sicheren Bedingungen mit [vereinbartem Sammelsignal und schriftlichem Ersatzweg](../04-kommunikation/offline-gruppentreffen-signale.md) ergänzen. Diese Auslöser setzen den Ablauf **sofort** zurück:
 
 - **Akute Gefahr oder neue Schutzanweisung:** zurück zu **Phase 0**.
 - **Bewusstlosigkeit, fehlende normale Atmung, schwere Blutung, drohender Ausfall lebenserhaltender Geräte:** medizinische Sofortmaßnahme.

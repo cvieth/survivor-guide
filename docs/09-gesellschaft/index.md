@@ -4,7 +4,7 @@ Wenn Hilfe begrenzt ist, entstehen nicht nur logistische, sondern auch moralisch
 
 ## Gruppenorganisation und Krisenkoordination
 
-[Früh eine Krisengruppe bilden und Rollen verteilen](krisengruppe-organisieren.md): freiwillige Zusammenarbeit, Lagebesprechung, Prioritäten, Auftragsvergabe und ein ausdruckbares Einsatzblatt.
+[Früh eine Krisengruppe bilden und Rollen verteilen](krisengruppe-organisieren.md): freiwillige Zusammenarbeit, Lagebesprechung, Prioritäten, Auftragsvergabe und ein ausdruckbares Einsatzblatt. Für Lageberichte ohne Uhren und Telefone gilt das [Verfahren mit Morgen-/Abendtreffen, Sammelsignal und Ersatzmeldung](../04-kommunikation/offline-gruppentreffen-signale.md).
 
 ## Vorhandener Fachartikel
 

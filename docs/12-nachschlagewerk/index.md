@@ -29,6 +29,7 @@ Dieser Bereich ist die **zentrale Fundstelle** für wiederverwendbare Steckbrief
 - [Morsealphabet und Morsebaum](../04-kommunikation/morsealphabet.md): Texttabellen und Zeiten für Funk, Licht oder Ton.
 - [Winkeralphabet / Flaggensemaphore](../04-kommunikation/flaggenalphabet.md): Zeichen, Stellungen und Regeln.
 - [Sirenensignale](../04-kommunikation/sirenensignale.md): Warnung, Entwarnung, Probealarm.
+- [Offline-Meldesignale und Treffpunkttabelle](../04-kommunikation/offline-gruppentreffen-signale.md): wiederkehrende Tagesereignisse, intern vereinbartes Pfeifsignal und Nachrichtenzettel.
 
 ## Noch auszuarbeiten
 

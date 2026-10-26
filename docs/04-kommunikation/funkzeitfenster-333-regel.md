@@ -13,6 +13,8 @@ Bei einem langanhaltenden Strom- und Netzausfall müssen Funkgeräte nicht rund 
 
 **Wichtig:** Kanal 3 bedeutet bei PMR446, Freenet und CB-Funk **unterschiedliche Frequenzen**. Geräte unterschiedlicher Funkdienste können daher nicht unmittelbar miteinander sprechen.
 
+Ohne verlässlich synchronisierte Uhr ist die 3-3-3-Regel kaum praktikabel. Für Gruppen ohne Uhr und Funkgeräte sind [Morgen-/Abendtreffen mit intern vereinbartem Rufsignal und Papiermeldung](offline-gruppentreffen-signale.md) geeigneter. Das ist ein **anderes Verfahren**, kein Ersatz für amtliche Warnungen.
+
 ## Zeitplan auf einen Blick
 
 ![24-Stunden-Uhr mit acht farbig markierten Kommunikationsfenstern der 3-3-3-Regel, jeweils von Minute 00 bis 03 bei 00, 03, 06, 09, 12, 15, 18 und 21 Uhr](../assets/kommunikation/funkzeitfenster-333.svg){ width=100% }

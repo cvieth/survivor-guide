@@ -8,6 +8,11 @@ Bei akuten Gefahren gehen **amtliche Warnungen und verfügbare Notrufe** vor pri
 - **[Funkempfang ohne funktionierendes Haushaltsradio](../05-technologie/radio-ohne-geraet.md):** vorhandene Geräte prüfen, bevor ein Empfänger improvisiert wird.
 - **[Funk-Zeitfenster und 3-3-3-Regel](funkzeitfenster-333-regel.md):** freiwillige Gruppenabsprache, **kein** amtlicher Notrufkanal und kein Ersatz für behördliche Warnungen.
 
+## Ohne Funk und ohne gemeinsame Uhr
+
+- **[Offline-Gruppentreffen und Sammelsignale](offline-gruppentreffen-signale.md):** Morgen-/Abendberichte anhand von Tagesereignissen, freiwilliger Sammelruf mit Pfeife, Haupt-/Ersatzort, Zettelmeldung und klare Aufgaben ohne Uhrzeit.
+- **[Krisengruppe koordinieren](../09-gesellschaft/krisengruppe-organisieren.md):** Verantwortliche, Aufträge, Ressourcen und Rückmeldezettel.
+
 ## Uhrzeit für vereinbarte Kontakte
 
 - [Hörbare Rundfunk-Zeitzeichen](zeitzeichen-rundfunk.md): empfangene Zeitmarken zur Synchronisation nutzen.

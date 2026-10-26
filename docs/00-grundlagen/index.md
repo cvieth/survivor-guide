@@ -4,7 +4,8 @@ Hier beginnt die Orientierung bei einer akuten Krise: **Zuerst Gefahr und Schutz
 
 ## Sofort einsteigen
 
-- **[Krisengruppe früh organisieren](../09-gesellschaft/krisengruppe-organisieren.md):** Helfende freiwillig zusammenbringen, Zuständigkeiten, Vorräte und Rückmeldezeiten dokumentieren.
+- **[Krisengruppe früh organisieren](../09-gesellschaft/krisengruppe-organisieren.md):** Helfende freiwillig zusammenbringen, Zuständigkeiten, Vorräte und Rückmeldungen dokumentieren.
+- **[Gruppenmeldung ohne Uhr und Telefon](../04-kommunikation/offline-gruppentreffen-signale.md):** Feste Morgen-/Abendtreffen, Sammelsignal, Ersatztreffpunkt und Meldestelle festlegen.
 - **[Die ersten 72 Stunden](erste-72-stunden.md):** Wiederkehrende Gefahrenprüfung und Entscheidungsdiagramme für die ersten Minuten, Stunden und Tage.
 - **[Evakuierung und Notgepäck](evakuierung-notgepaeck.md):** Wann sofort aufbrechen, wann packen und was je nach verbleibender Zeit mitnehmen?
 - **[Versorgungsausfall früh erkennen](../01-versorgung/versorgungsausfall-frueh-handeln.md):** Bestand, Engpässe und sichere Beschaffung bei gestörten Kassen und Lieferketten.
