@@ -13,6 +13,7 @@ Dieses gemeinschaftlich gepflegte Wissensprojekt dokumentiert überprüfbare Gru
 - **[Wirkstoffregister (Kapitel 12)](12-nachschlagewerk/wirkstoffregister.md)** – 25 Wirkstoff-Steckbriefe als offline nutzbares Nachschlagewerk.
 - **[Apotheken-Prioritätenliste (Kapitel 03)](03-pharmazie/apotheke-prioritaeten.md)** – Suchstrategie bei langem Versorgungsausfall.
 - **[Wasserbedarf & Wasser sichern (Kapitel 01)](01-versorgung/wasserbedarf-pro-person.md)** – Richtwerte und erste Schritte zur Wassersicherung.
+- **[Oberflächenwasser aufbereiten (Kapitel 01)](01-versorgung/oberflaechenwasser-aufbereiten.md)** – Wasserfilter, Beschaffung, Ersatzteile und sichere Grenzen.
 
 - **[Morsealphabet und SOS (Kapitel 04)](04-kommunikation/morsealphabet.md)** – Zeichen und Zeitregeln für Licht, Ton und Funk.
 - **[Winkeralphabet mit Flaggen (Kapitel 04)](04-kommunikation/flaggenalphabet.md)** – alle 26 Buchstaben mit Flaggengrafiken.
