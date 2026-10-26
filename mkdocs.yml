@@ -55,6 +55,7 @@ nav:
   - 'Kommunikation & Information':
       - Überblick: 04-kommunikation/index.md
       - Sirenensignale verstehen: 04-kommunikation/sirenensignale.md
+      - Funk-Zeitfenster und 3-3-3-Regel: 04-kommunikation/funkzeitfenster-333-regel.md
       - Morsealphabet: 04-kommunikation/morsealphabet.md
       - Flaggensemaphore / Winkeralphabet: 04-kommunikation/flaggenalphabet.md
   - 'Technologie, Elektronik & IT': 05-technologie/index.md
