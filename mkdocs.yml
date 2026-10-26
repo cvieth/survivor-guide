@@ -89,7 +89,7 @@ nav:
       - Überblick: 12-nachschlagewerk/index.md
       - Wirkstoffregister: 12-nachschlagewerk/wirkstoffregister.md
       - Heilpflanzenregister: 12-nachschlagewerk/heilpflanzenregister.md
-      - Bildquellen: Heilpflanzen: 12-nachschlagewerk/bildquellen-heilpflanzen.md
+      - "Bildquellen: Heilpflanzen": 12-nachschlagewerk/bildquellen-heilpflanzen.md
   - Mitarbeit:
       - Mitmachen: redaktion/mitmachen.md
       - Quellen und Qualität: redaktion/qualitaet.md
