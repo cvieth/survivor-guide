@@ -11,7 +11,7 @@ Mit **Flaggensemaphore** (Winkeralphabet) lassen sich Buchstaben durch die **Ste
 
 ## Blickrichtung und Uhrstellungen
 
-**Alle Abbildungen zeigen die sendende Person von vorn.** Ihr **linker Arm** erscheint für den Betrachter **rechts im Bild**, ihr **rechter Arm** links im Bild. Die Wörter „links“ und „rechts“ in den Tabellen und im Decoder bezeichnen ausnahmslos **die Arme der sendenden Person**.
+**Alle Abbildungen zeigen die sendende Person von vorn.** Ihr **linker Arm** erscheint für den Betrachter **rechts im Bild**, ihr **rechter Arm** links im Bild. Die Wörter „links“ und „rechts“ in der Tabelle bezeichnen ausnahmslos **die Arme der sendenden Person**.
 
 Arme und Flaggen können in acht Richtungen stehen. Aus Sicht des Empfängers werden diese wie die Zeigerpositionen einer Uhr um den Körper gelesen:
 
@@ -26,7 +26,7 @@ Arme und Flaggen können in acht Richtungen stehen. Aus Sicht des Empfängers we
 | 9 Uhr | waagerecht nach links |
 | 10:30 Uhr | schräg nach oben links |
 
-**Wichtig:** Manche Zeichen verlangen, dass ein Arm vor dem Körper zur anderen Seite zeigt. Deshalb im Decoder nie einfach nur die zwei Flaggenpositionen sortieren, sondern **linken und rechten Arm des Senders unterscheiden**. Bei verdeckten oder nicht sicher erkennbaren Armen das Zeichen wiederholen lassen.
+**Wichtig:** Manche Zeichen verlangen, dass ein Arm vor dem Körper zur anderen Seite zeigt. Deshalb beim Ablesen die zwei Flaggenpositionen nicht vertauschen, sondern **linken und rechten Arm des Senders unterscheiden**. Bei verdeckten oder nicht sicher erkennbaren Armen das Zeichen wiederholen lassen.
 
 ## Buchstaben A–Z
 
@@ -63,53 +63,6 @@ Die kleinen SVG-Zeichnungen sind eigenständig editierbare Vektorgrafiken, jewei
 
 ¹ **Ziffernmodus:** Erst das Zahlenzeichen zeigen. Dann stehen die Stellungen A bis I für 1 bis 9 und K für 0. Die Stellung von J schaltet wieder auf Buchstaben um. Ohne vorangehendes Zahlenzeichen bleiben es Buchstaben.
 
-## Einen Buchstaben entschlüsseln
-
-Wenn du eine Flaggenstellung beobachtest, beginne oben bei **START** im Decoder und gehe in zwei Schritten vor: **(1)** die Uhrstellung des *linken Arms des Senders* auswählen, **(2)** von dort dem beschrifteten Zweig für den *rechten Arm des Senders* folgen. Am Ende steht der Buchstabe oder das Steuerzeichen. Der Graph hat **einen Startpunkt** und deckt alle **26 Buchstaben** sowie zwei statische Steuerzeichen ab.
-
-```mermaid
-%% alt: Ein zusammenhängender Decoder für das Winkeralphabet. Vom Start zuerst die Stellung des linken Arms des Senders wählen und dann die Stellung des rechten Arms; das Ziel zeigt Buchstaben oder Steuerzeichen.
-flowchart LR
-    START(["START: linker Arm des Senders"])
-    START -->|12 Uhr| L0["Linker Arm: 12 Uhr"]
-    L0 -->|rechts: 7:30 Uhr| C_K["K / 0"]
-    L0 -->|rechts: 9 Uhr| C_P["P"]
-    L0 -->|rechts: 10:30 Uhr| C_T["T"]
-    START -->|1:30 Uhr| L1["Linker Arm: 1:30 Uhr"]
-    L1 -->|rechts: 12 Uhr| C_ZAHL["ZAHLEN"]
-    L1 -->|rechts: 6 Uhr| C_E["E / 5"]
-    L1 -->|rechts: 7:30 Uhr| C_L["L"]
-    L1 -->|rechts: 9 Uhr| C_Q["Q"]
-    L1 -->|rechts: 10:30 Uhr| C_U["U"]
-    START -->|3 Uhr| L2["Linker Arm: 3 Uhr"]
-    L2 -->|rechts: 12 Uhr| C_J["J"]
-    L2 -->|rechts: 1:30 Uhr| C_W["W"]
-    L2 -->|rechts: 4:30 Uhr| C_Z["Z"]
-    L2 -->|rechts: 6 Uhr| C_F["F / 6"]
-    L2 -->|rechts: 7:30 Uhr| C_M["M"]
-    L2 -->|rechts: 9 Uhr| C_R["R"]
-    L2 -->|rechts: 10:30 Uhr| C_Y["Y"]
-    START -->|4:30 Uhr| L3["Linker Arm: 4:30 Uhr"]
-    L3 -->|rechts: 12 Uhr| C_V["V"]
-    L3 -->|rechts: 1:30 Uhr| C_X["X"]
-    L3 -->|rechts: 6 Uhr| C_G["G / 7"]
-    L3 -->|rechts: 7:30 Uhr| C_N["N"]
-    L3 -->|rechts: 9 Uhr| C_S["S"]
-    L3 -->|rechts: 10:30 Uhr| C_ANNULL["ANNULLIEREN"]
-    START -->|6 Uhr| L4["Linker Arm: 6 Uhr"]
-    L4 -->|rechts: 12 Uhr| C_D["D / 4"]
-    L4 -->|rechts: 7:30 Uhr| C_A["A / 1"]
-    L4 -->|rechts: 9 Uhr| C_B["B / 2"]
-    L4 -->|rechts: 10:30 Uhr| C_C["C / 3"]
-    START -->|7:30 Uhr| L5["Linker Arm: 7:30 Uhr"]
-    L5 -->|rechts: 12 Uhr| C_I["I / 9"]
-    L5 -->|rechts: 9 Uhr| C_H["H / 8"]
-    START -->|10:30 Uhr| L7["Linker Arm: 10:30 Uhr"]
-    L7 -->|rechts: 9 Uhr| C_O["O"]
-```
-
-**Beispiel H:** Linker Arm des Senders auf **7:30 Uhr**, rechter Arm auf **9 Uhr**. Im Diagramm führt START → linker Arm 7:30 Uhr → rechter Arm 9 Uhr zum Zeichen **H**. **Beispiel K:** Linker Arm 12 Uhr, rechter Arm 7:30 Uhr ergibt **K** beziehungsweise im Zahlenmodus **0**. Es ist nicht dasselbe wie **I** (linker Arm 7:30 Uhr, rechter Arm 12 Uhr).
-
 ## Zahlen und Steuerzeichen
 
 | Zeichen | Stellung (Empfängeransicht) | Linker Arm (Sender) | Rechter Arm (Sender) | Bedeutung |
@@ -125,7 +78,7 @@ Das **Fehlerzeichen** ist kein weiteres festes Winkelpaar: Beide Arme beziehungs
 ## Senden und Empfangen: praktische Reihenfolge
 
 1. **Sichtkontakt herstellen.** Eine Person steht gut sichtbar und frontal zum Empfänger. Zwei kontrastreiche Flaggen oder notfalls gut erkennbare Markierungen genügen als Orientierung. Die Arme bleiben für jedes Zeichen gerade und ruhig.
-2. **Buchstabe auswählen:** In der Tabelle das gewünschte Zeichen suchen. Die **beiden Armpositionen** einnehmen; nicht einfach die Grafik spiegeln. Ein geübter Partner kann jede Stellung mit dem Decoder nachlesen.
+2. **Buchstabe auswählen:** In der Tabelle das gewünschte Zeichen suchen. Die **beiden Armpositionen** einnehmen; nicht einfach die Grafik spiegeln. Der Empfänger kann jede Stellung mit der Tabelle abgleichen.
 3. **Zeichen trennen:** Nach jeder gehaltenen Stellung erkennbar in eine zuvor vereinbarte neutrale Ruheposition zurückkehren. Zwischen Wörtern längere Pausen oder eine ausdrücklich vereinbarte Trennung verwenden. Dies ist eine **Übungsvereinbarung**, kein weltweit einheitlicher Nachrichtenstandard.
 4. **Nachricht bestätigen lassen:** Kurze Angaben übermitteln, besonders Namen, Zahlen, Ortsangaben und Hilferufe wiederholen. Unklare Zeichen nicht raten.
 5. **Bei einer akuten Notlage** zuerst zugängliche reguläre Notruf- und Warnwege nutzen. Fällt die Infrastruktur aus, können vereinbarte optische Zeichen ergänzen, sofern bereits jemand in Sichtweite ist.
@@ -153,4 +106,4 @@ Das **Fehlerzeichen** ist kein weiteres festes Winkelpaar: Beide Arme beziehungs
 - Australian War Memorial, [Flag semaphore](https://www.awm.gov.au/sites/default/files/Independence.pdf): Einordnung als optische Signaltechnik.
 - [J-Kit, Semaphore Alphabet](https://jkit.tools/en/tools/semaphore-alphabet): ergänzende tabellarische Übersicht.
 
-**Redaktioneller Status:** Quellenbasiert überarbeiteter Entwurf. Die SVG-Stellungen und der Decoder wurden anhand desselben Zeichenregisters generiert und automatisiert geprüft; praktische Gegenprobe und fachlicher Review stehen noch aus.
+**Redaktioneller Status:** Quellenbasiert überarbeiteter Entwurf. Die SVG-Stellungen und Tabellenzuordnungen werden automatisiert auf Übereinstimmung geprüft; praktische Gegenprobe und fachlicher Review stehen noch aus.

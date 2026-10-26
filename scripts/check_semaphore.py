@@ -24,33 +24,11 @@ CODES = {
 def validate():
     errors = []
     content = ARTICLE.read_text(encoding="utf-8")
-    fence = re.escape(chr(96) * 3)
-    diagrams = re.findall(r"(?ms)^" + fence + r"mermaid[ \t]*\n(.*?)^" + fence + r"[ \t]*(?:\n|$)", content)
-    if len(diagrams) != 1:
-        return [f"Semaphore: expected ONE decoder graph, found {len(diagrams)}"]
-    graph = diagrams[0]
-    if 'START(["START: linker Arm des Senders"])' not in graph:
-        errors.append("Semaphore: missing single start node")
-    root_edges = re.findall(r'(?m)^\s*START -->\|(.+?)\| L([0-7])\[', graph)
-    expected_roots = set(left for left, _ in CODES.values())
-    if set(a.replace(" Uhr", "") for a, _ in root_edges) != expected_roots:
-        errors.append("Semaphore: root branches do not cover all left-arm positions")
-    second = re.findall(r'(?m)^\s*L([0-7]) -->\|rechts: (.+?) Uhr\| C_([A-Z]+)\["', graph)
-    if len(second) != 28:
-        errors.append(f"Semaphore: graph must have 28 signals, got {len(second)}")
-    seen = set()
-    for left_index, right, letter in second:
-        if letter not in CODES:
-            errors.append(f"Semaphore: invalid graph signal {letter}")
-            continue
-        left = ANGLES[int(left_index)]
-        if (left, right) != CODES[letter]:
-            errors.append(f"Semaphore: incorrect graph path for {letter}: {left}, {right}")
-        if letter in seen:
-            errors.append(f"Semaphore: duplicate graph leaf for {letter}")
-        seen.add(letter)
-    if seen != set(CODES):
-        errors.append("Semaphore: missing or unexpected decoder characters")
+    # Diese Seite soll eine SVG-Nachschlagetabelle enthalten, keinen Decoder-Graphen.
+    if re.search(r"(?m)^" + re.escape(chr(96) * 3) + r"mermaid\\b", content):
+        errors.append("Semaphore: no Mermaid decoder should appear in the article")
+    if "## Einen Buchstaben entschlüsseln" in content:
+        errors.append("Semaphore: old decoder section should be removed")
     for character, (left, right) in CODES.items():
         svg_path = DIR / (character.lower() + ".svg")
         if not svg_path.is_file():
@@ -79,4 +57,4 @@ if __name__ == "__main__":
     errors = validate()
     if errors:
         raise SystemExit("\n".join(errors))
-    print("OK: Semaphore A-Z, mode signals, SVG table and one connected decoder")
+    print("OK: Semaphore A-Z, mode signals and SVG reference table; no decoder graph")
