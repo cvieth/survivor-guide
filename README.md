@@ -9,7 +9,7 @@
 - [Aktuelles veröffentlichtes PDF (A4)](https://github.com/cvieth/survivor-guide/releases/latest/download/survivor-guide.pdf)
 - [Druckvorlage (6 × 9 Zoll, Entwurf)](https://github.com/cvieth/survivor-guide/releases/latest/download/survivor-guide-print-interior.pdf)
 - [Alle versionierten Ausgaben](https://github.com/cvieth/survivor-guide/releases)
-- [PDF-Vorschau des aktuellen Entwicklungsstands (Actions-Artefakt)](https://github.com/cvieth/survivor-guide/actions/workflows/publish.yml)
+- [PDF-Vorschau des aktuellen Entwicklungsstands (Actions-Artefakt)](https://github.com/cvieth/survivor-guide/actions/workflows/pdf-preview.yml)
 
 ## Ziele
 Wissen öffentlich dokumentieren, offline bewahren und gemeinschaftlich fachlich prüfen. Die drei Zeithorizonte sind **akutes Überleben**, **Stabilisierung** und **langfristiger Wiederaufbau**.
@@ -39,7 +39,9 @@ Mit `make print` entsteht `build/survivor-guide-print-interior.pdf` als **unverb
 
 ## Veröffentlichung
 
-Der Workflow `Publish website and PDF` veröffentlicht bei jedem Push auf `main` die Website auf GitHub Pages und stellt ein unversioniertes Vorschau-PDF als herunterladbares GitHub-Actions-Artefakt bereit. Unter **Settings → Pages → Build and deployment** muss dazu **GitHub Actions** als Quelle eingestellt sein.
+Der Workflow [`Publish website`](.github/workflows/publish.yml) prüft und veröffentlicht die Website bei Änderungen an `main`, unabhängig vom PDF-Build. Die live veröffentlichte Git-Revision steht unter [revision.txt](https://cvieth.github.io/survivor-guide/revision.txt). Erst nach erfolgreicher Verifikation dieser Revision gilt die Website als veröffentlicht. Unter **Settings → Pages → Build and deployment** muss **GitHub Actions** als Quelle eingestellt sein.
+
+Der separate Workflow [`Build PDF preview`](.github/workflows/pdf-preview.yml) erzeugt bei jedem Push auf `main` eine aktuelle PDF-Vorschau als GitHub-Actions-Artefakt. PDF-Erzeugung und Website-Deployment blockieren oder unterbrechen einander nicht. Für Pull Requests übernimmt `Validate content` die Prüfung; dieselben Prüfungen laufen beim Website-Build.
 
 Der separate Workflow [`Publish versioned PDF releases`](.github/workflows/release.yml) erzeugt bei einem neuen Versionstag **beide PDF-Dateien** und veröffentlicht sie als Assets eines GitHub Releases. Die Dateinamen bleiben innerhalb der Releases gleich, ältere Versionen sind über [alle Releases](https://github.com/cvieth/survivor-guide/releases) abrufbar.
 

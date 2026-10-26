@@ -1,4 +1,4 @@
-name: Publish website and PDF
+name: Publish website
 on:
   push:
     branches: [main]
@@ -8,11 +8,15 @@ permissions:
   pages: write
   id-token: write
 concurrency:
-  group: github-pages
-  cancel-in-progress: true
+  # Allow the current short deployment to finish; newer pushes replace pending runs.
+  group: survivor-guide-pages-${{ github.ref }}
+  cancel-in-progress: false
 jobs:
-  site:
+  publish:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -21,45 +25,31 @@ jobs:
           cache: pip
       - name: Install dependencies
         run: pip install -r requirements.txt
-      - name: Validate documentation
+      - name: Validate content
         run: make check
-      - name: Build website independently of PDF
+      - name: Build website
         run: make site
+      - name: Write build revision
+        run: printf '%s\n' "$GITHUB_SHA" > site/revision.txt
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site/
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: site
-    steps:
-      - id: deployment
+      - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
-  pdf:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-          cache: pip
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-      - name: Install PDF toolchain
+      - name: Verify published revision
+        shell: bash
         run: |
-          sudo apt-get update
-          sudo apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-latex-extra texlive-latex-recommended texlive-fonts-recommended texlive-lang-german lmodern fonts-dejavu-core librsvg2-bin
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-      - name: Install Mermaid diagram renderer
-        run: npm install --no-audit --no-fund
-      - name: Build PDF independently of website
-        run: make pdf
-      - uses: actions/upload-artifact@v4
-        with:
-          name: survivor-guide-pdf-preview
-          path: build/survivor-guide.pdf
+          url="https://cvieth.github.io/survivor-guide/revision.txt?rev=${GITHUB_SHA}"
+          for attempt in {1..15}; do
+            published="$(curl --silent --show-error --fail --max-time 8 --header 'Cache-Control: no-cache' "$url" || true)"
+            if [[ "$published" == "$GITHUB_SHA" ]]; then
+              echo "Live revision verified: $GITHUB_SHA"
+              echo "Review: https://cvieth.github.io/survivor-guide/"
+              exit 0
+            fi
+            sleep 3
+          done
+          echo '::error::GitHub Pages does not yet serve this commit'
+          exit 1

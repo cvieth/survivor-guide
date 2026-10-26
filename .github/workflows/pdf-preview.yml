@@ -1,0 +1,37 @@
+name: Build PDF preview
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  # PDF tool installation is slow; superseded previews can be cancelled.
+  group: survivor-guide-pdf-preview-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Install PDF toolchain
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-latex-extra texlive-latex-recommended texlive-fonts-recommended texlive-lang-german lmodern fonts-dejavu-core librsvg2-bin
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install Mermaid diagram renderer
+        run: npm install --no-audit --no-fund
+      - name: Build PDF independently of website
+        run: make pdf
+      - uses: actions/upload-artifact@v4
+        with:
+          name: survivor-guide-pdf-preview
+          path: build/survivor-guide.pdf
