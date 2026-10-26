@@ -53,7 +53,8 @@ output += (
 dest = ROOT / "docs/12-nachschlagewerk/wirkstoffregister.md"
 dest.write_text(output, encoding="utf-8")
 print("Updated", dest.relative_to(ROOT))
-\n# Generate the antibiotic class index from the same structured dataset.
+
+# Generate the antibiotic class index from the same structured dataset.
 group_page = "# Antibiotikagruppen: Wirkweise und Grenzen\n\n!!! warning \"Entwurf, medizinische Fachprüfung ausstehend\"\n    Keine individuelle Dosierungs- oder Behandlungsfreigabe.\n\nVom [Wundinfektions-Entscheidungsweg](../02-medizin/wundinfektionen-antibiotika.md) zur passenden Wirkstoffklasse und zum [zentralen Wirkstoffregister](wirkstoffregister.md).\n\n"
 for g in data["antibiotikagruppen"]:
     group_page += "## " + g["name"] + " {#" + g["id"] + "}\n\n"
