@@ -63,6 +63,10 @@ Für aktuelle Meldungen außerdem [warnung.bund.de](https://warnung.bund.de/), N
 
 Ein **batteriebetriebenes Radio**, gespeicherte Lokalradiofrequenzen und eine Taschenlampe erleichtern das Einholen von Warnungen bei Stromausfall. Hörbarkeit hängt von Sirenenstandort, Wind, Bauweise, Fenstern und Hintergrundlärm ab. Gefährdete oder schwerhörige Menschen auf anderen Kanälen einbeziehen.
 
+## Nach einer Warnung weiter vorgehen
+
+Der Ton ist **noch keine Handlungsanweisung**. [Die ersten 72 Stunden](../00-grundlagen/erste-72-stunden.md) helfen, die unmittelbare Standortgefahr und die anschließenden Maßnahmen einzuordnen. Wenn Mobilfunk und übliche Radios ausfallen, zuerst [vorhandene Empfangsgeräte prüfen](../05-technologie/radio-ohne-geraet.md). Eine [private Funk-Zeitabsprache](funkzeitfenster-333-regel.md) ersetzt **keine** amtliche Warnung.
+
 ## Quellen
 
 - Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), [Sirenen und bundesweite Signale](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/So-werden-Sie-gewarnt/Sirenen/sirenen_node.html), Zugriff 26.10.2026.

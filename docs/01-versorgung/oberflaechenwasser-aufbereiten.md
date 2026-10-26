@@ -131,6 +131,10 @@ Wenn eine sichere Ausgangsquelle und kontrollierbare Betriebsbedingungen vorlieg
 - **Andere Wasserquelle suchen**, wenn die Gewässerbelastung unklar oder erkennbar problematisch ist.
 - **Gemeinsame, erlaubte Beschaffung und gegenseitige Hilfe** sind oft sicherer und ergiebiger als riskante Einzelwege.
 
+## Anschluss an die Sofortmaßnahmen
+
+Bevor Material gesammelt wird, zuerst **verfügbare sichere Trinkwasservorräte und örtliche Ausgabestellen** prüfen. [Die ersten 72 Stunden](../00-grundlagen/erste-72-stunden.md) behandeln den drohenden Leitungswasserausfall; [Wasserbedarf und Wasserqualitäten](wasserbedarf-pro-person.md) helfen beim Bilanzieren. Zur Auswahl der Rohwasserquelle und für die Abgrenzung einfacher Vorfilter siehe [Regenwasser, Pfützen und improvisierte Filter](regenwasser-pfuetzen-improvisierte-filter.md). Für eine gesonderte Verfahrensentscheidung siehe [Destillation](wasser-destillieren.md), **nicht** als allgemeine Lösung bei unbekannter chemischer Kontamination.
+
 ## Quellen
 
 1. **US CDC** (19.09.2024), *How to Make Water Safe in an Emergency*: https://www.cdc.gov/water-emergency/about/

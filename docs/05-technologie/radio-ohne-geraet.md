@@ -141,6 +141,10 @@ Für eine zuverlässige **3-3-3-Koordinierung** reicht ein einmaliger Zeitabglei
 - Einen vorhandenen 3,3-V-Tuner **mit dokumentiertem Datenblatt und passendem Mikrocontroller** testen und Stromverbrauch protokollieren.
 - **Eigene Ergebnisse** und Abweichungen dokumentieren. **Kein in diesem Artikel beschriebener improvisierter Nachbau wurde bislang redaktionell praktisch validiert.**
 
+## Vom Empfang zur Handlung
+
+Wenn ein Empfänger funktioniert, zuerst **amtliche Lageinformationen und Warnanweisungen** suchen: [Sirenensignale und Warnungen verstehen](../04-kommunikation/sirenensignale.md) und [erste 72 Stunden](../00-grundlagen/erste-72-stunden.md). Für zeitlich abgestimmte Kontakte bieten sich [hörbare Zeitzeichen](../04-kommunikation/zeitzeichen-rundfunk.md) an; die [3-3-3-Funkregel](../04-kommunikation/funkzeitfenster-333-regel.md) ist eine **informelle** Absprache, keine Notruffrequenz.
+
 ## Quellen
 
 - [The Open University: Building a crystal radio set](https://www.open.edu/openlearn/science-maths-technology/science/physics-and-astronomy/physics/building-crystal-radio-set) – AM-Detektorradio, Schwingkreis, geeignete Dioden und Kopfhörer, sichere Antenne.

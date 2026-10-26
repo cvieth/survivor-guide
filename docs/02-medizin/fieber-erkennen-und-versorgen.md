@@ -126,6 +126,10 @@ Das [Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md) trennt
 
 **Besonders zeitkritisch:** Säuglinge mit Fieber, anhaltend hohes oder wiederkehrendes Fieber, zunehmende Schwäche, starke Schmerzen, Brustschmerzen, schwere Kopfschmerzen/Nackensteife, neue Atembeschwerden, fehlende Trinkfähigkeit und jeder rasche Zustandswechsel. Bei Schwangeren, Immungeschwächten und gebrechlichen Menschen früher fachliche Unterstützung suchen. Eine schwere Infektion kann auch **ohne Fieber** vorliegen.
 
+## Verbindungen zu Versorgung und Akuthilfe
+
+Für ausreichend **sicheres Trinkwasser** siehe [Wasserbedarf und Qualitätsstufen](../01-versorgung/wasserbedarf-pro-person.md). Bei Ausfall der Wasserversorgung helfen die [Sofortentscheidungen der ersten 72 Stunden](../00-grundlagen/erste-72-stunden.md), wobei schwere Atemnot, Bewusstlosigkeit oder Kreislaufversagen **sofort** medizinisch beurteilt werden müssen. Weitere Symptome ordnet [Beschwerden und Mittel](beschwerden-und-mittel.md) ein.
+
 ## Quellen
 
 1. [NICE, Fever in under 5s: assessment and initial management, NG143 (2019, aktualisiert 2021)](https://www.nice.org.uk/guidance/ng143/chapter/recommendations). Messung, Risikomerkmale und Fiebersenkung.

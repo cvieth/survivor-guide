@@ -63,6 +63,10 @@ Wo immer erreichbar: Hilfe durch medizinisch qualifizierte Personen vorziehen. E
 
 Weiterführend: [Wirkstoffregister mit Risiken und Alternativen](../12-nachschlagewerk/wirkstoffregister.md).
 
+## Vom Vorrat zur konkreten Handlung
+
+Vor der Suche nach Mitteln zunächst **Warnzeichen und Sofortmaßnahmen** prüfen: [Beschwerden und Mittel](../02-medizin/beschwerden-und-mittel.md), bei Fieber [ausführliche Versorgung](../02-medizin/fieber-erkennen-und-versorgen.md). Der [72-Stunden-Plan](../00-grundlagen/erste-72-stunden.md) behandelt lebensbedrohliche Notfälle und den Ausfall medizinischer Geräte; für einen notwendigen Aufbruch gelten die [medizinischen Notgepäck-Prioritäten](../00-grundlagen/evakuierung-notgepaeck.md). **Einzelwirkstoffe werden ausschließlich im [zentralen Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md) beschrieben.**
+
 ## Quellen
 
 1. [WHO – Model List of Essential Medicines, 24. Ausgabe (2025)](https://www.who.int/publications/i/item/B09474), veröffentlicht am 05.09.2025.

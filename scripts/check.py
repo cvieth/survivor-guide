@@ -57,6 +57,25 @@ def main():
                 errors.append(f"Link outside docs: {doc.relative_to(ROOT)} -> {raw}")
             elif not resolved.is_file():
                 errors.append(f"Broken link: {doc.relative_to(ROOT)} -> {raw}")
+    # Navigation alone is insufficient: every linked chapter must also be discoverable
+    # from its respective landing page. Keep the chapter overview in sync.
+    for _label, nav_path in items:
+        nav_file = Path(nav_path)
+        if nav_file.name == "index.md":
+            continue
+        landing = DOCS / nav_file.parent / "index.md"
+        if not landing.is_file():
+            continue
+        index_content = landing.read_text(encoding="utf-8")
+        local_targets = set()
+        for index_match in regex.finditer(index_content):
+            href = index_match.group(1) or index_match.group(2)
+            parsed = urlparse(href)
+            if parsed.scheme or parsed.netloc or href.startswith(("/", "#", "mailto:")):
+                continue
+            local_targets.add((landing.parent / unquote(parsed.path)).resolve())
+        if (DOCS / nav_path).resolve() not in local_targets:
+            errors.append(f"Missing chapter overview link: {landing.relative_to(ROOT)} -> {nav_path}")
     errors.extend(validate_morse())
     errors.extend(validate_semaphore())
     if errors:

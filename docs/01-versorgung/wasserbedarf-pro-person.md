@@ -146,6 +146,10 @@ Diese Zahlen sind **Vergleichs- und Rechengrößen**, nicht automatisch Empfehlu
 - Welche Wasseraufbereitungsverfahren eignen sich bei den konkret verfügbaren Rohwasserquellen?
 - Wie lässt sich die Wasserversorgung über mehrere Wochen stabilisieren?
 
+## Praktische Anwendung in den ersten Stunden
+
+Die Menge ist nur ein Teil der Entscheidung. Im [72-Stunden-Leitfaden](../00-grundlagen/erste-72-stunden.md) geht es zunächst um **sicheres Leitungswasser und verfügbare Reserven**. Bei notwendigen Ortswechseln siehe [Evakuierung und Notgepäck](../00-grundlagen/evakuierung-notgepaeck.md) sowie [Nahrung für unterwegs](notverpflegung-fuer-unterwegs.md). Flüssigkeitsverluste bei Krankheit verändern den Bedarf; [Fieber erkennen und versorgen](../02-medizin/fieber-erkennen-und-versorgen.md) und [Beschwerden und Mittel](../02-medizin/beschwerden-und-mittel.md) behandeln Warnzeichen.
+
 ## Quellen
 
 1. **BDEW** (16.07.2026), *Mehr als den 52-fachen täglichen Trinkwassergebrauch einer Person …*, mit Pro-Kopf-Wert für 2025: https://www.bdew.de/presse/mehr-als-den-52-fachen-taeglichen-trinkwassergebrauch-einer-person/

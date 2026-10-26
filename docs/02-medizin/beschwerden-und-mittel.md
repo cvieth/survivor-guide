@@ -38,6 +38,10 @@ Kleine Wunden zuerst reinigen und sauber abdecken. Kräuterzubereitungen auf off
 
 Ausführliche Artikel zu Husten, Atemnot, Wundversorgung, Durchfall und Austrocknung, Schmerzbeurteilung sowie Mund- und Rachenbeschwerden fehlen noch. Dieses Verzeichnis ist bis dahin ein **Navigations- und Priorisierungswerkzeug**, keine gleichwertige Behandlungsanleitung. [Medizinische Arbeitsliste](index.md).
 
+## Akute Situationen zuerst
+
+Bei **Bewusstlosigkeit, fehlender normaler Atmung, starker Blutung oder schwerer Atemnot** nicht zuerst Medikamente oder Pflanzen heraussuchen. Die [lebensrettenden Sofortentscheidungen](../00-grundlagen/erste-72-stunden.md) bieten eine kurze Erstorientierung; professionelle Hilfe ist anzufordern, solange sie erreichbar ist. Für Flüssigkeitsmangel und Hygienefragen ist die [sichere Trinkwasserversorgung](../01-versorgung/wasserbedarf-pro-person.md) mitentscheidend.
+
 ## Status
 
 Entwurf vom 26. Oktober 2026. Medizinische Fachprüfung ausstehend.
