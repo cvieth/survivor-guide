@@ -14,3 +14,5 @@
 
 - Wenn möglich und für das Verständnis hilfreich, Inhalte mit eigenständig erstellten, barrierearm beschrifteten Diagrammen, Illustrationen oder Tabellen ergänzen. Grafiken sollen sowohl im Website- als auch im PDF-Build funktionieren.
 - Bei jedem dokumentierten oder veröffentlichten Artikel in der Antwort einen direkten Web-Link zur Artikelseite und einen GitHub-Quelllink nennen. Status der Veröffentlichung und eventuell offene Arbeiten transparent angeben.
+
+- Entscheidungsbäume mit `::: decision` und `::: answer` aus Markdown erstellen, nicht als vorgerenderte Bilder. Der gemeinsame Renderer übernimmt Website, PDF und Buch. Details siehe `CONTRIBUTING.md`.
