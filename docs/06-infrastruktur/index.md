@@ -1,5 +1,11 @@
 # Energie, Unterkunft & Infrastruktur
 
+## Feuer und Wärme ohne Strom
+
+- **[Feuer machen: vom Funken zur Kochflamme](feuer-machen.md):** Zunder, Anzündholz und Brennholz; Anleitung für Feuerzeug, Streichhölzer, Feuerstahl, Sammellinse und Bogenbohrer mit klaren Sicherheitsgrenzen.
+- **[Lebensmittel für zehn Tage](../01-versorgung/vorratsstrategie-zwei-stufen.md):** Welche Vorräte ohne Kochen funktionieren und welche Brennstoff erfordern.
+- **[Verbrennungen, Rauchgefahr und Unterkühlung](../02-medizin/verbrennungen-temperaturnotfaelle.md):** Erste Hilfe bei temperaturbedingten Notfällen.
+
 ## Sanitärversorgung und Hygiene bei Infrastrukturausfall
 
 - [Sanitärversorgung bei Wasser- und Abwasserausfall](sanitaerversorgung-bei-ausfall.md): Abwasserlage, Spülmöglichkeiten und sichere Alternativen mit Entscheidungskarten.
