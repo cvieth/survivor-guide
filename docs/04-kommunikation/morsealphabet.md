@@ -7,13 +7,59 @@
 
 Der **internationale Morsecode** stellt Buchstaben und Ziffern durch kurze Signale (**Punkte**) und lange Signale (**Striche**) dar. Er lässt sich durch Lichtblitze, hörbare Töne oder geeigneten Funk übertragen. Dafür sind ein gleichmäßiger Rhythmus und ein erreichbarer Empfänger notwendig.
 
-![Morsealphabet, alle Buchstaben von A bis Z und Ziffern von 0 bis 9 mit Zeitregeln](../assets/kommunikation/morsealphabet.svg){ width=100% }
+**Zeichenschlüssel:** **·** = kurzes Signal (Punkt), **—** = langes Signal (Strich). Die Zeichenfolge eines Buchstabens wird von links nach rechts gelesen.
+
+## Buchstaben A–Z
+
+| Buchstabe | Morsezeichen |
+| :---: | :--- |
+| **A** | `·—` |
+| **B** | `—···` |
+| **C** | `—·—·` |
+| **D** | `—··` |
+| **E** | `·` |
+| **F** | `··—·` |
+| **G** | `——·` |
+| **H** | `····` |
+| **I** | `··` |
+| **J** | `·———` |
+| **K** | `—·—` |
+| **L** | `·—··` |
+| **M** | `——` |
+| **N** | `—·` |
+| **O** | `———` |
+| **P** | `·——·` |
+| **Q** | `——·—` |
+| **R** | `·—·` |
+| **S** | `···` |
+| **T** | `—` |
+| **U** | `··—` |
+| **V** | `···—` |
+| **W** | `·——` |
+| **X** | `—··—` |
+| **Y** | `—·——` |
+| **Z** | `——··` |
+
+## Ziffern 0–9
+
+| Ziffer | Morsezeichen |
+| :---: | :--- |
+| **0** | `—————` |
+| **1** | `·————` |
+| **2** | `··———` |
+| **3** | `···——` |
+| **4** | `····—` |
+| **5** | `·····` |
+| **6** | `—····` |
+| **7** | `——···` |
+| **8** | `———··` |
+| **9** | `————·` |
 
 ## Morsezeichen mit einem Baum entschlüsseln
 
 Wer den Code nicht auswendig kennt, kann jedes empfangene Zeichen **Schritt für Schritt** im Morsebaum suchen. Bei jeder Verzweigung folgt man **·** (kurz, Punkt) oder **—** (lang, Strich). Nach dem letzten Signal liest du den Buchstaben am erreichten Knoten ab. Ein Knoten kann schon einen vollständigen Buchstaben enthalten, auch wenn weitere Zweige abgehen.
 
-Die beiden Diagramme enthalten zusammen **alle 26 Buchstaben A–Z**. Für die Lesbarkeit in der Buchausgabe sind die beiden Hälften des Binärbaums getrennt. Beginne mit dem passenden ersten Signal. Die Ziffern findest du in der Tabelle weiter unten.
+Die beiden Diagramme enthalten zusammen **alle 26 Buchstaben A–Z**. Für die Lesbarkeit in der Buchausgabe sind die beiden Hälften des Binärbaums getrennt. Beginne mit dem passenden ersten Signal. Die Ziffern stehen in der Tabelle oben.
 
 ### Erstes Signal kurz (·)
 
@@ -58,34 +104,6 @@ flowchart TB
 ```
 
 **Beispiel:** · — · ergibt **R**: Im kurzen Baum von Start über E (·), A (—) zu R (·). Zunächst einzelne Buchstaben üben, danach kurze Wörter mit klaren Pausen.
-
-## Buchstaben A–Z
-
-| Buchstabe | Morsecode | Buchstabe | Morsecode |
-| --- | --- | --- | --- |
-| **A** | `.-` | **N** | `-.` |
-| **B** | `-...` | **O** | `---` |
-| **C** | `-.-.` | **P** | `.--.` |
-| **D** | `-..` | **Q** | `--.-` |
-| **E** | `.` | **R** | `.-.` |
-| **F** | `..-.` | **S** | `...` |
-| **G** | `--.` | **T** | `-` |
-| **H** | `....` | **U** | `..-` |
-| **I** | `..` | **V** | `...-` |
-| **J** | `.---` | **W** | `.--` |
-| **K** | `-.-` | **X** | `-..-` |
-| **L** | `.-..` | **Y** | `-.--` |
-| **M** | `--` | **Z** | `--..` |
-
-## Ziffern 0–9
-
-| Ziffer | Morsecode | Ziffer | Morsecode |
-| --- | --- | --- | --- |
-| **0** | `-----` | **5** | `.....` |
-| **1** | `.----` | **6** | `-....` |
-| **2** | `..---` | **7** | `--...` |
-| **3** | `...--` | **8** | `---..` |
-| **4** | `....-` | **9** | `----.` |
 
 ## Signalzeiten und Pausen
 
