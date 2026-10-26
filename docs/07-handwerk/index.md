@@ -1,22 +1,14 @@
 # Handwerk, Mechanik & Produktion
 
-!!! info "In Arbeit"
-    Dieses Kapitel ist ein redaktioneller Themenplan. Fachlich geprüfte Artikel folgen. Keine der nachstehenden Überschriften ersetzt eine konkrete Anleitung.
+!!! info "Thematischer Einstieg, Fachkapitel im Aufbau"
+    Eigenständige Artikel zu Werkstoffen, Maschinen und Reparaturen fehlen noch. Bereits vorhandene Bauanleitungen liegen dort, wo das jeweilige Problem behandelt wird.
 
-## Themenfelder
+## Bestehende praktische Verfahren
 
-- Werkzeuge
-- Holzverarbeitung
-- Metallbearbeitung
-- Textilien
-- Mechanik
-- Materialkunde
-- Ersatzteilfertigung
+- **Wasser technisch behandeln:** [Improvisierter Vorfilter](../01-versorgung/regenwasser-pfuetzen-improvisierte-filter.md) und [Wasser destillieren](../01-versorgung/wasser-destillieren.md) mit zwei Aufbauvarianten; ausdrücklich auf Grenzen und Gefahren achten.
+- **Empfangstechnik wieder nutzbar machen:** [Radio aus vorhandenen Geräten oder Modulen](../05-technologie/radio-ohne-geraet.md) sowie [DCF77-Zeitfunk](../05-technologie/dcf77-zeitfunk.md) als experimentelle Elektronikarbeit.
+- **Einfache Orientierungshilfe bauen:** [Sonnenuhr und Mittagslinie](../04-kommunikation/zeitbestimmung-sonne.md).
 
-## Ziel
+## Noch zu dokumentieren
 
-Für jedes Themenfeld entstehen quellenbasierte Artikel mit Voraussetzungen, Verfahren, Gefahren, Alternativen und Hinweisen zur Anwendung bei eingeschränkter Infrastruktur.
-
-## Mitmachen
-
-Schlage einen Artikel vor oder verbessere bestehende Beiträge über [GitHub](https://github.com/cvieth/survivor-guide/issues).
+Werkzeugkunde, mechanische Reparaturen, Holz und Metall, Textilien, Materialkunde und Ersatzteilfertigung. Ohne geprüfte Anleitung sind elektrische, thermische und druckführende Eigenbauten riskant. [Themen vorschlagen](https://github.com/cvieth/survivor-guide/issues).

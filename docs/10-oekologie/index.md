@@ -1,22 +1,15 @@
 # Ökologie, Natur & Umwelt
 
-!!! info "In Arbeit"
-    Dieses Kapitel ist ein redaktioneller Themenplan. Fachlich geprüfte Artikel folgen. Keine der nachstehenden Überschriften ersetzt eine konkrete Anleitung.
+!!! warning "Beobachtung ist keine sichere Identifikation"
+    Heilpflanzen oder essbare Wildpflanzen dürfen nicht allein anhand einer groben Beschreibung oder Illustration verwendet werden. Botanische Merkmale, Verwechslungsmöglichkeiten und Schadstoffbelastung sind entscheidend.
 
-## Themenfelder
+## Vorhandenes Wissen mit Bezug zur Natur
 
-- Pflanzenkunde
-- Tierkunde
-- Ökosysteme
-- Wetter
-- Böden
-- Umweltrisiken
-- Ressourcenschutz
+- **Pflanzenkunde:** [Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md) mit botanischen Steckbriefen, Risiken und Evidenz. Es ist **kein** vollständiger Bestimmungsschlüssel.
+- **Natürliche Wasserquellen:** [Regenwasser, Pfützen und Vorfilter](../01-versorgung/regenwasser-pfuetzen-improvisierte-filter.md) erklärt Quellenwahl, Verunreinigungen und Grenzen.
+- **Technische Aufbereitung:** [Oberflächenwasser aufbereiten](../01-versorgung/oberflaechenwasser-aufbereiten.md) und [Destillation](../01-versorgung/wasser-destillieren.md) – auch diese Verfahren sind nicht universell geeignet.
+- **Natürliche Orientierung:** [Sonnenuhr und Sonnenstand](../04-kommunikation/zeitbestimmung-sonne.md).
 
-## Ziel
+## Noch auszuarbeiten
 
-Für jedes Themenfeld entstehen quellenbasierte Artikel mit Voraussetzungen, Verfahren, Gefahren, Alternativen und Hinweisen zur Anwendung bei eingeschränkter Infrastruktur.
-
-## Mitmachen
-
-Schlage einen Artikel vor oder verbessere bestehende Beiträge über [GitHub](https://github.com/cvieth/survivor-guide/issues).
+Sichere Pflanzenbestimmung, Tierkunde, Böden, Wetterbeobachtung, Ökosysteme, Umweltrisiken und Ressourcenschutz. [Fachlichen Beitrag leisten](https://github.com/cvieth/survivor-guide/issues).

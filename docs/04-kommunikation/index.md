@@ -1,32 +1,26 @@
 # Kommunikation & Information
 
-Die folgenden Nachschlagewerke sind quellenbasiert dokumentiert. Die abschließende redaktionelle Prüfung steht noch aus.
+Bei akuten Gefahren gehen **amtliche Warnungen und verfügbare Notrufe** vor privaten Funkplänen. Für die [ersten 72 Stunden](../00-grundlagen/erste-72-stunden.md) zählt zunächst, ob Warnmeldungen überhaupt erreichbar sind.
 
-## Verfügbare Anleitungen
+## Warnung und unmittelbare Information
 
-- **[Sirenensignale](sirenensignale.md)** – Tonmuster, Probealarm und richtige Reaktion bei Warnungen.
-- **[Funk-Zeitfenster und 3-3-3-Regel](funkzeitfenster-333-regel.md)** – Gemeinsame Empfangszeiten, Kanalwahl und energiesparender Sprechfunk im Krisenfall.
-- **[Funkempfang ohne Radio](../05-technologie/radio-ohne-geraet.md)** – Geräte zweckentfremden, RDS-Uhrzeit, UKW-Modul und Detektorradio.
-- **[Hörbare Rundfunk-Zeitzeichen](zeitzeichen-rundfunk.md)** – UKW und Kurzwelle ohne DCF77-Decoder, mit Zeittönen und praktischer Empfangsanleitung.
-- **[Uhrzeit am Sonnenstand bestimmen](zeitbestimmung-sonne.md)** – Mittagslinie, selbst gebaute Sonnenuhr und Korrektur auf MEZ/MESZ.
-- **[DCF77-Zeitsignal empfangen und dekodieren](../05-technologie/dcf77-zeitfunk.md)** – Gebrauchte Funkuhrmodule, Impulsanzeige und Zeitcode zum Nachlesen.
-- **[Morsealphabet](morsealphabet.md)** – SVG-Tabelle, ein Morsebaum, Ziffern, Zeitregeln und Notsignale.
-- **[Flaggensemaphore / Winkeralphabet](flaggenalphabet.md)** – SVG-Nachschlagetabelle mit Armstellungen, Ziffern- und Steuerzeichen; Alternative mit zwei Taschenlampen bei Dämmerung.
+- **[Sirenensignale verstehen](sirenensignale.md):** Warn- und Entwarnungstöne einordnen und weitere Meldungen suchen.
+- **[Funkempfang ohne funktionierendes Haushaltsradio](../05-technologie/radio-ohne-geraet.md):** vorhandene Geräte prüfen, bevor ein Empfänger improvisiert wird.
+- **[Funk-Zeitfenster und 3-3-3-Regel](funkzeitfenster-333-regel.md):** freiwillige Gruppenabsprache, **kein** amtlicher Notrufkanal und kein Ersatz für behördliche Warnungen.
 
-## Themenfelder
+## Uhrzeit für vereinbarte Kontakte
 
-- Kommunikationsplanung
-- Amateurfunk
-- PMR-Funk
-- Antennen
-- Mesh-Netze
-- Kryptografie
-- Navigation
+- [Hörbare Rundfunk-Zeitzeichen](zeitzeichen-rundfunk.md): empfangene Zeitmarken zur Synchronisation nutzen.
+- [Uhrzeit am Sonnenstand](zeitbestimmung-sonne.md): ohne Elektronik nur mit begrenzter Genauigkeit; ungeeignete Grundlage für minutengenaue Funkfenster.
+- [DCF77-Zeitfunk](../05-technologie/dcf77-zeitfunk.md): experimentelle technische Lösung mit geeigneten Komponenten.
 
-## Ziel
+## Einfache optische Signale
 
-Für jedes Themenfeld entstehen quellenbasierte Artikel mit Voraussetzungen, Verfahren, Gefahren, Alternativen und Hinweisen zur Anwendung bei eingeschränkter Infrastruktur.
+- [Morsealphabet und SOS](morsealphabet.md): Punkte, Striche, Zeitregeln, Texttabellen und Morsebaum.
+- [Flaggensemaphore / Winkeralphabet](flaggenalphabet.md): Armstellungen, Ziffern und Steuerzeichen.
 
-## Mitmachen
+**Die Nachschlagetabellen ersetzen keine zuverlässige Verbindung zu einer Rettungsleitstelle.** Bei möglichen Evakuierungen die [Flucht- und Treffpunktplanung](../00-grundlagen/evakuierung-notgepaeck.md) berücksichtigen.
 
-Schlage einen Artikel vor oder verbessere bestehende Beiträge über [GitHub](https://github.com/cvieth/survivor-guide/issues).
+## Noch auszuarbeiten
+
+Funkrecht, Mesh-Netze, Relais, Antennen und langfristige Kommunikationsorganisation. [Fehler oder Idee melden](https://github.com/cvieth/survivor-guide/issues).

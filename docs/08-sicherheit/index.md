@@ -1,26 +1,17 @@
 # Sicherheit, Orientierung & Selbstschutz
 
-!!! info "In Arbeit"
-    Dieses Kapitel ist ein redaktioneller Themenplan. Fachlich geprüfte Artikel folgen. Keine der nachstehenden Überschriften ersetzt eine konkrete Anleitung.
+**Die erste Sicherheitsfrage lautet nicht „Was brauche ich?“, sondern „Ist mein Standort überhaupt sicher?“**
 
-## Themenfelder
+## Gefahr beurteilen und Schutz wählen
 
-- Gefahreneinschätzung
-- Selbstschutz
-- Deeskalation
-- Brandschutz
-- [Evakuierung, Notgepäck und sichere Fluchtwege](../00-grundlagen/evakuierung-notgepaeck.md)
-- Orientierung
-- Konfliktprävention
+- [Die ersten 72 Stunden](../00-grundlagen/erste-72-stunden.md): Phase 0 unterscheidet akute Gefahr am Ort, Gefahren draußen und vorläufig geeignete Unterkunft.
+- [Evakuierung, Notgepäck und Fluchtwege](../00-grundlagen/evakuierung-notgepaeck.md): vor einer Flucht Zeitbudget, sichere Route und wirklich notwendige Dinge beurteilen.
+- [Sirenensignale und Warninformationen](../04-kommunikation/sirenensignale.md): eine Warnung erkennen, den Anlass klären und Anweisungen beachten.
 
-## Weiterführende Entscheidungsfragen
+## Andere unterstützen, ohne selbst handlungsunfähig zu werden
 
-Wie weit reicht der Eigenschutz, wenn andere Menschen auf Unterstützung angewiesen sind? Siehe [Selbstschutz, Solidarität und Grenzen der Hilfe](../09-gesellschaft/grenzen-der-hilfe.md). Der Artikel ist als ethisch und moralisch zu prüfender Entwurf gekennzeichnet.
+[Selbstschutz, Solidarität und Grenzen der Hilfe](../09-gesellschaft/grenzen-der-hilfe.md) behandelt freiwillige Hilfe und begrenzte Ressourcen. **Dieser Text ist ausdrücklich ethisch und moralisch zu prüfen**, keine verbindliche Wertung über den Wert von Menschen.
 
-## Ziel
+## Noch auszuarbeiten
 
-Für jedes Themenfeld entstehen quellenbasierte Artikel mit Voraussetzungen, Verfahren, Gefahren, Alternativen und Hinweisen zur Anwendung bei eingeschränkter Infrastruktur.
-
-## Mitmachen
-
-Schlage einen Artikel vor oder verbessere bestehende Beiträge über [GitHub](https://github.com/cvieth/survivor-guide/issues).
+Brandschutz, lokale Gefahrenanalyse, Orientierung im Gelände, Deeskalation, Konfliktprävention und weitergehende Selbstschutzmaßnahmen. [Lücke melden](https://github.com/cvieth/survivor-guide/issues).

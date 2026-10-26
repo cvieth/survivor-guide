@@ -2,54 +2,51 @@
 
 **Das offene Handbuch für Krisenbewältigung, Überleben und Wiederaufbau.**
 
-Wir hoffen, dass dieses Handbuch aus Interesse gelesen wird und im Ernstfall nicht gebraucht wird.
+Wir hoffen, dass dieses Handbuch aus Interesse gelesen wird und im Ernstfall nicht gebraucht wird. Es sammelt praktische Anleitungen und Hintergrundwissen für Situationen, in denen Versorgung, Kommunikation oder andere Infrastruktur ausfallen. Die Texte sollen auch offline nutzbar sein. Wo Wissen unsicher oder eine Handlung riskant ist, weisen wir darauf hin.
 
-Der Survivor Guide sammelt praktische Anleitungen und Hintergrundwissen für Krisen, bei denen Versorgung, Kommunikation oder andere Teile der Infrastruktur ausfallen. Die Informationen sollen verständlich, überprüfbar und auch ohne Internet nutzbar sein. Das Projekt erhebt keinen Anspruch auf Vollständigkeit. Wo Wissen unsicher ist oder eine Anleitung Risiken birgt, muss das deutlich erkennbar sein.
+!!! warning "Entwurf: fachliche Prüfung beachten"
+    Viele Inhalte befinden sich noch im Aufbau. Amtliche Anweisungen und verfügbare professionelle Hilfe haben Vorrang. Eine fehlende Warnung ist keine Entwarnung.
 
-## Mitarbeit
+## Bei einer akuten Krise beginnen
 
-Dieses Handbuch wird gemeinsam erarbeitet und laufend überarbeitet. Wer einen Fehler, veraltete Angaben oder ein fehlendes Thema findet, kann das [auf GitHub melden](https://github.com/cvieth/survivor-guide/issues/new/choose). Korrekturen und Ergänzungen können auch direkt als [Änderungsvorschlag](https://github.com/cvieth/survivor-guide/pulls) eingereicht werden. Die [Anleitung zur Mitarbeit](redaktion/mitmachen.md) erklärt das Vorgehen. Programmierkenntnisse sind nicht erforderlich, um Hinweise zu melden.
+1. **[Die ersten 72 Stunden](00-grundlagen/erste-72-stunden.md):** Standort und Gefahr beurteilen, lebensbedrohliche Notfälle versorgen, danach Wasser, Kommunikation, Wärme und weitere Versorgung organisieren.
+2. **[Evakuierung und Notgepäck](00-grundlagen/evakuierung-notgepaeck.md):** Wenn du fortmusst, entscheidet der sichere Weg über das verfügbare Packzeitfenster.
+3. **[Wasserbedarf und Wasserqualität](01-versorgung/wasserbedarf-pro-person.md):** Wieviel sicheres Trinkwasser und geeignetes Brauchwasser brauchst du?
+4. **[Sirenensignale und Warnungen](04-kommunikation/sirenensignale.md):** Was Warnungen bedeuten und wie man weitere Informationen bekommt.
 
-Der QR-Code führt zum GitHub-Projekt und ist auch in den Druckausgaben enthalten:
+**Die Reihenfolge richtet sich nach der Gefahr, nicht nach dem Zeitplan.** Bei unmittelbarer Bedrohung nicht erst die übrigen Themen durcharbeiten.
 
-[![QR-Code zum GitHub-Projekt des Survivor Guide](assets/mitmachen-qr.svg){ width="130" }](https://github.com/cvieth/survivor-guide)
+## Wenn ein konkretes Problem auftritt
 
-[github.com/cvieth/survivor-guide](https://github.com/cvieth/survivor-guide)
-
-!!! warning "Version 0.1: Aufbauphase"
-    Viele Kapitel befinden sich noch im Aufbau und sind nicht fachlich geprüft. Bei akuten Notfällen hat professionelle Hilfe Vorrang, soweit sie erreichbar ist.
-
-## Direkt zum Wissen
-
-- **[Fieber erkennen und versorgen](02-medizin/fieber-erkennen-und-versorgen.md)**: Auch ohne Rettungsdienst Temperatur, Warnzeichen, Maßnahmen und Grenzen der Selbsthilfe beurteilen.
-- **[Beschwerden und Mittel finden](02-medizin/beschwerden-und-mittel.md)**: Vom Symptom zu Sofortmaßnahmen, Wirkstoffen und Heilpflanzen.
-
-- **[Sirenensignale erkennen](04-kommunikation/sirenensignale.md)**: Warnung, Entwarnung, Probealarm und Verhalten bei Gefahr.
-- **[Wirkstoffregister](12-nachschlagewerk/wirkstoffregister.md)**: 25 Arzneimittelsteckbriefe für die Offline-Nutzung.
-- **[Heilpflanzenregister](12-nachschlagewerk/heilpflanzenregister.md)**: 12 vernetzte Steckbriefe mit Risiken und Einordnung der Evidenz.
-- **[Apotheken-Prioritätenliste (Kapitel 03)](03-pharmazie/apotheke-prioritaeten.md)**: Suchstrategie bei langem Versorgungsausfall.
-- **[Wasserbedarf & Wasser sichern (Kapitel 01)](01-versorgung/wasserbedarf-pro-person.md)**: Richtwerte und erste Schritte zur Wassersicherung.
-- **[Oberflächenwasser aufbereiten (Kapitel 01)](01-versorgung/oberflaechenwasser-aufbereiten.md)**: Wasserfilter, Beschaffung, Ersatzteile und sichere Grenzen.
-
-- **[Morsealphabet und SOS (Kapitel 04)](04-kommunikation/morsealphabet.md)**: Zeichen und Zeitregeln für Licht, Ton und Funk.
-- **[Winkeralphabet mit Flaggen (Kapitel 04)](04-kommunikation/flaggenalphabet.md)**: alle 26 Buchstaben mit Flaggengrafiken.
-
-## Drei Zeithorizonte
-
-| Zeitraum | Fokus |
+| Situation | Direkt zur passenden Anleitung |
 | --- | --- |
-| **Stunden bis Tage** | Unmittelbare Gefahren, Schutz, medizinische Hilfe, Wasser |
-| **Wochen bis Monate** | Versorgung, Hygiene, Energie, Gemeinschaft |
-| **Monate bis Generationen** | Wissenserhalt, Infrastruktur, Produktion, Institutionen |
+| Fieber oder andere Beschwerden | [Fieber versorgen](02-medizin/fieber-erkennen-und-versorgen.md) · [Beschwerden und Mittel](02-medizin/beschwerden-und-mittel.md) |
+| Medikamente oder Pflanzen nachschlagen | [Wirkstoffregister](12-nachschlagewerk/wirkstoffregister.md) · [Heilpflanzenregister](12-nachschlagewerk/heilpflanzenregister.md) |
+| Wasser aus unbekannter Quelle | [Quellen und Vorfilter beurteilen](01-versorgung/regenwasser-pfuetzen-improvisierte-filter.md) · [Oberflächenwasser aufbereiten](01-versorgung/oberflaechenwasser-aufbereiten.md) |
+| Nahrung für den Aufbruch auswählen | [Notverpflegung für unterwegs](01-versorgung/notverpflegung-fuer-unterwegs.md) |
+| Radio oder Kommunikation ausgefallen | [Empfänger improvisieren](05-technologie/radio-ohne-geraet.md) · [Funk-Zeitfenster](04-kommunikation/funkzeitfenster-333-regel.md) |
+| Hilfe leisten und eigene Grenzen erkennen | [Selbstschutz, Solidarität und Grenzen der Hilfe](09-gesellschaft/grenzen-der-hilfe.md) |
+
+## Das gesamte Handbuch
+
+Die [Grundlagen und Soforthilfe](00-grundlagen/index.md) führen durch die erste Entscheidung. Weitere Einstiegsseiten bündeln vorhandene und geplante Inhalte zu [Versorgung](01-versorgung/index.md), [Medizin](02-medizin/index.md), [Pharmazie](03-pharmazie/index.md), [Kommunikation](04-kommunikation/index.md), [Technologie](05-technologie/index.md), [Infrastruktur](06-infrastruktur/index.md), [Handwerk](07-handwerk/index.md), [Sicherheit](08-sicherheit/index.md), [Gesellschaft](09-gesellschaft/index.md), [Ökologie](10-oekologie/index.md), [Wiederaufbau](11-wiederaufbau/index.md) und [Nachschlagewerken](12-nachschlagewerk/index.md).
 
 ## Offline lesen
 
-Die folgenden Ausgaben werden aus denselben Artikeln wie die Website erstellt:
+- [Aktuelle versionierte A4-PDF-Ausgabe](https://github.com/cvieth/survivor-guide/releases/latest/download/survivor-guide.pdf)
+- [Druckvorlage (6 × 9 Zoll, noch kein fertiges Buch)](https://github.com/cvieth/survivor-guide/releases/latest/download/survivor-guide-print-interior.pdf)
+- [Alle veröffentlichten Versionen](https://github.com/cvieth/survivor-guide/releases)
 
-- **[Aktuelle PDF-Ausgabe herunterladen (A4)](https://github.com/cvieth/survivor-guide/releases/latest/download/survivor-guide.pdf)**: versionierte Ausgabe zum Lesen und Archivieren.
-- **[Druckvorlage herunterladen (6 × 9 Zoll)](https://github.com/cvieth/survivor-guide/releases/latest/download/survivor-guide-print-interior.pdf)**: vorläufiger Druckentwurf, noch nicht druckfertig.
-- **[Alle Versionen und Änderungen ansehen](https://github.com/cvieth/survivor-guide/releases)**: ältere Ausgaben bleiben dauerhaft auffindbar.
+Das [PDF des aktuellen Entwicklungsstands](https://github.com/cvieth/survivor-guide/actions/workflows/publish.yml) kann bei einem erfolgreichen Build als GitHub-Actions-Artefakt bezogen werden. Versionierte Releases und aktuelle Website können unterschiedliche Stände haben.
 
-Ein **PDF des aktuellen Entwicklungsstands** wird bei jedem Push als [GitHub-Actions-Artefakt](https://github.com/cvieth/survivor-guide/actions/workflows/publish.yml) erzeugt (im jeweiligen erfolgreichen Workflow-Lauf herunterladen). Die dauerhaft verfügbaren Ausgaben findest du in den versionierten Releases.
+## Mitarbeiten
 
-**Lizenz:** Texte CC BY-SA 4.0; Build-Code MIT.
+Fehler, fehlende Informationen und veraltete Angaben können [auf GitHub gemeldet](https://github.com/cvieth/survivor-guide/issues/new/choose) oder direkt als [Änderungsvorschlag](https://github.com/cvieth/survivor-guide/pulls) eingereicht werden. Die [Anleitung zur Mitarbeit](redaktion/mitmachen.md) erklärt das Vorgehen; Programmierkenntnisse sind für Hinweise nicht erforderlich.
+
+Der QR-Code führt zum Projekt und ist auch in den Druckausgaben enthalten:
+
+[![QR-Code zum GitHub-Projekt](assets/mitmachen-qr.svg){ width="130" }](https://github.com/cvieth/survivor-guide)
+
+[github.com/cvieth/survivor-guide](https://github.com/cvieth/survivor-guide)
+
+**Lizenz:** Inhalte CC BY-SA 4.0, Build-Code MIT.

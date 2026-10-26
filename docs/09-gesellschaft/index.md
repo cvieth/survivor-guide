@@ -1,23 +1,18 @@
 # Gesellschaft, Psychologie & Soziales
 
-!!! info "In Arbeit"
-    Die meisten Themen sind noch ein redaktioneller Plan. Der Artikel über Hilfegrenzen ist ein ausdrücklich ethisch und moralisch zu prüfender Entwurf, keine abschließend freigegebene Handlungsregel.
+Wenn Hilfe begrenzt ist, entstehen nicht nur logistische, sondern auch moralische Fragen. **Es gibt hierfür keine einfache allgemeingültige Rangfolge von Menschen oder Bedürfnissen.**
 
-## Themenfelder
+## Vorhandener Fachartikel
 
-- Gruppenorganisation
-- Psychische Gesundheit
-- Vertrauen
-- Konfliktlösung
-- Entscheidungsstrukturen
-- [Selbstschutz, Solidarität und Grenzen der Hilfe](grenzen-der-hilfe.md) (Entwurf, ethisch und moralisch zu prüfen)
-- Recht und Ethik
-- Bildung
+[Selbstschutz, Solidarität und Grenzen der Hilfe](grenzen-der-hilfe.md) beschreibt Kriterien für verantwortbare Unterstützung, Schutz der eigenen Handlungsfähigkeit und Grenzen bei knappen Ressourcen. **Explizit zu prüfender ethischer und moralischer Entwurf**, keine allgemeingültige Auswahlregel.
 
-## Ziel
+## Praktische Bezüge
 
-Für jedes Themenfeld entstehen quellenbasierte Artikel mit Voraussetzungen, Verfahren, Gefahren, Alternativen und Hinweisen zur Anwendung bei eingeschränkter Infrastruktur.
+- [Die ersten 72 Stunden](../00-grundlagen/erste-72-stunden.md): früh Informationen, Verantwortlichkeiten und Ruhe organisieren; bei unmittelbarer Gefahr geht Lebensrettung vor.
+- [Wasserbedarf pro Person](../01-versorgung/wasserbedarf-pro-person.md): Ressourcenbedarf für Menschen und zusätzliche Bedürfnisse bewusst kalkulieren.
+- [Medizin und Beschwerden](../02-medizin/index.md): gesundheitliche Bedürfnisse dürfen nicht allein durch die Verfügbarkeit von Vorräten beurteilt werden.
+- [Evakuierung und Notgepäck](../00-grundlagen/evakuierung-notgepaeck.md): Angehörige und Menschen mit besonderem Hilfebedarf einbeziehen.
 
-## Mitmachen
+## Noch auszuarbeiten
 
-Schlage einen Artikel vor oder verbessere bestehende Beiträge über [GitHub](https://github.com/cvieth/survivor-guide/issues).
+Psychische Erste Hilfe, Deeskalation, Gruppenorganisation, Vertrauen, Konfliktlösung und Rechtsfragen. [Mitdiskutieren oder Fehler melden](https://github.com/cvieth/survivor-guide/issues).

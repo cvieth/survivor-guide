@@ -1,24 +1,26 @@
 # Wasser, Nahrung & Versorgung
 
-!!! info "Im Aufbau"
-    Dieses Kapitel wird schrittweise mit belegten und fachlich geprüften Artikeln ausgebaut. Nicht alle Texte sind bereits von Fachleuten begutachtet.
+**Trinkwasserqualität hat Vorrang vor dem Bau einer improvisierten Anlage.** Die folgenden Artikel behandeln unterschiedliche Fragen und sollten in dieser Reihenfolge genutzt werden.
 
-## Erste Fachartikel
+## Welches Problem musst du lösen?
 
-- [Notverpflegung für unterwegs auswählen](notverpflegung-fuer-unterwegs.md) – Energiedichte, Lagerung, Wasserbedarf und Prioritäten beim schnellen Packen.
-- [Wasserbedarf pro Person und Tag](wasserbedarf-pro-person.md) – Normalbetrieb, Krisenminimum, Überlebensminimum und Aufbereitungsverluste.
-- [Regenwasser, Pfützen und improvisierte Filter](regenwasser-pfuetzen-improvisierte-filter.md) – Quellenwahl, Moos, Sand-Kies-Vorfilter und Desinfektion.
-- [Wasser destillieren](wasser-destillieren.md) – zwei bebilderte Bauvarianten (Auffangschale und Rohrkondensator), Eignung und Sicherheitsgrenzen.
-- [Oberflächenwasser aufbereiten](oberflaechenwasser-aufbereiten.md) – Materialien, Bezugsquellen, Notverfahren und Risiken.
+| Fragestellung | Anleitung |
+| --- | --- |
+| Wieviel Wasser brauche ich und welche Qualität ist notwendig? | [Wasserbedarf, Trink- und Brauchwasser](wasserbedarf-pro-person.md) |
+| Woher kann Wasser kommen und was leistet ein einfacher Vorfilter? | [Regenwasser, Pfützen und improvisierte Vorfilter](regenwasser-pfuetzen-improvisierte-filter.md) |
+| Wie kann ich vorhandenes Rohwasser technisch behandeln? | [Oberflächenwasser aufbereiten](oberflaechenwasser-aufbereiten.md) |
+| Wann ist Destillation geeignet und wo sind ihre Grenzen? | [Wasser destillieren](wasser-destillieren.md) |
+| Welche Nahrung soll ich bei einer Evakuierung mitnehmen? | [Notverpflegung für unterwegs](notverpflegung-fuer-unterwegs.md) |
 
-## Geplante Themenfelder
+!!! warning "Sicherheit der Wasserquelle"
+    Abkochen und improvisierte Filter machen chemisch belastetes Wasser nicht automatisch trinkbar. Bei Verdacht auf Treibstoffe, Industriechemikalien oder weitere Toxine möglichst eine andere sichere Quelle wählen. [Quellenwahl und Ausschlusskriterien](regenwasser-pfuetzen-improvisierte-filter.md).
 
-- Trinkwassersuche und Quellenbewertung
-- Lagerung und Vorratshaltung
-- Hygiene und Sanitärversorgung
-- Lebensmittelhygiene und Konservierung
-- Landwirtschaft und Tierhaltung
+## Von der Sofortmaßnahme zu den Details
 
-## Mitarbeit
+- **Leitungswasser fällt aus:** Die [ersten 72 Stunden](../00-grundlagen/erste-72-stunden.md) priorisieren noch verfügbares, geeignetes Wasser und die tägliche Neubewertung.
+- **Du musst weg:** [Evakuierung und Notgepäck](../00-grundlagen/evakuierung-notgepaeck.md) klären Zeitbudget und Ausrüstung; der Verpflegungsartikel erklärt die Auswahl.
+- **Wasserknappheit führt zu gesundheitlichen Problemen:** [Fieber und Flüssigkeitsbedarf](../02-medizin/fieber-erkennen-und-versorgen.md) sowie [Beschwerden und Mittel](../02-medizin/beschwerden-und-mittel.md) beachten.
 
-Schlage Ergänzungen vor oder melde Fehler über [GitHub](https://github.com/cvieth/survivor-guide/issues).
+## Noch auszuarbeiten
+
+Langfristige Lagerung, Lebensmittelkonservierung, reguläre Sanitärversorgung, Landwirtschaft und Tierhaltung. Die vorhandenen Wasserverfahren sind **nicht** durchgängig feldgeprüft. [Verbesserung melden](https://github.com/cvieth/survivor-guide/issues).

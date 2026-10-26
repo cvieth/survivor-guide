@@ -1,34 +1,20 @@
 # Pharmazie, Substanzen & Chemie
 
-!!! info "In Arbeit"
-    Das Kapitel wird ausgebaut. Die vorhandenen Artikel sind Entwürfe ohne abgeschlossene medizinische Fachprüfung.
-
-## Verfügbare Artikel
-
-- **[Apotheke bei Versorgungsausfall: Such- und Prioritätenliste](apotheke-prioritaeten.md)** – Was bei knapper Zeit medizinisch besonders nützlich sein kann.
-- **[Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md)**: 25 durchsuchbare Arzneimittelsteckbriefe mit Wirkungen, Grenzen, Risiken, Alternativen und Quellen.
-- **[Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md)**: 12 Pflanzensteckbriefe, getrennt nach traditionell anerkannten und klinisch gestützten Anwendungen.
-- **[Beschwerden und Mittel finden](../02-medizin/beschwerden-und-mittel.md)**: Einstieg nach Beschwerden mit direkten Verweisen auf Erstmaßnahmen, Arzneimittel und Pflanzen.
-
 !!! warning "Medizinische Fachprüfung ausstehend"
-    Die neuen Artikel sind recherchierte Entwürfe und keine Dosierungs-, Diagnose- oder Behandlungsempfehlungen.
+    Wirkstoffe, Pflanzen und insbesondere Dosierungen müssen vor einer Anwendung zuverlässig identifiziert und auf Gegenanzeigen geprüft werden. Die Artikel sind keine pauschalen Behandlungsempfehlungen.
 
-Bei Fieber: [Symptome einordnen und mögliche Maßnahmen prüfen](../02-medizin/fieber-erkennen-und-versorgen.md), statt ausschließlich nach einem Medikament zu suchen.
+## Vom Bedarf zum passenden Nachschlagewerk
 
-## Weitere Themenfelder
+1. **Beschwerde einordnen:** [Symptome, Warnzeichen und Erstmaßnahmen](../02-medizin/beschwerden-und-mittel.md); bei Fieber die [ausführliche Anleitung](../02-medizin/fieber-erkennen-und-versorgen.md).
+2. **Vorräte erfassen und priorisieren:** [Apotheke bei Versorgungsausfall](apotheke-prioritaeten.md).
+3. **Einzelheiten nachschlagen:** [Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md) beziehungsweise [Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md).
 
-- Wirkstoffkunde
-- Arzneimittelgruppen
-- Dosierung und Gegenanzeigen
-- Haltbarkeit
-- Desinfektion
-- Heilpflanzen sicher bestimmen und konservieren
-- Chemische Grundlagen
+Die Register befinden sich **zentral in Kapitel Nachschlagewerke**. Hier werden keine konkurrierenden Kurzsteckbriefe gepflegt; die [Nachschlagewerk-Übersicht](../12-nachschlagewerk/index.md) erläutert die Einträge.
 
-## Ziel
+## Zeitkritische Situationen
 
-Für jedes Themenfeld entstehen quellenbasierte Artikel mit Voraussetzungen, Verfahren, Gefahren, Alternativen und Hinweisen zur Anwendung bei eingeschränkter Infrastruktur.
+Beim Aufbruch [medizinische Notgepäck-Prioritäten](../00-grundlagen/evakuierung-notgepaeck.md) berücksichtigen. Bei lebensbedrohlichem Zustand zuerst die [medizinischen Sofortentscheidungen](../00-grundlagen/erste-72-stunden.md) anwenden; nicht erst nach Mitteln suchen.
 
-## Mitmachen
+## Noch auszuarbeiten
 
-Schlage einen Artikel vor oder verbessere bestehende Beiträge über [GitHub](https://github.com/cvieth/survivor-guide/issues).
+Arzneimittelhaltbarkeit, Dosierungsfehler, Desinfektion, sichere Pflanzenbestimmung und chemische Grundverfahren. [Korrektur einreichen](https://github.com/cvieth/survivor-guide/issues).

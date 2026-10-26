@@ -1,26 +1,24 @@
 # Nachschlagewerke & Anhänge
 
-Dieser Bereich enthält strukturierte Nachschlagewerke für die schnelle Suche und zur Offline-Nutzung.
+Dieser Bereich ist die **zentrale Fundstelle** für wiederverwendbare Steckbriefe und Tabellen. Krankheitsbilder und Handlungsanleitungen verweisen darauf, statt dieselben Detailinformationen mehrfach zu pflegen.
 
-## Verfügbare Nachschlagewerke
+## Arzneimittel, Beschwerden und Pflanzen
 
-- **[Wirkstoffregister mit 25 Medikamenten und Wirkstoffen](wirkstoffregister.md)**: Einsatzgebiete, Voraussetzungen, Risiken und Alternativen.
-- **[Heilpflanzenregister mit 12 Steckbriefen](heilpflanzenregister.md)**: botanischer Name, verwendeter Pflanzenteil, traditionelles oder klinisch gestütztes Einsatzgebiet, Gegenanzeigen und Primärquellen.
-- **[Beschwerden und Mittel finden](../02-medizin/beschwerden-und-mittel.md)**: symptomorientierte Querverweise zwischen medizinischen Maßnahmen, Arzneimitteln und Heilpflanzen.
+- [Wirkstoffregister](wirkstoffregister.md): Arzneimittelsteckbriefe mit Risiken, Gegenanzeigen und Einsatzbereichen.
+- [Heilpflanzenregister](heilpflanzenregister.md): botanische Steckbriefe, mögliche Anwendungen, Evidenz und Verwechslungsmöglichkeiten.
+- [Beschwerden und Mittel finden](../02-medizin/beschwerden-und-mittel.md): **vom Symptom zum passenden Artikel** und weiter zu den Registern.
+- [Fieber erkennen und versorgen](../02-medizin/fieber-erkennen-und-versorgen.md): ein Beispiel für die Verbindung von Warnzeichen, Maßnahmen und Wirkstoff-/Pflanzensteckbriefen.
+- [Apotheke bei Versorgungsausfall](../03-pharmazie/apotheke-prioritaeten.md): Verfügbarkeit und Vorräte priorisieren.
 
-**Alle Einträge sind Entwürfe und noch nicht medizinisch und botanisch fachgeprüft.**
+!!! warning "Fachprüfung ausstehend"
+    Die Steckbriefe sind keine Diagnose oder Freigabe zur Selbstmedikation. Für Pflanzen ist eine sichere Bestimmung notwendig; Bilder allein genügen nicht.
 
-Für die praktische Priorisierung bei einer unterbrochenen Gesundheitsversorgung siehe [Apotheken-Prioritätenliste](../03-pharmazie/apotheke-prioritaeten.md).
+## Technische Nachschlagetabellen
 
-- **[Morsealphabet](../04-kommunikation/morsealphabet.md)** – A–Z, 0–9, Zeitregeln und SOS.
-- **[Winkeralphabet / Flaggensemaphore](../04-kommunikation/flaggenalphabet.md)** – 26 geprüfte Vektorabbildungen und Winkelangaben.
+- [Morsealphabet und Morsebaum](../04-kommunikation/morsealphabet.md): Texttabellen und Zeiten für Funk, Licht oder Ton.
+- [Winkeralphabet / Flaggensemaphore](../04-kommunikation/flaggenalphabet.md): Zeichen, Stellungen und Regeln.
+- [Sirenensignale](../04-kommunikation/sirenensignale.md): Warnung, Entwarnung, Probealarm.
 
-## Geplante Themen
+## Noch auszuarbeiten
 
-- Weitere Wirkstoff-, Pflanzenbestimmungs- und Materialregister
-- Checklisten, Einheiten und Formeln
-- Glossar und Quellenregister
-
-## Mitmachen
-
-Schlage Ergänzungen über [GitHub](https://github.com/cvieth/survivor-guide/issues) vor.
+Glossar, Einheiten und Formeln, Materialregister, Pflanzenbestimmungsschlüssel und Quellenregister. [Ergänzung vorschlagen](https://github.com/cvieth/survivor-guide/issues).

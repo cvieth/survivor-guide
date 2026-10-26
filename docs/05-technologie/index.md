@@ -1,27 +1,18 @@
 # Technologie, Elektronik & IT
 
-!!! info "In Arbeit"
-    Dieses Kapitel ist ein redaktioneller Themenplan. Fachlich geprüfte Artikel folgen. Keine der nachstehenden Überschriften ersetzt eine konkrete Anleitung.
+Bereits ausgearbeitet sind vor allem **Empfangstechnik und Zeitbestimmung**. Andere Technikthemen sind erst geplant.
 
-## Verfügbare Anleitungen
+## Vom schnellsten zum aufwendigeren Weg
 
-- **[Funkempfang ohne Radio](radio-ohne-geraet.md)** – Autoradios, UKW-Boxen, SDR, RDA5807M, AM-Detektorradio und GPS-Zeit.
-- **[DCF77-Zeitsignal empfangen und dekodieren](dcf77-zeitfunk.md)** – Empfang aus wiederverwendeten Funkuhrmodulen, einfache LED-Anzeige, Zeittelegramm und BCD-Dekodierung.
-- **[Uhrzeit am Sonnenstand bestimmen](../04-kommunikation/zeitbestimmung-sonne.md)** – Alternative ohne jegliche Elektronik.
+1. [Funkempfang ohne normales Radio](radio-ohne-geraet.md): Autoradio, ältere Geräte und vorhandene Empfänger bevorzugen; modulbasierte Nachbauten sind deutlich aufwendiger.
+2. [Hörbare Zeitzeichen](../04-kommunikation/zeitzeichen-rundfunk.md): verfügbare Rundfunk-Empfänger zeitlich synchronisieren.
+3. [DCF77-Zeitfunk](dcf77-zeitfunk.md): Funkuhrmodul retten oder Signale mit Elektronik auswerten; experimenteller Aufbau.
+4. [Uhrzeit am Sonnenstand bestimmen](../04-kommunikation/zeitbestimmung-sonne.md): ohne Elektronik, aber nicht sekundengenau.
 
-## Themenfelder
+## Praktischer Zusammenhang
 
-- Elektrische Grundlagen
-- Elektronik
-- Computer und Betriebssysteme
-- Offline-Wissenssysteme
-- Datensicherung
-- Reparatur
+Die [Informationsphase der ersten 72 Stunden](../00-grundlagen/erste-72-stunden.md) entscheidet, wann Radio und Stromquellen gebraucht werden. Vereinbarte [Funk-Zeitfenster](../04-kommunikation/funkzeitfenster-333-regel.md) benötigen eine gemeinsame Zeitbasis; bei akuter Gefahr nicht auf das nächste Fenster warten.
 
-## Ziel
+## Noch auszuarbeiten
 
-Für jedes Themenfeld entstehen quellenbasierte Artikel mit Voraussetzungen, Verfahren, Gefahren, Alternativen und Hinweisen zur Anwendung bei eingeschränkter Infrastruktur.
-
-## Mitmachen
-
-Schlage einen Artikel vor oder verbessere bestehende Beiträge über [GitHub](https://github.com/cvieth/survivor-guide/issues).
+Sichere Stromversorgung, Batterietechnik, Elektronikreparaturen, Offline-Datensicherung, Betriebssysteme und langlebige Wissensarchive. **Aus experimentellen Schaltungen keine geprüfte Notfallausrüstung ableiten.** [Ergänzung vorschlagen](https://github.com/cvieth/survivor-guide/issues).
