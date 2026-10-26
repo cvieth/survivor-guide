@@ -88,7 +88,7 @@ label: "15–60 MINUTEN · WASSERQUALITÄT"
 question: "Gibt es eine Wasserwarnung oder konkrete Hinweise auf eine Verunreinigung?"
 hint: "Maßgeblich sind Art und räumlicher Geltungsbereich der Anweisung des Wasserversorgers oder der Behörden."
 ::: answer danger "JA / KONKRETER VERDACHT" "Art des Verbots beachten"
-**Abkochgebot:** Wasser nur gemäß Anweisung aufbereitet zum Trinken verwenden. **Trinkverbot:** eine andere sichere Trinkwasserquelle verwenden; **Abkochen beseitigt Chemikalien nicht zuverlässig**. **Nutzungsverbot:** Wasser überhaupt nicht verwenden, bis es freigegeben ist. Betroffene Leitungen, Eisbereiter und angeschlossene Spender beachten.
+**Abkochgebot (mikrobiologische Gefahr):** Wenn die Behörde das Auffangen erlaubt, Wasser auch jetzt in **eindeutig als noch aufzubereiten** markierte Gefäße sichern; **vor** Trinken, Kochen und Lebensmittelkontakt entsprechend der Anweisung abkochen. **Trinkverbot (z. B. Chemikalien):** Nur andere sichere Trinkwasserquellen verwenden; **Abkochen beseitigt Chemikalien nicht zuverlässig**. **Nutzungsverbot:** Wasser überhaupt nicht verwenden, bis es freigegeben ist. Hinweise zu Leitungen, Eisbereitern und angeschlossenen Spendern beachten. Liegt nur ein **konkreter Verdacht ohne geklärte Warnungsart** vor, das Wasser vorläufig nicht verwenden und amtliche Klärung suchen.
 ::: answer neutral "NEIN / KEINE MELDUNG" "Wasserverfügbarkeit prüfen"
 Kein bekanntes Verbot ist **kein Beweis** für Unbedenklichkeit. Wenn Wasser normal erscheint und kein konkreter Kontaminationsverdacht besteht, zur **nächsten Frage** gehen. Bei neuem Verdacht sofort die Einstufung ändern.
 ::: enddecision
