@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import hashlib
+import os
 from pathlib import Path
 import re
 import shutil
@@ -29,12 +30,16 @@ def render_for_pdf(markdown: str) -> str:
             executable = str(local_cli) if local_cli.is_file() else shutil.which("mmdc")
             if not executable:
                 raise RuntimeError("Mermaid CLI missing: run 'npm install' before building PDF or print")
-            subprocess.run(
-                [executable, "-i", str(source), "-o", str(target),
-                 "-t", "neutral", "-b", "white"],
-                cwd=ROOT,
-                check=True,
-            )
+            command = [
+                executable, "-i", str(source), "-o", str(target),
+                "-t", "neutral", "-b", "white",
+                "-c", str(ROOT / "templates" / "mermaid-pdf.json"),
+            ]
+            # Hosted CI kernels block Chromium's unprivileged namespace sandbox.
+            # Disable it only inside the isolated GitHub Actions runner.
+            if os.environ.get("CI", "").lower() == "true":
+                command += ["-p", str(ROOT / "templates" / "puppeteer-ci.json")]
+            subprocess.run(command, cwd=ROOT, check=True)
         alt_match = ALT.search(code)
         alt = alt_match.group(1).strip() if alt_match else "Diagramm"
         alt = alt.replace("[", "").replace("]", "")
