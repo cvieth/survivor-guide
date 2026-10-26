@@ -23,14 +23,14 @@ USER_AGENT = "SurvivorGuide/1.0 (offline-education; github.com/cvieth/survivor-g
 
 
 def commons_page(name: str) -> str:
-    return "https://commons.wikimedia.org/wiki/File:" + quote(name.replace(" ", "_"), safe="()-_.~")
+    return "https://commons.wikimedia.org/wiki/File:" + quote(name.replace(" ", "_"), safe="-_.~")
 
 
 def original_file(name: str) -> str:
     normalized = name.replace(" ", "_")
     digest = hashlib.md5(normalized.encode("utf-8")).hexdigest()  # Wikimedia storage sharding, not a security hash
     return ("https://upload.wikimedia.org/wikipedia/commons/"
-            + digest[0] + "/" + digest[:2] + "/" + quote(normalized, safe="()-_.~"))
+            + digest[0] + "/" + digest[:2] + "/" + quote(normalized, safe="-_.~"))
 
 
 def check_jpeg(path: Path) -> bool:
