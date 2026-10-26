@@ -15,6 +15,7 @@
 | Toilette und Abwasser fallen aus: Was ist noch nutzbar? | [Sanitär-Entscheidung](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md) und [Eimertoilette](../06-infrastruktur/nottoilette-eimer.md) |
 | Kassensysteme, Zahlung oder Logistik fallen aus? | [Versorgungsausfall früh erkennen und sicher handeln](versorgungsausfall-frueh-handeln.md) |
 | Welche Lebensmittel brauche ich für 10 Tage ohne Strom, und welche erst mit Kocher? | [Zweistufige Vorratsstrategie und Einkaufslisten](vorratsstrategie-zwei-stufen.md) |
+| Wie entzünde ich ohne Strom oder Feuerzeug ein Kochfeuer? | [Feuer machen: Zunder bis Bogenbohrer](../06-infrastruktur/feuer-machen.md) |
 | Welche Nahrung soll ich bei einer Evakuierung mitnehmen? | [Notverpflegung für unterwegs](notverpflegung-fuer-unterwegs.md) |
 
 !!! warning "Sicherheit der Wasserquelle"
