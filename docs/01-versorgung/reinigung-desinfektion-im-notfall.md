@@ -43,6 +43,8 @@ Bei **Norovirusverdacht** ein gegen Noroviren wirksames, passend zugelassenes Pr
 | [Wasserstoffperoxid](../12-nachschlagewerk/hygienemittel-register.md#wasserstoffperoxid-flaechenprodukte) | Nur ausdrücklich geeignete Flächenprodukte | Routinebehandlung offener Wunden |
 | [Poolchlor](../12-nachschlagewerk/hygienemittel-register.md#poolchlor-und-unklare-chlorprodukte) | Ursprünglicher bestimmungsgemäßer Zweck | Behelfsreinigung nach Bleiche-Rezept |
 
+**Auch die Reinigung erzeugt Schmutzwasser.** Bei unklarer oder gesperrter Kanalisation keinen Eimer in einen Ausguss oder Gully entleeren, sondern nach [Herkunft, Belastung und Entsorgungsweg unterscheiden](../06-infrastruktur/grauwasser-abwasser-entsorgen.md). Mit Fäkalien oder Rohabwasser verschmutztes Putzwasser ist **nicht** für eine Wiederverwendung geeignet.
+
 ## Hilfe verfügbar oder ausgefallen?
 
 Mit Infrastruktur passende Produktetiketten, ggf. Hygiene- und Sanierungsfachkräfte verwenden. Ohne Infrastruktur **mechanische Reinigung, Kontaktschutz und Trennung sauber/unrein priorisieren**; improvisierte Konzentrationen oder Mischungen unbekannter Chemikalien sind keine sichere Notlösung.

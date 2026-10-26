@@ -29,6 +29,8 @@ Immer wieder kleine Schlucke anbieten; nach Erbrechen kurz pausieren und langsam
 4. Erkrankte Personen möglichst nicht für andere kochen lassen, bei Norovirusverdacht **mindestens 48 Stunden nach Symptomende**.
 5. Nur [geeignet sicheres Trinkwasser](../01-versorgung/wasserbedarf-pro-person.md) für Trinken, Zähneputzen und ORS verwenden.
 
+**Entsorgung bei Erkrankten:** Handwasch-, Wäsche- und Putzwasser nach Kontakt mit Erbrochenem oder Fäkalien **nicht** als wenig belastetes Grauwasser behandeln und **niemals** zum Gartenwässern verwenden. [Abwasser bei Krankheitsfällen getrennt sammeln](../06-infrastruktur/grauwasser-abwasser-entsorgen.md) und [Nottoilette](../06-infrastruktur/nottoilette-eimer.md) beachten.
+
 ## Wenn ärztliche Hilfe ausfällt
 
 Zustand wiederholt prüfen. Schwere Austrocknung, Sepsis und manche Durchfallerkrankungen können ohne Fachbehandlung lebensbedrohlich sein. Keine unbekannten Antibiotika oder Durchfallstopper einsetzen. [Loperamid und Risiken](../12-nachschlagewerk/wirkstoffregister.md#loperamid) nicht als Ersatz für Rehydratation betrachten. Bei zunehmender Schwäche, fehlendem Urin, Benommenheit und Kreislaufschwäche [Schockmaßnahmen](schock-kreislaufversagen.md) einleiten und jede erreichbare qualifizierte Hilfe organisieren.

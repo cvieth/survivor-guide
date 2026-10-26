@@ -12,6 +12,7 @@
 | Wann ist Destillation geeignet und wo sind ihre Grenzen? | [Wasser destillieren](wasser-destillieren.md) |
 | Wie wasche ich Hände ohne Wasserhahn? | [Handhygiene und sparsame Waschstation](handhygiene-ohne-leitungswasser.md) |
 | Wie reinige oder desinfiziere ich kontaminierte Flächen? | [Reinigung und Desinfektion im Notfall](reinigung-desinfektion-im-notfall.md) |
+| Wohin mit Handwasch-, Dusch-, Wasch- und Spülwasser ohne Abfluss? | [Grauwasser sammeln, wiederverwenden und entsorgen](../06-infrastruktur/grauwasser-abwasser-entsorgen.md) |
 | Toilette und Abwasser fallen aus: Was ist noch nutzbar? | [Sanitär-Entscheidung](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md) und [Eimertoilette](../06-infrastruktur/nottoilette-eimer.md) |
 | Kassensysteme, Zahlung oder Logistik fallen aus? | [Versorgungsausfall früh erkennen und sicher handeln](versorgungsausfall-frueh-handeln.md) |
 | Wie lange halten Konserven, trockene Vorräte und Proteinpulver ohne Kühlung? | [Haltbare Lebensmittel und Proteinpulver](haltbare-lebensmittel-proteinpulver.md) |

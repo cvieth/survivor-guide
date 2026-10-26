@@ -19,6 +19,7 @@ Dieser Bereich ist die **zentrale Fundstelle** für wiederverwendbare Steckbrief
 ## Hygiene, Sanitärtechnik und chemische Mittel
 
 - [Hygiene- und Reinigungsmittelregister](hygienemittel-register.md): **zentraler Stoffsteckbrief** zu Seife, Handalkohol, Chlorbleiche, Poolchlor, Wasserstoffperoxid sowie Beuteln und Bindematerial. Jeder Eintrag führt zur konkreten Anwendung zurück.
+- [Grauwasser und Schmutzwasserentsorgung](../06-infrastruktur/grauwasser-abwasser-entsorgen.md): Klassifikation, Sammelstation, Risiken und Abwasserbilanz; Rückverweise in den [Stoffsteckbriefen](hygienemittel-register.md#grauwasser-und-schmutzwasserbehaelter).
 - [Sanitär-Entscheidung](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md) · [Eimertoilette](../06-infrastruktur/nottoilette-eimer.md) · [Abwasserrückstau](../06-infrastruktur/abwasser-rueckstau.md).
 - [Handwaschstation](../01-versorgung/handhygiene-ohne-leitungswasser.md) · [Oberflächen reinigen](../01-versorgung/reinigung-desinfektion-im-notfall.md) · [Durchfall und Austrocknung](../02-medizin/durchfall-austrocknung.md).
 

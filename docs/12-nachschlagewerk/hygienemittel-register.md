@@ -11,6 +11,7 @@
 | Alltagsschmutz entfernen | [Seife / Reiniger](#seife-und-waschmittel) | [Reinigung](../01-versorgung/reinigung-desinfektion-im-notfall.md) |
 | Stärker kontaminierte robuste Fläche | Eindeutig geeignetes [Desinfektionsprodukt](#natriumhypochlorit-chlorbleiche) | [Anleitung zu Einwirkzeit und Grenzen](../01-versorgung/reinigung-desinfektion-im-notfall.md) |
 | Hände ohne Wasserhahn | [Alkoholisches Händemittel](#alkoholische-haendedesinfektion) | [Entscheidung: Wasser oder Alkohol](../01-versorgung/handhygiene-ohne-leitungswasser.md) |
+| Grauwasser auffangen | [Abwasserklassen und Sammelbehälter](#grauwasser-und-schmutzwasserbehaelter) | [Grauwasser-Anleitung](../06-infrastruktur/grauwasser-abwasser-entsorgen.md) |
 | Fäkalien auffangen | [Beutel, Streu, Eimer](#beutel-streu-und-eimer) | [Eimertoilette](../06-infrastruktur/nottoilette-eimer.md) |
 | Offene Wunde | **Keine Haushaltschemikalie** | [Wundversorgung](../02-medizin/wunden-mehrtaegige-versorgung.md) |
 
@@ -68,6 +69,15 @@
 - **Risiken:** Kontamination von Händen, Wasser und Boden bei Fehlern.
 - **Rückverweis:** [Nottoilette in zehn Schritten](../06-infrastruktur/nottoilette-eimer.md), [Sanitärentscheidung](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md).
 - **Quelle:** [King County: Emergency Toilet](https://kingcounty.gov/en/dept/dph/health-safety/safety-injury-prevention/emergency-preparedness/personal-preparedness/emergency-toilets).
+
+## Grauwasser und Schmutzwasserbehälter
+
+- **Erkennen:** Wenig belastetes Hand- oder Duschwasser ist kein Trinkwasser. Fettiges Küchenwasser, Putz- und Waschmittelwasser stärker belastet; Toiletten- und Fäkalienwasser gehören in getrennte Abfallströme.
+- **Material:** Intakte, standsichere, ausschließlich für Abwasser verwendete Kanister/Eimer mit Deckel, Beschriftung **ABWASSER – NICHT TRINKEN**, zweite Auffangwanne. Nicht mehr für Lebensmittel nutzen.
+- **Wirkung:** Sicheres Auffangen und getrennte Zwischenlagerung. **Keine** Entkeimung und keine Aufbereitung.
+- **Risiken/Grenzen:** Leckage, Kontaktinfektionen, untragbar schwere Behälter, Wasseransammlungen, Chemikalien. Sand- oder Stofffilter machen Schmutzwasser nicht hygienisch oder chemisch sicher.
+- **Rückverweise:** [Grauwasser klassifizieren, wiederverwenden und entsorgen](../06-infrastruktur/grauwasser-abwasser-entsorgen.md), [Handwaschstation](../01-versorgung/handhygiene-ohne-leitungswasser.md), [Sanitärentscheidung](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md).
+- **Quelle/Evidenz:** Staatliche Praxis- und Risikohinweise: [Health New Zealand](https://www.healthnz.govt.nz/health-professionals/guidance-standards/topic/environmental-health/built-environment/wastewater), [Umweltbundesamt](https://www.umweltbundesamt.de/themen/wasser/wasser-bewirtschaften/wasserwiederverwendung/fragen-antworten-zur-wasserwiederverwendung). Keine improvisierte Technik als feldvalidiert ausgegeben.
 
 ## Zu den anderen Registern und zurück
 

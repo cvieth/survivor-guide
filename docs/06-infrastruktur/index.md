@@ -10,6 +10,7 @@
 
 - [Sanitärversorgung bei Wasser- und Abwasserausfall](sanitaerversorgung-bei-ausfall.md): Abwasserlage, Spülmöglichkeiten und sichere Alternativen mit Entscheidungskarten.
 - [Nottoilette aus zwei Eimern](nottoilette-eimer.md): Material, Aufbau, Benutzung, Trennung und Zwischenlagerung.
+- [Grauwasser sammeln, wiederverwenden und entsorgen](grauwasser-abwasser-entsorgen.md): Wasser nach Belastung trennen, sicher auffangen, Wiederverwendung und Entsorgung prüfen.
 - [Abwasserrückstau](abwasser-rueckstau.md): gefährdete Räume, Kontamination und sichere Wiederbenutzung.
 - [Handhygiene ohne Wasserhahn](../01-versorgung/handhygiene-ohne-leitungswasser.md): einfach gebaute Waschstation mit sparsamem Verbrauch.
 - [Reinigung und Desinfektion](../01-versorgung/reinigung-desinfektion-im-notfall.md): mechanische Reinigung zuerst; Chlorbleiche nur mit passenden Voraussetzungen.

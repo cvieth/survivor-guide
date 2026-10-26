@@ -35,6 +35,10 @@ Ist die Kanalisation laut Betreiber beziehungsweise verlässlich nutzbar, kann b
 | Rohabwasser in Wohnräumen | [Sperren, schützen, fachgerechte Reinigung vorbereiten](abwasser-rueckstau.md) | Ohne Schutz im Abwasser arbeiten |
 | Mehrwöchiger Versorgungsausfall | Sichere Sammlung, getrennte Zwischenlagerung und möglichst koordinierte Entsorgung | Fäkalien offen lagern oder in Gewässer entsorgen |
 
+## Benutztes Wasser: der zweite Entsorgungsstrom
+
+**Auch die Handwaschstation und jede Geschirreinigung erzeugen Abwasser.** Wenn Kanäle nicht nachweislich nutzbar sind, [Grauwasser separat sammeln, Herkunft beurteilen und einen Entsorgungsplan erstellen](grauwasser-abwasser-entsorgen.md). **Nicht** einfach in Abfluss, Gully oder Garten kippen. Fäkalien- und Toiletteninhalt strikt getrennt halten.
+
 ## Wenn professionelle Hilfe erreichbar ist
 
 Abwasserbetrieb, Hausverwaltung, örtliche Behörde und bei Schäden qualifizierte Sanitärfirmen kontaktieren. Nicht selbst in Schächte, Kanäle oder Pumpensümpfe einsteigen.
@@ -45,7 +49,7 @@ Kurzfristig auf **dichte Behälter und vorläufige Lagerung** setzen. Für die N
 
 ## Wissensverknüpfung und Quellen
 
-[Nottoilette](nottoilette-eimer.md) · [Abwasserrückstau](abwasser-rueckstau.md) · [Handhygiene](../01-versorgung/handhygiene-ohne-leitungswasser.md) · [Flächendesinfektion](../01-versorgung/reinigung-desinfektion-im-notfall.md) · [Hygienemittelregister](../12-nachschlagewerk/hygienemittel-register.md) · [72 Stunden](../00-grundlagen/erste-72-stunden.md).
+[Grauwasser sammeln und entsorgen](grauwasser-abwasser-entsorgen.md) · [Nottoilette](nottoilette-eimer.md) · [Abwasserrückstau](abwasser-rueckstau.md) · [Handhygiene](../01-versorgung/handhygiene-ohne-leitungswasser.md) · [Flächendesinfektion](../01-versorgung/reinigung-desinfektion-im-notfall.md) · [Hygienemittelregister](../12-nachschlagewerk/hygienemittel-register.md) · [72 Stunden](../00-grundlagen/erste-72-stunden.md).
 
 - [BBK: Hygiene in Notzeiten](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Hygiene/hygiene.html).
 - [CDC: Septic and Wastewater Systems in Emergencies, 2026](https://www.cdc.gov/floods/safety/guidelines-for-septic-and-onsite-wastewater-systems.html).

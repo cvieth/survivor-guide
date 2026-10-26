@@ -16,6 +16,7 @@ Hier beginnt die Orientierung bei einer akuten Krise: **Zuerst Gefahr und Schutz
 
 ## Wenn eine Entscheidung weitere Details braucht
 
+- **Grauwasser bei Kanalausfall:** [Wasch- und Spülwasser getrennt sammeln und sicher entsorgen](../06-infrastruktur/grauwasser-abwasser-entsorgen.md).
 - **Sanitär- und Hygienenotfall:** [Abwasserlage entscheiden](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md), [Nottoilette bauen](../06-infrastruktur/nottoilette-eimer.md), [Hände waschen](../01-versorgung/handhygiene-ohne-leitungswasser.md).
 - **Tankstellen oder Treibstoffversorgung gestört:** [Kraftstoff bei Stromausfall](../06-infrastruktur/kraftstoff-bei-stromausfall.md) mit sicheren Alternativen und Lagergrenzen.
 - **Zahlungen oder Warenverkauf gestört:** [Versorgungsstörung und kritische Ressourcen](../01-versorgung/versorgungsausfall-frueh-handeln.md) früh und gefahrlos prüfen.

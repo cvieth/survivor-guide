@@ -13,6 +13,8 @@ Menschen und Tiere fernhalten, Bereich absperren. Strom nur aus einem **sicheren
 Toilette, Dusche, Waschmaschine und andere Abläufe **nicht mehr benutzen**. Trinkwasser und Lebensmittel abseits der schmutzigen Zone sichern und die [Nottoilette](nottoilette-eimer.md) bereitstellen.
 ::: enddecision
 
+Bei Rückstau ist **auch Wasch-, Spül- und Putzwasser** betroffen: nichts mehr in den unsicheren Abfluss ableiten. [Grauwasser getrennt auffangen und lagern](grauwasser-abwasser-entsorgen.md); kontaminiertes Rückstauwasser nicht wiederverwenden.
+
 ## Schritt für Schritt
 
 1. **Kein weiteres Wasser einleiten.** Nicht am Rückstauverschluss oder der Hebeanlage hantieren, wenn Ursache und Zustand unklar sind.

@@ -24,7 +24,7 @@ Mit dem saubersten gesundheitlich geeigneten Wasser und Reibung so viel Schmutz 
 3. Hände kurz anfeuchten, Wasserzufuhr stoppen.
 4. Mit gewöhnlicher Seife mindestens **20 Sekunden** Handflächen, Handrücken, Fingerzwischenräume, Daumen und Fingerspitzen verreiben.
 5. Mit neu zufließendem sauberem Wasser abspülen, **nicht in einer von mehreren Menschen gemeinsam benutzten Waschschüssel**.
-6. Mit sauberem Tuch/Papier trocknen, Schmutzwasser entsprechend der [Abwasserlage](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md) sicher sammeln oder entsorgen.
+6. Mit sauberem Tuch/Papier trocknen, Schmutzwasser unter dem Auslass **separat in einem gekennzeichneten Behälter** auffangen; nicht zum Trinkwasser zurückleiten. Bei unsicherer Kanalisation nach der [Grauwasser-Sammel- und Entsorgungsanleitung](../06-infrastruktur/grauwasser-abwasser-entsorgen.md) vorgehen und die [Sanitärlage](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md) prüfen.
 
 **Wann unbedingt?** Nach der Toilette, Windelwechsel, Tierkot, Müll, erkrankten Personen, Wunden und vor Kochen, Essen oder Säuglingspflege. Bei Durchfall und Erbrechen möglichst **Seife und Wasser statt nur Alkoholmittel** nutzen. [Ansteckung verhindern](../02-medizin/durchfall-austrocknung.md).
 

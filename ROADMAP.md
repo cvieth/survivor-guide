@@ -14,7 +14,8 @@
 - [x] Praktische Notfallartikel zu Wiederbelebung, Blutstillung, Schock, Verletzungen, Temperatur und Wunden als zu prüfende Entwürfe
 - [ ] Laienprotokolle praktisch und fachlich mit qualifizierten Ausbildern validieren
 - [x] Praktische Sanitär-, Handhygiene- und Desinfektionsentwürfe mit Entscheidungsbäumen und Stoffregister vernetzen
-- [ ] Sanitär-, Chemie- und Infektionsschutz-Anleitungen mit Fachleuten prüfen
+- [x] Grauwasser und Abwasserentsorgung mit Risikoklassen, Entscheidungspfaden, Auffangstation, Mengenbilanz und Registerverweisen dokumentieren
+- [ ] Grauwasser-, Sanitär-, Chemie- und Infektionsschutz-Anleitungen mit Fachleuten prüfen
 
 ## Später
 - [ ] Systematische fachliche Reviews

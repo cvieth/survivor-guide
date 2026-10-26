@@ -36,6 +36,8 @@ Nur die ausgewiesenen Behälter und Annahmewege nutzen. **Streu, Müllbeutel und
 Verschlossene Beutel und Urinbehälter geschützt lagern; Lagerkapazität täglich prüfen. **Nicht** in Flüsse, Regenabflüsse, Gehwege oder nahe Trinkwasserquellen kippen.
 ::: enddecision
 
+**Wichtig:** [Handwasch-, Geschirr- und Duschwasser](grauwasser-abwasser-entsorgen.md) **nicht** zum Stuhl- oder Urinbehälter kippen. Das erhöht Füllung und Leckagegefahr. Fäkalien und Grauwasser werden separat gesammelt.
+
 ## Sonderfälle
 
 - **Durchfall/Erbrechen:** Wenn möglich gesonderte Toilette der erkrankten Person, häufigere Beutelwechsel, [Handhygiene](../01-versorgung/handhygiene-ohne-leitungswasser.md), [Austrocknung erkennen](../02-medizin/durchfall-austrocknung.md).

@@ -207,6 +207,8 @@ Bei Rückstau, überflutetem Abfluss oder unklarem Zustand **keine weiteren Spü
 
 **Nach dieser Entscheidung weiter:** [Sanitärlage systematisch beurteilen](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md), [Eimertoilette bauen](../06-infrastruktur/nottoilette-eimer.md), [Abwasserrückstau](../06-infrastruktur/abwasser-rueckstau.md), [Hände ohne Wasserhahn waschen](../01-versorgung/handhygiene-ohne-leitungswasser.md). **Die Sofortmaßnahmen im Entscheidungsblock nicht zum Lesen der Links verzögern.**
 
+**Auch Grauwasser kontrollieren:** Sobald Abflüsse unsicher sind, Handwasch- und Spülwasser **in einem gesonderten, beschrifteten Behälter** sammeln. Nicht in Gully oder Gewässer schütten. Nach den Sofortmaßnahmen [Herkunft bewerten, Sammelstation einrichten und tägliche Abwassermenge planen](../06-infrastruktur/grauwasser-abwasser-entsorgen.md); [Fäkalien separat](../06-infrastruktur/nottoilette-eimer.md) sichern.
+
 **Hygiene-Prioritäten:** sichere Handreinigung nach Toilettennutzung und vor der Lebensmittelzubereitung; getrennte Behälter und Lagerung; Windeln, Hygieneartikel und Tierkot gesondert entsorgen; nicht in Oberflächengewässer einleiten. [BBK: Hygiene in Notzeiten](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Hygiene/hygiene.html).
 
 ## 6–12 Stunden: Geeignete Unterkunft und Wärme sichern
@@ -250,7 +252,7 @@ Trinkwasserbehälter sauber, verschlossen und beschriftet halten. Tagesverbrauch
 **Nicht weiter aufschieben:** amtliche Trinkwasserausgaben, vorhandene abgefüllte Reserven oder andere nachweislich sichere Quellen prüfen. Ist nur Rohwasser vorhanden, Ausgangsbelastung und zulässige Behandlung unterscheiden; [Oberflächenwasser aufbereiten](../01-versorgung/oberflaechenwasser-aufbereiten.md). **Abkochen/Desinfektion hilft nicht zuverlässig gegen chemische Schadstoffe oder radioaktive Kontamination.** Bei fehlender sicherer Quelle rechtzeitig Hilfe oder sicheren Ortswechsel organisieren.
 ::: enddecision
 
-Den Unterschied zwischen **Trink-/Lebensmittelwasser, geeignetem Hygienewasser und technischem Brauchwasser** beachten: [Wasserbedarf pro Person und Tag](../01-versorgung/wasserbedarf-pro-person.md). Weitere Tagesaufgaben: Abfall sammeln, Sanitärlösung prüfen, Medikamente und Energieverbrauch protokollieren, notwendige Unterstützung in der Nachbarschaft vermitteln, **ohne den Eigenschutz zu vernachlässigen**.
+Den Unterschied zwischen **Trink-/Lebensmittelwasser, geeignetem Hygienewasser und technischem Brauchwasser** beachten: [Wasserbedarf pro Person und Tag](../01-versorgung/wasserbedarf-pro-person.md). Weitere Tagesaufgaben: Abfall sammeln, [Grauwassermenge und sichere Lagerkapazität bilanzieren](../06-infrastruktur/grauwasser-abwasser-entsorgen.md), Sanitärlösung prüfen, Medikamente und Energieverbrauch protokollieren, notwendige Unterstützung in der Nachbarschaft vermitteln, **ohne den Eigenschutz zu vernachlässigen**.
 
 ## 48–72 Stunden: Standort auf weitere Tragfähigkeit prüfen
 
