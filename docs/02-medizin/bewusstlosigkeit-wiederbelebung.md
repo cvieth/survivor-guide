@@ -70,7 +70,7 @@ Nur **deutlich sichtbare, leicht erreichbare Fremdkörper** aus dem Mund nehmen;
 ## Quellen
 
 - [ERC / Resuscitation Council UK, Adult Basic Life Support 2025](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/adult-basic-life-support-guidelines).
-- [Resuscitation Council UK, Paediatric Life Support 2025](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/paediatric-life-support-guidelines).
+- [Resuscitation Council UK, Paediatric Life Support 2025](https://doi.org/10.1016/j.resuscitation.2025.110767).
 - [ERC / Resuscitation Council UK, First Aid 2025](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/first-aid-guidelines).
 - [NHS, Recovery position](https://www.nhs.uk/conditions/first-aid/recovery-position/).
 
