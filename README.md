@@ -9,7 +9,7 @@
 - [Aktuelles veröffentlichtes PDF (A4)](https://github.com/cvieth/survivor-guide/releases/latest/download/survivor-guide.pdf)
 - [Druckvorlage (6 × 9 Zoll, Entwurf)](https://github.com/cvieth/survivor-guide/releases/latest/download/survivor-guide-print-interior.pdf)
 - [Alle versionierten Ausgaben](https://github.com/cvieth/survivor-guide/releases)
-- [PDF-Vorschau des aktuellen Entwicklungsstands](https://cvieth.github.io/survivor-guide/downloads/survivor-guide.pdf)
+- [PDF-Vorschau des aktuellen Entwicklungsstands (Actions-Artefakt)](https://github.com/cvieth/survivor-guide/actions/workflows/publish.yml)
 
 ## Ziele
 Wissen öffentlich dokumentieren, offline bewahren und gemeinschaftlich fachlich prüfen. Die drei Zeithorizonte sind **akutes Überleben**, **Stabilisierung** und **langfristiger Wiederaufbau**.
@@ -37,7 +37,7 @@ Mit `make print` entsteht `build/survivor-guide-print-interior.pdf` als **unverb
 
 ## Veröffentlichung
 
-Der Workflow `Publish website and PDF` veröffentlicht bei jedem Push auf `main` die Website und ein unversioniertes Vorschau-PDF auf GitHub Pages. Unter **Settings → Pages → Build and deployment** muss dazu **GitHub Actions** als Quelle eingestellt sein.
+Der Workflow `Publish website and PDF` veröffentlicht bei jedem Push auf `main` die Website auf GitHub Pages und stellt ein unversioniertes Vorschau-PDF als herunterladbares GitHub-Actions-Artefakt bereit. Unter **Settings → Pages → Build and deployment** muss dazu **GitHub Actions** als Quelle eingestellt sein.
 
 Der separate Workflow [`Publish versioned PDF releases`](.github/workflows/release.yml) erzeugt bei einem neuen Versionstag **beide PDF-Dateien** und veröffentlicht sie als Assets eines GitHub Releases. Die Dateinamen bleiben innerhalb der Releases gleich, ältere Versionen sind über [alle Releases](https://github.com/cvieth/survivor-guide/releases) abrufbar.
 
