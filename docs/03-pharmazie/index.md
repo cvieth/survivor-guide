@@ -6,7 +6,9 @@
 ## Verfügbare Artikel
 
 - **[Apotheke bei Versorgungsausfall: Such- und Prioritätenliste](apotheke-prioritaeten.md)** – Was bei knapper Zeit medizinisch besonders nützlich sein kann.
-- **[Wirkstoffregister (Kapitel 12 · Nachschlagewerke)](../12-nachschlagewerk/wirkstoffregister.md)** – 25 durchsuchbare Steckbriefe mit Wirkungen, Grenzen, Risiken, Alternativen und Quellen.
+- **[Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md)**: 25 durchsuchbare Arzneimittelsteckbriefe mit Wirkungen, Grenzen, Risiken, Alternativen und Quellen.
+- **[Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md)**: 12 Pflanzensteckbriefe, getrennt nach traditionell anerkannten und klinisch gestützten Anwendungen.
+- **[Beschwerden und Mittel finden](../02-medizin/beschwerden-und-mittel.md)**: Einstieg nach Beschwerden mit direkten Verweisen auf Erstmaßnahmen, Arzneimittel und Pflanzen.
 
 !!! warning "Medizinische Fachprüfung ausstehend"
     Die neuen Artikel sind recherchierte Entwürfe und keine Dosierungs-, Diagnose- oder Behandlungsempfehlungen.
@@ -20,7 +22,7 @@ Bei Fieber: [Symptome einordnen und mögliche Maßnahmen prüfen](../02-medizin/
 - Dosierung und Gegenanzeigen
 - Haltbarkeit
 - Desinfektion
-- Heilpflanzen
+- Heilpflanzen sicher bestimmen und konservieren
 - Chemische Grundlagen
 
 ## Ziel
