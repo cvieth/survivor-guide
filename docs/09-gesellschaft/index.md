@@ -1,7 +1,7 @@
 # Gesellschaft, Psychologie & Soziales
 
 !!! info "In Arbeit"
-    Dieses Kapitel ist ein redaktioneller Themenplan. Fachlich geprüfte Artikel folgen. Keine der nachstehenden Überschriften ersetzt eine konkrete Anleitung.
+    Die meisten Themen sind noch ein redaktioneller Plan. Der Artikel über Hilfegrenzen ist ein ausdrücklich ethisch und moralisch zu prüfender Entwurf, keine abschließend freigegebene Handlungsregel.
 
 ## Themenfelder
 
@@ -10,6 +10,7 @@
 - Vertrauen
 - Konfliktlösung
 - Entscheidungsstrukturen
+- [Selbstschutz, Solidarität und Grenzen der Hilfe](grenzen-der-hilfe.md) (Entwurf, ethisch und moralisch zu prüfen)
 - Recht und Ethik
 - Bildung
 
