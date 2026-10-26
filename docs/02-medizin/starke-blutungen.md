@@ -23,12 +23,21 @@ Ein **geprüftes Tourniquet** verwenden, wenn die lebensbedrohliche Extremitäte
 Tourniquets sind hier **nicht geeignet**. Druck auf die blutende Stelle aufrechterhalten, ohne Atemwege oder Atmung zu behindern; qualifizierte Hilfe und möglichst sicheren Transport organisieren.
 ::: enddecision
 
+## Warum Ausbrennen nicht zur Blutstillung gehört
+
+Eine Kauterisation kann im medizinischen Umfeld gezielt **kleine Blutgefäße** verschließen. **Glühendes Metall, Feuer oder Schießpulver in einer offenen Wunde** sind dagegen keine verlässlichen Laienmaßnahmen gegen lebensbedrohlichen Blutverlust. Sie verursachen zusätzliche Gewebeschäden und können die weitere Behandlung erschweren.
+
+**Stattdessen:** unmittelbaren festen Druck aufrechterhalten; bei lebensbedrohlicher Arm- oder Beinblutung, die so nicht kontrollierbar ist, ein geeignetes Tourniquet verwenden. Eine **Wundtamponade (Wound Packing)** mit geeignetem Verbandsmaterial kann bei manchen tiefen, äußerlich komprimierbaren Blutungen, besonders an Übergängen von Extremitäten zum Rumpf, durch **entsprechend geschulte Helfende** sinnvoll sein. Dabei muss weiter kräftiger Druck ausgeübt werden. **Nicht ungeschult blind in offene Brust- oder Bauchverletzungen hineinstopfen.** Die Blutstillung hat Vorrang vor Sterilität, jedoch ist möglichst sauberes Material zu bevorzugen.
+
+Mehr zur weiteren [Wundreinigung, improvisierten Verbänden und Ausbrenn-Mythen](wunden-mehrtaegige-versorgung.md#klassische-notbehelfe-pruefen-ausbrennen-naehen-und-haushaltsmittel).
+
 ## Material und Grenzen
 
 | Vorhanden | Geeignete Nutzung | Grenze |
 | --- | --- | --- |
 | Verbandpäckchen / sterile Kompresse | Direkter Druck, anschließend Druckverband | Sterilität ersetzt keinen ausreichenden Druck |
 | Sauberes Tuch / sauberes Shirt | Notfallauflage und direkter Druck | Fusseln, Verschmutzung und spätere Wundversorgung beachten |
+| Hämostatische Wundauflage | Ergänzend zu direktem Druck bei lebensbedrohlicher Blutung; Wundtamponade nur nach entsprechender Schulung | Kein Ersatz für Druck oder fachgerechte Versorgung; nicht blind in Körperhöhlen stopfen |
 | Kommerzielles Tourniquet | Nur bedrohliche Blutung an einer Extremität, bei fehlender Kontrolle durch Druck | Bei falscher Anwendung erhebliche Schäden; Anwendung vorab üben |
 | Gürtel, Kabel, dünne Schnur | **Keine verlässliche Tourniquet-Alternative** | Können Blutung unzureichend stoppen oder Gewebe verletzen |
 
@@ -47,5 +56,7 @@ Mindestens eine Person hält den Druck; eine weitere beschafft sauberes Material
 - [European Resuscitation Council / Resuscitation Council UK, First Aid 2025, Control of life-threatening bleeding](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/first-aid-guidelines).
 - [DRK, starke Blutungen stillen](https://www.drk.de/hilfe-in-deutschland/erste-hilfe/blutungen-und-blutstillung/blutungen/).
 - [NHS, Cuts and grazes](https://www.nhs.uk/conditions/cuts-and-grazes/).
+- [American Heart Association / American Red Cross, First Aid Guidelines 2024: Blutstillung und Wundtamponade](https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines).
+- [Cleveland Clinic, Electrocauterization: nur gezielte medizinische Anwendung](https://my.clevelandclinic.org/health/treatments/24032-electrocauterization).
 
 **Status:** Redaktioneller Entwurf, medizinischer Fachreview offen.

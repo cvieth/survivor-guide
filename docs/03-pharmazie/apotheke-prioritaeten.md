@@ -36,6 +36,8 @@ Diese **Stufen sind keine Empfehlung für eine universelle Bevorratungsmenge ode
 
 **Priorität:** sterile NaCl-Lösung 0,9 % und sterile Verbände. Octenidin, PHMB und Povidon-Iod nur in **ausdrücklich für Wunden geeigneten Präparaten** und nach Indikation einsetzen. **Wasserstoffperoxid (auch 3 %) ist kein empfohlenes Standardmittel zur offenen Wundversorgung**; Alkohol, Chlorbleiche und Poolchemikalien gehören ebenfalls nicht in Wunden. Bei kleinen oberflächlichen Wunden kann sicheres Trinkwasser zur Reinigung ausreichen. Siehe [Wundversorgung und Antiseptikentscheidung](../02-medizin/wunden-mehrtaegige-versorgung.md#reinigung-oder-antiseptik-was-ist-sinnvoll) und den warnenden [Wasserstoffperoxid-Steckbrief](../12-nachschlagewerk/wirkstoffregister.md#wasserstoffperoxid).
 
+**Für langfristige Wundversorgung zusätzlich hilfreich:** nicht haftende Wundauflagen, Wundverschlussstreifen für ausgewählte saubere kleine Schnitte, Pflaster, Fixierbinden, Handschuhe und saubere Vaseline für oberflächliche Wunden. Bei lebensbedrohlichen Blutungen sind **geeignete Druck- beziehungsweise hämostatische Verbände und ein geprüftes Tourniquet** wichtiger als Wundsalben. Improvisierte Nähsets, Haushaltskleber, Feuer oder erhitztes Metall sind keine sicheren Ersatzverfahren. Die konkreten [Behelfsmaßnahmen und Grenzen](../02-medizin/wunden-mehrtaegige-versorgung.md#klassische-notbehelfe-pruefen-ausbrennen-naehen-und-haushaltsmittel) stehen bewusst nur im Wundartikel.
+
 ## Warum die Antibiotika nicht austauschbar sind
 
 | Wirkstoff | Möglicher klinischer Bereich (Beispiele) | Entscheidende Grenze |

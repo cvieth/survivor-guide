@@ -24,7 +24,7 @@ Hände säubern, mit geeignetem Wasser spülen, abdecken und Verlauf kontrollier
 5. Datum, Ort, Größe und Auffälligkeiten notieren. Wunde mindestens **täglich** ansehen. Bei unsicherer Umgebung öfter prüfen. Deutlich zunehmender Schmerz, Rötung, Schwellung, Wärme, Eiter, rote Streifen, Fieber oder Benommenheit sind Warnzeichen.
 6. Ringe und enge Gegenstände bei anschwellenden Gliedmaßen frühzeitig entfernen, soweit gefahrlos möglich. Verletzte Stelle möglichst schonen.
 
-**Nicht verwenden:** Erde, Asche, Speichel, Pflanzenbrei, selbst gesammelte Kräuter in offenen Wunden, Haushaltskleber, nicht sterile Nähnadeln. Tiefes Wundnähen, aggressives Ausschneiden von Gewebe und unbekannte Antibiotikadosen sind keine sicheren Laienmaßnahmen.
+**Nicht verwenden:** Erde, Asche, Speichel, Pflanzenbrei, selbst gesammelte Kräuter in offenen Wunden, Haushaltskleber, nicht sterile Nähnadeln oder erhitztes Metall zum Ausbrennen. Tiefes Wundnähen, aggressives Ausschneiden von Gewebe und unbekannte Antibiotikadosen sind keine sicheren Laienmaßnahmen.
 
 
 ## Reinigung oder Antiseptik: Was ist sinnvoll?
@@ -71,6 +71,57 @@ Die Reihenfolge bleibt: **Blutung stillen, Hände und Materialien möglichst sau
 | Befestigen | Pflaster, Mullbinde | Saubere Stoffstreifen, **nicht** einschnüren |
 | Verlauf festhalten | Papier, Uhr, Stift | Protokoll auch ohne Mobiltelefon möglich |
 
+## Klassische Notbehelfe prüfen: Ausbrennen, Nähen und Haushaltsmittel
+
+### Wunden ausbrennen: historische Technik, kein sicherer Erste-Hilfe-Ersatz
+
+Beim **Kauterisieren** werden Gewebestrukturen gezielt durch Hitze oder bestimmte medizinische Verfahren verändert. Medizinisches Fachpersonal kann so im passenden Umfeld **kleine Blutgefäße** verschließen. Das ist **nicht** mit dem Ausbrennen einer Verletzung durch eine glühende Klinge, ein Feuerzeug oder erhitztes Metall gleichzusetzen.
+
+- **Nicht zum „Sterilisieren“ einer Wunde:** Hitze kann im Gewebe nicht kontrolliert alle Krankheitserreger abtöten, ohne zugleich gesunde Zellen zu schädigen. Die neue Verbrennung erschwert die Heilung und kann das Infektionsrisiko erhöhen.
+- **Nicht als Blutstillungsversuch durch Laien:** Das Verbrennen einer unkontrolliert blutenden Wunde behebt eine tiefe Gefäßverletzung nicht verlässlich. Es drohen zusätzliche Verbrennungen, Narben und fortgesetzter Blutverlust.
+- **Wann medizinisch sinnvoll?** Ausschließlich bei geeigneter Indikation und gezielter Durchführung durch qualifiziertes Fachpersonal, etwa bei kleinen blutenden Gefäßen. **Keine improvisierte Ausbrennanleitung** für den Versorgungsausfall.
+
+Bei starker Blutung **sofort festen direkten Druck** anwenden und den [Blutungs-Entscheidungsweg](starke-blutungen.md) befolgen. Ein geprüfter hämostatischer Verband, Wundtamponade durch entsprechend geschulte Helfende oder ein korrekt angelegtes Tourniquet an einer Extremität können abhängig von der Blutung sinnvoll sein. Feuer und erhitzte Gegenstände gehören nicht dazu.
+
+### Wenn Standardmaterial fehlt: sichere Improvisation
+
+| Problem | Praktische Notlösung | Wichtige Grenze |
+| --- | --- | --- |
+| Keine sterile Kompresse | Sauberes, möglichst frisch gewaschenes, **fusselfreies** Baumwolltuch oder glattes sauberes Stoffstück verwenden | Nicht steril; grobe Fasern und flauschige Watte nicht direkt auf die Wunde legen |
+| Keine Mullbinde | Saubere längere Stoffstreifen oder Dreiecktuch zum Halten der Wundauflage | Nicht abschnüren; Hautfarbe, Wärme, Gefühl und Bewegung unterhalb kontrollieren |
+| Verband klebt fest | Mit geeigneter Spüllösung oder sauberem Wasser anfeuchten und dann vorsichtig lösen | Nicht trocken abreißen und dadurch erneut Blutungen auslösen |
+| Keine Wundspüllösung | **Sicheres Trinkwasser** für kleine, oberflächliche akute Wunden verwenden; falls nötig nach [Wasseraufbereitung](../01-versorgung/oberflaechenwasser-aufbereiten.md) | Nicht mit Sterilität gleichsetzen; keine ungeprüfte Salzlösung mit Küchenzutaten herstellen |
+| Kein Wundgel | Bei **sauberer, kleiner, oberflächlicher** Wunde kann eine dünne Schicht reine Vaseline aus einem sauberen Behältnis vor Austrocknung schützen | Nicht in tiefe, verschmutzte oder infizierte Wunden stopfen; keine Duft- oder Pflegecremes |
+| Kleine Wunde klafft leicht | Sterile Wundverschlussstreifen können nach gründlicher Reinigung bei **oberflächlicher, gerader, spannungsarmer und nicht infizierter** Wunde helfen | Keine tiefen, gähnenden, stark blutenden, bissbedingten oder verschmutzten Wunden verschließen |
+| Kein Tagebuch oder Foto | Datum und ungefähre Größe notieren; Ausbreitung einer Rötung mit sauberem Stift **auf intakter Haut** markieren | Markierung nicht in die Wunde bringen; Verschlechterung nicht nur anhand von Fotos beurteilen |
+
+**Für die Versorgung über Tage:** möglichst viele saubere Auflagen vorbereiten, Hände vor jedem Wechsel waschen, Verband täglich beziehungsweise früher bei Nässe, Blutdurchtränkung oder Verschmutzung wechseln. Wunde vor Reibung schützen und schmerzhaft bewegte Körperregion schonen. Bei sauberen oberflächlichen Verletzungen kann ein **leicht feuchtes Wundmilieu unter geeigneter Auflage** die Heilung unterstützen; einen verschmutzten Verband nicht feucht liegen lassen.
+
+### Wunde offen lassen oder verschließen?
+
+::: decision
+label: "WUNDE · VERSCHLUSS"
+question: "Ist es ein kleiner, sauberer, oberflächlicher Schnitt mit gut anliegenden Wundrändern und ohne Biss-, Stich- oder Quetschmechanismus?"
+hint: "Schon geringe Tiefe an Hand, Gesicht oder über einem Gelenk kann Sehnen, Nerven oder andere wichtige Strukturen betreffen. Bei Unsicherheit den Risikopfad wählen."
+::: answer protect "JA" "Schonend abdecken"
+Nach Blutstillung und gründlicher Reinigung sauber abdecken. Bei leicht klaffenden Rändern können **medizinische Wundverschlussstreifen** nach Packungsanweisung verwendet werden; ohne geeignete Streifen lieber Schutzverband und fachliche Beurteilung als Haushaltskleber oder eigene Naht.
+::: answer danger "NEIN / UNSICHER" "Nicht eigenmächtig verschließen"
+Bei tiefen, stark verschmutzten, infizierten, biss- oder stichbedingten Wunden **nicht zukleben, selbst nähen oder klammern**. Blutung stillen, lose Verschmutzung mit geeigneter Spüllösung entfernen, steril beziehungsweise möglichst sauber abdecken, Bewegung reduzieren. Wenn Hilfe erreichbar ist, frühzeitig fachlich beurteilen lassen; im Ausfall täglich prüfen und sichere Transportoptionen suchen.
+::: enddecision
+
+### Verbreitete Hausmittel und Mythen
+
+| Methode | Bewertung |
+| --- | --- |
+| **Glühendes Eisen, Feuer, Schießpulver** | Keine kontrollierte Blutstillung oder Desinfektion; zusätzliche Verbrennungen und Infektionsgefahr. **Nicht anwenden.** |
+| **Alkohol, Chlorreiniger, Poolchlor, Wasserstoffperoxid** | Ungeeignet beziehungsweise gewebeschädigend bei routinemäßiger offener Wundversorgung; siehe [Antiseptikentscheidung](#reinigung-oder-antiseptik-was-ist-sinnvoll). |
+| **Haushalts-Sekundenkleber** | Kein Ersatz für medizinischen Gewebekleber; Fehlanwendung kann Gewebeverletzungen und Verbrennungen verursachen. Keine ungeübte Wundverklebung. |
+| **Nadel und Faden aus dem Haushalt** | Kein sicheres Material für Wundnähte. Risiko durch Keime, Fehlverschluss und verdeckte Gewebeschäden. |
+| **Honig aus dem Küchenschrank** | Nicht mit **sterilisiertem medizinischem Wundhonig** gleichsetzen. Letzterer kann für bestimmte Indikationen geeignet sein; Haushalts- oder selbst gewonnener Honig wird nicht als sichere offene Wundauflage empfohlen. |
+| **Asche, Erde, Kaffeepulver, Tabak, Spinnweben, Pflanzenbrei, Öl** | Nicht steril, können Fremdstoffe oder Keime eintragen und erschweren die Reinigung. **Nicht auf offene Wunden geben.** |
+
+**Grenzen der Selbsthilfe:** Fieber, schnell fortschreitende Rötung oder Schwellung, rote Streifen, Verwirrtheit, auffallend schnelle Atmung, schwarz verfärbtes Gewebe, ungewöhnlich starke Schmerzen oder übler Geruch können auf eine schwere Infektion hinweisen. Dabei reichen Spülung, Verband und Hausmittel nicht aus. Mit vorhandener Infrastruktur **112 beziehungsweise medizinische Versorgung veranlassen**; ohne Infrastruktur sichere Reinigung und Abdeckung fortführen, unnötige Manipulation vermeiden und so schnell wie möglich qualifizierte Hilfe oder sicheren Transport organisieren.
+
 ## Tetanus und besondere Infektionsrisiken
 
 Bei verschmutzten oder tiefen Wunden und Bissen **Impfschutz klären**. Nach vollständiger Grundimmunisierung kann bei schmutzigen Wunden ab **fünf Jahren**, bei sauberen kleinen Wunden ab **zehn Jahren** seit der letzten Impfung eine Auffrischung angezeigt sein; unklarer oder unvollständiger Schutz kann weitere Maßnahmen erfordern. **Das ist eine ärztliche Impfentscheidung, keine Aufforderung zur Eigeninjektion.** Antibiotika verhindern Tetanus nicht zuverlässig.
@@ -91,5 +142,10 @@ Tägliche Kontrolle und Verbandwechsel, Handhygiene, Trinkwasserqualität, trock
 - [MHRA, Hydrogen peroxide: reminder of risk of gas embolism, 2014](https://www.gov.uk/drug-safety-update/hydrogen-peroxide-reminder-of-risk-of-gas-embolism-when-used-in-surgery).
 - [CDC, Clinical Guidance for Wound Management to Prevent Tetanus, aktualisiert September 2026](https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html).
 - [ERC / Resuscitation Council UK, First Aid Guidelines 2025](https://www.resus.org.uk/professional-library/2025-resuscitation-guidelines/first-aid-guidelines).
+- [American Heart Association / American Red Cross, First Aid Guidelines 2024: Wundspülung und Blutstillung](https://cpr.heart.org/en/resuscitation-science/2024-first-aid-guidelines).
+- [American Academy of Dermatology, Wound care: Reinigung, Vaseline und Verband](https://www.aad.org/public/everyday-care/injured-skin/burns/wound-care-minimize-scars).
+- [Cleveland Clinic, Electrocauterization: Indikationen, Risiken und Grenzen](https://my.clevelandclinic.org/health/treatments/24032-electrocauterization).
+- [DermNet, Honey in wound care: medizinisch sterilisiertes Produkt](https://dermnetnz.org/topics/honey).
+- [IQWiG / Gesundheitsinformation.de, Schnittwunden versorgen](https://www.gesundheitsinformation.de/wie-versorge-ich-eine-schnittwunde.html).
 
 **Status:** Redaktioneller Entwurf, medizinischer Fachreview offen.
