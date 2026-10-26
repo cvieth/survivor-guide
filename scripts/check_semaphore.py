@@ -25,7 +25,7 @@ def validate():
     errors = []
     content = ARTICLE.read_text(encoding="utf-8")
     # Diese Seite soll eine SVG-Nachschlagetabelle enthalten, keinen Decoder-Graphen.
-    if re.search(r"(?m)^" + re.escape(chr(96) * 3) + r"mermaid\\b", content):
+    if re.search(r"(?m)^" + re.escape(chr(96) * 3) + r"mermaid\b", content):
         errors.append("Semaphore: no Mermaid decoder should appear in the article")
     if "## Einen Buchstaben entschlüsseln" in content:
         errors.append("Semaphore: old decoder section should be removed")
