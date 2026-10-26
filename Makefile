@@ -1,15 +1,17 @@
 PYTHON ?= python3
-.PHONY: check pdf print site build serve clean
-check:
+.PHONY: qr check pdf print site build serve clean
+qr:
+	$(PYTHON) scripts/generate_contribute_qr.py
+check: qr
 	$(PYTHON) scripts/generate_medications.py
 	$(PYTHON) scripts/check.py
-pdf:
+pdf: qr
 	$(PYTHON) scripts/build_book.py --output build/survivor-guide.pdf --format screen
 	mkdir -p docs/downloads
 	cp build/survivor-guide.pdf docs/downloads/survivor-guide.pdf
-print:
+print: qr
 	$(PYTHON) scripts/build_book.py --output build/survivor-guide-print-interior.pdf --format print
-site:
+site: qr
 	$(PYTHON) -m mkdocs build --clean --strict
 build: check pdf site
 serve:
