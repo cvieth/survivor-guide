@@ -36,6 +36,8 @@ markdown_extensions:
       permalink: true
   - pymdownx.details
   - pymdownx.superfences
+hooks:
+  - scripts/mkdocs_hooks.py
 extra_css:
   - assets/stylesheets/extra.css
 copyright: 'Inhalte unter CC BY-SA 4.0 · Quellcode unter MIT'
