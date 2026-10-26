@@ -25,9 +25,29 @@
 
 **Nachteile:** Langsam, geringer Ertrag, hoher Energieverbrauch. Das Nachfüllen von Rohwasser oder Entnehmen der Schale im heißen Zustand birgt Verbrühungsgefahr. Läuft Kühlwasser vom Deckel in die Schale, ist das Kondensat verunreinigt.
 
-## Variante B: Kondensationsrohr – nur mit geeigneten Bauteilen
+## Variante B: Topf mit gekühltem Kondensationsrohr
 
-Ein für Lebensmittel-/Trinkwasserkontakt geeignetes Metallrohr kann Dampf aus einem Topf in einen **abwärts geneigten, von außen gekühlten** Abschnitt und anschließend in ein sauberes Auffanggefäß leiten. Das ist technisch aufwendiger als Variante A: Deckelanschluss, Rohr und Kühlung müssen mechanisch sicher sein. **Der Dampfauslass bleibt offen; keine Absperrung, kein Druckaufbau.** Unbekannte Schläuche, bleihaltige Lote, ungeeignete Klebstoffe und gebrauchte Chemikalienleitungen sind tabu. Ohne geeignete Teile Variante A bevorzugen.
+![Schnittskizze: Topf, geneigtes Kondensationsrohr, Kühlwasserbad und Auffanggefäß](../assets/destillation-kondensationsrohr.svg)
+
+**Legende:** 1 Topf mit Rohwasser; 2 Dampfanschluss im Deckel; 3 durchgehendes, leicht abwärts geneigtes Metallrohr; 4 Kühlwanne, die das Rohr von außen umspült; 5 sauberes Auffanggefäß unter dem **offenen** Rohrende; 6 Kühlwasser, bei Bedarf mit Eis.
+
+**Prinzip:** Dampf gelangt aus dem erhitzten Topf ins Metallrohr, kühlt im Wasserbad ab und kondensiert. Das Gefälle führt das Kondensat in ein separates Gefäß. Kühlwasser und Kondensat dürfen sich nicht mischen.
+
+**Material:** Kochtopf mit Metalldeckel, geeignete hitzebeständige Rohrdurchführung, sauberes für Trinkwasserkontakt geeignetes Metallrohr (z. B. Edelstahl oder geeignetes Kupfer), Kühlwanne, kaltes Wasser und sauberes Auffanggefäß. Gebrauchte Leitungen unbekannter Herkunft, bleihaltiges Lot, ungeeignete Schläuche und Klebstoffe nicht verwenden.
+
+**Aufbau und Betrieb:**
+
+1. **Quelle beurteilen:** Bei Verdacht auf Kraftstoffe, Lösungsmittel oder unbekannte Industriechemikalien andere Wasserquelle suchen. Grobe Partikel vorab absetzen lassen.
+2. **Dampfweg anordnen:** Einen geeigneten Rohranschluss am Deckel vorsehen. Das Rohr mit gleichmäßigem Gefälle durch das Kühlbad bis über das Auffanggefäß führen; Senken und Knicke vermeiden, in denen Kondensat den Durchgang blockieren könnte.
+3. **Kühlung aufbauen:** Das Rohr im kalten Wasser fixieren, aber seinen Auslass außerhalb des Kühlwassers und **frei offen** halten. Warm gewordenes Kühlwasser ersetzen.
+4. **Vorsichtig erhitzen:** Nur sanft sieden lassen und ständig beaufsichtigen. Wenn kein Dampf beziehungsweise Kondensat austritt, ungewöhnlicher Druck entsteht oder ein Anschluss undicht wird, Wärmequelle ausschalten und abkühlen lassen.
+5. **Getrennt auffangen:** Kondensat in einem sauberen Gefäß sammeln und vor erneuter Verunreinigung schützen. Bei Rohwasserspritzern oder Kühlwassereintrag verwerfen.
+
+!!! danger "Kein Druckkessel"
+    **Nie den Rohrauslass verschließen oder ein Ventil einbauen.** Ein verstopftes Rohr kann Überdruck erzeugen. Der heiße Dampf und das Metallrohr können schwere Verbrühungen verursachen. Der gezeichnete Aufbau ist eine Prinzipskizze und kein geprüfter Gerätebauplan.
+
+**Vergleich:** Variante A benötigt weniger Spezialteile, liefert aber meist nur kleine Mengen. Variante B lässt sich besser kühlen und kontinuierlicher auffangen, setzt jedoch geeignete Rohrteile und sichere Verbindungen voraus. Beide Varianten haben dieselben [Grenzen bei der Wasserqualität](#was-trennt-destillation-und-was-nicht).
+
 
 ## Was trennt Destillation – und was nicht?
 
