@@ -6,9 +6,18 @@ import json
 ROOT = Path(__file__).resolve().parent.parent
 data = json.loads((ROOT / "data/medikamente.json").read_text(encoding="utf-8"))
 sources, entries = data["quellen"], data["eintraege"]
-header = "# Wirkstoffregister – Offline-Nachschlagewerk\n\n!!! warning \"Entwurf – fachliche Prüfung ausstehend\"\n    Die Wirkstoffsteckbriefe sind eine Orientierung zur **Identifizierung von Arzneimitteln**, keine Therapie-, Dosierungs- oder Verschreibungsanleitung. Stand: 25. Oktober 2026.\n\nDieses Register wird aus einer [maschinenlesbaren JSON-Datei](https://github.com/cvieth/survivor-guide/blob/main/data/medikamente.json) erzeugt und ist auch im Gesamt-PDF enthalten. Die Stufen beschreiben **Szenario-Prioritäten, keine allgemeingültige medizinische Rangliste**.\n\n- **1:** Persönlicher lebenswichtiger Bedarf und spezielle Notfallmittel.\n- **2:** Häufig benötigte Basisversorgung.\n- **3:** Antibiotika, deren Wahl eine passende bakterielle Indikation voraussetzt.\n- **4:** Ergänzende symptomatische Mittel.\n- **5:** Injektionsmedikamente für qualifiziertes Personal.\n\n**Für alle Mittel:** Originalverpackung, Wirkstärke, Darreichungsform, Beipackzettel, Allergien, Schwangerschaft, Alter, Nieren-/Leberfunktion, Wechselwirkungen und Lagerbedingungen prüfen. Unbekannte oder zweifelhaft gelagerte Medikamente nicht als sicher betrachten. Antibiotika wirken nicht gegen Viren; die Liste ersetzt weder Diagnostik noch Prüfung von Resistenzen oder Behandlungsdauer.\n\nSiehe [Apotheke – Schnellpriorisierung](../03-pharmazie/apotheke-prioritaeten.md).\n\n"
+header = "# Wirkstoffregister – Offline-Nachschlagewerk\n\n!!! warning \"Entwurf – fachliche Prüfung ausstehend\"\n    Die Wirkstoffsteckbriefe sind eine Orientierung zur **Identifizierung von Arzneimitteln**, keine Therapie-, Dosierungs- oder Verschreibungsanleitung. Stand: 25. Oktober 2026.\n\nDieses Register wird aus einer [maschinenlesbaren JSON-Datei](https://github.com/cvieth/survivor-guide/blob/main/data/medikamente.json) erzeugt und ist auch im Gesamt-PDF enthalten. Die Stufen beschreiben **Szenario-Prioritäten, keine allgemeingültige medizinische Rangliste**.\n\n- **1:** Persönlicher lebenswichtiger Bedarf und spezielle Notfallmittel.\n- **2:** Häufig benötigte Basisversorgung.\n- **3:** Antibiotika, deren Wahl eine passende bakterielle Indikation voraussetzt.\n- **4:** Ergänzende symptomatische Mittel.\n- **5:** Injektionsmedikamente für qualifiziertes Personal.\n\n**Für alle Mittel:** Originalverpackung, Wirkstärke, Darreichungsform, Beipackzettel, Allergien, Schwangerschaft, Alter, Nieren-/Leberfunktion, Wechselwirkungen und Lagerbedingungen prüfen. Unbekannte oder zweifelhaft gelagerte Medikamente nicht als sicher betrachten. Antibiotika wirken nicht gegen Viren; die Liste ersetzt weder Diagnostik noch Prüfung von Resistenzen oder Behandlungsdauer.\n\nSiehe [Apotheke – Schnellpriorisierung](../03-pharmazie/apotheke-prioritaeten.md).\n\nBeschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.md) einordnen. Zu ausgewählten Anwendungsgebieten gibt es ein eigenes [Heilpflanzenregister](heilpflanzenregister.md); dessen Einträge sind keine pauschal gleichwertigen Ersatzmittel.\n\n"
 sections = {"1":"1 · Persönlicher Bedarf und Notfall","2":"2 · Basisversorgung","3":"3 · Antibiotika – indikationsgebunden","4":"4 · Ergänzende Mittel","5":"5 · Fachpersonal und Infrastruktur"}
 labels = [["aufschrift","Auf der Packung suchen"],["einsatz","Typischer Einsatz"],["wirkung","Wirkung/Abdeckung"],["nicht_geeignet","Grenzen"],["risiken","Risiken/Gegenanzeigen"],["alternativen","Alternativen"],["voraussetzungen","Voraussetzungen"]]
+RELATED = {
+    "Orale Rehydratationssalze (ORS)": "[Durchfall und Erbrechen](../02-medizin/beschwerden-und-mittel.md#magen-und-darm); [Trinkwassersicherheit](../01-versorgung/oberflaechenwasser-aufbereiten.md); Heilpflanzen ersetzen ORS nicht.",
+    "Paracetamol": "[Fieberanleitung](../02-medizin/fieber-erkennen-und-versorgen.md); [Weidenrinde](heilpflanzenregister.md#weidenrinde) hat andere Risiken und ist kein dosierbarer Ersatz.",
+    "Ibuprofen": "[Fieberanleitung](../02-medizin/fieber-erkennen-und-versorgen.md); [Weidenrinde](heilpflanzenregister.md#weidenrinde) kann zusätzliche salicylatbezogene Risiken bergen.",
+    "Octenidin": "[Kleine Wunden](../02-medizin/beschwerden-und-mittel.md#haut-und-kleine-wunden); [Ringelblume](heilpflanzenregister.md#ringelblumenblueten) ersetzt keine Antiseptik.",
+    "Povidon-Iod": "[Kleine Wunden](../02-medizin/beschwerden-und-mittel.md#haut-und-kleine-wunden); [Ringelblume](heilpflanzenregister.md#ringelblumenblueten) ersetzt keine Antiseptik.",
+    "Loperamid": "[Durchfall und Austrocknung](../02-medizin/beschwerden-und-mittel.md#magen-und-darm); [Eichenrinde](heilpflanzenregister.md#eichenrinde) ersetzt keine Rehydratation.",
+}
+
 output = header
 for step in ("1", "2", "3", "4", "5"):
     output += "## " + sections[step] + "\n\n"
@@ -19,7 +28,10 @@ for step in ("1", "2", "3", "4", "5"):
         output += "- **Quellen:** " + ", ".join(
             "[" + code + "](" + sources[code]["url"] + ")" for code in d["quellen"]
         ) + "\n"
-        output += "- **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.\n\n"
+        output += "- **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.\n"
+        if d["name"] in RELATED:
+            output += "- **Weiterführend:** " + RELATED[d["name"]] + "\n"
+        output += "\n"
 output += (
     "## Datenpflege\n\n"
     "- **Einzige Datenquelle:** [data/medikamente.json](https://github.com/cvieth/survivor-guide/blob/main/data/medikamente.json).\n"
