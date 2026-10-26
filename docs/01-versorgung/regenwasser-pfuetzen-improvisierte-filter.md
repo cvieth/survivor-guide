@@ -102,6 +102,8 @@ Weiterführend: [CDC – Harmful Algal Blooms](https://www.cdc.gov/harmful-algal
 
 **Danach mit Berechtigung in Handel oder gemeinschaftlichen Beständen:** Camping-Trinkwasserfilter und zugelassene Trinkwasserdesinfektion (Outdoor/Camping), geeignete Kanister und Filtergehäuse (Baumarkt/Sanitär), Sedimentfiltermaterial (Aquaristik/Teichbedarf). Teich-UV-Geräte, Poolchemie und Aquariumfilter **nicht** als Trinkwassersystem ausgeben.
 
+Bei geeigneter Ausgangsquelle ist [Destillation aus Haushaltsmitteln](wasser-destillieren.md) eine weitere Möglichkeit, viele nichtflüchtige Stoffe abzutrennen; flüchtige Chemikalien können jedoch mit übergehen.
+
 Siehe auch [Oberflächenwasser aufbereiten](oberflaechenwasser-aufbereiten.md) für ausführliche Beschaffungs- und Systementscheidungen sowie [Wasserbedarf pro Person und Tag](wasserbedarf-pro-person.md).
 
 ## Quellen und redaktioneller Status
