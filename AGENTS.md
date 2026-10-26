@@ -5,6 +5,7 @@
 - Kapitelnummern bleiben ausschließlich in Verzeichnisnamen und der internen Sortierung; in sichtbaren Seitentiteln (`# ...`) und MkDocs-Navigationslabels keine Nummernpräfixe wie `01 ·` verwenden.
 - Artikelvorlage `templates/artikel.md` verwenden, Fakten belegen und Unsicherheiten kenntlich machen.
 - Wissenschaftlich und sachlich schreiben; keine unbelegten Behauptungen als Gewissheiten darstellen.
+- Nüchtern, natürlich und präzise formulieren. Keine werblichen Appelle, künstliche Freundlichkeit, Floskeln oder Emoticons. Gedankenstriche nicht routinemäßig als Satzverbindung verwenden; stattdessen normale Satzzeichen und kurze, klare Sätze. Notwendige Bindestriche in Fachbegriffen bleiben erlaubt.
 - Medizinische, pharmakologische, chemische, elektrische und andere sicherheitskritische Anleitungen bis zur Fachprüfung deutlich als ungeprüft markieren.
 - Realistische Grenzen, benötigte Ausrüstung, Gefahren und Alternativen aufzeigen.
 - Besonders gefährliche Verfahren nicht improvisiert als allgemein sichere Praxis darstellen.
