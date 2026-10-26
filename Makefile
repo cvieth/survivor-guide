@@ -14,7 +14,7 @@ print: qr
 site: qr
 	$(PYTHON) -m mkdocs build --clean --strict
 build: check pdf site
-serve:
+serve: qr
 	$(PYTHON) -m mkdocs serve
 clean:
 	rm -rf build/ site/ docs/downloads/*.pdf
