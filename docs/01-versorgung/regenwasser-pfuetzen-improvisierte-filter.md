@@ -76,6 +76,26 @@ Eine abgeschnittene Flasche oder ein durchlöcherter Eimer kann als Halter diene
 
 **Empfehlung:** Wenn Stoff, Sand oder ein geeigneter Fertigfilter vorhanden sind, **Moos weglassen**. Auch „antibakterielles“ Torfmoos ist kein Ersatz für Desinfektion. Moos nicht in saubere Trinkwasserbehälter geben.
 
+## Cyanobakterien („Blaualgen“): erkennen und behandeln
+
+**Gefahr:** Cyanobakterien können **Cyanotoxine** bilden. Manche schädigen Leber oder Nervensystem; auch Tiere sind gefährdet. Grünliche Schlieren oder Oberflächenmatten sind Warnzeichen. **Klares Wasser ist kein sicherer Gegenbeweis.**
+
+**Prüfung:** Ein spezieller **Microcystin-Schnelltest** (z. B. Teststreifen) kann *einzelne* Giftstoffe nachweisen. Normale pH-, Nitrat- und Pooltests können das **nicht**. Ein negativer Microcystin-Test schließt andere Cyanotoxine nicht aus. Spezialtests sind eher bei Fachhändlern für Wasseranalytik/Laborbedarf als im Baumarkt zu erwarten; **stationäre Verfügbarkeit nicht voraussetzen**.
+
+**Zwei verschiedene Aufgaben:**
+
+| Verfahren | Bakterienzellen | Bereits gelöste Cyanotoxine |
+| --- | --- | --- |
+| Absetzen, Tuch, Sand | Teilweise | Nicht zuverlässig |
+| Geeignete Mikro-/Ultrafiltration | Kann Zellen zurückhalten | Nicht zuverlässig |
+| Abkochen, gewöhnliche UV-Desinfektion | Kann Zellen inaktivieren | **Nicht zuverlässig**; Abkochen kann Toxine konzentrieren |
+| Geeignete Aktivkohle | Abhängig vom Filter | Kann *bestimmte* Toxine reduzieren; begrenzte Kapazität |
+| Geeignete Umkehrosmose | Kann Zellen zurückhalten | Kann viele Toxine reduzieren; nur bei intakter, geeigneter Anlage |
+
+**Entscheidung im Notfall:** Bei Blüte, Warnmeldung oder begründetem Verdacht **andere Wasserquelle wählen** und Tiere fernhalten. Ist keine Alternative verfügbar, ist Vorfiltration → geeignete Aktivkohle → geeignete Umkehrosmose ein *technischer Ansatz*, **aber ohne validierte Anlage und Kontrolle keine Freigabe als Trinkwasser**. Improvisierte Filter, Moos und bloßes Abkochen reichen nicht.
+
+Weiterführend: [CDC – Harmful Algal Blooms](https://www.cdc.gov/harmful-algal-blooms/prevention/index.html).
+
 ## Was man im Notfall suchen sollte
 
 **Zuerst im Haushalt:** saubere Töpfe mit Deckel, Tücher, Kaffeefilter, saubere Getränkeflaschen, lebensmittelechte Eimer, Plane und eine sichere Kochmöglichkeit.
