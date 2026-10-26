@@ -1,7 +1,7 @@
 # Wirkstoffregister – Offline-Nachschlagewerk
 
 !!! warning "Entwurf – fachliche Prüfung ausstehend"
-    Die Wirkstoffsteckbriefe sind eine Orientierung zur **Identifizierung von Arzneimitteln**, keine Therapie-, Dosierungs- oder Verschreibungsanleitung. Stand: 25. Oktober 2026.
+    Die Wirkstoffsteckbriefe sind eine Orientierung zur **Identifizierung von Arzneimitteln**, keine Therapie-, Dosierungs- oder Verschreibungsanleitung. Stand: 26. Oktober 2026.
 
 Dieses Register wird aus einer [maschinenlesbaren JSON-Datei](https://github.com/cvieth/survivor-guide/blob/main/data/medikamente.json) erzeugt und ist auch im Gesamt-PDF enthalten. Die Stufen beschreiben **Szenario-Prioritäten, keine allgemeingültige medizinische Rangliste**.
 
@@ -10,6 +10,7 @@ Dieses Register wird aus einer [maschinenlesbaren JSON-Datei](https://github.com
 - **3:** Antibiotika, deren Wahl eine passende bakterielle Indikation voraussetzt.
 - **4:** Ergänzende symptomatische Mittel.
 - **5:** Injektionsmedikamente für qualifiziertes Personal.
+- **X:** Häufig verwechselte oder für Wunden ungeeignete Stoffe, **keine Bevorratungs- oder Anwendungsempfehlung**.
 
 **Für alle Mittel:** Originalverpackung, Wirkstärke, Darreichungsform, Beipackzettel, Allergien, Schwangerschaft, Alter, Nieren-/Leberfunktion, Wechselwirkungen und Lagerbedingungen prüfen. Unbekannte oder zweifelhaft gelagerte Medikamente nicht als sicher betrachten. Antibiotika wirken nicht gegen Viren; die Liste ersetzt weder Diagnostik noch Prüfung von Resistenzen oder Behandlungsdauer.
 
@@ -105,6 +106,7 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 - **Voraussetzungen:** Intakte Packung und korrekter Anwendungsweg
 - **Quellen:** [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/So-koennen-Sie-sich-vorbereiten/Hausapotheke/hausapotheke_node.html), [TETANUS](https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Weiterführend:** [Kleine Wunden: Reinigung und Antiseptik](../02-medizin/wunden-mehrtaegige-versorgung.md#reinigung-oder-antiseptik-was-ist-sinnvoll); reinigt mechanisch, desinfiziert nicht.
 
 ### Octenidin
 
@@ -117,7 +119,20 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 - **Voraussetzungen:** Für Wunden zugelassenes Produkt und Packungsinformation
 - **Quellen:** [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/So-koennen-Sie-sich-vorbereiten/Hausapotheke/hausapotheke_node.html)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
-- **Weiterführend:** [Kleine Wunden](../02-medizin/beschwerden-und-mittel.md#haut-und-kleine-wunden); [Ringelblume](heilpflanzenregister.md#ringelblumenblueten) ersetzt keine Antiseptik.
+- **Weiterführend:** [Wundversorgung und Entscheidung zur Antiseptik](../02-medizin/wunden-mehrtaegige-versorgung.md#reinigung-oder-antiseptik-was-ist-sinnvoll); [Ringelblume](heilpflanzenregister.md#ringelblumenblueten) ersetzt keine Antiseptik.
+
+### Polihexanid (PHMB)
+
+- **Auf der Packung suchen:** Polihexanid; Polyhexamethylenbiguanid; PHMB; Wundspüllösung
+- **Typischer Einsatz:** Gezielte antiseptische Reinigung bestimmter kontaminierter oder infizierter Wunden
+- **Wirkung/Abdeckung:** Antimikrobielle Wirkung in dafür vorgesehenen Wundpräparaten; kein Ersatz für mechanische Reinigung
+- **Grenzen:** Nicht als pauschaler Zusatz für jede kleine, saubere Wunde; andere PHMB-haltige Produkte sind nicht automatisch wundgeeignet
+- **Risiken/Gegenanzeigen:** Mögliche Unverträglichkeit; Einwirkzeit und Gewebeverträglichkeit sind produktabhängig
+- **Alternativen:** Sterile NaCl-Spülung; nach Indikation geeignetes Octenidin- oder Povidon-Iod-Wundpräparat
+- **Voraussetzungen:** Nur ausdrücklich für Wunden vorgesehenes Präparat; Anwendungsgebiet, Einwirkzeit und Packungsinformation beachten
+- **Quellen:** [WUNDDACH](https://onlinelibrary.wiley.com/doi/full/10.1111/ddg.15649_g)
+- **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Weiterführend:** [Wundversorgung und Entscheidung zur Antiseptik](../02-medizin/wunden-mehrtaegige-versorgung.md#reinigung-oder-antiseptik-was-ist-sinnvoll).
 
 ### Povidon-Iod
 
@@ -130,7 +145,7 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 - **Voraussetzungen:** Produktbezogene Indikation und Gegenanzeigen
 - **Quellen:** [BBK](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/So-koennen-Sie-sich-vorbereiten/Hausapotheke/hausapotheke_node.html)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
-- **Weiterführend:** [Kleine Wunden](../02-medizin/beschwerden-und-mittel.md#haut-und-kleine-wunden); [Ringelblume](heilpflanzenregister.md#ringelblumenblueten) ersetzt keine Antiseptik.
+- **Weiterführend:** [Wundversorgung und Entscheidung zur Antiseptik](../02-medizin/wunden-mehrtaegige-versorgung.md#reinigung-oder-antiseptik-was-ist-sinnvoll); [Ringelblume](heilpflanzenregister.md#ringelblumenblueten) ersetzt keine Antiseptik.
 
 ### Paracetamol
 
@@ -332,6 +347,21 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 - **Voraussetzungen:** Qualifiziertes Personal, Sterilität und Überwachung
 - **Quellen:** [WHO](https://www.who.int/publications/i/item/B09474), [BISS](https://www.nice.org.uk/guidance/ng184/chapter/Recommendations)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+
+## X · Warnhinweise und nicht empfohlene Anwendungen
+
+### Wasserstoffperoxid
+
+- **Auf der Packung suchen:** Wasserstoffperoxid; Hydrogen peroxide; H2O2; häufig 3 % als Apothekenlösung
+- **Typischer Einsatz:** Historisches Antiseptikum; im Register zur Identifizierung und zur Warnung vor ungeeigneter Wundanwendung
+- **Wirkung/Abdeckung:** Oxidierende antimikrobielle Wirkung und Sauerstoff-Schaumbildung; ein Heilungsvorteil bei gewöhnlichen Wunden ist nicht belegt
+- **Grenzen:** Nicht zur routinemäßigen Reinigung oder Desinfektion offener Wunden; niemals in tiefe Wunden, Wundtaschen oder geschlossene Körperhöhlen einbringen
+- **Risiken/Gegenanzeigen:** Schädigt auch heilende Körperzellen, kann die Wundheilung beeinträchtigen; in tiefen/geschlossenen Räumen gefährliche Sauerstoff-Gasembolie; konzentrierte Lösungen verursachen Verätzungen
+- **Alternativen:** Wunde mit steriler NaCl-Lösung 0,9 % spülen, bei kleinen oberflächlichen Wunden mit sicherem Trinkwasser; bei begründeter Indikation zugelassenes Wundantiseptikum
+- **Voraussetzungen:** Keine empfohlene Heimdosierung für offene Wunden. Nicht selbst konzentrierte Lösungen verdünnen oder improvisierte Wundspülungen herstellen. Konzentration und Originaletikett prüfen
+- **Quellen:** [MAYO_WUND](https://www.mayoclinic.org/first-aid/first-aid-cuts/basics/art-20056711), [MHRA_H2O2](https://www.gov.uk/drug-safety-update/hydrogen-peroxide-reminder-of-risk-of-gas-embolism-when-used-in-surgery), [NHS_WUND](https://www.nhs.uk/conditions/cuts-and-grazes/)
+- **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
+- **Weiterführend:** [Wundversorgung: warum Wasserstoffperoxid nicht erste Wahl ist](../02-medizin/wunden-mehrtaegige-versorgung.md#warum-wasserstoffperoxid-keine-gute-routineoption-ist); nicht als Wundmittel bevorraten.
 
 ## Datenpflege
 

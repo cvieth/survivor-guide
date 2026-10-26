@@ -14,7 +14,7 @@
 | Kollaps, kaltschweißig, starke Schwäche | [Schock und Kreislaufversagen](schock-kreislaufversagen.md) |
 | Sturz, mögliche Fraktur, Rückenverletzung | [Knochenbrüche und schwere Verletzungen](brueche-schwere-verletzungen.md) |
 | Verbrennung, Unterkühlung oder Hitze | [Verbrennungen und Temperaturnotfälle](verbrennungen-temperaturnotfaelle.md) |
-| Kleinere Wunden, längerer Versorgungsausfall | [Wunden reinigen und über Tage kontrollieren](wunden-mehrtaegige-versorgung.md) |
+| Kleinere Wunden, längerer Versorgungsausfall | [Wunden reinigen, Antiseptik gezielt auswählen und über Tage kontrollieren](wunden-mehrtaegige-versorgung.md) |
 
 ## Weitere Beschwerden
 

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "stand": "2026-10-25",
+  "stand": "2026-10-26",
   "status": "ENTWURF: nicht fachlich geprüft",
   "zweck": "Offline-Wirkstoff-Suchregister, keine Therapie- oder Dosierungsanleitung",
   "lagerung": "Herstellerangaben, Packungsbeilage, Verfall, Feuchte, Licht, Temperatur, Sterilität und Kühlkette produktbezogen beachten.",
@@ -40,6 +40,22 @@
     "LOP": {
       "titel": "NHS Loperamide",
       "url": "https://www.nhs.uk/medicines/loperamide/who-can-and-cannot-take-loperamide/"
+    },
+    "WUNDDACH": {
+      "titel": "WundDACH: Systematik, Diagnostik und Therapie von Wundinfektionen chronischer Wunden (2025)",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ddg.15649_g"
+    },
+    "MAYO_WUND": {
+      "titel": "Mayo Clinic: Cuts and scrapes, First aid (2024)",
+      "url": "https://www.mayoclinic.org/first-aid/first-aid-cuts/basics/art-20056711"
+    },
+    "MHRA_H2O2": {
+      "titel": "MHRA: Hydrogen peroxide, risk of gas embolism (2014)",
+      "url": "https://www.gov.uk/drug-safety-update/hydrogen-peroxide-reminder-of-risk-of-gas-embolism-when-used-in-surgery"
+    },
+    "NHS_WUND": {
+      "titel": "NHS: Cuts and grazes",
+      "url": "https://www.nhs.uk/conditions/cuts-and-grazes/"
     }
   },
   "eintraege": [
@@ -154,6 +170,20 @@
       "voraussetzungen": "Für Wunden zugelassenes Produkt und Packungsinformation",
       "quellen": [
         "BBK"
+      ]
+    },
+    {
+      "name": "Polihexanid (PHMB)",
+      "stufe": "2",
+      "aufschrift": "Polihexanid; Polyhexamethylenbiguanid; PHMB; Wundspüllösung",
+      "einsatz": "Gezielte antiseptische Reinigung bestimmter kontaminierter oder infizierter Wunden",
+      "wirkung": "Antimikrobielle Wirkung in dafür vorgesehenen Wundpräparaten; kein Ersatz für mechanische Reinigung",
+      "nicht_geeignet": "Nicht als pauschaler Zusatz für jede kleine, saubere Wunde; andere PHMB-haltige Produkte sind nicht automatisch wundgeeignet",
+      "risiken": "Mögliche Unverträglichkeit; Einwirkzeit und Gewebeverträglichkeit sind produktabhängig",
+      "alternativen": "Sterile NaCl-Spülung; nach Indikation geeignetes Octenidin- oder Povidon-Iod-Wundpräparat",
+      "voraussetzungen": "Nur ausdrücklich für Wunden vorgesehenes Präparat; Anwendungsgebiet, Einwirkzeit und Packungsinformation beachten",
+      "quellen": [
+        "WUNDDACH"
       ]
     },
     {
@@ -401,6 +431,22 @@
       "quellen": [
         "WHO",
         "BISS"
+      ]
+    },
+    {
+      "name": "Wasserstoffperoxid",
+      "stufe": "X",
+      "aufschrift": "Wasserstoffperoxid; Hydrogen peroxide; H2O2; häufig 3 % als Apothekenlösung",
+      "einsatz": "Historisches Antiseptikum; im Register zur Identifizierung und zur Warnung vor ungeeigneter Wundanwendung",
+      "wirkung": "Oxidierende antimikrobielle Wirkung und Sauerstoff-Schaumbildung; ein Heilungsvorteil bei gewöhnlichen Wunden ist nicht belegt",
+      "nicht_geeignet": "Nicht zur routinemäßigen Reinigung oder Desinfektion offener Wunden; niemals in tiefe Wunden, Wundtaschen oder geschlossene Körperhöhlen einbringen",
+      "risiken": "Schädigt auch heilende Körperzellen, kann die Wundheilung beeinträchtigen; in tiefen/geschlossenen Räumen gefährliche Sauerstoff-Gasembolie; konzentrierte Lösungen verursachen Verätzungen",
+      "alternativen": "Wunde mit steriler NaCl-Lösung 0,9 % spülen, bei kleinen oberflächlichen Wunden mit sicherem Trinkwasser; bei begründeter Indikation zugelassenes Wundantiseptikum",
+      "voraussetzungen": "Keine empfohlene Heimdosierung für offene Wunden. Nicht selbst konzentrierte Lösungen verdünnen oder improvisierte Wundspülungen herstellen. Konzentration und Originaletikett prüfen",
+      "quellen": [
+        "MAYO_WUND",
+        "MHRA_H2O2",
+        "NHS_WUND"
       ]
     }
   ]

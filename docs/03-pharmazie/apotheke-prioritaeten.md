@@ -6,7 +6,7 @@
 ## Kurzüberblick: fünf Grundregeln
 
 1. **Zuerst lebenswichtige, persönlich benötigte Dauermedikamente und geeignete Notfallpräparate** identifizieren, z. B. Insulin, Asthmamedikamente und für bekannte schwere Allergien verordnete Adrenalin-Autoinjektoren. Ohne passende Person/Indikation gibt es dafür keine pauschale Rangfolge.
-2. **Dann häufig benötigte Basisversorgung:** orale Rehydratationssalze (ORS), Wundspüllösung, Desinfektionsmittel, sterile Verbandstoffe sowie Schmerz- und Fiebermittel.
+2. **Dann häufig benötigte Basisversorgung:** orale Rehydratationssalze (ORS), sterile Wundspüllösung, bei Indikation **wundgeeignete** Antiseptika, sterile Verbandstoffe sowie Schmerz- und Fiebermittel. Haushalts-, Pool- und Flächendesinfektionsmittel nicht mit Wundantiseptika verwechseln.
 3. **Antibiotika sind wichtig, aber keine Universallösung.** Die Auswahl hängt von Infektionsort, vermutetem Erreger, Resistenzlage, Allergien, Schwangerschaft, Alter, Organfunktion und Darreichungsform ab. Keines ist „für alles“ geeignet.
 4. **Ganze Packungen mit Verpackung und Beipackzettel** erfassen. Wirkstoff, Konzentration/Stärke, Darreichungsform, Menge, Haltbarkeit, Charge und Lagerbedingungen dokumentieren. Unterschiedliche Darreichungsformen desselben Wirkstoffs sind nicht automatisch austauschbar.
 5. **Nichts verwenden, dessen Identität, Unversehrtheit oder Lagerung nicht verlässlich geklärt ist.** Kühlkettenpräparate, Injektionslösungen und sterile Produkte stellen besondere Anforderungen.
@@ -16,7 +16,7 @@
 | Stufe | Wonach suchen? (Wirkstoff oder Aufdruck) | Weshalb? |
 | --- | --- | --- |
 | **1 · Personengebunden / akut** | Ärztlich verordnete Dauermedikamente; **Insulin**, **Salbutamol**, **Adrenalin-Autoinjektor**, ggf. **Glukagon** oder **Naloxon** | Das Fehlen eines konkret benötigten Mittels kann unmittelbar gefährlich werden. Ein Präparat für andere Erkrankungen hat dagegen nicht automatisch Vorrang. |
-| **2 · Grundversorgung** | **Orale Rehydratationssalze / ORS / Elektrolyt-Glukose-Lösung**, **NaCl 0,9 % steril zur Spülung**, **Octenidin**, **Povidon-Iod**, sterile Kompressen, Handschuhe, Verbände, **Paracetamol**, **Ibuprofen** | Dehydration, Wunden, Fieber und Schmerzen lassen sich so häufig besser versorgen. |
+| **2 · Grundversorgung** | **Orale Rehydratationssalze / ORS / Elektrolyt-Glukose-Lösung**, **NaCl 0,9 % steril zur Spülung**, **Octenidin**, **Polihexanid (PHMB)**, **Povidon-Iod**, sterile Kompressen, Handschuhe, Verbände, **Paracetamol**, **Ibuprofen** | Dehydration, Wunden, Fieber und Schmerzen lassen sich so häufig besser versorgen. |
 | **3 · Infektionen: nur nach Indikation** | **Amoxicillin/Clavulansäure**, **Amoxicillin**, **Doxycyclin**, **Flucloxacillin**, **Metronidazol**, **Nitrofurantoin**, **Fosfomycin**, ggf. **Azithromycin** | Unterschiedliche Einsatzgebiete, Wirkungslücken und Gegenanzeigen. Ohne Diagnostik ist eine pauschale Auswahl unsicher. |
 | **4 · Ergänzungen** | **Cetirizin**, **Loperamid**, **Dimenhydrinat**, **Ondansetron**, orale **Glukose** | Allergische Beschwerden, ausgewählte Magen-Darm-Symptome und Unterzuckerung; ersetzen nicht die Behandlung der Ursache. |
 | **5 · Fachpersonal / Infrastruktur** | **Ceftriaxon**, andere Injektionsantibiotika, sterile Injektionsausrüstung, Impfstoffe/Immunglobuline | Hohe Bedeutung in qualifizierter Versorgung, aber Anwendung, Verdünnung, Sterilität, Überwachung oder Kühlung sind problematisch. |
@@ -31,6 +31,10 @@ Diese **Stufen sind keine Empfehlung für eine universelle Bevorratungsmenge ode
 4. **Intakte Originalpackungen bevorzugen:** keine offenen Tabletten, unbekannten Blister, unbeschrifteten Behälter oder Präparate mit zweifelhafter Kühlkette als sicher einstufen.
 5. **Inventar führen:** Wirkstoff(e), Stärke, Form (Tablette, Saft, Inhalator, Injektionslösung), Anzahl, Verfall, Lagervermerk, Fachinformation/Beipackzettel. Auch die Packungsbeilage mitnehmen bzw. digital sichern.
 6. **Sachgerecht lagern und gemeinschaftlich verwalten:** Kinder- und Zugriffsschutz, trocken und temperaturgerecht; Kühlprodukte nicht einfach wie normale Tabletten lagern. Einsatz und Verbrauch nachvollziehbar dokumentieren.
+
+## Wundmittel nicht verwechseln
+
+**Priorität:** sterile NaCl-Lösung 0,9 % und sterile Verbände. Octenidin, PHMB und Povidon-Iod nur in **ausdrücklich für Wunden geeigneten Präparaten** und nach Indikation einsetzen. **Wasserstoffperoxid (auch 3 %) ist kein empfohlenes Standardmittel zur offenen Wundversorgung**; Alkohol, Chlorbleiche und Poolchemikalien gehören ebenfalls nicht in Wunden. Bei kleinen oberflächlichen Wunden kann sicheres Trinkwasser zur Reinigung ausreichen. Siehe [Wundversorgung und Antiseptikentscheidung](../02-medizin/wunden-mehrtaegige-versorgung.md#reinigung-oder-antiseptik-was-ist-sinnvoll) und den warnenden [Wasserstoffperoxid-Steckbrief](../12-nachschlagewerk/wirkstoffregister.md#wasserstoffperoxid).
 
 ## Warum die Antibiotika nicht austauschbar sind
 
@@ -77,6 +81,9 @@ Vor der Suche nach Mitteln zunächst **Warnzeichen und Sofortmaßnahmen** prüfe
 6. [CDC – Clinical Guidance for Wound Management to Prevent Tetanus (2026)](https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html).
 7. [WHO – Diarrhoeal disease](https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease), orale Rehydratation.
 8. [NHS – Loperamide: who can and cannot take it](https://www.nhs.uk/medicines/loperamide/who-can-and-cannot-take-loperamide/).
+
+9. [WundDACH – Wundinfektionen, Antiseptika und Kontraindikationen (2025)](https://onlinelibrary.wiley.com/doi/full/10.1111/ddg.15649_g).
+10. [Mayo Clinic – Cuts and scrapes, First aid (2024)](https://www.mayoclinic.org/first-aid/first-aid-cuts/basics/art-20056711).
 
 ## Status
 

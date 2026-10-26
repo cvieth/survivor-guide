@@ -17,4 +17,4 @@ Beim Aufbruch [medizinische Notgepäck-Prioritäten](../00-grundlagen/evakuierun
 
 ## Noch auszuarbeiten
 
-Arzneimittelhaltbarkeit, Dosierungsfehler, Desinfektion, sichere Pflanzenbestimmung und chemische Grundverfahren. [Korrektur einreichen](https://github.com/cvieth/survivor-guide/issues).
+Arzneimittelhaltbarkeit, Dosierungsfehler, Hände- und Flächendesinfektion, sichere Pflanzenbestimmung und chemische Grundverfahren. Die [Wundantiseptik](../02-medizin/wunden-mehrtaegige-versorgung.md#reinigung-oder-antiseptik-was-ist-sinnvoll) ist bereits beim medizinischen Handlungsartikel eingeordnet. [Korrektur einreichen](https://github.com/cvieth/survivor-guide/issues).

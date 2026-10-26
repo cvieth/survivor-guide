@@ -19,7 +19,7 @@ Bei **fehlender normaler Atmung, Bewusstlosigkeit, großer Blutung, Kollaps oder
 | Gereizter Mund/Rachen | Schluck- und Atemfähigkeit prüfen, verträgliche Flüssigkeit | [Kamille](../12-nachschlagewerk/heilpflanzenregister.md#kamillenblueten), [Salbei](../12-nachschlagewerk/heilpflanzenregister.md#salbeiblaetter), [Ringelblume](../12-nachschlagewerk/heilpflanzenregister.md#ringelblumenblueten). |
 | Durchfall / Erbrechen | Trinken und Urinausscheidung prüfen, [ORS](../12-nachschlagewerk/wirkstoffregister.md#orale-rehydratationssalze-ors) mit sicherem Wasser | [Eichenrinde](../12-nachschlagewerk/heilpflanzenregister.md#eichenrinde) ist **kein Ersatz für ORS**. [Trinkwasser sichern](../01-versorgung/oberflaechenwasser-aufbereiten.md). |
 | Leichte Blähungen / Verdauungsbeschwerden | Auf schwere Schmerzen, Blut, Austrocknung und Verschlechterung achten | [Pfefferminze](../12-nachschlagewerk/heilpflanzenregister.md#pfefferminzblaetter), [Kamille](../12-nachschlagewerk/heilpflanzenregister.md#kamillenblueten), [Ingwer](../12-nachschlagewerk/heilpflanzenregister.md#ingwer). |
-| Kleine oberflächliche Wunden | Blutung stillen, mit geeignetem sauberem Wasser spülen, abdecken; [Anleitung](wunden-mehrtaegige-versorgung.md) | [Ringelblume](../12-nachschlagewerk/heilpflanzenregister.md#ringelblumenblueten), [Octenidin](../12-nachschlagewerk/wirkstoffregister.md#octenidin), [Povidon-Iod](../12-nachschlagewerk/wirkstoffregister.md#povidon-iod). |
+| Kleine oberflächliche Wunden | Blutung stillen, mit geeigneter Spüllösung oder sicherem Trinkwasser reinigen, abdecken; [Antiseptik-Entscheidung](wunden-mehrtaegige-versorgung.md#reinigung-oder-antiseptik-was-ist-sinnvoll) | Nur bei passender Indikation: [Octenidin](../12-nachschlagewerk/wirkstoffregister.md#octenidin), [PHMB](../12-nachschlagewerk/wirkstoffregister.md#polihexanid-phmb), [Povidon-Iod](../12-nachschlagewerk/wirkstoffregister.md#povidon-iod). [Wasserstoffperoxid](../12-nachschlagewerk/wirkstoffregister.md#wasserstoffperoxid) nicht routinemäßig verwenden; selbst angesetzte [Ringelblume](../12-nachschlagewerk/heilpflanzenregister.md#ringelblumenblueten) nicht in offene Wunden geben. |
 | Schmerzen | Ursache, Schweregrad, Verletzung und Begleitsymptome prüfen | [Paracetamol](../12-nachschlagewerk/wirkstoffregister.md#paracetamol), [Ibuprofen](../12-nachschlagewerk/wirkstoffregister.md#ibuprofen), [Weidenrinde](../12-nachschlagewerk/heilpflanzenregister.md#weidenrinde) mit besonderen Risiken. |
 
 ## Husten und Atemwege
@@ -36,7 +36,7 @@ Bei Erbrechen oder Durchfall ist **Flüssigkeits- und Salzverlust häufig die wi
 
 ## Haut und kleine Wunden
 
-Kleine Wunden zuerst reinigen und sauber abdecken. Kräuterzubereitungen auf offenen Wunden können verschmutzt sein oder Allergien auslösen. Bei **starker Blutung, tiefen Verletzungen, Bissverletzung, rasch fortschreitender Rötung, Fieber oder zunehmendem Schmerz** reichen Kräuter nicht aus. Erstmaßnahmen nicht zugunsten der Mittelbeschaffung verzögern.
+Kleine Wunden zuerst reinigen und sauber abdecken; nicht jede Wunde benötigt ein Antiseptikum. [Auswahl, Gegenanzeigen und Wasserstoffperoxid](wunden-mehrtaegige-versorgung.md#reinigung-oder-antiseptik-was-ist-sinnvoll). Kräuterzubereitungen auf offenen Wunden können verschmutzt sein oder Allergien auslösen. Bei **starker Blutung, tiefen Verletzungen, Bissverletzung, rasch fortschreitender Rötung, Fieber oder zunehmendem Schmerz** reichen Kräuter nicht aus. Erstmaßnahmen nicht zugunsten der Mittelbeschaffung verzögern.
 
 ## Offene medizinische Anleitungen
 
