@@ -5,7 +5,7 @@
 
 ## Kurzüberblick
 
-Mit **Flaggensemaphore** (Winkeralphabet) lassen sich Buchstaben durch die **Stellung zweier ausgestreckter Arme** übermitteln. Die Flaggen machen die Armstellung auf Entfernung besser erkennbar. Benötigt werden freie Sicht, ausreichendes Licht und ein Empfänger, der die Zeichen kennt. Funknetz, Strom und Mobilfunk werden dafür nicht gebraucht.
+Mit **Flaggensemaphore** (Winkeralphabet) lassen sich Buchstaben durch die **Stellung zweier ausgestreckter Arme** übermitteln. Die Flaggen machen die Armstellung auf Entfernung besser erkennbar. Benötigt werden freie Sicht, ausreichendes Licht und ein Empfänger, der die Zeichen kennt. Funknetz und Mobilfunk werden dafür nicht gebraucht. Mit Flaggen funktioniert das Verfahren ohne Strom; bei Dämmerung können [zwei Taschenlampen mit diffusen Lichtaufsätzen](#bei-dammerung-zwei-taschenlampen-statt-flaggen) helfen.
 
 **Verwechslungsgefahr:** Das [Morsealphabet](morsealphabet.md) überträgt zeitliche Folgen kurzer und langer Signale mit Licht, Ton oder Funk. Semaphore überträgt eine **gleichzeitig gehaltene Stellung beider Arme**. Maritime Signalflaggen, die an Masten gehisst werden, sind nochmals ein anderes System.
 
@@ -75,6 +75,19 @@ Das **Fehlerzeichen** ist kein weiteres festes Winkelpaar: Beide Arme beziehungs
 
 **Zahlenbeispiel „205“:** Zahlenzeichen → B (= 2) → K (= 0) → E (= 5) → J (zurück zu Buchstaben). Ob nach dem Zahlenblock ein weiterer Steuerabschluss nötig ist, muss dem vereinbarten Übermittlungsverfahren entsprechen. Bei wichtigen Zahlen die gesamte Folge wiederholen lassen.
 
+## Bei Dämmerung: zwei Taschenlampen statt Flaggen
+
+**Ja, das geht grundsätzlich.** Beim Nacht-Semaphore werden auch Leuchtstäbe beziehungsweise **Taschenlampen mit lichtstreuenden Aufsätzen** verwendet. Die beiden sichtbaren Lichtpunkte ersetzen die Flaggen; die **Buchstaben und Armstellungen bleiben genau dieselben** wie in der [SVG-Tabelle](#buchstaben-a-z). Das Verfahren eignet sich besonders, wenn Stoffflaggen in der Dämmerung kaum noch erkennbar sind.
+
+1. **Zwei möglichst ähnliche Leuchten** verwenden und je eine in jede Hand nehmen. Ideal sind matte, seitlich sichtbare Leuchtaufsätze oder dafür vorgesehene Leuchtstäbe. Ein enger, stark gebündelter Taschenlampenstrahl ist deutlich schlechter geeignet: Er zeigt nicht aus allen Winkeln einen gut erkennbaren Lichtpunkt.
+2. **Dem Empfänger frontal gegenüberstehen**, beide Arme vollständig ausstrecken und die eingeschalteten Leuchten entsprechend der Tabelle positionieren. **Nicht in die Augen leuchten**; wenn nötig die Helligkeit reduzieren oder einen geeigneten Diffusor verwenden.
+3. **Jede Stellung ruhig halten**, Zeichen deutlich trennen und unklare Buchstaben wiederholen. Der Empfänger muss beide Lichtpunkte der **Körpermitte und den jeweiligen Armen** zuordnen können. Bei völliger Dunkelheit zunächst testen, ob die Orientierung des Senders überhaupt erkennbar ist.
+4. **Sichtbarkeit und Lesbarkeit auf der tatsächlichen Entfernung testen.** Zwei sichtbare Punkte reichen nicht, wenn ihre genaue Lage und die Stellung der Arme nicht mehr unterscheidbar sind.
+
+**Abgrenzung:** Hier zählen die **gleichzeitig gehaltenen Positionen** zweier Leuchten. Werden stattdessen kurze und lange Lichtblitze gesendet, ist das [Morsen mit einer Taschenlampe](morsealphabet.md), nicht Semaphore. Morse benötigt nur eine Lampe und ist bei schlecht erkennbaren Armstellungen oft die einfachere Wahl.
+
+*Beleg:* Die Marineausbildung beschreibt Nacht-Semaphore ausdrücklich mit auf Taschenlampen montierten Leuchtaufsätzen. Zwei gewöhnliche Taschenlampen ohne solche Aufsätze sind dagegen eine **improvisierte, hier nicht praktisch geprüfte Variante**.
+
 ## Senden und Empfangen: praktische Reihenfolge
 
 1. **Sichtkontakt herstellen.** Eine Person steht gut sichtbar und frontal zum Empfänger. Zwei kontrastreiche Flaggen oder notfalls gut erkennbare Markierungen genügen als Orientierung. Die Arme bleiben für jedes Zeichen gerade und ruhig.
@@ -88,7 +101,7 @@ Das **Fehlerzeichen** ist kein weiteres festes Winkelpaar: Beide Arme beziehungs
 ## Grenzen und Alternativen
 
 - **Keine freie Sicht oder unklarer Blickwinkel:** Empfang unzuverlässig. Nicht ohne Absprache auf gut Glück signalisieren; bei geeignetem Licht kann [Morse mit einer Lampe](morsealphabet.md) über längere Sichtstrecken leichter erkennbar sein.
-- **Dunkelheit, Nebel, Gegenlicht, große Entfernung:** Arme und Flaggenstellungen schwer zu unterscheiden. Erkennbares Anhalten und Bestätigen ist wichtiger als Geschwindigkeit.
+- **Dunkelheit, Nebel, Gegenlicht, große Entfernung:** Arme und Flaggenstellungen schwer zu unterscheiden. [Leuchtaufsätze an zwei Taschenlampen](#bei-dammerung-zwei-taschenlampen-statt-flaggen) können in der Dämmerung helfen, beheben aber keine schlechte Sicht oder fehlende Orientierung. Erkennbares Anhalten und Bestätigen ist wichtiger als Geschwindigkeit.
 - **Mögliche Beobachtung durch Dritte:** Optische Signale sind sichtbar und nicht vertraulich. Keine Standortangaben übermitteln, wenn das zusätzliche Gefahren schafft.
 - **Kein Sichtkontakt, aber Funkgeräte:** Abgesprochene [Funk-Zeitfenster](funkzeitfenster-333-regel.md) sind eine Alternative. Solche Verfahren hängen von Reichweite, Energie, synchronisierten Zeiten und einem empfangenden Partner ab.
 - **Warnmeldungen:** [Sirenensignale](sirenensignale.md) sind öffentliche Warnzeichen und kein Ersatz für individuelle Buchstabennachrichten. Bei einer Krise gilt zuerst die [Priorisierung der ersten 72 Stunden](../00-grundlagen/erste-72-stunden.md).
@@ -102,6 +115,7 @@ Das **Fehlerzeichen** ist kein weiteres festes Winkelpaar: Beide Arme beziehungs
 
 ## Quellen
 
+- US Navy, [Signalman 1 & C: Semaphore Procedures](https://navyaviation.tpub.com/14243/css/Infrared-Communications-78.htm): Nachtsignale mit auf Taschenlampen aufgesetzten Leuchtstäben, Sichtbedingungen und Haltung der Arme.
 - Australian National Botanic Gardens, [Semaphore Flag Signalling System](https://www.anbg.gov.au/flags/semaphore.html): Zuordnung von 26 Buchstaben, Ziffernmodus, Zahlenzeichen, Annullieren und bewegtem Fehlerzeichen. Maßgebliche Vorlage für die neue SVG-Serie.
 - Australian War Memorial, [Flag semaphore](https://www.awm.gov.au/sites/default/files/Independence.pdf): Einordnung als optische Signaltechnik.
 - [J-Kit, Semaphore Alphabet](https://jkit.tools/en/tools/semaphore-alphabet): ergänzende tabellarische Übersicht.

@@ -116,7 +116,7 @@ flowchart TB
 
 ## Alternative: Winkeralphabet mit zwei Flaggen
 
-Mit dem [Flaggensemaphore (Winkeralphabet)](flaggenalphabet.md) können Buchstaben durch **gleichzeitig sichtbare Armstellungen** übermittelt werden. Dafür sind zwei Flaggen und freie Sicht erforderlich. Im Gegensatz zu diesem Morseverfahren braucht der Empfänger keine Folge von kurzen und langen Signalen zu unterscheiden.
+Mit dem [Flaggensemaphore (Winkeralphabet)](flaggenalphabet.md) können Buchstaben durch **gleichzeitig sichtbare Armstellungen** übermittelt werden. Dafür sind zwei Flaggen und freie Sicht erforderlich. Im Gegensatz zu diesem Morseverfahren braucht der Empfänger keine Folge von kurzen und langen Signalen zu unterscheiden. Bei Dämmerung kann Semaphore auch mit [zwei Taschenlampen und diffusen Leuchtaufsätzen](flaggenalphabet.md#bei-dammerung-zwei-taschenlampen-statt-flaggen) funktionieren, sofern beide Leuchtpunkte und ihre Positionen erkennbar sind.
 
 ## Grenzen und Vorsicht
 

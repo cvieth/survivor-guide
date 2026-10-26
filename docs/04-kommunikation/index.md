@@ -11,7 +11,7 @@ Die folgenden Nachschlagewerke sind quellenbasiert dokumentiert. Die abschließe
 - **[Uhrzeit am Sonnenstand bestimmen](zeitbestimmung-sonne.md)** – Mittagslinie, selbst gebaute Sonnenuhr und Korrektur auf MEZ/MESZ.
 - **[DCF77-Zeitsignal empfangen und dekodieren](../05-technologie/dcf77-zeitfunk.md)** – Gebrauchte Funkuhrmodule, Impulsanzeige und Zeitcode zum Nachlesen.
 - **[Morsealphabet](morsealphabet.md)** – SVG-Tabelle, ein Morsebaum, Ziffern, Zeitregeln und Notsignale.
-- **[Flaggensemaphore / Winkeralphabet](flaggenalphabet.md)** – SVG-Nachschlagetabelle mit Armstellungen, Ziffern- und Steuerzeichen.
+- **[Flaggensemaphore / Winkeralphabet](flaggenalphabet.md)** – SVG-Nachschlagetabelle mit Armstellungen, Ziffern- und Steuerzeichen; Alternative mit zwei Taschenlampen bei Dämmerung.
 
 ## Themenfelder
 
