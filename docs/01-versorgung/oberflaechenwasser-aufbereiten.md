@@ -48,7 +48,7 @@ Die folgenden Orte sind **typische Bezugsquellen**, keine konkreten Läden oder 
 
 - **Sauberer Rohwasserbehälter** und separater **sauberer Trinkwasserbehälter** mit Deckel oder Hahn; eindeutig „ROHWASSER“ bzw. „TRINKWASSER – nach Behandlung“ kennzeichnen.
 - **Sauberes Tuch / Kaffeefilter** zum Entfernen grober Schwebstoffe; vorher Wasser absetzen lassen.
-- **Geeignete Heizquelle + Topf**: Klares Wasser **mindestens 1 Minute sprudelnd abkochen**, anschließend abkühlen und gegen erneute Verunreinigung schützen. Bei Höhen über etwa 2.000 m gelten 3 Minuten. [1]
+- **Geeignete Heizquelle + Topf** (siehe [Feuer machen ohne Strom](../06-infrastruktur/feuer-machen.md) für sichere Feuerstellen und Zündmethoden): Klares Wasser **mindestens 1 Minute sprudelnd abkochen**, anschließend abkühlen und gegen erneute Verunreinigung schützen. Bei Höhen über etwa 2.000 m gelten 3 Minuten. [1]
 - **Optional:** Tragbarer Trinkwasserfilter mit **nachgewiesener absoluter** Porengröße/Wirksamkeit gegen Bakterien und Parasiten. Da die meisten tragbaren Filter Viren nicht sicher entfernen, **anschließend desinfizieren oder abkochen**; Produktanleitung beachten. [1][3]
 - **Optional statt Abkochen:** Geeignete, als Trinkwasserdesinfektionsmittel ausgewiesene Präparate **streng nach Produktanleitung**. Bei bestimmten Parasiten sind Chlorverfahren nur eingeschränkt wirksam; Dosierungen von Poolchemie oder unbekannten Mitteln nicht improvisieren. [1]
 
