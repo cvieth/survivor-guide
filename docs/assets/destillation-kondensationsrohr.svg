@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 590" role="img" aria-labelledby="title desc">
+<title id="title">Rohrdestillation: Kochtopf, abfallendes Kondensationsrohr, Kühlbad und Auffanggefäß</title>
+<desc id="desc">Technische Schnittskizze mit sechs nummerierten Bauteilen. Links ein Topf mit Rohwasser und Dampfentnahme, mittig ein nach rechts abfallendes Metallrohr in einer Kühlwanne, rechts ein sauberes Auffanggefäß. Pfeile zeigen Dampftransport, Wärmeabgabe und Kondensat. Der Rohrausgang ist offen.</desc>
+<defs><pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M0 10L10 0" stroke="#a8b3bb" stroke-width="1"/></pattern><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9Z" fill="#45515c"/></marker><marker id="bluearrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9Z" fill="#1f779f"/></marker><style>.wall{fill:#f7f9fa;stroke:#26323c;stroke-width:6;stroke-linejoin:round}.thin{fill:none;stroke:#4d5a65;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round}.lead{fill:none;stroke:#56626c;stroke-width:2;stroke-dasharray:6 5}.num{font:bold 19px sans-serif;text-anchor:middle;dominant-baseline:central;fill:#26323c}.steam{fill:none;stroke:#647786;stroke-width:3;stroke-dasharray:8 7;marker-end:url(#arrow)}</style></defs>
+<!-- heat and pot -->
+<path d="M82 190V438Q82 456 101 456H360Q380 456 380 438V190" class="wall"/>
+<path d="M91 348H372V448H91Z" fill="#d5edf5"/><path d="M91 348Q111 343 131 348T171 348T211 348T251 348T291 348T331 348T372 348" fill="none" stroke="#1f779f" stroke-width="3"/>
+<path d="M60 190H402" stroke="#26323c" stroke-width="8" stroke-linecap="round"/><path d="M82 236H52Q34 236 34 255Q34 275 52 275H82M380 236H408Q428 236 428 255Q428 275 408 275H380" fill="none" stroke="#26323c" stroke-width="5"/>
+<path d="M125 470H337" stroke="#26323c" stroke-width="6"/><path d="M176 496Q160 478 177 465Q182 479 193 475Q205 489 190 501Q180 506 176 496M255 496Q239 478 256 465Q261 479 272 475Q284 489 269 501Q259 506 255 496" fill="none" stroke="#b35e28" stroke-width="3"/>
+<!-- lid fitting with open bore -->
+<path d="M218 188V166H243V188" fill="#d4dce0" stroke="#26323c" stroke-width="4"/><path d="M224 169V120Q224 105 239 105H264" fill="none" stroke="#a45d32" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M224 169V120Q224 105 239 105H264" fill="none" stroke="#fff4e9" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M140 306Q123 267 154 243" class="steam"/><path d="M321 305Q343 268 309 244" class="steam"/><path d="M228 282V204" class="steam"/>
+<!-- angled continuous steam/condensate pipe: down slope -->
+<path d="M260 105L887 325" fill="none" stroke="#985a37" stroke-width="25" stroke-linecap="round"/>
+<path d="M260 105L887 325" fill="none" stroke="#f2c5a2" stroke-width="14" stroke-linecap="round"/>
+<path d="M260 105L887 325" fill="none" stroke="#fff7f0" stroke-width="5" stroke-linecap="round"/>
+<!-- cooling bath behind pipe visual: transparent fill -->
+<path d="M455 172L455 425Q455 445 475 445H847Q869 445 869 425V267" fill="#dceef6" fill-opacity=".52" stroke="#26323c" stroke-width="5" stroke-linejoin="round"/>
+<path d="M461 244Q489 239 518 244T576 244T634 244T692 244T750 244T810 244T863 244" fill="none" stroke="#1f779f" stroke-width="3"/>
+<path d="M485 378L507 356L527 380L505 400Z M560 395L579 367L605 392L584 418Z M731 395L754 364L778 388L752 414Z" fill="none" stroke="#6faed0" stroke-width="3"/>
+<!-- condensation droplets, heat dissipation -->
+<path d="M548 213L550 256M611 234L615 277M678 258L682 300M743 280L747 324" stroke="#647786" stroke-width="2.5" stroke-dasharray="5 5" marker-end="url(#arrow)"/>
+<path d="M588 188L580 157M662 215L654 183M734 239L726 206" stroke="#b35e28" stroke-width="3" stroke-linecap="round"/>
+<!-- receiver -->
+<path d="M919 342V485Q919 498 932 498H1030Q1043 498 1043 485V342" class="wall"/>
+<path d="M920 453H1042V490H920Z" fill="#d5edf5"/><path d="M914 342H1049" stroke="#26323c" stroke-width="5"/>
+<path d="M891 325L920 335" fill="none" stroke="#1f779f" stroke-width="4" stroke-dasharray="6 5" marker-end="url(#bluearrow)"/>
+<!-- arrows along tube -->
+<path d="M329 131L395 154" stroke="#b35e28" stroke-width="3" marker-end="url(#arrow)"/><path d="M773 285L826 304" stroke="#1f779f" stroke-width="3" marker-end="url(#bluearrow)"/>
+<!-- numbered callouts -->
+<g fill="#fff" stroke="#26323c" stroke-width="2.5"><circle cx="52" cy="364" r="22"/><circle cx="166" cy="79" r="22"/><circle cx="398" cy="74" r="22"/><circle cx="642" cy="477" r="22"/><circle cx="989" cy="270" r="22"/><circle cx="475" cy="532" r="22"/></g>
+<g class="num"><text x="52" y="364">1</text><text x="166" y="79">2</text><text x="398" y="74">3</text><text x="642" y="477">4</text><text x="989" y="270">5</text><text x="475" y="532">6</text></g>
+<path d="M74 364L91 364M186 79L219 119M420 74L458 175M642 455L642 431M989 293L985 342M496 532L576 419" class="lead"/>
+</svg>
