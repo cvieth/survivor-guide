@@ -32,6 +32,14 @@ Der Survivor Guide muss ohne Internet, Mobilfunk, Rettungsdienst, Arztpraxis und
 
 Für medizinische Themen mindestens abdecken: Symptome und Messung auch mit wenig Ausstattung, lebensbedrohliche Warnzeichen, Entscheidung zur Dringlichkeit, konkrete Erstmaßnahmen, verfügbare und fehlende Mittel, geeignete Wirkstoffe mit Voraussetzungen und Gegenanzeigen, Beobachtung des Verlaufs sowie Handlung bei Verschlechterung. Kritische Verzweigungen als textbasierte Entscheidungsblöcke darstellen. Die Darstellung muss offline und im Druck ohne verlinkte externe Anleitungen verständlich sein.
 
+## Medizinisches Wissensnetz
+
+Ein Krankheitsbild ist der **Ausgangspunkt für Entscheidungen und Erstmaßnahmen**, nicht eine bloße Sammlung von Mitteln. Medizinische Artikel verweisen, soweit fachlich relevant, auf passende Einträge im [Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md) und [Heilpflanzenregister](../12-nachschlagewerk/heilpflanzenregister.md). Umgekehrt führt jeder Registereintrag auf dokumentierte Beschwerden und konkrete Handlungsanleitungen zurück, sofern vorhanden. Fehlende Artikel klar als offen ausweisen, **keine toten Links** anlegen.
+
+Für jedes pflanzliche Mittel dokumentieren: eindeutiger deutscher und wissenschaftlicher Name, verwendeter Pflanzenteil, genaues Anwendungsgebiet, Art der Evidenz (klinisch / traditionelle Anwendung / unzureichend), betroffene Personengruppe, dokumentierte Zubereitungsart, Allergien, Gegenanzeigen, Wechselwirkungen, giftige Verwechslungsrisiken, Grenzen bei Versorgungsausfall und Primärquelle. Wenn Identifizierung, sichere Zubereitung und Dosierung nicht hinreichend belegbar sind, dies ausdrücklich festhalten, statt Rezepte zu erfinden. **Ätherische Öle, Tees und Extrakte nicht gleichsetzen.**
+
+Ein einmal erstellter Pflanzensteckbrief bleibt die zentrale Wissensquelle. In Krankheitsartikeln nur den handlungsrelevanten Kurzverweis aufnehmen, Details über stabile Überschriftenanker verlinken. Umgekehrt im Register auf die verfügbaren medizinischen Artikel verweisen. Querverweise sind bei neuen Artikeln zu ergänzen und technisch zu prüfen. Medikamentöses und pflanzliches Vorgehen müssen miteinander auf Risiken und Wechselwirkungen abgeglichen werden, nicht nur getrennt aufgelistet.
+
 ## Risiko
 
 Bei Medizin, Medikamenten, Chemie, Strom, Bau und Sicherheit müssen Fehlerfolgen, Gegenanzeigen, erforderliche Fachkenntnisse und sichere Alternativen besonders klar dargestellt sein.
