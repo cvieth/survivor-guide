@@ -13,6 +13,10 @@
 - Orientierung
 - Konfliktprävention
 
+## Weiterführende Entscheidungsfragen
+
+Wie weit reicht der Eigenschutz, wenn andere Menschen auf Unterstützung angewiesen sind? Siehe [Selbstschutz, Solidarität und Grenzen der Hilfe](../09-gesellschaft/grenzen-der-hilfe.md). Der Artikel ist als ethisch und moralisch zu prüfender Entwurf gekennzeichnet.
+
 ## Ziel
 
 Für jedes Themenfeld entstehen quellenbasierte Artikel mit Voraussetzungen, Verfahren, Gefahren, Alternativen und Hinweisen zur Anwendung bei eingeschränkter Infrastruktur.
