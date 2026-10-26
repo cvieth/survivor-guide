@@ -7,103 +7,93 @@
 
 Der **internationale Morsecode** stellt Buchstaben und Ziffern durch kurze Signale (**Punkte**) und lange Signale (**Striche**) dar. Er lässt sich durch Lichtblitze, hörbare Töne oder geeigneten Funk übertragen. Dafür sind ein gleichmäßiger Rhythmus und ein erreichbarer Empfänger notwendig.
 
-**Zeichenschlüssel:** **·** = kurzes Signal (Punkt), **—** = langes Signal (Strich). Die Zeichenfolge eines Buchstabens wird von links nach rechts gelesen.
+**Zeichenschlüssel:** Kurzes Signal = Kreis (Punkt), langes Signal = Balken (Strich). Die Tabelle verwendet dafür Vektorgrafiken statt Satzzeichen.
 
 ## Buchstaben A–Z
 
+Ein **Kreis** bedeutet kurz, ein **Balken** bedeutet lang. Jedes Signal ist als echte SVG-Form gezeichnet und wird von links nach rechts gelesen.
+
 | Buchstabe | Morsezeichen |
 | :---: | :--- |
-| **A** | `·—` |
-| **B** | `—···` |
-| **C** | `—·—·` |
-| **D** | `—··` |
-| **E** | `·` |
-| **F** | `··—·` |
-| **G** | `——·` |
-| **H** | `····` |
-| **I** | `··` |
-| **J** | `·———` |
-| **K** | `—·—` |
-| **L** | `·—··` |
-| **M** | `——` |
-| **N** | `—·` |
-| **O** | `———` |
-| **P** | `·——·` |
-| **Q** | `——·—` |
-| **R** | `·—·` |
-| **S** | `···` |
-| **T** | `—` |
-| **U** | `··—` |
-| **V** | `···—` |
-| **W** | `·——` |
-| **X** | `—··—` |
-| **Y** | `—·——` |
-| **Z** | `——··` |
+| **A** | ![A: kurz, lang](../assets/kommunikation/morsezeichen/a.svg){ height="16px" } |
+| **B** | ![B: lang, kurz, kurz, kurz](../assets/kommunikation/morsezeichen/b.svg){ height="16px" } |
+| **C** | ![C: lang, kurz, lang, kurz](../assets/kommunikation/morsezeichen/c.svg){ height="16px" } |
+| **D** | ![D: lang, kurz, kurz](../assets/kommunikation/morsezeichen/d.svg){ height="16px" } |
+| **E** | ![E: kurz](../assets/kommunikation/morsezeichen/e.svg){ height="16px" } |
+| **F** | ![F: kurz, kurz, lang, kurz](../assets/kommunikation/morsezeichen/f.svg){ height="16px" } |
+| **G** | ![G: lang, lang, kurz](../assets/kommunikation/morsezeichen/g.svg){ height="16px" } |
+| **H** | ![H: kurz, kurz, kurz, kurz](../assets/kommunikation/morsezeichen/h.svg){ height="16px" } |
+| **I** | ![I: kurz, kurz](../assets/kommunikation/morsezeichen/i.svg){ height="16px" } |
+| **J** | ![J: kurz, lang, lang, lang](../assets/kommunikation/morsezeichen/j.svg){ height="16px" } |
+| **K** | ![K: lang, kurz, lang](../assets/kommunikation/morsezeichen/k.svg){ height="16px" } |
+| **L** | ![L: kurz, lang, kurz, kurz](../assets/kommunikation/morsezeichen/l.svg){ height="16px" } |
+| **M** | ![M: lang, lang](../assets/kommunikation/morsezeichen/m.svg){ height="16px" } |
+| **N** | ![N: lang, kurz](../assets/kommunikation/morsezeichen/n.svg){ height="16px" } |
+| **O** | ![O: lang, lang, lang](../assets/kommunikation/morsezeichen/o.svg){ height="16px" } |
+| **P** | ![P: kurz, lang, lang, kurz](../assets/kommunikation/morsezeichen/p.svg){ height="16px" } |
+| **Q** | ![Q: lang, lang, kurz, lang](../assets/kommunikation/morsezeichen/q.svg){ height="16px" } |
+| **R** | ![R: kurz, lang, kurz](../assets/kommunikation/morsezeichen/r.svg){ height="16px" } |
+| **S** | ![S: kurz, kurz, kurz](../assets/kommunikation/morsezeichen/s.svg){ height="16px" } |
+| **T** | ![T: lang](../assets/kommunikation/morsezeichen/t.svg){ height="16px" } |
+| **U** | ![U: kurz, kurz, lang](../assets/kommunikation/morsezeichen/u.svg){ height="16px" } |
+| **V** | ![V: kurz, kurz, kurz, lang](../assets/kommunikation/morsezeichen/v.svg){ height="16px" } |
+| **W** | ![W: kurz, lang, lang](../assets/kommunikation/morsezeichen/w.svg){ height="16px" } |
+| **X** | ![X: lang, kurz, kurz, lang](../assets/kommunikation/morsezeichen/x.svg){ height="16px" } |
+| **Y** | ![Y: lang, kurz, lang, lang](../assets/kommunikation/morsezeichen/y.svg){ height="16px" } |
+| **Z** | ![Z: lang, lang, kurz, kurz](../assets/kommunikation/morsezeichen/z.svg){ height="16px" } |
 
 ## Ziffern 0–9
 
 | Ziffer | Morsezeichen |
 | :---: | :--- |
-| **0** | `—————` |
-| **1** | `·————` |
-| **2** | `··———` |
-| **3** | `···——` |
-| **4** | `····—` |
-| **5** | `·····` |
-| **6** | `—····` |
-| **7** | `——···` |
-| **8** | `———··` |
-| **9** | `————·` |
+| **0** | ![0: lang, lang, lang, lang, lang](../assets/kommunikation/morsezeichen/0.svg){ height="16px" } |
+| **1** | ![1: kurz, lang, lang, lang, lang](../assets/kommunikation/morsezeichen/1.svg){ height="16px" } |
+| **2** | ![2: kurz, kurz, lang, lang, lang](../assets/kommunikation/morsezeichen/2.svg){ height="16px" } |
+| **3** | ![3: kurz, kurz, kurz, lang, lang](../assets/kommunikation/morsezeichen/3.svg){ height="16px" } |
+| **4** | ![4: kurz, kurz, kurz, kurz, lang](../assets/kommunikation/morsezeichen/4.svg){ height="16px" } |
+| **5** | ![5: kurz, kurz, kurz, kurz, kurz](../assets/kommunikation/morsezeichen/5.svg){ height="16px" } |
+| **6** | ![6: lang, kurz, kurz, kurz, kurz](../assets/kommunikation/morsezeichen/6.svg){ height="16px" } |
+| **7** | ![7: lang, lang, kurz, kurz, kurz](../assets/kommunikation/morsezeichen/7.svg){ height="16px" } |
+| **8** | ![8: lang, lang, lang, kurz, kurz](../assets/kommunikation/morsezeichen/8.svg){ height="16px" } |
+| **9** | ![9: lang, lang, lang, lang, kurz](../assets/kommunikation/morsezeichen/9.svg){ height="16px" } |
 
-## Morsezeichen mit einem Baum entschlüsseln
+## Morsebaum: Buchstaben entschlüsseln
 
-Wer den Code nicht auswendig kennt, kann jedes empfangene Zeichen **Schritt für Schritt** im Morsebaum suchen. Bei jeder Verzweigung folgt man **·** (kurz, Punkt) oder **—** (lang, Strich). Nach dem letzten Signal liest du den Buchstaben am erreichten Knoten ab. Ein Knoten kann schon einen vollständigen Buchstaben enthalten, auch wenn weitere Zweige abgehen.
-
-Die beiden Diagramme enthalten zusammen **alle 26 Buchstaben A–Z**. Für die Lesbarkeit in der Buchausgabe sind die beiden Hälften des Binärbaums getrennt. Beginne mit dem passenden ersten Signal. Die Ziffern stehen in der Tabelle oben.
-
-### Erstes Signal kurz (·)
+**Finger oben auf START legen.** Für ein kurzes Signal geht es nach **links**, für ein langes Signal nach **rechts**. Nach dem letzten Signal den Buchstaben am erreichten Knoten ablesen. Auch Knoten mit weiteren Ästen sind bereits gültige Buchstaben.
 
 ```mermaid
-%% alt: Morsebaum für Buchstaben mit kurzem ersten Signal, von E bis zu vier Signalzeichen
+%% alt: Ein einziger zusammenhängender Morsebaum für A bis Z. Vom Startpunkt führt kurz jeweils nach links und lang jeweils nach rechts. Kurz, lang, kurz ergibt R.
 flowchart TB
-    root((Start))
-    root -->|·| E["E"]
-    E -->|·| I["I"]
-    E -->|—| A["A"]
-    I -->|·| S["S"]
-    I -->|—| U["U"]
-    A -->|·| R["R"]
-    A -->|—| W["W"]
-    S -->|·| H["H"]
-    S -->|—| V["V"]
-    U -->|·| F["F"]
-    R -->|·| L["L"]
-    W -->|·| P["P"]
-    W -->|—| J["J"]
+    ROOT(("START"))
+    ROOT -->|kurz| N0["E"]
+    ROOT -->|lang| N1["T"]
+    N0 -->|kurz| N00["I"]
+    N0 -->|lang| N01["A"]
+    N1 -->|kurz| N10["N"]
+    N1 -->|lang| N11["M"]
+    N00 -->|kurz| N000["S"]
+    N00 -->|lang| N001["U"]
+    N01 -->|kurz| N010["R"]
+    N01 -->|lang| N011["W"]
+    N10 -->|kurz| N100["D"]
+    N10 -->|lang| N101["K"]
+    N11 -->|kurz| N110["G"]
+    N11 -->|lang| N111["O"]
+    N000 -->|kurz| N0000["H"]
+    N000 -->|lang| N0001["V"]
+    N001 -->|kurz| N0010["F"]
+    N010 -->|kurz| N0100["L"]
+    N011 -->|kurz| N0110["P"]
+    N011 -->|lang| N0111["J"]
+    N100 -->|kurz| N1000["B"]
+    N100 -->|lang| N1001["X"]
+    N101 -->|kurz| N1010["C"]
+    N101 -->|lang| N1011["Y"]
+    N110 -->|kurz| N1100["Z"]
+    N110 -->|lang| N1101["Q"]
 ```
 
-### Erstes Signal lang (—)
-
-```mermaid
-%% alt: Morsebaum für Buchstaben mit langem ersten Signal, von T bis zu vier Signalzeichen
-flowchart TB
-    root((Start))
-    root -->|—| T["T"]
-    T -->|·| N["N"]
-    T -->|—| M["M"]
-    N -->|·| D["D"]
-    N -->|—| K["K"]
-    M -->|·| G["G"]
-    M -->|—| O["O"]
-    D -->|·| B["B"]
-    D -->|—| X["X"]
-    K -->|·| C["C"]
-    K -->|—| Y["Y"]
-    G -->|·| Z["Z"]
-    G -->|—| Q["Q"]
-```
-
-**Beispiel:** · — · ergibt **R**: Im kurzen Baum von Start über E (·), A (—) zu R (·). Zunächst einzelne Buchstaben üben, danach kurze Wörter mit klaren Pausen.
+**Beispiel:** kurz (links zu E), lang (rechts zu A), kurz (links zu R) ergibt **R**.
 
 ## Signalzeiten und Pausen
 
