@@ -5,6 +5,7 @@
 
 ## Erste Fachartikel
 
+- [Notverpflegung für unterwegs auswählen](notverpflegung-fuer-unterwegs.md) – Energiedichte, Lagerung, Wasserbedarf und Prioritäten beim schnellen Packen.
 - [Wasserbedarf pro Person und Tag](wasserbedarf-pro-person.md) – Normalbetrieb, Krisenminimum, Überlebensminimum und Aufbereitungsverluste.
 - [Regenwasser, Pfützen und improvisierte Filter](regenwasser-pfuetzen-improvisierte-filter.md) – Quellenwahl, Moos, Sand-Kies-Vorfilter und Desinfektion.
 - [Wasser destillieren](wasser-destillieren.md) – zwei bebilderte Bauvarianten (Auffangschale und Rohrkondensator), Eignung und Sicherheitsgrenzen.
