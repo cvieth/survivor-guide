@@ -1,0 +1,7 @@
+% Native LaTeX decision graphics: crisp at all print resolutions.
+\usepackage[most]{tcolorbox}
+\tcbset{sgdecisionbase/.style={enhanced,arc=2mm,boxrule=0.7pt,left=3mm,right=3mm,top=2mm,bottom=2mm,before skip=3mm,after skip=3mm}}
+\newtcolorbox{sgdecisionquestion}{sgdecisionbase,breakable,colback=black!5,colframe=black!40}
+\tcbset{sgdecisiondanger/.style={sgdecisionbase,colback=red!4,colframe=red!65!black,fonttitle=\bfseries,coltitle=black,colbacktitle=red!16}}
+\tcbset{sgdecisionprotect/.style={sgdecisionbase,colback=blue!4,colframe=blue!65!black,fonttitle=\bfseries,coltitle=black,colbacktitle=blue!16}}
+\tcbset{sgdecisionneutral/.style={sgdecisionbase,colback=black!2,colframe=black!40,fonttitle=\bfseries,coltitle=black,colbacktitle=black!10}}
