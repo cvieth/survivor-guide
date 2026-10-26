@@ -11,7 +11,9 @@
 
 ![Schnittskizze: Topf-in-Topf-Destillation](../assets/destillation-topf.svg)
 
-**Skizze (von außen nach innen):** Großer Topf mit wenig Rohwasser; darin eine **erhöht stehende, leere hitzefeste Schale**; darüber ein **umgedrehter, gekühlter Deckel**. Aufsteigender Dampf kondensiert an der Deckelunterseite und tropft in die Schale. Die Schale steht **oberhalb des Rohwasserspiegels**.
+**Legende zur Schnittzeichnung:** 1 Rohwasser (blau, außen im Topf); 2 kaltes Wasser oder Eis auf dem umgedrehten Metalldeckel; 3 offener Randspalt als Druckausgleich, niemals abdichten; 4 erhöhte hitzefeste Auffangschale (Destillat); 5 Wärmequelle; 6 aufsteigender Dampf (gestrichelte Pfeile). Die blauen Tropfen zeigen das Kondensat, das in die Schale fällt. **Der Schalenrand muss oberhalb des Rohwasserspiegels liegen.**
+
+**Funktionsweise:** Dampf steigt aus dem Rohwasser auf, kondensiert an der kühleren Deckelunterseite und läuft zum tiefsten Punkt. Dort tropft er in die separate Auffangschale. Der offene Randspalt verhindert Druckaufbau.
 
 **Material:** Großer Kochtopf, passender umdrehbarer Deckel (möglichst mit nach unten gerichteter tiefster Stelle), kleine hitzefeste Schale, stabiler hitzefester Untersetzer, Wärmequelle, möglichst kaltes Wasser oder Eis zum Kühlen des Deckels. Saubere, geeignete Materialien für Lebensmittelkontakt verwenden.
 
