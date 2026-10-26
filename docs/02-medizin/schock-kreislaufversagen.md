@@ -42,6 +42,8 @@ Bei unerreichbaren Rettungskräften eine Person für dauernde Beobachtung festle
 
 Besonders kritisch: zunehmende Schläfrigkeit, bläulich-graue Haut, Atemnot, sehr geringe Urinausscheidung, unkontrollierte Blutung. Auch bei gleichbleibenden Zeichen kann der Zustand plötzlich kippen.
 
+Bei Durchfall mit Flüssigkeitsverlust zusätzlich [Austrocknung und ORS](durchfall-austrocknung.md) prüfen. Bei schwerem Schock keine orale Flüssigkeit erzwingen.
+
 [Notfall-Entscheidung](akuter-medizinischer-notfall.md) · [Wasserbedarf](../01-versorgung/wasserbedarf-pro-person.md) · [Wirkstoffregister](../12-nachschlagewerk/wirkstoffregister.md) · [Symptome](beschwerden-und-mittel.md).
 
 ## Quellen

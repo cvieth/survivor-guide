@@ -5,6 +5,8 @@
 
 Zur improvisierten Trennung vieler nichtflüchtiger Stoffe siehe auch [Wasser destillieren](wasser-destillieren.md). Destillation ist kein zuverlässiger Schutz vor flüchtigen Chemikalien.
 
+**Bei Kontakt mit Fäkalien oder Abwasser:** [Sanitärlage](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md), [Händewaschen](handhygiene-ohne-leitungswasser.md) und [Flächenreinigung](reinigung-desinfektion-im-notfall.md) sind jeweils eigene Maßnahmen. **Poolchlor und undeklarierte Chlorprodukte nicht pauschal als Wund-, Hände- oder Trinkwasserverfahren verwenden.** [Stoffregister](../12-nachschlagewerk/hygienemittel-register.md#poolchlor-und-unklare-chlorprodukte).
+
 ## Kurzüberblick
 
 **Szenario:** Das Leitungswasser fällt für Tage oder Wochen aus. Ein Teich, See oder Fluss ist erreichbar. Strom, Fachhandel und Laboranalysen stehen möglicherweise nicht mehr zur Verfügung.

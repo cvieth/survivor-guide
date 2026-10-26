@@ -3,6 +3,8 @@
 !!! info "Status: Quellenrecherche abgeschlossen · fachlicher Review ausstehend"
     Richtwerte für Planung und Krisenvorsorge, keine individuellen medizinischen Vorgaben. Stand der Quellenprüfung: 25. Oktober 2026.
 
+**Sanitär- und Hygieneverbrauch:** Bei ausgefallenem Leitungswasser [Händewaschen ohne Wasserhahn](handhygiene-ohne-leitungswasser.md), [gezielte Flächenreinigung](reinigung-desinfektion-im-notfall.md) und [Sanitärsystem ohne funktionsfähige Kanalisation](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md) getrennt planen. Eine Eimertoilette spart Spülwasser, **nicht** hygienisch geeignetes Händewasser.
+
 Zur Aufbereitung aus unsicheren Quellen: [Vorfilter und Abkochen](regenwasser-pfuetzen-improvisierte-filter.md), [Destillation](wasser-destillieren.md) und [Oberflächenwasser-Aufbereitung](oberflaechenwasser-aufbereiten.md).
 
 ## Kurzüberblick

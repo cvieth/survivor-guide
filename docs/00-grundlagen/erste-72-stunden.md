@@ -169,6 +169,8 @@ Wenn die Anlage grundsätzlich funktioniert, aber der Spülkasten nicht mehr fü
 Bei Rückstau, überflutetem Abfluss oder unklarem Zustand **keine weiteren Spülversuche**. Campingtoilette oder stabilen Eimer mit robustem Beutel und möglichst Deckel bereitstellen, Ausscheidungen sicher von Trinkwasser trennen, Beutel verschließen und gemäß örtlichen Entsorgungsanweisungen behandeln. **Hände danach reinigen.**
 ::: enddecision
 
+**Nach dieser Entscheidung weiter:** [Sanitärlage systematisch beurteilen](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md), [Eimertoilette bauen](../06-infrastruktur/nottoilette-eimer.md), [Abwasserrückstau](../06-infrastruktur/abwasser-rueckstau.md), [Hände ohne Wasserhahn waschen](../01-versorgung/handhygiene-ohne-leitungswasser.md). **Die Sofortmaßnahmen im Entscheidungsblock nicht zum Lesen der Links verzögern.**
+
 **Hygiene-Prioritäten:** sichere Handreinigung nach Toilettennutzung und vor der Lebensmittelzubereitung; getrennte Behälter und Lagerung; Windeln, Hygieneartikel und Tierkot gesondert entsorgen; nicht in Oberflächengewässer einleiten. [BBK: Hygiene in Notzeiten](https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Hygiene/hygiene.html).
 
 ## 6–12 Stunden: Geeignete Unterkunft und Wärme sichern

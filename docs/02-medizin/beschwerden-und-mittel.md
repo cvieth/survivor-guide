@@ -32,6 +32,9 @@ Bei **Atemnot, zunehmender Schwellung, Speichelfluss mit Unfähigkeit zu schluck
 
 ## Magen und Darm
 
+Bei Erbrechen oder Durchfall mit Flüssigkeitsverlust direkt zur [praktischen Anleitung: Durchfall und Austrocknung](durchfall-austrocknung.md). Dort stehen Warnzeichen, die nur unter genauen Voraussetzungen zulässige ORS-Notmischung sowie [Händewaschen](../01-versorgung/handhygiene-ohne-leitungswasser.md) und [sichere Ausscheidungssammlung](../06-infrastruktur/nottoilette-eimer.md) als Teil der Infektionsvermeidung.
+
+
 Bei Erbrechen oder Durchfall ist **Flüssigkeits- und Salzverlust häufig die wichtigste unmittelbare Gefahr**. Wenn die Person wach und sicher schluckfähig ist, geeignete [orale Rehydratationslösung](../12-nachschlagewerk/wirkstoffregister.md#orale-rehydratationssalze-ors) mit [sicherem Trinkwasser](../01-versorgung/oberflaechenwasser-aufbereiten.md) geben. Bei Blut im Stuhl, starkem Bauchschmerz, hohem Fieber, Benommenheit oder kaum Urin Priorität auf Hilfe und sicheren Transport setzen. Pflanzentees ersetzen die Elektrolyte einer ORS nicht.
 
 ## Haut und kleine Wunden
@@ -40,7 +43,7 @@ Kleine Wunden zuerst reinigen und sauber abdecken; nicht jede Wunde benötigt ei
 
 ## Offene medizinische Anleitungen
 
-Ausführliche Artikel zu Husten, Atemnot, Durchfall und Austrocknung, Schmerzbeurteilung sowie Mund- und Rachenbeschwerden fehlen noch. [Kleine Wunden und Verlaufskontrolle](wunden-mehrtaegige-versorgung.md), [starke Blutungen](starke-blutungen.md) und [Bewusstlosigkeit](bewusstlosigkeit-wiederbelebung.md) sind nun als Entwürfe beschrieben. Dieses Verzeichnis ist bis dahin ein **Navigations- und Priorisierungswerkzeug**, keine gleichwertige Behandlungsanleitung. [Medizinische Arbeitsliste](index.md).
+Ausführliche Artikel zu Husten, Atemnot, Schmerzbeurteilung sowie Mund- und Rachenbeschwerden fehlen noch. [Kleine Wunden und Verlaufskontrolle](wunden-mehrtaegige-versorgung.md), [starke Blutungen](starke-blutungen.md) und [Bewusstlosigkeit](bewusstlosigkeit-wiederbelebung.md) sind nun als Entwürfe beschrieben. Dieses Verzeichnis ist bis dahin ein **Navigations- und Priorisierungswerkzeug**, keine gleichwertige Behandlungsanleitung. [Medizinische Arbeitsliste](index.md).
 
 ## Akute Situationen zuerst
 

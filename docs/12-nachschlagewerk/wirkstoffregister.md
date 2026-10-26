@@ -16,7 +16,7 @@ Dieses Register wird aus einer [maschinenlesbaren JSON-Datei](https://github.com
 
 Siehe [Apotheke – Schnellpriorisierung](../03-pharmazie/apotheke-prioritaeten.md).
 
-Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.md) einordnen. Zu ausgewählten Anwendungsgebieten gibt es ein eigenes [Heilpflanzenregister](heilpflanzenregister.md); dessen Einträge sind keine pauschal gleichwertigen Ersatzmittel.
+Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.md) einordnen. **Haushaltsreiniger, Natriumhypochlorit und andere Hygienestoffe** sind im gesonderten [Hygienemittelregister](hygienemittel-register.md) dokumentiert, **nicht** als Arzneimittel. Zu ausgewählten Anwendungsgebieten gibt es ein eigenes [Heilpflanzenregister](heilpflanzenregister.md); dessen Einträge sind keine pauschal gleichwertigen Ersatzmittel.
 
 ## 1 · Persönlicher Bedarf und Notfall
 
@@ -93,7 +93,7 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 - **Voraussetzungen:** Genau nach Packung mit sicherem Trinkwasser anrühren
 - **Quellen:** [ORS](https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
-- **Weiterführend:** [Durchfall und Erbrechen](../02-medizin/beschwerden-und-mittel.md#magen-und-darm); [Trinkwassersicherheit](../01-versorgung/oberflaechenwasser-aufbereiten.md); Heilpflanzen ersetzen ORS nicht.
+- **Weiterführend:** [Durchfall und Austrocknung: ORS und Warnzeichen](../02-medizin/durchfall-austrocknung.md#orale-rehydratationsloesung-ors); [Handhygiene](../01-versorgung/handhygiene-ohne-leitungswasser.md); [Trinkwassersicherheit](../01-versorgung/oberflaechenwasser-aufbereiten.md); Heilpflanzen ersetzen ORS nicht.
 
 ### Natriumchlorid 0,9 % (sterile Spüllösung) {#natriumchlorid-09-sterile-spuelloesung}
 
@@ -296,7 +296,7 @@ Beschwerden zuerst im [Symptomverzeichnis](../02-medizin/beschwerden-und-mittel.
 - **Voraussetzungen:** Alter, Dauer und Gegenanzeigen beachten
 - **Quellen:** [LOP](https://www.nhs.uk/medicines/loperamide/who-can-and-cannot-take-loperamide/), [ORS](https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease)
 - **Lagerung:** Produktindividuelle Vorgaben; keine pauschale Haltbarkeitszusage.
-- **Weiterführend:** [Durchfall und Austrocknung](../02-medizin/beschwerden-und-mittel.md#magen-und-darm); [Eichenrinde](heilpflanzenregister.md#eichenrinde) ersetzt keine Rehydratation.
+- **Weiterführend:** [Durchfall und Austrocknung](../02-medizin/durchfall-austrocknung.md); [Eichenrinde](heilpflanzenregister.md#eichenrinde) ersetzt keine Rehydratation.
 
 ### Dimenhydrinat
 

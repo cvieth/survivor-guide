@@ -15,6 +15,8 @@ Zuerst [starke Blutung stoppen](starke-blutungen.md), Fremdkörper nicht herausz
 Hände säubern, mit geeignetem Wasser spülen, abdecken und Verlauf kontrollieren. Bei zunehmendem Schmerz, Rötung, Eiter oder Fieber neu entscheiden.
 ::: enddecision
 
+**Fehlt ein Wasserhahn?** Vor und nach der Versorgung die [sparsame Handwaschstation](../01-versorgung/handhygiene-ohne-leitungswasser.md) nutzen. Die Stoffe im [Hygienemittelregister](../12-nachschlagewerk/hygienemittel-register.md) sind nicht automatisch für offene Wunden geeignet. [Abwasserkontakt](../06-infrastruktur/abwasser-rueckstau.md) erhöht das Kontaminationsrisiko.
+
 ## Praktische Versorgung einer kleinen Wunde
 
 1. **Hände mit Wasser und Seife waschen**, gegebenenfalls Einmalhandschuhe. Blutung mit direktem Druck stillen.
