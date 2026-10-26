@@ -32,6 +32,10 @@ Bei einem langanhaltenden Strom- und Netzausfall müssen Funkgeräte nicht rund 
 
 Die deutschsprachige 3er-Regel verwendet **Ortszeit**. Bei vorab vereinbarten Gruppenzeiten ausdrücklich Zeitzone und Sommer-/Winterzeit festlegen. Nachts können Mitglieder einer Gruppe vereinbaren, einzelne Termine auszusetzen. Das verringert aber die Kontaktchancen.
 
+## Und wenn keine Uhr mehr funktioniert?
+
+Ein verlässliches 3-Minuten-Funkfenster erfordert ungefähr synchronisierte Uhren. Zur Wiedergewinnung der Uhrzeit dienen eine **[Sonnenuhr mit geografischer und saisonaler Korrektur](zeitbestimmung-sonne.md)** sowie – wenn Sender und Empfänger funktionieren – das **[DCF77-Langwellensignal](../05-technologie/dcf77-zeitfunk.md)**. Die Sonnenzeit ist nicht automatisch MEZ/MESZ; ein unkalibrierter Sonnenmittag synchronisiert **keine** drei Minuten kurzen Funkfenster. Ohne verlässliche Uhr nur nach **vorheriger Gruppenabsprache** breitere, relative Zeitfenster nutzen und Zeitabweichung notieren.
+
 ## Welcher Kanal ist gemeint?
 
 | Funkdienst | Empfohlener Treffpunkt, **analog** | Frequenz | Besonderheiten |

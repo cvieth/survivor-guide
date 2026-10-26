@@ -56,9 +56,12 @@ nav:
       - Überblick: 04-kommunikation/index.md
       - Sirenensignale verstehen: 04-kommunikation/sirenensignale.md
       - Funk-Zeitfenster und 3-3-3-Regel: 04-kommunikation/funkzeitfenster-333-regel.md
+      - Uhrzeit am Sonnenstand bestimmen: 04-kommunikation/zeitbestimmung-sonne.md
       - Morsealphabet: 04-kommunikation/morsealphabet.md
       - Flaggensemaphore / Winkeralphabet: 04-kommunikation/flaggenalphabet.md
-  - 'Technologie, Elektronik & IT': 05-technologie/index.md
+  - 'Technologie, Elektronik & IT':
+      - Überblick: 05-technologie/index.md
+      - DCF77-Zeitsignal empfangen und dekodieren: 05-technologie/dcf77-zeitfunk.md
   - 'Energie, Unterkunft & Infrastruktur': 06-infrastruktur/index.md
   - 'Handwerk, Mechanik & Produktion': 07-handwerk/index.md
   - 'Sicherheit, Orientierung & Selbstschutz': 08-sicherheit/index.md

@@ -3,6 +3,11 @@
 !!! info "In Arbeit"
     Dieses Kapitel ist ein redaktioneller Themenplan. Fachlich geprüfte Artikel folgen. Keine der nachstehenden Überschriften ersetzt eine konkrete Anleitung.
 
+## Verfügbare Anleitungen
+
+- **[DCF77-Zeitsignal empfangen und dekodieren](dcf77-zeitfunk.md)** – Empfang aus wiederverwendeten Funkuhrmodulen, einfache LED-Anzeige, Zeittelegramm und BCD-Dekodierung.
+- **[Uhrzeit am Sonnenstand bestimmen](../04-kommunikation/zeitbestimmung-sonne.md)** – Alternative ohne jegliche Elektronik.
+
 ## Themenfelder
 
 - Elektrische Grundlagen
