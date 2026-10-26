@@ -6,6 +6,7 @@
 ## Erste Fachartikel
 
 - [Wasserbedarf pro Person und Tag](wasserbedarf-pro-person.md) – Normalbetrieb, Krisenminimum, Überlebensminimum und Aufbereitungsverluste.
+- [Regenwasser, Pfützen und improvisierte Filter](regenwasser-pfuetzen-improvisierte-filter.md) – Quellenwahl, Moos, Sand-Kies-Vorfilter und Desinfektion.
 - [Oberflächenwasser aufbereiten](oberflaechenwasser-aufbereiten.md) – Materialien, Bezugsquellen, Notverfahren und Risiken.
 
 ## Geplante Themenfelder
