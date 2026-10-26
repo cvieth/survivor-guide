@@ -83,6 +83,8 @@ Grundlagen: [DRK: Wiederbelebung](https://www.drk.de/hilfe-in-deutschland/erste-
 
 **Prioritäten, sobald die Umgebung sicher ist:** Trinkwasserversorgung beurteilen, ggf. Wasser auffangen; medizinische Stromabhängigkeit erkennen; vorhandene Akkus laden; Kühlgeräte geschlossen halten; Taschenlampe und netzunabhängiges Radio bereitlegen. **Zugleich** verfügbare Medikamente, Wasser und Nahrung grob prüfen und bei Zahlungs-, Kassen- oder Logistikausfall die [frühe Versorgungsentscheidung](../01-versorgung/versorgungsausfall-frueh-handeln.md) treffen. **Nichts davon rechtfertigt die Verzögerung eines Notrufs oder einer angeordneten Evakuierung.**
 
+**Wer am sicheren Standort bleibt:** [Vorratsstrategie ohne Kochen und mit zusätzlichem Kochvorrat](../01-versorgung/vorratsstrategie-zwei-stufen.md) trennt unmittelbar essbare Reserven von Lebensmitteln, die Wasser und Brennstoff erfordern. In den ersten 15–60 Minuten vorrangig Stufe A bilanzieren.
+
 ### Ausfall von Handel und Nachlieferung erkennen
 
 ::: decision

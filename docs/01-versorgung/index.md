@@ -14,6 +14,7 @@
 | Wie reinige oder desinfiziere ich kontaminierte Flächen? | [Reinigung und Desinfektion im Notfall](reinigung-desinfektion-im-notfall.md) |
 | Toilette und Abwasser fallen aus: Was ist noch nutzbar? | [Sanitär-Entscheidung](../06-infrastruktur/sanitaerversorgung-bei-ausfall.md) und [Eimertoilette](../06-infrastruktur/nottoilette-eimer.md) |
 | Kassensysteme, Zahlung oder Logistik fallen aus? | [Versorgungsausfall früh erkennen und sicher handeln](versorgungsausfall-frueh-handeln.md) |
+| Welche Lebensmittel brauche ich für 10 Tage ohne Strom, und welche erst mit Kocher? | [Zweistufige Vorratsstrategie und Einkaufslisten](vorratsstrategie-zwei-stufen.md) |
 | Welche Nahrung soll ich bei einer Evakuierung mitnehmen? | [Notverpflegung für unterwegs](notverpflegung-fuer-unterwegs.md) |
 
 !!! warning "Sicherheit der Wasserquelle"
@@ -21,6 +22,7 @@
 
 ## Von der Sofortmaßnahme zu den Details
 
+- **Vorrat für zu Hause aufbauen:** [Zehn Tage ohne Kochen und ergänzende Langzeitvorräte](vorratsstrategie-zwei-stufen.md) mit Mengen, Kalorien, Wasser- und Brennstoffprüfung.
 - **Einkaufsmöglichkeiten fallen aus:** [Vorräte, Bedarf und Beschaffungssicherheit](versorgungsausfall-frueh-handeln.md) beurteilen.
 - **Leitungswasser fällt aus:** Die [ersten 72 Stunden](../00-grundlagen/erste-72-stunden.md) priorisieren noch verfügbares, geeignetes Wasser und die tägliche Neubewertung.
 - **Du musst weg:** [Evakuierung und Notgepäck](../00-grundlagen/evakuierung-notgepaeck.md) klären Zeitbudget und Ausrüstung; der Verpflegungsartikel erklärt die Auswahl.
@@ -28,4 +30,4 @@
 
 ## Noch auszuarbeiten
 
-Langfristige Lagerung, Lebensmittelkonservierung, Landwirtschaft und Tierhaltung. Die vorhandenen Wasserverfahren sind **nicht** durchgängig feldgeprüft. [Verbesserung melden](https://github.com/cvieth/survivor-guide/issues).
+Vertiefende Lebensmittelkonservierung, Landwirtschaft und Tierhaltung. Die vorhandenen Wasserverfahren sind **nicht** durchgängig feldgeprüft. [Verbesserung melden](https://github.com/cvieth/survivor-guide/issues).

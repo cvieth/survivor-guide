@@ -7,6 +7,7 @@ Hier beginnt die Orientierung bei einer akuten Krise: **Zuerst Gefahr und Schutz
 - **[Die ersten 72 Stunden](erste-72-stunden.md):** Wiederkehrende Gefahrenprüfung und Entscheidungsdiagramme für die ersten Minuten, Stunden und Tage.
 - **[Evakuierung und Notgepäck](evakuierung-notgepaeck.md):** Wann sofort aufbrechen, wann packen und was je nach verbleibender Zeit mitnehmen?
 - **[Versorgungsausfall früh erkennen](../01-versorgung/versorgungsausfall-frueh-handeln.md):** Bestand, Engpässe und sichere Beschaffung bei gestörten Kassen und Lieferketten.
+- **[Zwei Stufen der Lebensmittelvorsorge](../01-versorgung/vorratsstrategie-zwei-stufen.md):** Konkrete Einkaufsliste für zehn Tage ohne Kochen; ergänzende Langzeitvorräte mit Wasser- und Brennstoffprüfung.
 - **[Notverpflegung für unterwegs](../01-versorgung/notverpflegung-fuer-unterwegs.md):** Energiedichte, Haltbarkeit, Gewicht und Wasserbedarf abwägen.
 
 ## Wenn eine Entscheidung weitere Details braucht

@@ -9,6 +9,8 @@
 
 Der praktische Vorteil liegt in der **frühen Prüfung**, nicht in der größten Einkaufstüte: vorhandenes Trinkwasser und notwendige Medikamente sichern, tatsächliche Lücken bestimmen und bei einem bestätigten Versorgungsausfall **frühzeitig sicher und gezielt** ergänzen. Wissenschaftlich belastbare Stundenfristen, nach denen Plünderungen beginnen müssten, existieren nicht. Tatsächliche Gefahren vor Ort beurteilen. [Standort- und Gefahrenschutz](../00-grundlagen/erste-72-stunden.md) steht vor jeder Besorgung.
 
+**Für die konkrete Einkaufsliste:** [Vorratsstrategie in zwei Stufen: ohne Kochen und mit sicherer Kochmöglichkeit](vorratsstrategie-zwei-stufen.md). Im Ereignisfall vorrangig die ohne Strom essbare **Stufe A** ergänzen; eine langfristige **Stufe B** nur bei gesichertem Kochwasser, Brennstoff und gefahrloser Zubereitung als nutzbaren Vorrat bewerten.
+
 ## Ab den ersten Minuten: Was ist wirklich ausgefallen?
 
 | Beobachtung | Bedeutung | Handlung |
@@ -73,6 +75,8 @@ Keine geschlossenen Läden betreten, keine Plünderung und keine Konfrontation m
 ::: enddecision
 
 ### Was konkret beschaffen?
+
+Die **Mengen pro Person für zehn Tage** und die Unterscheidung zwischen verzehrfertiger Basis und trockenem Kochvorrat stehen im zentralen [Vorrats- und Einkaufsartikel](vorratsstrategie-zwei-stufen.md). Diese Seite konzentriert sich auf die **Lage- und Sicherheitsentscheidung**; die vollständige Liste wird nicht doppelt gepflegt.
 
 1. **Sicheres Trinkwasser**, falls vorhandene sichere Quellen nicht ausreichen. Geeignete verschließbare Gefäße sind nützlich.
 2. **Lebensnotwendige Medikamente, Hilfsmittel und Sonderbedarf** für Kinder, Pflegebedürftige und Tiere. Arzneimittel nicht eigenmächtig ersetzen, Haltbarkeit und Kühlung berücksichtigen.

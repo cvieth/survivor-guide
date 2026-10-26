@@ -9,6 +9,8 @@
 
 **Praktische Reihenfolge im Vorratsschrank:** ungesalzene Nüsse oder Erdnussmus → Energie- oder Müsliriegel → Datteln oder andere Trockenfrüchte → Cracker/Knäckebrot → ergänzend ungekühlt haltbares, verzehrfertiges Dörrfleisch oder Trockenwurst. Jeweils nur bekannte, verträgliche Produkte in intakter Verpackung nehmen. Eine Mischung ist meist besser als ein einziges Lebensmittel.
 
+**Nicht verwechseln:** Für die stationäre Versorgung und den Einkauf bei IT-, Logistik- oder Stromausfall gelten die [zweistufigen Vorratslisten für zehn Tage](vorratsstrategie-zwei-stufen.md). Beim Fußmarsch zählen zusätzlich Transportgewicht und Beweglichkeit; zehn Tage Konserven sind kein geeignetes Notgepäck.
+
 ## Das Auswahlverfahren
 
 ::: decision
