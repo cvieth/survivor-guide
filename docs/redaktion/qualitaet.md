@@ -4,6 +4,10 @@
 
 Inhalte sollen genau, praktisch, verständlich, nachvollziehbar und auch offline nutzbar sein. Zwischen belegtem Wissen, Erfahrungswerten und Hypothesen unterscheiden.
 
+## Sprache und Stil
+
+Texte sachlich, direkt und möglichst knapp formulieren. Informationen, Anleitungen und Risiken stehen im Vordergrund. Auf werbliche Formulierungen, künstlich freundliche Anreden, Floskeln, Emoticons und unnötige Zuspitzungen verzichten. Gedankenstriche nicht als regelmäßiges Stilmittel zwischen Satzteilen verwenden. Stattdessen klare Haupt- und Nebensätze bilden und gegebenenfalls Punkte oder Doppelpunkte setzen. Normale Bindestriche in zusammengesetzten Begriffen und technische Schreibweisen bleiben erlaubt.
+
 ## Status
 
 - **Entwurf:** noch nicht fachlich geprüft
