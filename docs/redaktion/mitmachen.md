@@ -1,10 +1,10 @@
 # Mitmachen
 
-Das Projekt wird über Issues und Pull Requests im [öffentlichen GitHub-Repository](https://github.com/cvieth/survivor-guide) gepflegt.
+Der Survivor Guide ist ein öffentliches Gemeinschaftsprojekt. Hinweise und Änderungen werden im [GitHub-Repository](https://github.com/cvieth/survivor-guide) gesammelt.
 
-**Fehler, Unklarheit oder fehlendes Thema entdeckt?** [Eröffne ein GitHub-Issue](https://github.com/cvieth/survivor-guide/issues/new/choose). Nenne das betroffene Kapitel, beschreibe deinen Hinweis und ergänze nach Möglichkeit eine Quelle. **Programmieren musst du dafür nicht**; ein GitHub-Konto genügt.
+Fehler, unklare Angaben und fehlende Themen können als [GitHub-Issue](https://github.com/cvieth/survivor-guide/issues/new/choose) gemeldet werden. Dabei helfen die Angabe des betroffenen Kapitels, eine kurze Beschreibung und gegebenenfalls eine Quelle. Dafür sind keine Programmierkenntnisse erforderlich; ein GitHub-Konto genügt.
 
-**Du möchtest selbst Text verbessern?** Bearbeite die Markdown-Datei und schlage deine Änderung über einen [Pull Request](https://github.com/cvieth/survivor-guide/pulls) vor. Auch kleine Korrekturen sind willkommen.
+Wer einen Text selbst korrigieren oder ergänzen möchte, kann eine Änderung über einen [Pull Request](https://github.com/cvieth/survivor-guide/pulls) vorschlagen.
 
 ## Vorgehen
 
