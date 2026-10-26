@@ -3,6 +3,8 @@
 !!! info "Status: Quellenrecherche abgeschlossen · fachlicher Review ausstehend"
     Richtwerte für Planung und Krisenvorsorge, keine individuellen medizinischen Vorgaben. Stand der Quellenprüfung: 25. Oktober 2026.
 
+Zur Aufbereitung aus unsicheren Quellen: [Vorfilter und Abkochen](regenwasser-pfuetzen-improvisierte-filter.md), [Destillation](wasser-destillieren.md) und [Oberflächenwasser-Aufbereitung](oberflaechenwasser-aufbereiten.md).
+
 ## Kurzüberblick
 
 Wasserbedarf ist nicht gleich Trinkmenge. Der gewöhnliche Wassergebrauch schließt beispielsweise Duschen, Wäsche und Toilettenspülung ein. In einer Krise sind vorrangig eine **ausreichende sichere Wasseraufnahme**, die Lebensmittelzubereitung und eine **hygienische Grundversorgung** sicherzustellen.
