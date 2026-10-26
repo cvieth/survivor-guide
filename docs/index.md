@@ -10,6 +10,12 @@ Wir wissen, dass kein Handbuch auf jede Situation vorbereiten kann. Trotzdem geb
 
 **Hilf mit, dieses Handbuch besser zu machen.** Findest du einen Fehler, eine unklare Erklärung oder eine wichtige Lücke? Dann [melde sie auf GitHub](https://github.com/cvieth/survivor-guide/issues) oder [trage selbst eine Verbesserung bei](redaktion/mitmachen.md). Jede Korrektur, gute Quelle und praktische Ergänzung macht dieses Gemeinschaftsprojekt wertvoller – für alle, die es eines Tages vielleicht doch brauchen.
 
+Ein Hinweis genügt – **du musst dafür nicht programmieren können**. In der Druckausgabe führt dieser QR-Code direkt zum Projekt:
+
+[![QR-Code zum GitHub-Projekt des Survivor Guide](assets/mitmachen-qr.svg){ width="130" }](https://github.com/cvieth/survivor-guide)
+
+**Ohne Kamera:** [github.com/cvieth/survivor-guide](https://github.com/cvieth/survivor-guide)
+
 !!! warning "Version 0.1 – Aufbauphase"
     Die meisten Kapitel sind zunächst Themenpläne, keine fachlich geprüften Handlungsanleitungen. Bei akuten Notfällen professionelle Hilfe vorziehen, soweit erreichbar.
 
