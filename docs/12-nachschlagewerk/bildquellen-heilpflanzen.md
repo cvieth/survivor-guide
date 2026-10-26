@@ -58,7 +58,7 @@ sind die veröffentlichten Ausgaben unabhängig von externen Bildservern nutzbar
 - **Abgebildete Art:** *Althaea officinalis*
 - **Historische Quelle:** Köhlers Medizinal-Pflanzen (1887)
 - **Autor / Zuschreibung:** Hermann Adolf Köhler; Köhlers Medizinal-Pflanzen (Angaben nach Wikimedia Commons)
-- **Dateiseite:** [Althaea_officinalis_(Köhler).jpg](https://commons.wikimedia.org/wiki/File:Althaea_officinalis_(K%C3%B6hler).jpg)
+- **Dateiseite:** [Althaea_officinalis_(Köhler).jpg](https://commons.wikimedia.org/wiki/File:Althaea_officinalis_%28K%C3%B6hler%29.jpg)
 - **Rechtestatus laut Commons:** Public Domain Mark 1.0, gemeinfrei; [Lizenzhinweis](https://creativecommons.org/publicdomain/mark/1.0/)
 - **Lokale Ausgabedatei:** `docs/assets/heilpflanzen/eibischwurzel.jpg`
 
